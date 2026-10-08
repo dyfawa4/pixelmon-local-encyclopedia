@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Sneasel","to":"Weavile","conditions":[{"evoConditionType":"heldItem","item":{"itemID":"pixelmon:razor_claw","additionalProperties":{}},"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}

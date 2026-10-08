@@ -1,0 +1,3 @@
+3,4=evil
+3,4=roofed
+3,4=ultraforest

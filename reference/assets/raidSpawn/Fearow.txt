@@ -1,0 +1,5 @@
+3,4=badlands
+3,4=burntforest
+3,4=hills
+3,4=mountainous
+3,4=volcano

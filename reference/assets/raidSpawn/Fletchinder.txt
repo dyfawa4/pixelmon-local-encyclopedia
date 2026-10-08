@@ -1,0 +1,3 @@
+3,4=birches
+3,4=freezingforests
+3,4=taigas

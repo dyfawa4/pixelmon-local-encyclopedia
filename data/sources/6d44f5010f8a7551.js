@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6d44f5010f8a7551"]={"json":{"pokemon":"Arcanine form:hisuian","items":[{"item":"minecraft:blaze_rod","min":1,"max":2,"chance":1.0},{"item":"minecraft:bone","min":1,"max":3,"chance":0.5},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.1}]}};

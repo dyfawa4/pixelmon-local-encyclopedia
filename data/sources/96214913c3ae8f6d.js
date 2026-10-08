@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:96214913c3ae8f6d"]={"json":{"id":"Tyrunt","spawnInfos":[{"spec":"species:Tyrunt","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_crater"]},"rarity":50.0}]}};

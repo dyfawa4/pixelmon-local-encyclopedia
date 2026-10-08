@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9e784d380e6bb7e0"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_space_stone"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

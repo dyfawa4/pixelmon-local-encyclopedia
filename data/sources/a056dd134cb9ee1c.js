@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a056dd134cb9ee1c"]={"json":{"structureDrop":[],"bossDrop":[],"pokechestDrop":[],"pokestopDrop":[],"pickupDrop":[],"pokemonDrop":[],"pokemonheldDrop":[],"priceInShop":50,"raidDrop":[],"fishwaterDrop":[],"fishlavaDrop":[],"forageDrop":[],"headbuttDrop":[],"rocksmashDrop":[],"pokemonHeldList":[],"additionalProperties":{}}};

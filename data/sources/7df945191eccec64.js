@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7df945191eccec64"]={"json":{"type":"minecraft:crafting_shaped","group":"sign","pattern":["###","###"," X "],"key":{"#":{"item":"pixelmon:ultra_jungle_planks"},"X":{"item":"minecraft:stick"}},"result":{"item":"pixelmon:ultra_jungle_sign","count":3}}};

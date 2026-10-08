@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27f5bd2d786b483a"]={"json":{"id":"Cutiefly","spawnInfos":[{"spec":"species:Cutiefly","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["flowery"]},"rarity":130.0}]}};

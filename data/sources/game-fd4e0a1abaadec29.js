@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fd4e0a1abaadec29"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:stone"},{"tag":"forge:dyes/white"}],"result":{"item":"pixelmon:inside_wall","count":1}}};

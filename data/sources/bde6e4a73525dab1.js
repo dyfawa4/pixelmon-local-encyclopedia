@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bde6e4a73525dab1"]={"json":{"id":"Meloetta","spawnInfos":[{"spec":"species:Meloetta level:50","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["flowery"]},"rarity":0.3}]}};

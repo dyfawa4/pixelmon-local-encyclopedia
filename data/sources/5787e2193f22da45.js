@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5787e2193f22da45"]={"json":{"id":"Rampardos","spawnInfos":[{"spec":"species:Rampardos","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":5.0}]}};

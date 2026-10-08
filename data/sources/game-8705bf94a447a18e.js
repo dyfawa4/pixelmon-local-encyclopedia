@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8705bf94a447a18e"]={"json":{"id":"Amaura","spawnInfos":[{"spec":"species:Amaura","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":50.0}]}};

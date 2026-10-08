@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6b5184bf46d521cf"]={"json":{"id":"Emboar","spawnInfos":[{"spec":"species:Emboar","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["savannas"]},"rarity":1.0}]}};

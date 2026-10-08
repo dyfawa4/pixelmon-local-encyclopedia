@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:70afbe55a3a161dd"]={"json":{"id":"Torterra","spawnInfos":[{"spec":"species:Torterra","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":45,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["forests","roofed","redwoods"]},"rarity":1.0}]}};

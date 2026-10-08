@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0657f26f2fb3a96a"]={"json":{"type":"minecraft:crafting_shaped","pattern":["sd"],"key":{"d":{"tag":"forge:dyes/purple"},"s":{"tag":"forge:slimeballs"}},"result":{"item":"pixelmon:purple_water_float","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6f750f2731956070"]={"json":{"type_id":"simple","id":"jittery","suffix":"ribbon.jittery.title","translation_key":"ribbon.jittery","description":"ribbon.jittery.description","icon":"pixelmon:textures/gui/ribbons/jittery.png"}};

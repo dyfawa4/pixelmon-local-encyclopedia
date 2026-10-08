@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-76415efb98e9407a"]={"json":{"id":"Togedemaru Grass","spawnInfos":[{"spec":"species:Togedemaru","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAWN","DAY","DUSK"],"stringBiomes":["taigas","redwoods","freezing forests"]},"rarity":130.0}]}};

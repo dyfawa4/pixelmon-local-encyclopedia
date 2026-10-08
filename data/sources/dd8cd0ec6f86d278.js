@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd8cd0ec6f86d278"]={"json":{"id":"Trubbish","spawnInfos":[{"spec":"species:Trubbish","stringLocationTypes":["Land"],"minLevel":23,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:silk_scarf","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["swamps","evil"]},"rarity":90.0}]}};

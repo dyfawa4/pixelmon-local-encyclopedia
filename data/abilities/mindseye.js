@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:mindseye"]={"description":"持有该特性的宝可梦使出一般属性和格斗属性的招式时可以击中幽灵属性的宝可梦。\r\n持有该特性的宝可梦无视对手的闪避率能力变化，且命中率能力变化不会被降低。","holders":[[901,"bloodmoon",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MindsEye"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:deltastream"]={"description":"对战中\r\n当拥有该特性的宝可梦登场时，天气转为乱流，直到该宝可梦离场、失去该特性，或被始源之海或终结之地覆盖。\r\n乱流无法被更改为其他天气，除非是因为始源之海或终结之地。","holders":[[384,"mega",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.DeltaStream"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f3d3c30eed7f420"]={"json":{"id":"Cottonee","spawnInfos":[{"spec":"species:Cottonee","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:absorb_bulb","percentChance":5}],"condition":{"times":["DAY"],"weathers":["CLEAR"],"stringBiomes":["flowery"]},"rarity":130.0}]}};

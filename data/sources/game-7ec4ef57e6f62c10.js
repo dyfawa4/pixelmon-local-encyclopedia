@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7ec4ef57e6f62c10"]={"json":{"id":"Girafarig Grass","spawnInfos":[{"spec":"species:Girafarig","stringLocationTypes":["Grass"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":30.0}]}};

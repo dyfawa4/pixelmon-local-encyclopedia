@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:02b61bef20fff2a0"]={"json":{"Evolutions":[{"from":"Tynamo","level":39,"to":"Eelektrik","conditions":[],"evoType":"leveling","moves":["Crunch"],"additionalProperties":{}},{"from":"Eelektrik","item":{"itemID":"pixelmon:thunder_stone","additionalProperties":{}},"to":"Eelektross","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

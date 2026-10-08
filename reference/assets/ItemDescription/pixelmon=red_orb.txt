@@ -1,0 +1,1 @@
+||pokemonButton=Groudon||携带后，可以原始回归成为||pokemonButton=Groudon form:primal||。

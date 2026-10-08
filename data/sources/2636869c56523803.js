@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2636869c56523803"]={"json":{"replace":false,"values":["pixelmon:figy_berry","pixelmon:pomeg_berry","pixelmon:tamato_berry","pixelmon:liechi_berry","pixelmon:lansat_berry","pixelmon:custap_berry"]}};

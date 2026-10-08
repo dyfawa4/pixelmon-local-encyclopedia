@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2e2d97e65601a82f"]={"json":{"id":"Revavroom","spawnInfos":[{"spec":"species:Revavroom","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mesas"]},"rarity":0.5}]}};

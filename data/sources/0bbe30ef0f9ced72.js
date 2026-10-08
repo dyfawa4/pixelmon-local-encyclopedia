@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0bbe30ef0f9ced72"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:raw_tumblestone","functions":[{"function":"minecraft:set_count","count":{"min":1,"max":3}}]}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

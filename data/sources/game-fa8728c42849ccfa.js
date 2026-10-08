@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fa8728c42849ccfa"]={"json":{"id":"Manaphy","spawnInfos":[{"spec":"species:Manaphy level:50","stringLocationTypes":["Water"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"weathers":["CLEAR"],"stringBiomes":["minecraft:warm_ocean","minecraft:lukewarm_ocean"]},"rarity":0.4}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f35796c368ee233"]={"json":{"Evolutions":[{"from":"Lotad","level":14,"to":"Lombre","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Lombre","item":{"itemID":"pixelmon:water_stone","additionalProperties":{}},"to":"Ludicolo","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

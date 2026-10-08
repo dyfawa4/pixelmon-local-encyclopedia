@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:82bd6239b2f204aa"]={"text":"Bubble Beam,Goldeen,Seaking,Gyarados,Chinchou,Lanturn,Qwilfish,Qwilfish form:hisuian,Remoraid,Octillery,Overqwil\r\nEndeavor,Gyarados,Luvdisc,Wishiwashi form:solo,Wishiwashi form:school,Basculegion form:male,Basculegion form:female,Palafin form:zero,Veluza\r\n"};

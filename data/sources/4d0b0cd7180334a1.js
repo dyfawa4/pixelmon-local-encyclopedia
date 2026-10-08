@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d0b0cd7180334a1"]={"json":{"npctype":"chat","skins":[{"filename":"artist.png"}],"names":[{"name":"Greg"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio Ivy."},{"text":"¡A nuestro lider de Gimnasio le encanta enredar a sus oponentes en lianas!"},{"text":"Intenta no perderte por la hierba alta; uno nunca sabe lo que puede haber ahí dentro..."}]}]}};

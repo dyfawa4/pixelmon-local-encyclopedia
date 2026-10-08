@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd9bb21a67a9b182"]={"json":{"Evolutions":[{"from":"Bellsprout","level":21,"to":"Weepinbell","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Weepinbell","item":{"itemID":"pixelmon:leaf_stone","additionalProperties":{}},"to":"Victreebel","conditions":[],"evoType":"interact","moves":["Leaf Tornado"],"additionalProperties":{}}]}};

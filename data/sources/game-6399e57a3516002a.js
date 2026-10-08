@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6399e57a3516002a"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_desert_smooth_sandstone_slab"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

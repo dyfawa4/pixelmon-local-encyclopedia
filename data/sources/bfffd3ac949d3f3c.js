@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bfffd3ac949d3f3c"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦的水属性招式威力提升20%。\r\n\r\n||bigFont=对战外||\r\n携带该道具的||pokemonButton=Marill||♀/||pokemonButton=Azumarill||♀生蛋，孵化出的子代为||pokemonButton=Azurill||。\r\n携带该道具的||pokemonButton=Marill||♂/||pokemonButton=Azumarill||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Azurill||。\r\n也可以当做装饰性方块放下来。"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:97c64b2cc9d2962e"]={"text":"||pokemonButton=Solgaleo||和||pokemonButton=Necrozma form:dusk||携带后，可以把||moveButton=Sunsteel Strike||转化成特殊的Z招式：||moveButton=Searing Sunraze Smash||。"};

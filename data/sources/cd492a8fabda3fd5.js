@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd492a8fabda3fd5"]={"json":{"id":"Tirtouga","spawnInfos":[{"spec":"species:Tirtouga","stringLocationTypes":["Water"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":50.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:honeygather"]={"description":"对战外\r\n在对战结束后，如果拥有该特性的宝可梦没有携带物品，那么它可能采到甜甜蜜，等级越高采到甜甜蜜的几率越高。","holders":[[216,"",true],[415,"",false],[742,"",false],[743,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.HoneyGather"}};

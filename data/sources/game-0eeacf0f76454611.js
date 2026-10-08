@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0eeacf0f76454611"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"Harry"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Gelo."},{"text":"Il nostro Capopalestra ama congelare i suoi avversari!"},{"text":"Attento a cadere in acqua; potresti congelarti..."}]}]}};

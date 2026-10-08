@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c870dbc9c6ffa99d"]={"json":{"id":"Gourgeist","spawnInfos":[{"spec":"species:Gourgeist","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:miracle_seed","percentChance":100}],"condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_forest"]},"rarity":5.0}]}};

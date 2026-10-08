@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0673ce0736e616d3"]={"json":{"Name":"SolarPower","Description":"晴朗天气时，特攻会提高，而每回合HP会减少。","Normal":["Sunkern","Sunflora","Houndoom form:mega","Tropius"],"Hidden":["Charmander","Charmeleon","Charizard","Helioptile","Heliolisk"]}};

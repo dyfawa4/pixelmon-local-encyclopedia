@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-046272591c8bd599"]={"json":{"id":"Yveltal","spawnInfos":[{"spec":"species:Yveltal level:70","stringLocationTypes":["Air"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:taiga_mountains"]},"rarity":0.5}]}};

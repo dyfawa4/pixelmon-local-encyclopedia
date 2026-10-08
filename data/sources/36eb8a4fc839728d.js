@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:36eb8a4fc839728d"]={"json":{"type":"minecraft:crafting_shaped","pattern":["igi","vvv","idr"],"key":{"d":{"tag":"forge:dyes/cyan"},"i":{"tag":"forge:ingots/iron"},"g":{"tag":"forge:glass_panes/colorless"},"r":{"tag":"forge:dusts/redstone"},"v":{"tag":"pixelmon:vendable"}},"result":{"item":"pixelmon:cyan_vending_machine","count":1}}};

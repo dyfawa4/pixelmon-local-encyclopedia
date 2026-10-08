@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:mistysurge"]={"description":"对战中\r\n在脚下张开薄雾场地，持续5回合。让在地面上的宝可梦因龙属性招式所受到的伤害减半，且变得不会陷入异常状态及混乱的状态。\r\n\r\n携带了道具大地膜的情况下，薄雾场地会持续8回合。\r\n如果我方场上存在毒菱，则拥有此特性的宝可梦会先踩到毒菱，然后发动此特性。这会导致此宝可梦中毒，然后才会布下薄雾场地。","holders":[[110,"galarian",true],[788,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MistySurge"}};

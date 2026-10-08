@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ac84169f7fe544b4"]={"json":{"Evolutions":[{"from":"Jangmo-o","level":35,"to":"Hakamo-o","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Hakamo-o","level":45,"to":"Kommo-o","conditions":[],"evoType":"leveling","moves":["Clanging Scales"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:38325d844fdef7ca"]={"text":"选择1只同行宝可梦使用，让它提升1个极巨化等级。\r\n对||pokemonButton=Zacian form:hero||、||pokemonButton=Zamazenta form:hero||以及||pokemonButton=Eternatus form:ordinary||使用会失败。"};

@@ -1,0 +1,3 @@
+2,3=badlands
+2,3=burntforest
+3,4=ultracrater

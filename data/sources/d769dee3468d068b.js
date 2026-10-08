@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d769dee3468d068b"]={"json":{"Name":"Normalize","Description":"无论是什么属性的招式，全部会变为一般属性。威力会少量提高。","Normal":["Skitty","Delcatty"],"Hidden":[]}};

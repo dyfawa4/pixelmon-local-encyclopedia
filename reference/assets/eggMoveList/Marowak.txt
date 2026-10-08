@@ -1,0 +1,8 @@
+Ancient Power,Charmander,Charmeleon,Charizard,Rhyhorn,Rhydon,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Larvitar,Pupitar,Marshtomp,Swampert,Aron,Lairon,Aggron,Cranidos,Rampardos,Shieldon,Bastiodon,Rhyperior,Tyrunt,Tyrantrum,Amaura,Aurorus
+Belly Drum,Charmander,Charmeleon,Charizard,Slowbro,Lickitung,Snorlax,Slowking,Slowking form:galarian,Lickilicky
+Curse,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Cubone,Marowak,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Lapras,Snorlax,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Mareep,Mareep form:shorn,Flaaffy,Ampharos,Slowking,Slowking form:galarian,Larvitar,Pupitar,Tyranitar,Mudkip,Marshtomp,Swampert,Tropius,Turtwig,Grotle,Torterra,Cranidos,Rampardos,Shieldon,Bastiodon,Snover,Abomasnow,Rhyperior,Bergmite,Avalugg,Avalugg form:hisuian
+Detect,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Cubone,Marowak,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Larvitar,Pupitar,Tyranitar,Treecko,Grovyle,Sceptile
+Double Kick,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Grovyle,Sceptile
+Leer,Charmander,Charmeleon,Charizard,Nidoranmale,Nidorino,Nidoking,Rhyhorn,Rhydon,Kangaskhan,Totodile,Croconaw,Feraligatr,Larvitar,Pupitar,Tyranitar,Treecko,Grovyle,Sceptile,Tropius,Cranidos,Rampardos,Snover,Abomasnow,Rhyperior,Axew,Fraxure,Haxorus,Druddigon
+Perish Song,Lapras
+Skull Bash,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Slowpoke,Slowbro,Cubone,Marowak,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Lapras,Snorlax,Slowking,Snover,Abomasnow,Lickilicky,Rhyperior,Avalugg,Chewtle,Drednaw

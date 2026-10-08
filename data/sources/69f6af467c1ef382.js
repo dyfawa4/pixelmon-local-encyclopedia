@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:69f6af467c1ef382"]={"json":{"Name":"GorillaTactics","Description":"虽然攻击会提高，但是只能使出一开始所选的招式。","Normal":["Darmanitan form:galarian","Darmanitan form:galarian_zen"],"Hidden":[]}};

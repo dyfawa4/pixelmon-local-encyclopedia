@@ -1,0 +1,4 @@
+Glare,Ekans,Arbok,Seviper,Drampa,Silicobra,Sandaconda
+Night Slash,Grovyle,Sceptile,Seviper,Axew,Fraxure
+Poison Tail,Ekans,Arbok,Seviper,Skrelp,Dragalge,Goomy,Sliggoo,Goodra,Salandit,Salazzle,Silicobra,Sandaconda
+Sucker Punch,Ekans,Arbok,Seviper,Dreepy,Drakloak,Dragapult,Dipplin,Nidoranfemale,Kangaskhan

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ecbd23631bf9f8b8"]={"json":{"Evolutions":[{"from":"Rattata","level":20,"to":"Raticate","conditions":[],"evoType":"leveling","moves":["Scary Face"],"additionalProperties":{}}]}};

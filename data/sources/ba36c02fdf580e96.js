@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ba36c02fdf580e96"]={"json":{"id":"Heatmor Grass","spawnInfos":[{"spec":"species:Heatmor","stringLocationTypes":["Grass"],"minLevel":34,"maxLevel":46,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["mesas"],"maxY":75},"rarity":30.0}]}};

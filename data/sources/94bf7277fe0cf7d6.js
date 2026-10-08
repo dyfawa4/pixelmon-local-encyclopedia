@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:94bf7277fe0cf7d6"]={"json":{"Evolutions":[{"from":"Wimpod","level":30,"to":"Golisopod","conditions":[],"evoType":"leveling","moves":["First Impression"],"additionalProperties":{}}]}};

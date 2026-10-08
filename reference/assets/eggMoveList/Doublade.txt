@@ -1,0 +1,3 @@
+Block,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Sudowoodo,Nosepass,Metagross,Bronzong,Probopass,Roggenrola,Boldore,Gigalith,Yamask,Cofagrigus,Ferrothorn,Golett,Golurk,Avalugg,Dhelmise,Stonjourner,Garganacl
+Destiny Bond,Froslass,Yamask,Yamask form:galarian,Cofagrigus,Runerigus
+Wide Guard,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Nosepass,Probopass,Avalugg,Avalugg form:hisuian,Stonjourner,Garganacl

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fc87d364842e541e"]={"json":{"Name":"StormDrain","Description":"将水属性的招式引到自己身上，不会受到伤害，而是会提高特攻。","Normal":["Shellos form:east","Shellos form:west","Gastrodon form:east","Gastrodon form:west","Finneon","Lumineon"],"Hidden":["Lileep","Cradily","Maractus","Tatsugiri form:curly","Tatsugiri form:droopy","Tatsugiri form:stretchy"]}};

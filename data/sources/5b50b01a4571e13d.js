@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5b50b01a4571e13d"]={"json":{"pokemon":"Luxio","items":[{"item":"minecraft:redstone","min":1,"max":3,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":2,"chance":0.5}]}};

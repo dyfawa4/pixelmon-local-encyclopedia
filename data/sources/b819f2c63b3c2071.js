@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b819f2c63b3c2071"]={"json":{"Evolutions":[{"from":"Chinchou","level":27,"to":"Lanturn","conditions":[],"evoType":"leveling","moves":["Stockpile","Spit Up","Swallow"],"additionalProperties":{}}]}};

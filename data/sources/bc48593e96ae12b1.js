@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bc48593e96ae12b1"]={"json":{"Evolutions":[{"from":"Growlithe","item":{"itemID":"pixelmon:fire_stone","additionalProperties":{}},"to":"Arcanine","conditions":[],"evoType":"interact","moves":["Extreme Speed"],"additionalProperties":{}}]}};

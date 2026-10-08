@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:357075ab1108af10"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:blaze"],"replacement_logic":"simple","specs":["magcargo","sizzlipede","larvesta","litwick","lampent"]}};

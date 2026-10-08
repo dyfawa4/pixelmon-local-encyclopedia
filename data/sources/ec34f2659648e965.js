@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ec34f2659648e965"]={"json":{"id":"Scorbunny","spawnInfos":[{"spec":"species:Scorbunny","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["plains"]},"rarity":10.0}]}};

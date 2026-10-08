@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Linoone form:galarian","level":35,"to":"Obstagoon","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Obstruct"],"additionalProperties":{}}]}

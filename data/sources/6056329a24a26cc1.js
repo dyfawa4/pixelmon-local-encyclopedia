@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6056329a24a26cc1"]={"json":{"pokemon":"Chesnaught","items":[{"item":"minecraft:spruce_leaves","min":2,"max":4,"chance":1.0},{"item":"minecraft:pumpkin_seeds","min":1,"max":2,"chance":0.5},{"item":"pixelmon:kelpsy_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:choice_band","min":1,"max":1,"chance":0.1}]}};

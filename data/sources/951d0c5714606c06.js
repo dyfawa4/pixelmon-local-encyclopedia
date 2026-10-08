@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:951d0c5714606c06"]={"json":{"id":"Axew Sweet Scent","spawnInfos":[{"spec":"species:Axew","stringLocationTypes":["Sweet Scent"],"minLevel":3,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["jungles"]},"rarity":20.0}]}};

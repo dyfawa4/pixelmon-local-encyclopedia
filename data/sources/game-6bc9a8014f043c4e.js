@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6bc9a8014f043c4e"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"bugcatcher1.png"}],"names":[{"name":"養蜂人"}],"chat":[{"opening":"你有看到我穿過花叢嗎？","win":"見識到花的力量了吧！","lose":"不可能！"}]}};

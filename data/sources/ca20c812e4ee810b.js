@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ca20c812e4ee810b"]={"text":"当一个实体位于||itemButton=pixelmon:movement_plate||上时，会以较快的速度往||itemButton=pixelmon:movement_plate||指向的方向移动，当路径上没有||itemButton=pixelmon:movement_plate||时，实体会滑出去几格，如果是物品的话会被滑的更远。"};

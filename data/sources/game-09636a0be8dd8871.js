@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-09636a0be8dd8871"]={"json":{"type":"minecraft:crafting_shaped","pattern":["CIC","I I","CIC"],"key":{"I":{"tag":"forge:ingots/silver"},"C":{"tag":"forge:gems/crystal"}},"result":{"item":"pixelmon:lure_casing_weak","count":1}}};

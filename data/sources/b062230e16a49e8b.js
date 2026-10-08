@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b062230e16a49e8b"]={"json":{"id":"Wyrdeer","spawnInfos":[{"spec":"species:Wyrdeer","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["hills","freezing forests","pixelmon:mount_lanakila"],"minY":70},"rarity":1.0}]}};

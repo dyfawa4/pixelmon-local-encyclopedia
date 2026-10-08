@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7ddd43b510e88699"]={"json":{"id":"Lotad Sweet Scent","spawnInfos":[{"spec":"species:Lotad","stringLocationTypes":["Sweet Scent"],"minLevel":3,"maxLevel":12,"typeID":"pokemon","condition":{"stringBiomes":["swamps","lakes"]},"rarity":100.0}]}};

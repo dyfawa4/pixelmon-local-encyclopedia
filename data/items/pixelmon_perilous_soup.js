@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_perilous_soup"]={"description":"手持对自己的宝可梦右键使用时，会将该宝可梦的努力值重置为0。\r\n若当前使用宝可梦的努力值总和为0时，||itemButton=pixelmon:perilous_soup||不会消耗。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:84ce73b0aaf5db64"]={"json":{"id":"Falinks Grass","spawnInfos":[{"spec":"species:Falinks","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["savannas","mesas"]},"rarity":30.0}]}};

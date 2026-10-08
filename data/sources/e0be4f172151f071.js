@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e0be4f172151f071"]={"json":{"pokemon":"Leafeon","items":[{"item":"minecraft:birch_leaves","min":1,"max":2,"chance":1.0},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.5},{"item":"pixelmon:leaf_stone_shard","min":1,"max":2,"chance":0.3},{"item":"pixelmon:leaf_stone","min":1,"max":1,"chance":0.1}]}};

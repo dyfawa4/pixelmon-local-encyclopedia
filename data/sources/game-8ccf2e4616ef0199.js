@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8ccf2e4616ef0199"]={"json":{"id":"Electrike","spawnInfos":[{"spec":"species:Electrike","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains","savannas"]},"rarity":250.0}]}};

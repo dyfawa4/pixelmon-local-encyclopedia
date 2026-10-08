@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:36e8def48c835c40"]={"text":"在结构||structureButton=chalice||中，将所有属性的石板(共18种，即除传说石板外的所有石板)放入其中的||itemButton=pixelmon:arc_chalice||中可以获得||itemButton=pixelmon:azure_flute||\r\n之后在结构||structureButton=spear_pillar||的范围内吹响||itemButton=pixelmon:azure_flute||即可召唤"};

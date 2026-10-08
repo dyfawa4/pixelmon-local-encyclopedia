@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2c81569a930e848d"]={"json":{"Name":"CompoundEyes","Description":"因为拥有复眼，招式的命中率会提高。","Normal":["Butterfree","Venonat","Yanma","Nincada","Joltik","Galvantula","Scatterbug","Vivillon","Blipbug","Dottler","Rellor"],"Hidden":["Dustox"]}};

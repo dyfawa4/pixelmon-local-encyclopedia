@@ -1,0 +1,4 @@
+2,3=badlands
+2,3=evil
+2,3=nether
+2,3=volcano

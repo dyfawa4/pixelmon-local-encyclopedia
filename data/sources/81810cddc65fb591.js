@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:81810cddc65fb591"]={"json":{"pokemon":"Spectrier","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"minecraft:golden_carrot","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ghost_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3c1e672079a7fe9d"]={"text":"携带在宝可梦身上后，下一次宝可梦在对战中使用的第一个可以被阿罗拉招式学习器记录的技能会被标记在||itemButton=pixelmon:tm_gen7_blank||上，之后它会显示记录进度，进度满后会变成对应技能的阿罗拉招式学习器。通常需要记录的次数为100次（包括最开始的标记）。\r\n正在记录中的||itemButton=pixelmon:tm_gen7_blank||从宝可梦身上取下来时，记录的数据会丢失，它会变回原样。"};

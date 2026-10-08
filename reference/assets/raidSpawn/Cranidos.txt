@@ -1,0 +1,2 @@
+2,3=plains
+2,3=savannas

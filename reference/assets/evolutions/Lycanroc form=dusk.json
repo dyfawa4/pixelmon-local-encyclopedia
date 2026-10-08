@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Rockruff","level":25,"to":"Lycanroc form:dusk","conditions":[{"time":"DUSK","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Crush Claw"],"additionalProperties":{}}]}

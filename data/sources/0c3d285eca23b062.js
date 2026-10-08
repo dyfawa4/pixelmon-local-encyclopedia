@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0c3d285eca23b062"]={"text":"1,2,3=beaches\r\n1,2,3=coldocean\r\n1,2,3=freezingbeaches\r\n1,2,3=freezingocean\r\n1,2,3=lukewarmocean\r\n1,2,3=ocean\r\n1,2,3=stonybeaches\r\n1,2,3=warmocean\r\n"};

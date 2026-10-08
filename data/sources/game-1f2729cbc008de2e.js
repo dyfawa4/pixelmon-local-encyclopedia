@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1f2729cbc008de2e"]={"json":{"id":"Feraligatr","spawnInfos":[{"spec":"species:Feraligatr","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":1.0}]}};

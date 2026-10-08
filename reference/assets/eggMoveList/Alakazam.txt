@@ -1,0 +1,3 @@
+Confusion,Kadabra,Alakazam,Drowzee,Hypno,MrMime,MrMime form:galarian,Jynx,Ralts,Kirlia,Gardevoir,Meditite,Medicham,Gallade,Gothita,Gothorita,Gothitelle,Elgyem,Beheeyem,MrRime
+Guard Split,Elgyem,Beheeyem
+Magic Coat,Drowzee,Hypno,MrMime,MrMime form:galarian,Jynx,Ralts,Kirlia,Gardevoir,Sableye,Meditite,Medicham,Buneary,Lopunny,Gallade,Gothita,Gothorita,Gothitelle,Elgyem,Beheeyem,MrRime

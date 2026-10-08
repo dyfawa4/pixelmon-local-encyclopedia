@@ -1,0 +1,2 @@
+biomesoplenty:volcanic_plains
+biomesoplenty:volcano

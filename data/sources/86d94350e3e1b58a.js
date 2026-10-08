@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:86d94350e3e1b58a"]={"json":{"type":"minecraft:crafting_shapeless","group":"planks","ingredients":[{"tag":"pixelmon:ultra_jungle_logs"}],"result":{"item":"pixelmon:ultra_jungle_planks","count":4}}};

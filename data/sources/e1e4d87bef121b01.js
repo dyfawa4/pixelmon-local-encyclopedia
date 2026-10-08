@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e1e4d87bef121b01"]={"json":{"Evolutions":[{"from":"Shieldon","level":30,"to":"Bastiodon","conditions":[],"evoType":"leveling","moves":["Block"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:152fc1039e8cd40e"]={"json":{"id":"Sirfetchd","spawnInfos":[{"spec":"species:Sirfetchd","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:leek","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["plains","minecraft:river","lakes"]},"rarity":1.0}]}};

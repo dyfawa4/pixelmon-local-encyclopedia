@@ -1,0 +1,1 @@
+Counter,Togetic,Skarmory,Taillow,Swellow,Togekiss,Quaquaval,Squirtle,Wartortle,Blastoise,Psyduck,Golduck,Poliwhirl,Poliwrath,Slowbro,Totodile,Croconaw,Feraligatr,Politoed,Wooper,Quagsire,Slowking,Marshtomp,Swampert,Lotad,Lombre,Ludicolo,Corphish,Crawdaunt,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Pyukumuku,Chewtle,Drednaw,Clodsire

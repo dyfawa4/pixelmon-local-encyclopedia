@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3c00e2f169f6b33a"]={"json":{"description":"攻击目标造成伤害。\n格斗暴冲有30%的几率使目标陷入麻痹状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

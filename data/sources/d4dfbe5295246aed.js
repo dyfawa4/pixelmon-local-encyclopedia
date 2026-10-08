@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4dfbe5295246aed"]={"json":{"pokemon":"Talonflame","items":[{"item":"minecraft:feather","min":2,"max":4,"chance":1.0},{"item":"minecraft:chicken","min":1,"max":3,"chance":0.5},{"item":"minecraft:blaze_powder","min":1,"max":3,"chance":0.3},{"item":"pixelmon:swift_feather","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_gardevoirite"]={"description":"可以让||pokemonButton=Gardevoir||在对战中mega进化为||pokemonButton=Gardevoir form:mega||","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"第一次击败||pokemonButton=Gardevoir form:mega||BOSS必定可得，往后再次击败他掉落的几率取决于BOSS等级，分别为史诗-2.5%，传说-5%和终极-10%。","ball":{}};

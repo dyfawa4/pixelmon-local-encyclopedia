@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a07f75182dcfe30a"]={"json":{"pokemon":"Lurantis","items":[{"item":"minecraft:spider_eye","min":1,"max":3,"chance":1.0},{"item":"minecraft:blue_orchid","min":1,"max":3,"chance":0.5},{"item":"pixelmon:bug_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:miracle_seed","min":1,"max":1,"chance":0.1}]}};

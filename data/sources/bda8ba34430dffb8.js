@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bda8ba34430dffb8"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M M","MMM","MMM"],"key":{"M":{"tag":"forge:gems/silicon"}},"result":{"item":"pixelmon:galactic_plate","count":1}}};

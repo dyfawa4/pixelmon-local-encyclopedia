@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:df26a1dcf86633d1"]={"json":{"Evolutions":[{"from":"Rookidee","level":18,"to":"Corvisquire","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Corvisquire","level":38,"to":"Corviknight","conditions":[],"evoType":"leveling","moves":["Steel Wing"],"additionalProperties":{}}]}};

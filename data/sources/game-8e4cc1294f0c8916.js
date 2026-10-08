@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8e4cc1294f0c8916"]={"json":{"replace":false,"values":["pixelmon:black_apricorn","pixelmon:blue_apricorn","pixelmon:green_apricorn","pixelmon:pink_apricorn","pixelmon:red_apricorn","pixelmon:white_apricorn","pixelmon:yellow_apricorn"]}};

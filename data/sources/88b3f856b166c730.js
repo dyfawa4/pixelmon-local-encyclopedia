@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:88b3f856b166c730"]={"json":{"id":"Grookey","spawnInfos":[{"spec":"species:Grookey","stringLocationTypes":["Tree Top"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":5.0}]}};

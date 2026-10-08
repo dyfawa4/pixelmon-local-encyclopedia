@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d021f68ddea0a620"]={"json":{"Name":"Analytic","Description":"如果在最后使出招式，招式的威力会提高。","Normal":[],"Hidden":["Magnemite","Magneton","Staryu","Starmie","Porygon","Porygon2","Magnezone","Porygon-Z","Patrat","Watchog","Elgyem","Beheeyem"]}};

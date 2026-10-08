@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bd957c1d315f3582"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:durin_berry","count":3},{"item":"pixelmon:incense_burner"}],"results":{"item":"pixelmon:full_incense"}}};

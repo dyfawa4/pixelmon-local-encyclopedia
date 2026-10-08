@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-414cf0c625ea6c85"]={"json":{"type":"minecraft:crafting_shaped","pattern":["DPR"],"key":{"D":{"tag":"forge:dyes/black"},"P":{"item":"minecraft:paper"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:film","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:48305f4fc7d4cc59"]={"json":{"pokemon":"Bibarel","items":[{"item":"minecraft:oak_log","min":1,"max":3,"chance":1.0},{"item":"pixelmon:wacan_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:normal_gem","min":1,"max":1,"chance":0.1}]}};

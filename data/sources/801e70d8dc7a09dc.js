@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:801e70d8dc7a09dc"]={"json":{"Evolutions":[{"from":"Piplup","level":16,"to":"Prinplup","conditions":[],"evoType":"leveling","moves":["Metal Claw"],"additionalProperties":{}},{"from":"Prinplup","level":36,"to":"Empoleon","conditions":[],"evoType":"leveling","moves":["Aqua Jet"],"additionalProperties":{}}]}};

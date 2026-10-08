@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:77a51367f31b789c"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_stairs","pattern":["#  ","## ","###"],"key":{"#":{"item":"pixelmon:ultra_jungle_planks"}},"result":{"item":"pixelmon:ultra_jungle_stairs","count":4}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a00f7b5174821bad"]={"json":{"id":"Swampert","spawnInfos":[{"spec":"species:Swampert","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"weathers":["RAIN"],"stringBiomes":["swamps"]},"rarity":0.5}]}};

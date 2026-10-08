@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eb01e1b9583eb69f"]={"json":{"id":"Karrablast Grass","spawnInfos":[{"spec":"species:Karrablast","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["swamps"]},"rarity":130.0}]}};

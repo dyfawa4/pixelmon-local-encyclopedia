@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1919e9479525c4de"]={"text":"与其交互会治疗玩家携带的宝可梦，治疗时会发出 15 强度的红石信号。需用精准采集进行回收，否则只掉落一个||itemButton=pixelmon:aluminium_ingot||。"};

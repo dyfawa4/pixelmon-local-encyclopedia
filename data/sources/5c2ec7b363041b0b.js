@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5c2ec7b363041b0b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["PPP","PDP","PPP"],"key":{"P":{"item":"pixelmon:yellow_berry_wood_planks"},"D":{"item":"minecraft:pink_dye"}},"result":{"item":"pixelmon:pink_berry_wood_planks","count":8}}};

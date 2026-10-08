@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fdda4faac1aa1c34"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"minecraft:egg"},"result":{"item":"pixelmon:curry_boiled_egg","count":1},"experience":2,"cookingtime":200}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7e7f72966c7197ae"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather2.png"}],"names":[{"name":"Netsu"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Inferno."},{"text":"Il nostro Capopalestra si trova vicino al fiume di Lava!"},{"text":"Ti consiglio di far attenzione a non caderci; è il metodo migliore per bruciarsi!"}]}]}};

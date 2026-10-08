@@ -1,0 +1,4 @@
+3=coldocean
+3=lukewarmocean
+3=ocean
+3=warmocean

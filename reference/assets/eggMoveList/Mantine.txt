@@ -1,0 +1,7 @@
+Confuse Ray,Psyduck,Golduck,Lapras,Feebas,Milotic,Tadbulb,Bellibolt
+Haze,Squirtle,Wartortle,Blastoise,Psyduck,Golduck,Poliwag,Poliwhirl,Poliwrath,Slowbro form:galarian,Seel,Dewgong,Lapras,Dratini,Dragonair,Dragonite,Dragonite form:creator,Politoed,Wooper,Wooper form:paldean,Quagsire,Delibird,Surskit,Masquerain,Feebas,Milotic,Piplup,Prinplup,Empoleon,Phione,Manaphy,Greninja,Greninja form:battle_bond,Skrelp,Dragalge,Primarina,Mareanie,Toxapex,Sobble,Drizzile,Inteleon,Clodsire
+Mirror Coat,Squirtle,Wartortle,Blastoise,Corsola,Corsola form:galarian,Marshtomp,Swampert,Alomomola,Dewpider,Araquanid,Cursola
+Slam,Seel,Dewgong,Dratini,Dragonair,Dragonite,Dragonite form:creator,Marill,Azumarill,Wooper,Wooper form:paldean,Quagsire,Clodsire
+Splash,Poliwag,Poliwhirl,Poliwrath,Horsea,Seadra,Politoed,Kingdra,Feebas,Milotic,Clauncher,Clawitzer
+Tailwind,Dragonite,Dragonite form:creator,Delibird,Wingull,Pelipper,Masquerain,Ducklett,Swanna,Cramorant,Wattrel,Kilowattrel
+Twister,Horsea,Seadra,Dratini,Dragonair,Dragonite,Dragonite form:creator,Kingdra,Pelipper,Masquerain,Milotic

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8db543a6d4dce88e"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:squid"],"replacement_logic":"simple","specs":["tentacool","tentacruel"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:85ffbe2445425057"]={"json":{"Evolutions":[{"from":"Sinistea form:phony","item":{"itemID":"pixelmon:cracked_pot","additionalProperties":{}},"to":"Polteageist form:phony","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

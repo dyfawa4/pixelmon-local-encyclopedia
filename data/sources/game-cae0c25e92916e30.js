@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cae0c25e92916e30"]={"json":{"id":"IronBundle","spawnInfos":[{"spec":"species:IronBundle","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:small_end_islands"]},"rarity":5.0}]}};

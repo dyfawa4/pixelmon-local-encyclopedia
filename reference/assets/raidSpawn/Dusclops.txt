@@ -1,0 +1,5 @@
+3,4=badlands
+3,4=burntforest
+3,4=evil
+3,4=nether
+3,4=subzerohypogeal

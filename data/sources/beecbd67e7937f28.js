@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:beecbd67e7937f28"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GSG","EPE","DDD"],"key":{"D":{"item":"pixelmon:ultra_deep_stone"},"E":{"item":"minecraft:emerald"},"G":{"item":"minecraft:glass_pane"},"S":{"item":"pixelmon:moon_stone"},"P":{"tag":"pixelmon:pcs"}},"result":{"item":"pixelmon:reassembly_unit","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:456c4c90c756b92d"]={"json":{"type":"minecraft:crafting_shaped","pattern":["BBB"," W ","III"],"key":{"W":{"item":"minecraft:water_bucket"},"I":{"tag":"forge:ingots/iron"},"B":{"item":"minecraft:bone"}},"result":{"item":"pixelmon:wailmer_pail","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9fd544417a78d44e"]={"json":{"id":"Granbull","spawnInfos":[{"spec":"species:Granbull","stringLocationTypes":["Land"],"minLevel":23,"maxLevel":60,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains"]},"rarity":8.0}]}};

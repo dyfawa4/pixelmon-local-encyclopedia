@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:slushrush"]={"description":"对战中\r\n天气处于冰雹或下雪状态时，拥有该特性的宝可梦的速度能力变为原来的2倍。\r\n\r\n不具有冰属性的宝可梦仍会受到冰雹天气的伤害。","holders":[[27,"alolan",true],[28,"alolan",true],[613,"",false],[614,"",false],[881,"",true],[883,"",true],[975,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SlushRush"}};

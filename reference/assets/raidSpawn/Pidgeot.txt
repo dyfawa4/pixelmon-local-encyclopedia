@@ -1,0 +1,3 @@
+4,5=forests
+4,5=plains
+4,5=taigas

@@ -1,0 +1,6 @@
+对||pokemonButton=Sandshrew form:alolan||使用，使其进化为||pokemonButton=Sandslash form:alolan||。
+对||pokemonButton=Vulpix form:alolan||使用，使其进化为||pokemonButton=Ninetales form:alolan||。
+对||pokemonButton=Eevee||使用，使其进化为||pokemonButton=Glaceon||。
+对||pokemonButton=Darumaka form:galarian||使用，使其进化为||pokemonButton=Darmanitan form:galarian||。
+对||pokemonButton=Crabrawler||使用，使其进化为||pokemonButton=Crabominable||。
+对||pokemonButton=Cetoddle||使用，使其进化为||pokemonButton=Cetitan||。

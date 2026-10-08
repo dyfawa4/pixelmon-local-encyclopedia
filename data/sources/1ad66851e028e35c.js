@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ad66851e028e35c"]={"json":{"pokemon":"Eternatus","items":[{"item":"minecraft:ender_eye","min":1,"max":3,"chance":1.0},{"item":"pixelmon:deep_sea","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.3},{"item":"minecraft:dragon_breath","min":1,"max":1,"chance":0.1}]}};

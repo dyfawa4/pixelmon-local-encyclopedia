@@ -1,0 +1,7 @@
+Bullet Punch,Tyrogue,Riolu
+Counter,Nidoqueen,Zapdos form:galarian,Mewtwo,Mew,Pichu,Pichu form:spiky,Cleffa,Igglybuff,Togepi,Tyrogue,Smoochum,Elekid,Magby,Wynaut,Regirock,Regice,Registeel,Groudon,Deoxys form:defense,Bonsly,Happiny,Riolu,Buzzwole,Marshadow,Marshadow form:zenith,Kubfu,Urshifu form:singlestrike,Urshifu form:rapidstrike,Koraidon,Okidogi,Ogerpon form:teal,Ogerpon form:wellspring,Ogerpon form:hearthflame,Ogerpon form:cornerstone
+Feint,Tyrogue,Elekid,Riolu,Pheromosa,Marshadow,Marshadow form:zenith,IronValiant
+High Jump Kick,Tyrogue,Riolu,Pheromosa
+Mach Punch,Tyrogue,Magby
+Rapid Spin,Tyrogue,Pheromosa,Regieleki,GreatTusk,IronTreads
+Vacuum Wave,Mew,Tyrogue,Riolu,Cobalion,Virizion,Kartana,IronValiant

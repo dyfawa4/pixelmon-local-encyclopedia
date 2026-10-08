@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:04c0a484051b0d85"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:cow"],"replacement_logic":"simple","specs":["miltank","tauros","camerupt"]}};

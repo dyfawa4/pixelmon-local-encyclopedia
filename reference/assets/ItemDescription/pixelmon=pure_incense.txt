@@ -1,0 +1,4 @@
+当携带该道具的宝可梦排配置在队伍首位时，降低遇见比这只宝可梦等级低的野生宝可梦的几率。
+携带该道具的||pokemonButton=Chimecho||♀生蛋，孵化出的子代为||pokemonButton=Chingling||。
+携带该道具的||pokemonButton=Chimecho||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Chingling||。
+也可以当做装饰性方块放下来。

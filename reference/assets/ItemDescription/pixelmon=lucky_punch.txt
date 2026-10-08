@@ -1,0 +1,1 @@
+||pokemonButton=Chansey||携带后击中要害等级会提高2级。

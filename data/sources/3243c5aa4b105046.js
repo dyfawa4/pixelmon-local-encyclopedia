@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3243c5aa4b105046"]={"text":"minecraft:beach\r\nminecraft:stone_shore\r\nminecraft:snowy_beach\r\nminecraft:mushroom_field_shore\r\nbiomesoplenty:gravel_beach\r\nbiomesoplenty:tropic_beach\r\nbyg:basalt_barrera\r\nbyg:rainbow_beach\r\nbyg:rocky_beach\r\nbyg:snowy_rocky_black_beach\r\nbyg:snowy_black_beach\r\nbyg:white_beach\r\nterraforged:warm_beach\r\n"};

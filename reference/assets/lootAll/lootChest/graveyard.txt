@@ -1,0 +1,16 @@
+pixelmon:spell_tag=7.69%=1-1
+pixelmon:thick_club=7.69%=1-1
+pixelmon:magnet=7.69%=1-1
+pixelmon:relic_copper=65.97%=1-1
+pixelmon:relic_silver=23.44%=1-1
+pixelmon:relic_gold=8.16%=1-1
+pixelmon:ghost_gem=28.00%=1-3
+pixelmon:dark_gem=28.00%=1-3
+minecraft:bone=53.88%=1-5
+minecraft:spider_eye=53.88%=1-5
+minecraft:bone_meal=53.88%=1-5
+minecraft:skeleton_skull=13.50%=1-2
+minecraft:dead_bush=41.03%=1-5
+minecraft:cobweb=41.03%=1-5
+minecraft:crimson_fungus=31.01%=1-5
+minecraft:warped_fungus=31.01%=1-5

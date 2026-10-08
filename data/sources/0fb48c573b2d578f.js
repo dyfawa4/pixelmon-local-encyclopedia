@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0fb48c573b2d578f"]={"json":{"pokemon":"Cloyster","items":[{"item":"minecraft:ice","min":1,"max":4,"chance":1.0},{"item":"minecraft:sand","min":1,"max":2,"chance":0.5},{"item":"pixelmon:shell_bell","min":1,"max":1,"chance":0.3},{"item":"minecraft:shulker_shell","min":1,"max":1,"chance":0.1}]}};

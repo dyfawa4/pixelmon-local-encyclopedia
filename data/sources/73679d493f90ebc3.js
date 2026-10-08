@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:73679d493f90ebc3"]={"json":{"Name":"ZenMode","Description":"HP变为一半以下时，样子会改变。","Normal":[],"Hidden":["Darmanitan","Darmanitan form:zen","Darmanitan form:galarian","Darmanitan form:galarian_zen"]}};

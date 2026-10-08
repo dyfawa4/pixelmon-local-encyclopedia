@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f3ea3fa665c43ba9"]={"json":{"Name":"QuarkDrive","Description":"携带着驱劲能量或在电气场地上时，数值最高的能力会提高。","Normal":["IronTreads","IronBundle","IronHands","IronJugulis","IronMoth","IronThorns","IronValiant","IronLeaves"],"Hidden":[]}};

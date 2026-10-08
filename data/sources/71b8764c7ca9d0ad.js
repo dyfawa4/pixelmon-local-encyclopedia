@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:71b8764c7ca9d0ad"]={"json":{"pokemon":"Onix","items":[{"item":"pixelmon:bauxite_ore","min":1,"max":3,"chance":1.0},{"item":"minecraft:cobblestone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:lagging_tail","min":1,"max":1,"chance":0.1}]}};

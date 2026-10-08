@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c715640436df313d"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:ultra_desert_cactus"},"result":"minecraft:purple_dye","experience":1,"cookingtime":200}};

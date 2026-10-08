@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:95fe41954a5db017"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" X "," P ","P P"],"key":{"X":{"item":"minecraft:cauldron"},"P":{"tag":"forge:ingots/aluminium"}},"result":{"item":"pixelmon:cooking_pot","count":1}}};

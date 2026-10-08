@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:thermalexchange"]={"description":"对战中\r\n拥有该特性的宝可梦在受到火属性招式攻击时，自身攻击提升1级，且不会陷入灼伤状态。\r\n处于替身状态时，不会触发此特性。","holders":[[996,"",false],[997,"",false],[998,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ThermalExchange"}};

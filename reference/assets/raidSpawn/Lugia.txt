@@ -1,0 +1,5 @@
+5=coldocean
+5=freezingocean
+5=lukewarmocean
+5=ocean
+5=warmocean

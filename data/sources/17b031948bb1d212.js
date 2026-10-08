@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:17b031948bb1d212"]={"json":{"id":"Goomy","spawnInfos":[{"spec":"species:Goomy","stringLocationTypes":["Land"],"minLevel":22,"maxLevel":39,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:shed_shell","percentChance":5}],"condition":{"times":["NIGHT"],"weathers":["RAIN"],"stringBiomes":["swamps"]},"rarity":90.0}]}};

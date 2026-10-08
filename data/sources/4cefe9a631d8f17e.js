@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4cefe9a631d8f17e"]={"text":"minecraft:wooded_mountains\r\nminecraft:modified_gravelly_mountains\r\nbiomesoplenty:fir_clearing\r\nbiomesoplenty:jade_cliffs\r\nbyg:alpine_foothills\r\nbyg:bluff_peaks\r\nbyg:bluff_steeps\r\nbyg:dover_mountains\r\nbyg:redwood_mountains\r\n"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6501a5388fd92ffc"]={"json":{"pokemon":"Cosmoem","items":[{"item":"pixelmon:stardust","min":2,"max":3,"chance":1.0},{"item":"pixelmon:sun_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:moon_stone_shard","min":1,"max":2,"chance":0.5}]}};

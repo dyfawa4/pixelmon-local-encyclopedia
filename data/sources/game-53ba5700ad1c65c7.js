@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-53ba5700ad1c65c7"]={"json":{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"pixelmon:blue_berry_wood_planks"}],"result":{"item":"pixelmon:blue_berry_wood_button"}}};

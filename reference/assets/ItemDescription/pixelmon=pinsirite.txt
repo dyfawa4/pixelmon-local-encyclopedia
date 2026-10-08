@@ -1,0 +1,1 @@
+可以让||pokemonButton=Pinsir||在对战中mega进化为||pokemonButton=Pinsir form:mega||

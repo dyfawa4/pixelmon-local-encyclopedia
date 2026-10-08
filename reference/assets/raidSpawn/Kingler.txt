@@ -1,0 +1,5 @@
+3,4,5=beaches
+3,4,5=freezingbeaches
+3,4,5=ocean
+3,4,5=stonybeaches
+3,4,5=warmocean

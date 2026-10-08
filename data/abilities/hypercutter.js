@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:hypercutter"]={"description":"对战中\r\n攻击能力变化不会被对方以任何方式降低。","holders":[[98,"",false],[99,"",false],[99,"gmax",false],[127,"",false],[207,"",false],[303,"",false],[328,"",false],[341,"",false],[342,"",false],[472,"",false],[739,"",false],[740,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.HyperCutter"}};

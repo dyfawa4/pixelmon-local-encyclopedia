@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:89d82c350db70a2d"]={"json":{"id":"Cradily","spawnInfos":[{"spec":"species:Cradily","stringLocationTypes":["Seafloor"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":5.0}]}};

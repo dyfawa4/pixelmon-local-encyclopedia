@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:37bda641e89b6907"]={"text":"3,4=birches\r\n3,4=evil\r\n3,4=flowery\r\n3,4=forests\r\n3,4=jungles\r\n3,4=mountainousforests\r\n3,4=mountainous\r\n3,4=plains\r\n3,4=redwoods\r\n3,4=roofed\r\n3,4=swamps\r\n3,4=taigas\r\n"};

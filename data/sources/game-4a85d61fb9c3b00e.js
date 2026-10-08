@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4a85d61fb9c3b00e"]={"json":{"id":"Azelf","spawnInfos":[{"spec":"species:Azelf level:50","stringLocationTypes":["Surface Water"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["forests","lakes"]},"anticondition":{"stringBiomes":["minecraft:desert_lakes"]},"rarity":2.0}]}};

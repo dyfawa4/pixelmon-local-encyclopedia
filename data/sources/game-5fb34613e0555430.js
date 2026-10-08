@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5fb34613e0555430"]={"json":{"id":"Shelmet Sweet Scent","spawnInfos":[{"spec":"species:Shelmet","stringLocationTypes":["Sweet Scent"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["swamps"]},"rarity":150.0}]}};

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Espurr","level":25,"to":"Meowstic","conditions":[{"evoConditionType":"gender","genders":["MALE"],"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}},{"from":"Espurr","level":25,"to":"Meowstic","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}

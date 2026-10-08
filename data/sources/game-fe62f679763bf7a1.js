@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fe62f679763bf7a1"]={"json":{"id":"Conkeldurr","spawnInfos":[{"spec":"species:Conkeldurr","stringLocationTypes":["Land"],"minLevel":45,"maxLevel":60,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":5.0}]}};

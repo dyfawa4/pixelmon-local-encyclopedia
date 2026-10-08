@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:triage"]={"description":"对战中\r\n在使出能回复ＨＰ的招式时，招式优先度+3。\r\n只对目标回复而不对自身回复的招式也会受影响，例如治愈波动和花疗。\r\n不会对水流环、扎根、寄生种子和分担痛楚造成影响。\r\n不稳定回复的招式不受影响，例如礼物和花粉团。\r\n造成场地型状态间接回复的招式也不受影响，例如青草场地。\r\n能回复生命的Ｚ招式也不受影响，例如芳香治疗。","holders":[[764,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Triage"}};

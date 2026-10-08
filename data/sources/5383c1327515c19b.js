@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5383c1327515c19b"]={"json":{"rewards":{"recipes":["pixelmon:curry/toast"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:curry/toast"}},"has_bread":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"minecraft:bread"}]}}},"requirements":[["has_the_recipe","has_bread"]]}};

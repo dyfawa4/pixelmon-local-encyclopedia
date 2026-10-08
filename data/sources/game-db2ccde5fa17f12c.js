@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-db2ccde5fa17f12c"]={"json":{"id":"Chimecho","spawnInfos":[{"spec":"species:Chimecho","stringLocationTypes":["Land"],"minLevel":28,"maxLevel":33,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:spell_tag","percentChance":5}],"condition":{"times":["DUSK","DAWN"],"stringBiomes":["roofed"]},"rarity":30.0}]}};

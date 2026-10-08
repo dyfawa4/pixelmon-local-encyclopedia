@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:381898cc14ed1746"]={"json":{"type":"minecraft:crafting_shaped","pattern":["BAB","ICI","IFI"],"key":{"I":{"tag":"forge:ingots/aluminium"},"C":{"item":"minecraft:charcoal"},"F":{"item":"minecraft:furnace"},"B":{"item":"minecraft:glass_bottle"},"A":{"tag":"forge:gems/amethyst"}},"result":{"item":"pixelmon:infuser","count":1}}};

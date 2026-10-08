@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9028cb8fe26e63ac"]={"json":{"id":"Regirock","spawnInfos":[{"spec":"species:Regirock level:40","stringLocationTypes":["Underground"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["mesas"],"maxY":50},"rarity":3.0}]}};

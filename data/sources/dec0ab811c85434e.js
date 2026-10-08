@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dec0ab811c85434e"]={"json":{"type":"minecraft:crafting_shaped","pattern":["wdw"," s "," s "],"key":{"d":{"tag":"forge:dyes/black"},"s":{"tag":"forge:rods/wooden"},"w":{"tag":"minecraft:wool"}},"result":{"item":"pixelmon:black_umbrella","count":1}}};

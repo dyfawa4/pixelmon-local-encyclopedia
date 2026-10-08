@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:803d768fd3cd583d"]={"json":{"Name":"Anticipation","Description":"可以察觉到对手拥有的危险招式。","Normal":["Barboach","Whiscash","Wormadam form:plant","Wormadam form:sandy","Wormadam form:trash","Croagunk","Toxicroak","Hatenna","Hattrem","Hatterene","Flittle"],"Hidden":["Ponyta form:galarian","Rapidash form:galarian","Eevee","Ferrothorn"]}};

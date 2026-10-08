@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5a22defc5b7d4a7c"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:spider"],"replacement_logic":"simple","specs":["spinarak","araquanid"]}};

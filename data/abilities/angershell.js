@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:angershell"]={"description":"对战中\r\n当ＨＰ因受到攻击变为1⁄2以下时，防御和特防降低1级，攻击、特攻、速度提高1级。\r\n\r\n若ＨＰ是由于间接伤害而降为1⁄2以下（如寄生种子、天气伤害、因混乱而攻击自身、生命宝珠等），该特性不会触发。","holders":[[950,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.AngerShell"}};

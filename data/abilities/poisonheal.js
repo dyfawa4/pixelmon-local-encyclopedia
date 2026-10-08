@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:poisonheal"]={"description":"对战中\r\n在中毒和剧毒状态下，ＨＰ不会因为中毒而减少；每回合回复最大ＨＰ的1⁄8。\r\n剧毒状态的伤害计数会在每次行动后增加，失去毒疗特性后剧毒状态的伤害计数不会重置。","holders":[[285,"",false],[286,"",false],[472,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PoisonHeal"}};

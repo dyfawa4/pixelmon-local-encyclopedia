@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e25365b44a1dcec6"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"shoplady4.png"}],"names":[{"name":"Shop Lady"}],"chat":[{"opening":"Hast du mich durch das hohe Gras gesehen??","win":"Ich bin in meinem natürlichen Lebensraum unbesiegbar.","lose":"Auf keinen Fall!"}]}};

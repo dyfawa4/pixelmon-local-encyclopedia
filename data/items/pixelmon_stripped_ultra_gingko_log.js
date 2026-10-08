@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_stripped_ultra_gingko_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:stripped_ultra_gingko_wood","pixelmon:ultra_gingko_planks"],"drops":[],"referenceDrop":{},"special":""};

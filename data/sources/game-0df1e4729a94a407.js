@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0df1e4729a94a407"]={"json":{"id":"Stufful","spawnInfos":[{"spec":"species:Stufful","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":26,"typeID":"pokemon","condition":{"stringBiomes":["hills"]},"rarity":250.0}]}};

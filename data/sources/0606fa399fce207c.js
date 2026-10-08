@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0606fa399fce207c"]={"json":{"Name":"QuickFeet","Description":"变为异常状态时，速度会提高。","Normal":["Granbull","Teddiursa","Ursaring","Poochyena","Mightyena"],"Hidden":["Jolteon","Zigzagoon","Zigzagoon form:galarian","Linoone","Linoone form:galarian","Shroomish"]}};

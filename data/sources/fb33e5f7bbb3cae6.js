@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fb33e5f7bbb3cae6"]={"json":{"Name":"SupremeOverlord","Description":"出场时，攻击和特攻会按照目前被打倒的同伴数量逐渐提升，被打倒越多，提升越多。","Normal":["Kingambit"],"Hidden":[]}};

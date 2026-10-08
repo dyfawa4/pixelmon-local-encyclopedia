@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8b76182698587f22"]={"json":{"Evolutions":[{"from":"Koffing","level":35,"to":"Weezing form:galarian","conditions":[{"evoConditionType":"status","type":"Burn","additionalProperties":{}}],"evoType":"leveling","moves":["Double Hit"],"additionalProperties":{}}]}};

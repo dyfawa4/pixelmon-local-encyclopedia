@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0d1ef69be4d37c72"]={"json":{"pokemon":"Hoopa","items":[{"item":"minecraft:gold_ingot","min":2,"max":4,"chance":1.0},{"item":"minecraft:ender_pearl","min":1,"max":3,"chance":0.5},{"item":"minecraft:netherite_scrap","min":1,"max":2,"chance":0.3},{"item":"pixelmon:ability_capsule","min":1,"max":1,"chance":0.1}]}};

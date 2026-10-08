@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-12cb900742e42fea"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"type":"forge:nbt","item":"pixelmon:pixelmon_sprite","nbt":"{ndex:186s, palette:\"none\", form: \"\", gender:1b}"},{"item":"pixelmon:green_chair"}],"result":{"item":"pixelmon:froggy_chair","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-baa8d4b79c1b7c15"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_fence_gate","pattern":["#W#","#W#"],"key":{"#":{"item":"minecraft:stick"},"W":{"item":"pixelmon:red_berry_wood_planks"}},"result":{"item":"pixelmon:red_berry_wood_fence_gate"}}};

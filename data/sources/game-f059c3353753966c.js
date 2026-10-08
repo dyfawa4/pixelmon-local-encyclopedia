@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f059c3353753966c"]={"json":{"id":"Omanyte","spawnInfos":[{"spec":"species:Omanyte","stringLocationTypes":["Water"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":50.0}]}};

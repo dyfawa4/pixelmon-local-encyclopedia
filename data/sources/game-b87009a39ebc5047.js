@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b87009a39ebc5047"]={"json":{"id":"Enamorus","spawnInfos":[{"spec":"species:Enamorus level:70","stringLocationTypes":["Air"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["flowery"]},"rarity":1.0}]}};

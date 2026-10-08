@@ -1,0 +1,1 @@
+拿着被充满的||itemButton=pixelmon:dos_orb||对着其中的||itemButton=pixelmon:zapdos_shrine||使用可以召唤一只||pokemonButton=Zapdos||并与其进行战斗。之后其中的||itemButton=pixelmon:zapdos_shrine||将不再能使用。

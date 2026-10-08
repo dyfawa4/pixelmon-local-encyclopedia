@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Exeggcute","item":{"itemID":"pixelmon:leaf_stone","additionalProperties":{}},"to":"Exeggutor form:alolan","conditions":[{"evoConditionType":"party","withPokemon":[],"withTypes":[],"withForms":["ALOLAN"],"additionalProperties":{}}],"evoType":"interact","moves":["Dragon Hammer"],"additionalProperties":{}}]}

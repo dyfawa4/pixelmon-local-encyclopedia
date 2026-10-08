@@ -1,0 +1,6 @@
+Aurora Veil,Abomasnow,Avalugg form:hisuian
+Discharge,Mareep,Mareep form:shorn,Flaaffy,Ampharos,Heliolisk
+Haze,Squirtle,Wartortle,Blastoise,Slowbro form:galarian,Lapras
+Mirror Coat,Squirtle,Wartortle,Blastoise,Marshtomp,Swampert,Avalugg form:hisuian
+Rock Throw,Rhyhorn,Rhydon,Larvitar,Pupitar,Tyranitar,Mudkip,Marshtomp,Swampert,Rhyperior
+Take Down,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Cubone,Marowak,Marowak form:alolan,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Lapras,Snorlax,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Mareep,Mareep form:shorn,Flaaffy,Ampharos,Slowking,Slowking form:galarian,Larvitar,Pupitar,Tyranitar,Treecko,Grovyle,Sceptile,Mudkip,Marshtomp,Swampert,Aron,Lairon,Aggron,Tropius,Turtwig,Grotle,Torterra,Cranidos,Rampardos,Shieldon,Bastiodon,Gible,Gabite,Garchomp,Snover,Abomasnow,Lickilicky,Rhyperior,Axew,Fraxure,Haxorus,Bergmite,Avalugg,Avalugg form:hisuian,Salandit,Salazzle,Chewtle,Drednaw

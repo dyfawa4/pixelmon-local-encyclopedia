@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1805340a5139242b"]={"json":{"id":"Tangela","spawnInfos":[{"spec":"species:Tangela","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["jungles","byg:crag_gardens"]},"rarity":30.0}]}};

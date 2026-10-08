@@ -1,0 +1,7 @@
+||bigFont=对战中||
+携带该道具的宝可梦使用任意原本不会造成畏缩状态的攻击招式并造成伤害时，有10%几率使目标陷入畏缩状态。
+连续招式每一下连续的攻击都会有相同的几率造成对手畏缩。
+
+||bigFont=对战外||
+||pokemonButton=Poliwhirl||携带该道具连接交换进化为||pokemonButton=Politoed||。
+||pokemonButton=Slowpoke||携带该道具连接交换进化为||pokemonButton=Slowking||。

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:heavymetal"]={"description":"对战中\r\n自身体重变为正常的两倍。","holders":[[304,"",true],[305,"",true],[306,"",true],[306,"mega",true],[436,"",true],[437,"",true],[878,"",true],[879,"",true],[879,"gmax",true],[884,"",false],[884,"gmax",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.HeavyMetal"}};

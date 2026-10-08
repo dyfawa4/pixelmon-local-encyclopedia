@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6aae36d4b80a46e7"]={"json":{"pokemon":"Bulbasaur","items":[{"item":"minecraft:vine","min":1,"max":2,"chance":1.0},{"item":"minecraft:twisting_vines","min":1,"max":1,"chance":0.1}]}};

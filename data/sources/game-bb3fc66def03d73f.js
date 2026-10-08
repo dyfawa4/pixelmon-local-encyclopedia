@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bb3fc66def03d73f"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:snow_golem"],"replacement_logic":"simple","specs":["darmanitan form:galarian","mrrime","froslass"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:10ef2b4a6479e10a"]={"json":{"pokemon":"Gengar","items":[{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":1.0},{"item":"minecraft:soul_sand","min":1,"max":2,"chance":0.5},{"item":"minecraft:phantom_membrane","min":1,"max":1,"chance":0.3},{"item":"pixelmon:reaper_cloth","min":1,"max":1,"chance":0.1}]}};

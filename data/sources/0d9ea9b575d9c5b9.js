@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0d9ea9b575d9c5b9"]={"json":{"id":"Exploud","spawnInfos":[{"spec":"species:Exploud","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":60,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mountainous"]},"rarityMultipliers":[{"multiplier":2,"condition":{"neededNearbyBlocks":["minecraft:gravel"]}}],"rarity":0.5}]}};

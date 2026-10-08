@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ddce67630f05c6a0"]={"text":"用于制作||itemButton=pixelmon:heal_ball||、||itemButton=pixelmon:nest_ball||、||itemButton=pixelmon:poke_ball||、||itemButton=pixelmon:premier_ball||、||itemButton=pixelmon:safari_ball||、||itemButton=pixelmon:sport_ball||。"};

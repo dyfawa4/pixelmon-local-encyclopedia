@@ -1,0 +1,1 @@
+在结构||structureButton=dos||中，拿着被充满的||itemButton=pixelmon:dos_orb||对着其中的||itemButton=pixelmon:zapdos_shrine||使用即可召唤

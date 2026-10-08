@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2df12423ffb32942"]={"json":{"pokemon":"Accelgor","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:fermented_spider_eye","min":1,"max":3,"chance":0.5},{"item":"pixelmon:bug_gem","min":1,"max":1,"chance":0.1},{"item":"pixelmon:loaded_dice","min":1,"max":1,"chance":0.3}]}};

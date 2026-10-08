@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:14f0e43f37173578"]={"json":{"pokemon":"Moltres form:base","items":[{"item":"pixelmon:bright_powder","min":1,"max":3,"chance":1.0},{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fire_stone","min":1,"max":1,"chance":0.1}]}};

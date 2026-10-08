@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8915a20eb28a6976"]={"json":{"id":"Gholdengo","spawnInfos":[{"spec":"species:Gholdengo","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_desert"]},"rarity":10.0}]}};

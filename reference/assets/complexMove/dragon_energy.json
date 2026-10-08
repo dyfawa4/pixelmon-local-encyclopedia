@@ -1,0 +1,1 @@
+{"attack":"把生命力转换为力量攻击对手。自己的HP越少，招式的威力越小。","description":"攻击目标造成伤害。威力随自身剩余ＨＰ减少而减少。\n\n威力 \u003d 150 × （当前ＨＰ / 全部ＨＰ）。","levelUpMoves":[{"Name":"Regidrago","Level":66}],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}

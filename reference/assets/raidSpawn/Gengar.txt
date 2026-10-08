@@ -1,0 +1,5 @@
+4,5=evil
+4,5=nether
+4,5=roofed
+4,5=subzerohypogeal
+4,5=taigas

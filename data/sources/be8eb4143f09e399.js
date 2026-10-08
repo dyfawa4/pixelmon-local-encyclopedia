@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:be8eb4143f09e399"]={"json":{"Evolutions":[{"from":"Remoraid","level":25,"to":"Octillery","conditions":[],"evoType":"leveling","moves":["Octazooka"],"additionalProperties":{}}]}};

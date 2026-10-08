@@ -1,0 +1,4 @@
+Cosmic Power,Rabsca
+Memento,Rabsca
+Recover,Shelmet,Accelgor,Rabsca
+Weather Ball,Masquerain,Vivillon,Frosmoth,Rellor,Rabsca

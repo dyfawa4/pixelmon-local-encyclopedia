@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8a0f614159749d53"]={"json":{"id":"Vigoroth","spawnInfos":[{"spec":"species:Vigoroth","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["jungles"]},"rarity":8.0}]}};

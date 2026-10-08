@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fe82bc1611c683ef"]={"json":{"id":"Stantler Sweet Scent","spawnInfos":[{"spec":"species:Stantler","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAWN","AFTERNOON","DUSK"],"stringBiomes":["hills","freezing forests"]},"rarity":100.0}]}};

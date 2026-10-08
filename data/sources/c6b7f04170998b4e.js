@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c6b7f04170998b4e"]={"json":{"id":"Carnivine Grass","spawnInfos":[{"spec":"species:Carnivine","stringLocationTypes":["Grass"],"minLevel":21,"maxLevel":32,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["jungles"]},"rarity":90.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:73029698b5cd5890"]={"json":{"id":"Latios","spawnInfos":[{"spec":"species:Latios level:70","stringLocationTypes":["Air"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["minecraft:ocean","minecraft:warm_ocean"]},"rarity":2.0}]}};

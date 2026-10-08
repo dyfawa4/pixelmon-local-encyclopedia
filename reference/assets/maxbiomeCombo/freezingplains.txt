@@ -1,0 +1,2 @@
+minecraft:snowy_tundra
+minecraft:ice_spikes

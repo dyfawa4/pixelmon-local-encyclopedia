@@ -1,0 +1,8 @@
+Acid,Oddish,Gloom,Vileplume,Bellsprout,Weepinbell,Bellossom,Cacnea,Cacturne,Toxtricity form:amped,Toxtricity form:lowkey
+Belch,Bellsprout,Weepinbell,Victreebel,Cacnea,Cacturne,Magmar,Croagunk,Toxicroak,Magmortar,Toxtricity form:amped,Toxtricity form:lowkey
+Block,Bulbasaur,Ivysaur,Venusaur,Exeggutor form:alolan,Cacnea,Cacturne,Torterra,Abomasnow,Tangrowth,Ferrothorn,Trevenant,Timburr,Gurdurr,Conkeldurr,Throh,Sawk,Pancham,Pangoro,MrRime
+Counter,Chikorita,Bayleef,Meganium,Lotad,Lombre,Ludicolo,Breloom,Cacnea,Cacturne,Abra,Kadabra,Alakazam,Machop,Machoke,Machamp,Drowzee,Hypno,Hitmonlee,Hitmonchan,MrMime,Jynx,Electabuzz,Magmar,Hitmontop,Makuhita,Hariyama,Sableye,Meditite,Medicham,Volbeat,Illumise,Spinda,Chimchar,Monferno,Infernape,Lucario,Electivire,Magmortar,Timburr,Gurdurr,Conkeldurr,Sawk,Scorbunny,Raboot,Cinderace
+Disable,Cacnea,Cacturne,Phantump,Trevenant,Bramblin,Brambleghast,Kadabra,Alakazam,Drowzee,Hypno,Ralts,Kirlia,Sableye,Ceruledge
+Fell Stinger,Cacnea,Cacturne
+Switcheroo,Hoppip,Skiploom,Cacnea,Cacturne,Cottonee,Whimsicott,Hypno,Chimchar,Monferno,Infernape
+Teeter Dance,Oddish,Gloom,Vileplume,Bellsprout,Weepinbell,Victreebel,Bellossom,Lotad,Lombre,Ludicolo,Cacnea,Cacturne,Lilligant,Lilligant form:hisuian,Bounsweet,Steenee,Tsareena,MrMime,MrMime form:galarian,Spinda,MrRime

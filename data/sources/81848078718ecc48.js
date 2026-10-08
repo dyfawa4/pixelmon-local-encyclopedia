@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:81848078718ecc48"]={"json":{"type_id":"simple","id":"slump","suffix":"ribbon.slump.title","translation_key":"ribbon.slump","description":"ribbon.slump.description","icon":"pixelmon:textures/gui/ribbons/slump.png"}};

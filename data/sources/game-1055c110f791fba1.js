@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1055c110f791fba1"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:stripped_ultra_gingko_log"}],"conditions":[]}]}};

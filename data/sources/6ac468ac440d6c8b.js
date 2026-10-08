@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6ac468ac440d6c8b"]={"json":{"Name":"Hydration","Description":"下雨天气时，异常状态会治愈。","Normal":["Seel","Dewgong","Wingull","Phione","Manaphy","Tympole","Palpitoad","Alomomola","Shelmet","Accelgor","Goomy","Sliggoo","Goodra"],"Hidden":["Lapras","Vaporeon","Smoochum","Barboach","Whiscash","Gorebyss","Luvdisc","Ducklett","Swanna"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bae50c05d8358a54"]={"json":{"type":"minecraft:crafting_shaped","pattern":["c  ","www","www"],"key":{"c":{"item":"minecraft:lime_dye"},"w":{"tag":"minecraft:wooden_slabs"}},"result":{"item":"pixelmon:lime_letter_box","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:50015eb35f45553c"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:cocoa_beans"},{"item":"minecraft:sugar"}],"result":{"item":"pixelmon:sweet_heart"}}};

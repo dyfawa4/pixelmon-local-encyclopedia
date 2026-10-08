@@ -1,0 +1,3 @@
+minecraft:frozen_river
+byg:frozen_lake
+terraforged:frozen_lake

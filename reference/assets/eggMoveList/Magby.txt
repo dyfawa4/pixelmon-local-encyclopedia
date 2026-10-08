@@ -1,0 +1,7 @@
+Belch,Magby,Guzzlord,Toxel
+Belly Drum,Cleffa,Magby,Munchlax,IronHands
+Cross Chop,Elekid,Magby,Riolu
+Dynamic Punch,Nidoqueen,Mewtwo,Mew,Smoochum,Elekid,Magby,Regirock,Regice,Registeel,Groudon,Jirachi,Buzzwole,Melmetal,Kubfu,Urshifu form:singlestrike,Urshifu form:rapidstrike
+Focus Punch,Nidoqueen,Mewtwo,Mew,Elekid,Magby,Regirock,Regice,Registeel,Groudon,Deoxys,Deoxys form:attack,Deoxys form:defense,Deoxys form:speed,Deoxys form:sus,MimeJr,Munchlax,Riolu,Palkia,Regigigas,Darkrai,Zekrom,Meloetta form:aria,Hoopa form:confined,Hoopa form:unbound,TapuBulu,Buzzwole,Marshadow,Marshadow form:zenith,Zeraora,Kubfu,Urshifu form:singlestrike,Urshifu form:rapidstrike,Zarude,IronHands,Gholdengo,Koraidon,Okidogi
+Follow Me,Pichu,Pichu form:spiky,Togepi,Elekid,Magby,Jirachi,Riolu,Ogerpon form:teal,Ogerpon form:wellspring,Ogerpon form:hearthflame,Ogerpon form:cornerstone
+Mach Punch,Tyrogue,Magby

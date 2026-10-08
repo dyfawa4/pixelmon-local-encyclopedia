@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a5913bf212600f53"]={"json":{"Evolutions":[{"from":"Amaura","level":39,"to":"Aurorus","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

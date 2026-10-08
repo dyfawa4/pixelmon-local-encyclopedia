@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9625b9b611dcb09d"]={"json":{"Evolutions":[{"from":"Pineco","level":31,"to":"Forretress","conditions":[],"evoType":"leveling","moves":["Mirror Shot","Autotomize"],"additionalProperties":{}}]}};

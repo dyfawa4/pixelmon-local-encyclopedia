@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9b43eda80778f9e6"]={"json":{"id":"Carracosta","spawnInfos":[{"spec":"species:Carracosta","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":5.0}]}};

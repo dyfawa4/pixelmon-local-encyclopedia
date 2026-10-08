@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b5df44e84a479fdb"]={"json":{"id":"Durant Rocksmash","spawnInfos":[{"spec":"species:Durant","stringLocationTypes":["Rock Smash"],"minLevel":1,"maxLevel":23,"typeID":"pokemon","condition":{"stringBiomes":["mountainous","arid","mesas","pixelmon:ultra_crater"]},"rarity":60.0}]}};

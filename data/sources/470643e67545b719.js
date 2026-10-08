@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:470643e67545b719"]={"json":{"pokemon":"Groudon","items":[{"item":"pixelmon:ruby","min":3,"max":5,"chance":1.0},{"item":"pixelmon:heat_rock","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ground_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:flame_orb","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b81fe1fc7c7826fc"]={"json":{"attack":"超极巨化的霜奶仙使出的妖精属性攻击。可回复我方的HP。","description":"攻击目标造成伤害\n超极巨幸福圆满能够回复使用者和同伴1⁄6的ＨＰ。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

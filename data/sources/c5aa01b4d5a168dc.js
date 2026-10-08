@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5aa01b4d5a168dc"]={"json":{"Evolutions":[{"from":"Deerling form:winter","level":34,"to":"Sawsbuck form:winter","conditions":[],"evoType":"leveling","moves":["Horn Leech"],"additionalProperties":{}}]}};

@@ -1,0 +1,10 @@
+Assurance,Grimer form:alolan,Koffing,Weezing,Weezing form:galarian,Pincurchin,Drakloak,Dragapult
+Clear Smog,Grimer form:alolan,Gastly,Haunter,Koffing,Weezing,Weezing form:galarian,Slugma,Magcargo,Gulpin,Swalot
+Curse,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Slugma,Magcargo,Gulpin,Swalot,Shuppet,Banette,Duskull,Dusclops,Chimecho,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Phantump,Trevenant,Sandygast,Palossand,Mimikyu form:disguised,Polteageist form:phony,Polteageist form:antique,Runerigus,Pincurchin,Dreepy,Drakloak,Dragapult
+Mean Look,Grimer,Grimer form:alolan,Muk,Gastly,Haunter,Gengar,Misdreavus,Ralts,Kirlia,Duskull,Dusclops,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Runerigus
+Recycle,Grimer form:alolan,Muk form:alolan,Ralts,Kirlia,Gardevoir,Chimecho,Drifloon,Drifblim,Gallade,Sandygast,Palossand
+Shadow Sneak,Grimer,Grimer form:alolan,Muk,Misdreavus,Ralts,Kirlia,Shuppet,Banette,Duskull,Dusclops,Mismagius,Spiritomb,Dusknoir,Pumpkaboo,Gourgeist,Mimikyu form:disguised
+Spit Up,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Spite,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Shuppet,Banette,Duskull,Dusclops,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Rotom,Rotom form:heat,Rotom form:wash,Rotom form:frost,Rotom form:fan,Rotom form:mow,Yamask,Cofagrigus,Frillish,Jellicent,Litwick,Lampent,Chandelure,Phantump,Trevenant,Pumpkaboo,Gourgeist,Sandygast,Palossand,Mimikyu form:disguised,Poltchageist form:counterfeit,Poltchageist form:artisan,Sinistcha form:unremarkable,Sinistcha form:masterpiece
+Stockpile,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Swallow,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim

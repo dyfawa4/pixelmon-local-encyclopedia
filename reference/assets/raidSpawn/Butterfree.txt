@@ -1,0 +1,8 @@
+3,4,5=birches
+3,4,5=craggardens
+3,4,5=flowery
+3,4,5=forests
+3,4,5=jungles
+3,4,5=magical
+3,4,5=roofed
+3,4=ultrajungle

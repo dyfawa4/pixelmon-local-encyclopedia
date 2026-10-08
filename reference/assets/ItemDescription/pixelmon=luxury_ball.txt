@@ -1,0 +1,2 @@
+捕获率x1。
+通过||itemButton=pixelmon:luxury_ball||收服的宝可梦在提升亲密度时，获得的亲密度+1。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f7004226716e527e"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"minecraft:bread"},"result":{"item":"pixelmon:curry_toast","count":1},"experience":2,"cookingtime":200}};

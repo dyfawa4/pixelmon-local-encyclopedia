@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3dd08bba9b0c0336"]={"json":{"attack":"超极巨化的布莉姆温使出的妖精属性攻击。会让对手陷入混乱状态。","description":"攻击目标造成伤害。让对手陷入混乱状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7effc914d006ac0b"]={"json":{"pokemon":"Stunfisk form:galarian","items":[{"item":"minecraft:cod","min":1,"max":3,"chance":1.0},{"item":"minecraft:terracotta","min":1,"max":2,"chance":0.5},{"item":"minecraft:iron_ingot","min":1,"max":2,"chance":0.3}]}};

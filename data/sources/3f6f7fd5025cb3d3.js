@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f6f7fd5025cb3d3"]={"json":{"Evolutions":[{"from":"Tyrogue","level":20,"to":"Hitmontop","conditions":[],"evoType":"leveling","moves":["Triple Kick"],"additionalProperties":{}}]}};

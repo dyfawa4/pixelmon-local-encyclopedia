@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_shiny_charm"]={"description":"右键可以获得闪光护符(附加装备)，开启后会使闪光宝可梦刷新率增加为原本的3倍。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"集齐所有宝可梦图鉴即可获得","ball":{}};

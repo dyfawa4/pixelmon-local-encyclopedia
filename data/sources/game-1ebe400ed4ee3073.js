@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1ebe400ed4ee3073"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"engineer.png"},{"filename":"hiker.png"},{"filename":"miner.png"}],"names":[{"name":"訓練家男孩"}],"chat":[{"opening":"我會展現給你明白岩石有多強。","win":"岩石掌控大局。","lose":"我是Rocky Man！"}]}};

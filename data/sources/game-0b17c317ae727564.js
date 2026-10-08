@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0b17c317ae727564"]={"json":{"type_id":"simple","id":"downcast","suffix":"ribbon.downcast.title","translation_key":"ribbon.downcast","description":"ribbon.downcast.description","icon":"pixelmon:textures/gui/ribbons/downcast.png"}};

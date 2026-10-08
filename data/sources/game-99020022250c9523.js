@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-99020022250c9523"]={"json":{"id":"Maushold","spawnInfos":[{"spec":"species:Maushold form:family_of_four","stringLocationTypes":["Indoors"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","condition":{"stringBiomes":["plains","all forests"]},"rarity":10.0}]}};

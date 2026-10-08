@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c14091232c77d11c"]={"json":{"id":"Carbink Grass","spawnInfos":[{"spec":"species:Carbink","stringLocationTypes":["Grass"],"minLevel":12,"maxLevel":23,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous","pixelmon:ultra_deep_sea"]},"rarity":90.0}]}};

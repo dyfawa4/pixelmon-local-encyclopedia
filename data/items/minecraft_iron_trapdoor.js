@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_iron_trapdoor"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":{"item":"minecraft:iron_ingot"}},"result":{"item":"minecraft:iron_trapdoor"},"source":"data/minecraft/recipes/iron_trapdoor.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

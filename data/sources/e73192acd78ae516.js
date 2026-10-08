@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e73192acd78ae516"]={"json":{"pokemon":"Golurk","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"minecraft:andesite","min":1,"max":4,"chance":0.5},{"item":"minecraft:soul_soil","min":1,"max":4,"chance":0.3},{"item":"pixelmon:soft_sand","min":1,"max":1,"chance":0.1}]}};

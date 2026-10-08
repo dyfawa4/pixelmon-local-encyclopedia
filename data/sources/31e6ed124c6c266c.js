@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:31e6ed124c6c266c"]={"json":{"pokemon":"Zoroark form:base","items":[{"item":"minecraft:bone","min":2,"max":3,"chance":1.0},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.5},{"item":"pixelmon:dusk_stone","min":1,"max":1,"chance":0.3},{"item":"pixelmon:black_glasses","min":1,"max":1,"chance":0.1}]}};

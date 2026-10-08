@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:hugepower"]={"description":"对战中\r\n使用非固定伤害类物理招式的伤害提升为原来的2倍。","holders":[[183,"",false],[184,"",false],[298,"",false],[303,"mega",false],[659,"",true],[660,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.HugePower"}};

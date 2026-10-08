@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b07def7d18a3fee9"]={"json":{"Evolutions":[{"from":"Girafarig","to":"Farigiraf","conditions":[{"evoConditionType":"move","attackName":"Twin Beam","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

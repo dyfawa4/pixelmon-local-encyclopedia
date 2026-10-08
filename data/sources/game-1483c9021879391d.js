@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1483c9021879391d"]={"json":{"id":"Pheromosa","spawnInfos":[{"spec":"species:Pheromosa","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_desert"]},"rarity":0.5}]}};

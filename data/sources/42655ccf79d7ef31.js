@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:42655ccf79d7ef31"]={"json":{"type":"pixelmon:crafting_shaped","mirrored":false,"group":"trade_holder","pattern":["BAA","AA "],"key":{"A":{"tag":"forge:ingots/aluminium"},"B":{"item":"pixelmon:poke_ball"}},"result":{"item":"pixelmon:trade_holder_right","count":1}}};

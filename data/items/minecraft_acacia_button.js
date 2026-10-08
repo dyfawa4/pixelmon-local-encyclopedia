@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_acacia_button"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"minecraft:acacia_planks"}],"result":{"item":"minecraft:acacia_button"},"source":"data/minecraft/recipes/acacia_button.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:shadowtag"]={"description":"对战中\r\n使对方全部不持有踩影特性的非幽灵属性宝可梦处于无法逃走状态，无法替换或逃走。","holders":[[94,"mega",false],[202,"",false],[360,"",false],[574,"",true],[575,"",true],[576,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ShadowTag"}};

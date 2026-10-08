@@ -1,0 +1,7 @@
+1=birches
+1=flowery
+1=forests
+1=magical
+1=redwoods
+1=roofed
+1=taigas

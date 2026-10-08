@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d63edfea0fa5d59e"]={"json":{"id":"Barbaracle","spawnInfos":[{"spec":"species:Barbaracle","stringLocationTypes":["Land","Rock Smash"],"minLevel":40,"maxLevel":54,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["beaches","pixelmon:ultra_deep_sea"]},"rarity":0.5}]}};

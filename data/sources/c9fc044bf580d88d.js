@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c9fc044bf580d88d"]={"json":{"Name":"Moody","Description":"每一回合，能力中的某项会大幅提高，而某项会降低。","Normal":[],"Hidden":["Remoraid","Octillery","Smeargle","Snorunt","Glalie","Bidoof","Bidoof form:sirdoofusiii","Bibarel","Scovillain"]}};

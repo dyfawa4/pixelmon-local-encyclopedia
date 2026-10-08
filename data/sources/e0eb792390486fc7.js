@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e0eb792390486fc7"]={"json":{"Evolutions":[{"from":"Rufflet","level":54,"to":"Braviary form:hisuian","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

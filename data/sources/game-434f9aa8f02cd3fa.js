@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-434f9aa8f02cd3fa"]={"json":{"id":"Drilbur","spawnInfos":[{"spec":"species:Drilbur","stringLocationTypes":["Underground"],"minLevel":23,"maxLevel":30,"typeID":"pokemon","condition":{"maxY":80},"anticondition":{"stringBiomes":["ultra space"]},"rarity":130.0}]}};

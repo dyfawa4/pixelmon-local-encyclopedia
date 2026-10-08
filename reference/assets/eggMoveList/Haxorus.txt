@@ -1,0 +1,5 @@
+Counter,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Nidoking,Slowbro,Cubone,Marowak,Marowak form:alolan,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Snorlax,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Flaaffy,Ampharos,Slowking,Tyranitar,Treecko,Grovyle,Sceptile,Marshtomp,Swampert,Whismur,Loudred,Exploud,Aggron,Shieldon,Bastiodon,Lickilicky,Rhyperior,Axew,Fraxure,Chewtle,Drednaw,Scraggy,Scrafty,Sliggoo form:hisuian,Goodra form:hisuian,Kommo-o
+Endeavor,Cubone,Marowak,Marowak form:alolan,Rhyhorn,Rhydon,Meganium,Totodile,Croconaw,Feraligatr,Mareep,Mareep form:shorn,Flaaffy,Ampharos,Treecko,Grovyle,Sceptile,Mudkip,Marshtomp,Swampert,Cranidos,Rampardos,Rhyperior,Axew,Fraxure,Haxorus,Salandit,Salazzle,Turtonator,Drampa,Gyarados,Swablu,Altaria,Seviper,Scraggy,Scrafty,Kommo-o,Flapple,Sandaconda
+First Impression,Axew,Fraxure,Vibrava,Flygon
+Harden,Snorlax,Aron,Lairon,Aggron,Axew,Fraxure,Bergmite,Avalugg,Avalugg form:hisuian
+Night Slash,Grovyle,Sceptile,Axew,Fraxure,Seviper

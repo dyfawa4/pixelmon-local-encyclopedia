@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a967d87f48f90ac8"]={"json":{"Name":"Klutz","Description":"无法使用持有的道具。","Normal":["Buneary","Lopunny","Woobat","Swoobat","Golett","Golurk","Stufful","Bewear"],"Hidden":["Audino","Toxel","Fidough","Capsakid"]}};

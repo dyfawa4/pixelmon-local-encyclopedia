@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-105ab1906d7004fc"]={"json":{"id":"Armaldo","spawnInfos":[{"spec":"species:Armaldo","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":5.0}]}};

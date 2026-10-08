@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ddaede1d8532b4eb"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"flyingleader1.png"}],"names":[{"name":"Icarus"}],"chat":[{"opening":"¡De modo que un aspirante alcanza la cima... solo para ser pateado de vuelta abajo!","win":"¡Sí, victoria! ¡Diviértete subiendo otra vez, chico!","lose":"Vaya... parece que soy yo el que ha caído..."}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d28eb5613ea9b4f3"]={"json":{"id":"Mega Kangaskhan","spawnInfos":[{"spec":"species:Kangaskhan","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["savannas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bd9731967aeb71c2"]={"json":{"pokemon":"Tropius","items":[{"item":"minecraft:apple","min":1,"max":3,"chance":1.0},{"item":"pixelmon:nanab_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:pinap_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:curry_tropical","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,4 @@
+3,4=freezingmountains
+3,4=mountainous
+3,4=savannas
+3,4=ultraplant

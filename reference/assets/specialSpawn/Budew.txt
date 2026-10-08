@@ -1,0 +1,1 @@
+通过||pokemonButton=Roselia||或||pokemonButton=Roserade||携带||itemButton=pixelmon:rose_incense||繁殖可得

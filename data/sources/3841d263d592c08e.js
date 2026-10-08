@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3841d263d592c08e"]={"json":{"description":"攻击目标造成伤害。\n对手使出的招式是先制攻击招式才能成功，否则招式会失败。\n快手还击会使尚未行动的目标陷入畏缩状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

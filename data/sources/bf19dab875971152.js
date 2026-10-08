@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bf19dab875971152"]={"json":{"id":"Mega Medicham","spawnInfos":[{"spec":"species:Medicham","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous forests","freezing mountains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

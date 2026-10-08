@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5fe0f0508d9f1372"]={"json":{"type_id":"simple","id":"snooze","suffix":"ribbon.snooze.title","translation_key":"ribbon.snooze","description":"ribbon.snooze.description","icon":"pixelmon:textures/gui/ribbons/snooze.png"}};

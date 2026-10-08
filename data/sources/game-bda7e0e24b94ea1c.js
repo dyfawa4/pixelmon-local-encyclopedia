@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bda7e0e24b94ea1c"]={"json":{"id":"Dondozo","spawnInfos":[{"spec":"species:Dondozo","stringLocationTypes":["Water"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["oceanic"]},"rarity":70.0}]}};

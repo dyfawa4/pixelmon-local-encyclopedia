@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c529fcf751536a60"]={"json":{"id":"SlitherWing","spawnInfos":[{"spec":"species:SlitherWing","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:booster_energy","percentChance":5}],"condition":{"stringBiomes":["minecraft:small_end_islands"]},"rarity":5.0}]}};

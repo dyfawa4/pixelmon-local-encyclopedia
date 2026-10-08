@@ -1,0 +1,5 @@
+对||pokemonButton=Gloom||使用，使其进化为||pokemonButton=Bellossom||。
+对||pokemonButton=Sunkern||使用，使其进化为||pokemonButton=Sunflora||。
+对||pokemonButton=Cottonee||使用，使其进化为||pokemonButton=Whimsicott||。
+对||pokemonButton=Petilil||使用，使其进化为||pokemonButton=Lilligant||或||pokemonButton=Lilligant form:hisuian||。
+对||pokemonButton=Helioptile||使用，使其进化为||pokemonButton=Heliolisk||。

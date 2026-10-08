@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bf5e635ccd2b9a44"]={"json":{"id":"Eevee Sweet Scent","spawnInfos":[{"spec":"species:Eevee","stringLocationTypes":["Sweet Scent"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["birches"]},"rarity":50.0}]}};

@@ -1,0 +1,2 @@
+1,2=jungles
+1,2=taigas

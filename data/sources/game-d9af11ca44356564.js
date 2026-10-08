@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d9af11ca44356564"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" I ","D D"],"key":{"I":{"item":"minecraft:iron_block"},"D":{"tag":"forge:dyes/red"}},"result":{"item":"pixelmon:poke_center_sign","count":1}}};

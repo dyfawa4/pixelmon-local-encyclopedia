@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7a06206eaa222b22"]={"text":"minecraft:snowy_mountains\r\nminecraft:snowy_taiga_hills\r\nminecraft:snowy_taiga_mountains\r\nbiomesoplenty:alps\r\nbyg:alps\r\npixelmon:mount_lanakila\r\n"};

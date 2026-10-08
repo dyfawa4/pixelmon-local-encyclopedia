@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:91f08b99751fa6f3"]={"json":{"Evolutions":[{"from":"Rockruff","level":25,"to":"Lycanroc form:dusk","conditions":[{"time":"DUSK","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Crush Claw"],"additionalProperties":{}}]}};

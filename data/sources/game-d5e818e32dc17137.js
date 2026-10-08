@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d5e818e32dc17137"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"rockleader1.png"}],"names":[{"name":"Lithos"}],"chat":[{"opening":"I will rock you.","win":"Somebody betta put you back into your place.","lose":"You waved your banner on my place."}]}};

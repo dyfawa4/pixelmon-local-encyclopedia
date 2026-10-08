@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4da9096a278511f5"]={"json":{"name":"pixelmon:gyms/electric/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:gyms/electric/gym_electric","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

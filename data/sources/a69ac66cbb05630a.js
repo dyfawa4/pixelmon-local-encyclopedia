@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a69ac66cbb05630a"]={"json":{"id":"Wynaut","spawnInfos":[{"spec":"species:Wynaut","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":10,"typeID":"pokemon","condition":{"stringBiomes":["end"]},"rarity":0.5}]}};

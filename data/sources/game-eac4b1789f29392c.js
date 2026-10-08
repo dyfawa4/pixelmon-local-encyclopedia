@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-eac4b1789f29392c"]={"json":{"id":"Kartana","spawnInfos":[{"spec":"species:Kartana","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_forest"]},"rarity":0.5}]}};

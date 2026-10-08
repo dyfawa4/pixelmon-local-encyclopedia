@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7679183cefba0380"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","conditions":[{"condition":"minecraft:block_state_property","block":"pixelmon:yellow_berry_wood_door","properties":{"half":"lower"}}],"name":"pixelmon:yellow_berry_wood_door"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3a45093781028ea9"]={"json":{"Name":"EarlyBird","Description":"即使变为睡眠状态，也能以2倍的速度提早醒来。","Normal":["Doduo","Dodrio","Kangaskhan","Ledyba","Ledian","Natu","Xatu","Girafarig","Houndour","Houndoom","Seedot","Nuzleaf","Shiftry","Smoliv","Dolliv"],"Hidden":["Sunkern","Sunflora"]}};

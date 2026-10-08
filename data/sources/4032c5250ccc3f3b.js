@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4032c5250ccc3f3b"]={"json":{"Name":"StrongJaw","Description":"因为颚部强壮，啃咬类招式的威力会提高。","Normal":["Sharpedo form:mega","Tyrunt","Tyrantrum","Avalugg form:hisuian","Yungoos","Gumshoos","Bruxish","Chewtle","Drednaw","Boltund","Dracovish"],"Hidden":[]}};

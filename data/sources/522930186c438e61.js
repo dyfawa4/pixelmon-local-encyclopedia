@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:522930186c438e61"]={"json":{"rewards":{"recipes":["pixelmon:equipment/silicon/silicon_block","pixelmon:equipment/silicon/silicon_from_block"]},"criteria":{"has_silicon":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"tag":"forge:gems/silicon"}]}}},"requirements":[["has_silicon"]]}};

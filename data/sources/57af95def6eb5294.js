@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:57af95def6eb5294"]={"text":"||bigFont=对战中||\r\n携带者使用优先度相同的技能时必定后手。不受戏法空间影响。\r\n获得、失去或禁用（使用招式魔法空间、查封）该道具的影响在操作的下一回合才能生效。\r\n\r\n||bigFont=对战外||\r\n携带该道具的||pokemonButton=Snorlax||♀生蛋，孵化出的子代为||pokemonButton=Munchlax||。\r\n携带该道具的||pokemonButton=Snorlax||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Munchlax||。\r\n也可以当做装饰性方块放下来。"};

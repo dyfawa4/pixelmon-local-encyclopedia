@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e441e9e9adbc1822"]={"json":{"id":"Patrat","spawnInfos":[{"spec":"species:Patrat","stringLocationTypes":["Land"],"minLevel":6,"maxLevel":17,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas","plains"]},"rarity":300.0}]}};

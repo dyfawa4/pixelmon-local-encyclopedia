@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b58b4e5fdeccaec2"]={"json":{"id":"Archeops","spawnInfos":[{"spec":"species:Archeops","stringLocationTypes":["Tree Top"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":5.0}]}};

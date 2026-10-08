@@ -1,0 +1,1 @@
+可以让||pokemonButton=Mewtwo||在对战中mega进化为||pokemonButton=Mewtwo form:megax||

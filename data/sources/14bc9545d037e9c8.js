@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:14bc9545d037e9c8"]={"json":{"pokemon":"Dragapult","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"minecraft:rotten_flesh","min":1,"max":3,"chance":0.5},{"item":"pixelmon:ring_target","min":1,"max":1,"chance":0.3},{"item":"pixelmon:ghost_gem","min":1,"max":1,"chance":0.1}]}};

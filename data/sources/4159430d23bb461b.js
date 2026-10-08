@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4159430d23bb461b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SSS","GLG","SRS"],"key":{"S":{"item":"minecraft:stone"},"G":{"item":"minecraft:glass_pane"},"L":{"item":"minecraft:redstone_lamp"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:tv","count":1}}};

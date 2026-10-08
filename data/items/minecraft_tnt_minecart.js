@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_tnt_minecart"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["A","B"],"key":{"A":{"item":"minecraft:tnt"},"B":{"item":"minecraft:minecart"}},"result":{"item":"minecraft:tnt_minecart"},"source":"data/minecraft/recipes/tnt_minecart.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

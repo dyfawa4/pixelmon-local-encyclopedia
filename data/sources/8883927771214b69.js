@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8883927771214b69"]={"text":"Endeavor,Gyarados,Luvdisc,Wishiwashi form:solo,Wishiwashi form:school,Basculegion form:male,Basculegion form:female,Palafin form:zero,Veluza\r\nLast Respects,Basculegion form:male,Basculegion form:female\r\n"};

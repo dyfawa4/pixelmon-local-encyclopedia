@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1b595f94b896eaea"]={"json":{"id":"Chatot Grass","spawnInfos":[{"spec":"species:Chatot","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":30,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:metronome","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["jungles"]},"rarity":90.0}]}};

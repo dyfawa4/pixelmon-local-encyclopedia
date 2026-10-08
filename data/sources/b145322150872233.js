@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b145322150872233"]={"json":{"Evolutions":[{"from":"Sprigatito","level":16,"to":"Floragato","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Floragato","level":36,"to":"Meowscarada","conditions":[],"evoType":"leveling","moves":["Flower Trick"],"additionalProperties":{}}]}};

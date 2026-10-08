@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ca621722229ef66"]={"json":{"Evolutions":[{"from":"Clobbopus","to":"Grapploct","conditions":[{"evoConditionType":"move","attackName":"Taunt","additionalProperties":{}}],"evoType":"leveling","moves":["Octolock"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d3e121c8b4207ee4"]={"json":{"type":"minecraft:crafting_shaped","pattern":["AAA","AGA","AAA"],"key":{"A":{"tag":"forge:ingots/aluminium"},"G":{"item":"minecraft:glass_pane"}},"result":{"item":"pixelmon:trade_monitor","count":1}}};

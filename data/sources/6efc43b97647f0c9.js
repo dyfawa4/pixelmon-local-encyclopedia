@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6efc43b97647f0c9"]={"json":{"pokemon":"Blissey","items":[{"item":"minecraft:egg","min":1,"max":3,"chance":1.0},{"item":"pixelmon:grepa_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:lucky_egg","min":1,"max":1,"chance":0.3},{"item":"pixelmon:ever_stone","min":1,"max":1,"chance":0.1}]}};

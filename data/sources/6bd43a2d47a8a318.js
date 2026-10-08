@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6bd43a2d47a8a318"]={"json":{"Evolutions":[{"from":"Meowth","level":28,"to":"Persian","conditions":[],"evoType":"leveling","moves":["Power Gem"],"additionalProperties":{}}]}};

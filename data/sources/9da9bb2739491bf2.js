@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9da9bb2739491bf2"]={"json":{"pokemon":"Registeel","items":[{"item":"pixelmon:platinum_ingot","min":2,"max":5,"chance":1.0},{"item":"pixelmon:babiri_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:steel_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:metal_coat","min":1,"max":1,"chance":0.1}]}};

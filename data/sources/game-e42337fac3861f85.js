@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e42337fac3861f85"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" B "," XL"," S "],"key":{"X":{"item":"minecraft:clay"},"L":{"item":"minecraft:stone_slab"},"S":{"tag":"forge:rods/wooden"},"B":{"item":"pixelmon:poke_ball"}},"result":{"item":"pixelmon:mug_ball","count":1}}};

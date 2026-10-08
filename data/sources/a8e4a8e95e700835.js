@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a8e4a8e95e700835"]={"json":{"id":"Regidrago","spawnInfos":[{"spec":"species:Regidrago level:40","stringLocationTypes":["Manmade"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["hellish"]},"rarity":1.0}]}};

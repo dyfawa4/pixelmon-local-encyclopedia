@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c0ef216e61ce7225"]={"json":{"Evolutions":[{"from":"Tyrunt","level":39,"to":"Tyrantrum","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

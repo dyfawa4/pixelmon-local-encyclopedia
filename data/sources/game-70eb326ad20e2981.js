@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-70eb326ad20e2981"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:chesto_berry","count":2},{"type":"forge:nbt","item":"pixelmon:poke_ball","nbt":{"PokeBallID":"dusk_ball"}}],"results":{"item":"pixelmon:poke_ball","count":1,"nbt":{"PokeBallID":"dream_ball"}}}};

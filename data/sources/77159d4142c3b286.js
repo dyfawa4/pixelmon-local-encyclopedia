@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:77159d4142c3b286"]={"json":{"type_id":"simple","id":"pair_ability","suffix":"ribbon.pair_ability.title","translation_key":"ribbon.pair_ability","description":"ribbon.pair_ability.description","icon":"pixelmon:textures/gui/ribbons/pair_ability.png"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:62778086d1ded201"]={"json":{"pokemon":"Turtwig","items":[{"item":"minecraft:tall_grass","min":1,"max":2,"chance":1.0},{"item":"minecraft:scute","min":1,"max":1,"chance":0.1}]}};

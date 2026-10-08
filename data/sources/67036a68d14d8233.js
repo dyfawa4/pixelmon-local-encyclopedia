@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:67036a68d14d8233"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:zombie"],"replacement_logic":"simple","specs":["cubone","garbodor","cacturne","trevenant","cofagrigus"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:filter"]={"description":"对战中\r\n效果绝佳招式造成的伤害降低1⁄4。","holders":[[122,"",false],[306,"mega",false],[439,"",false],[966,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Filter"}};

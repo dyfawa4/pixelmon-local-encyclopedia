@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c142ddb27e90d938"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:llama","minecraft:trader_llama"],"replacement_logic":"simple","specs":["numel"]}};

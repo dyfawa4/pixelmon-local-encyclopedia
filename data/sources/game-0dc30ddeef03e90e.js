@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0dc30ddeef03e90e"]={"json":{"id":"Palossand","spawnInfos":[{"spec":"species:Palossand","stringLocationTypes":["Land"],"minLevel":42,"maxLevel":55,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:spell_tag","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["beaches"]},"rarity":6.0}]}};

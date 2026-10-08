@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7c8ddbd5c0cc6ed7"]={"json":{"pokemon":"Rotom form:heat","items":[{"item":"minecraft:redstone","min":1,"max":3,"chance":1.0},{"item":"pixelmon:cell_battery","min":1,"max":1,"chance":0.5},{"item":"pixelmon:fire_gem","min":1,"max":1,"chance":0.3},{"item":"minecraft:furnace","min":1,"max":1,"chance":0.1}]}};

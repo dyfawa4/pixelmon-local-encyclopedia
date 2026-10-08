@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:galewings"]={"description":"对战中\r\n在ＨＰ全满时，对战中使用的飞行属性招式优先度+1。对原本优先度为正的招式及觉醒力量、自然之恩无效。\r\n如果使用的招式本身优先度为0，经过疾风之翼的加成后优先度为正，则可以被快速防守所抵挡。\r\n疾风之翼对Ｚ招式以及极巨招式有效。如果宝可梦发动该特性并使用极速俯冲轰烈撞、极巨飞冲时，目标正处于快速防守状态，攻击也能成功但伤害减少到原来的1⁄4。","holders":[[661,"",true],[662,"",true],[663,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.GaleWings"}};

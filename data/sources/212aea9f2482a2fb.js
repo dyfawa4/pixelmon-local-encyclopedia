@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:212aea9f2482a2fb"]={"json":{"Evolutions":[{"from":"Vulpix","item":{"itemID":"pixelmon:fire_stone","additionalProperties":{}},"to":"Ninetales","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

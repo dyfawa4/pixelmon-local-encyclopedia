@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:777a4784df717f04"]={"json":{"pokemon":"Falinks","items":[{"item":"minecraft:brick","min":1,"max":2,"chance":1.0},{"item":"pixelmon:pokemail_brick","min":1,"max":2,"chance":0.5},{"item":"minecraft:shield","min":1,"max":1,"chance":0.3},{"item":"pixelmon:rocky_helmet","min":1,"max":1,"chance":0.1}]}};

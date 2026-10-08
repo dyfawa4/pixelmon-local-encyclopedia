@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8f78c171b3ee9367"]={"json":{"pokemon":"IronThorns","items":[{"item":"minecraft:polished_andesite","min":2,"max":4,"chance":1.0},{"item":"pixelmon:electric_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:hard_stone","min":1,"max":1,"chance":0.1}]}};

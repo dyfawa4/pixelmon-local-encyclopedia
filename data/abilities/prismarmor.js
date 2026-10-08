@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:prismarmor"]={"description":"对战中\r\n效果绝佳招式造成的伤害降低1⁄4。","holders":[[800,"",false],[800,"dusk",false],[800,"dawn",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PrismArmor"}};

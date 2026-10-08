@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6c883b01d7c307b1"]={"json":{"pokemon":"Scolipede","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:spider_eye","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poison_barb","min":1,"max":2,"chance":0.3},{"item":"pixelmon:silver_powder","min":1,"max":1,"chance":0.1}]}};

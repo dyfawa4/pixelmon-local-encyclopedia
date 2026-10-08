@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-573c3e8afd3652f1"]={"json":{"type":"minecraft:crafting_shaped","group":"bark","pattern":["##","##"],"key":{"#":{"item":"pixelmon:stripped_ultra_gingko_log"}},"result":{"item":"pixelmon:stripped_ultra_gingko_wood","count":3}}};

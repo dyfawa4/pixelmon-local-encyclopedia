@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a1a41a2a8d3279e4"]={"json":{"pokemon":"Crustle","items":[{"item":"minecraft:stone","min":1,"max":3,"chance":1.0},{"item":"minecraft:granite","min":1,"max":2,"chance":0.5},{"item":"minecraft:spider_eye","min":1,"max":2,"chance":0.3},{"item":"pixelmon:rock_gem","min":1,"max":1,"chance":0.1}]}};

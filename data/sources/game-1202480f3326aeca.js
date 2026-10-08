@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1202480f3326aeca"]={"json":{"id":"Skwovet","spawnInfos":[{"spec":"species:Skwovet","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:oran_berry","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["freezing forests","all forests"]},"rarity":250.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a0d5727f1466d781"]={"text":"对||pokemonButton=Murkrow||使用，使其进化为||pokemonButton=Honchkrow||。\r\n对||pokemonButton=Misdreavus||使用，使其进化为||pokemonButton=Mismagius||。\r\n对||pokemonButton=Lampent||使用，使其进化为||pokemonButton=Chandelure||。\r\n对||pokemonButton=Doublade||使用，使其进化为||pokemonButton=Aegislash form:shield||。"};

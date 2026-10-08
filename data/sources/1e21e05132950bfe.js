@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1e21e05132950bfe"]={"json":{"Name":"Limber","Description":"因为身体柔软，不会变为麻痹状态。","Normal":["Persian","Hitmonlee","Ditto","Glameow","Purrloin","Liepard","Stunfisk","Hawlucha","Mareanie","Toxapex","Clobbopus","Grapploct"],"Hidden":["Buneary","Lopunny"]}};

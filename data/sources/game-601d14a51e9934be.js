@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-601d14a51e9934be"]={"json":{"id":"Mega Manectric","spawnInfos":[{"spec":"species:Manectric","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["NIGHT"],"stringBiomes":["plains","savannas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

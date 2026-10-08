@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_jungle_button"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"minecraft:jungle_planks"}],"result":{"item":"minecraft:jungle_button"},"source":"data/minecraft/recipes/jungle_button.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

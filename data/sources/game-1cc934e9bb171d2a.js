@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1cc934e9bb171d2a"]={"json":{"type":"minecraft:crafting_shaped","pattern":["I I"," B "],"key":{"I":{"tag":"forge:ingots/iron"},"B":{"item":"minecraft:bucket"}},"result":{"item":"pixelmon:trash_can","count":1}}};

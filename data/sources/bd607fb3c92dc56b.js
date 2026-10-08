@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bd607fb3c92dc56b"]={"json":{"Evolutions":[{"from":"Dratini","level":30,"to":"Dragonair","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Dragonair","level":55,"to":"Dragonite","conditions":[],"evoType":"leveling","moves":["Hurricane"],"additionalProperties":{}}]}};

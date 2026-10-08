@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f41e3920669d7cd7"]={"json":{"id":"Petilil","spawnInfos":[{"spec":"species:Petilil","stringLocationTypes":["Land","Sweet Scent"],"minLevel":13,"maxLevel":27,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:absorb_bulb","percentChance":5}],"condition":{"times":["MORNING"],"stringBiomes":["flowery"]},"rarity":90.0}]}};

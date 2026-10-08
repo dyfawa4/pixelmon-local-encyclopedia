@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4be31fdcc209b3d8"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  E"," MS","ESE"],"key":{"E":{"item":"minecraft:end_stone"},"M":{"item":"pixelmon:moon_stone"},"S":{"item":"pixelmon:moon_stone_shard"}},"result":{"item":"pixelmon:meteorite","count":1}}};

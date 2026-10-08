@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fc06f201e176c656"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"Greg"}],"chat":[{"lines":[{"text":"Benvenuto nella palestra ruscello."},{"text":"Il nostro capopalestra ama l'acqua, quindi non vorrai far affogare i tuoi tipi fuoco; non è così?"},{"text":"Vedremo se i tuoi Pokémon potranno resistere al temporale!"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2a1abf220ada6d61"]={"json":{"id":"Mothim","spawnInfos":[{"spec":"species:Mothim","stringLocationTypes":["Air","Headbutt","Sweet Scent"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:silver_powder","percentChance":5}],"condition":{"times":["DUSK","NIGHT"],"stringBiomes":["taigas","redwoods"]},"rarity":6.0}]}};

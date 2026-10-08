@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:38d09f5ec374c171"]={"json":{"Evolutions":[{"from":"Bulbasaur","level":16,"to":"Ivysaur","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Ivysaur","level":32,"to":"Venusaur","conditions":[],"evoType":"leveling","moves":["Petal Blizzard"],"additionalProperties":{}}]}};

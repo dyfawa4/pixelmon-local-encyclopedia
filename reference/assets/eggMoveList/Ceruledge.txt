@@ -1,0 +1,4 @@
+Night Slash,Gallade,Pawniard,Bisharp,Pangoro,Ceruledge,Kingambit
+Quick Guard,Hitmonchan,MrMime,Hitmontop,Meditite,Medicham,Chimchar,Monferno,Infernape,Lucario,Gallade,Sawk,Mienfoo,Mienshao,Ceruledge
+Shadow Sneak,Ralts,Kirlia,Sableye,Ceruledge
+Solar Blade,Gallade,Ceruledge

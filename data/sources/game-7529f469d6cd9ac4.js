@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7529f469d6cd9ac4"]={"json":{"id":"Bergmite Rocksmash","spawnInfos":[{"spec":"species:Bergmite","stringLocationTypes":["Rock Smash"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"stringBiomes":["freezing"]},"rarity":100.0}]}};

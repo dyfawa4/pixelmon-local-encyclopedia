@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:04732707c3d7a06d"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"psychic_f.png"}],"names":[{"name":"Psychic"}],"chat":[{"opening":"Du wirst nie die Spitze erreichen!","win":"Woohoo! Was ist los? Kannst du nicht zum Sieg fliegen?","lose":"Du hast nur aus purem Glück gewonnen!"}]}};

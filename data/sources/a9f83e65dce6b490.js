@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a9f83e65dce6b490"]={"json":{"id":"Inkay","spawnInfos":[{"spec":"species:Inkay","stringLocationTypes":["Land"],"minLevel":18,"maxLevel":29,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["beaches"]},"anticondition":{"stringBiomes":["freezing"]},"rarity":90.0}]}};

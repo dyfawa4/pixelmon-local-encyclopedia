@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-21403f233c53842a"]={"json":{"id":"Trapinch","spawnInfos":[{"spec":"species:Trapinch","stringLocationTypes":["Land","Forage"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:soft_sand","percentChance":5}],"condition":{"stringBiomes":["arid"]},"rarity":170.0}]}};

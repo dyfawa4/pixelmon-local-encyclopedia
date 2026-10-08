@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c35c8d61c59a1ccc"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:phantom"],"replacement_logic":"simple","specs":["duskull","dusknoir"]}};

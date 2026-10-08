@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:435f9d56ead8166a"]={"json":{"attack":"极巨化宝可梦使出的钢属性攻击。会提高我方的防御。","description":"攻击目标造成伤害。使全部我方宝可梦的防御上升1级。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

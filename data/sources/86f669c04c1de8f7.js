@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:86f669c04c1de8f7"]={"json":{"pokemon":"Naganadel","items":[{"item":"minecraft:slime_ball","min":3,"max":6,"chance":1.0},{"item":"pixelmon:beast_ball","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.1}]}};

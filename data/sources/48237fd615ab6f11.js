@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:48237fd615ab6f11"]={"json":{"pokemon":"Piloswine","items":[{"item":"minecraft:porkchop","min":1,"max":3,"chance":1.0},{"item":"minecraft:leather","min":1,"max":2,"chance":0.5},{"item":"minecraft:packed_ice","min":1,"max":2,"chance":0.3},{"item":"pixelmon:occa_berry","min":1,"max":1,"chance":0.1}]}};

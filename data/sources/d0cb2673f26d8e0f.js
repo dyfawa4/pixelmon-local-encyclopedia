@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d0cb2673f26d8e0f"]={"json":{"type":"minecraft:crafting_shaped","pattern":["RNS","NXN","NNN"],"key":{"N":{"item":"minecraft:netherite_scrap"},"R":{"item":"pixelmon:ruby"},"S":{"item":"pixelmon:sapphire"},"X":{"item":"minecraft:nether_star"}},"result":{"item":"pixelmon:mystery_box"}}};

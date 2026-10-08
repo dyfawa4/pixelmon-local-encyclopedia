@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-38e12e5855815425"]={"json":{"id":"Spinda","spawnInfos":[{"spec":"species:Spinda","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:gravelly_mountains","minecraft:modified_gravelly_mountains"]},"rarity":90.0}]}};

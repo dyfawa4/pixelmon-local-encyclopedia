@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4c742cf74eb9b39"]={"text":"在结构||structureButton=ilex||中，拿着||itemButton=pixelmon:gs_ball||对着其中的||itemButton=pixelmon:ilex_shrine||使用即可召唤"};

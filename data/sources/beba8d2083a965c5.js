@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:beba8d2083a965c5"]={"json":{"pokemon":"Sneasel form:base","items":[{"item":"minecraft:snowball","min":1,"max":2,"chance":1.0},{"item":"minecraft:ice","min":1,"max":2,"chance":0.5},{"item":"pixelmon:razor_claw","min":1,"max":1,"chance":0.1}]}};

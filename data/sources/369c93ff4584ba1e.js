@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:369c93ff4584ba1e"]={"json":{"pokemon":"Zapdos form:galarian","items":[{"item":"pixelmon:bright_powder","min":1,"max":3,"chance":1.0},{"item":"pixelmon:fighting_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:sharp_beak","min":1,"max":1,"chance":0.1}]}};

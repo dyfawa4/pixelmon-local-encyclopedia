@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0219f0dd17da0dcf"]={"json":{"pokemon":"Qwilfish form:hisuian","items":[{"item":"minecraft:pufferfish","min":1,"max":2,"chance":1.0},{"item":"pixelmon:sticky_barb","min":1,"max":1,"chance":0.5},{"item":"pixelmon:poison_barb","min":1,"max":1,"chance":0.1}]}};

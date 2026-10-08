@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9277fb60aef62549"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"grassleader2.png"}],"names":[{"name":"Aloe"}],"chat":[{"opening":"¡Has cruzado el prado solo para perder!","win":"¡Gané! Ahora, vete; Tengo mejores Entrenadores con los que enfrentarme.","lose":"No puedo creer que me hayas derrotado..."}]}};

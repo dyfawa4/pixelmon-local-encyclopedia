@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:096be92dae628028"]={"text":"携带该道具的宝可梦如果参与了对战，对战结束后获得的零花钱加倍。\r\n能和欢乐时光叠加。\r\n不能和||itemButton=pixelmon:luck_incense||叠加。\r\n||itemButton=pixelmon:amulet_coin||不受笨拙特性影响。携带该道具的宝可梦濒死或宝可梦处于拍落状态，该道具依然生效。"};

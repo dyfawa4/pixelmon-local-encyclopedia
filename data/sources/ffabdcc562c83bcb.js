@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ffabdcc562c83bcb"]={"text":"||pokemonButton=Lunala||和||pokemonButton=Necrozma form:dawn||携带后，可以把||moveButton=Moongeist Beam||转化成特殊的Z招式：||moveButton=Menacing Moonraze Maelstrom||。"};

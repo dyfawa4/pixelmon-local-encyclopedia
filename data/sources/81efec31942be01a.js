@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:81efec31942be01a"]={"json":{"name":"pixelmon:ultra_space","ultrawarm":false,"natural":false,"coordinate_scale":4,"has_skylight":true,"has_ceiling":false,"ambient_light":0,"piglin_safe":true,"bed_works":false,"respawn_anchor_works":true,"has_raids":true,"logical_height":256,"infiniburn":"minecraft:infiniburn_overworld","effects":"pixelmon:ultra_space"}};

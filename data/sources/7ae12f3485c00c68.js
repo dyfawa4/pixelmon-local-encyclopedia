@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7ae12f3485c00c68"]={"json":{"Evolutions":[{"from":"Woobat","to":"Swoobat","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

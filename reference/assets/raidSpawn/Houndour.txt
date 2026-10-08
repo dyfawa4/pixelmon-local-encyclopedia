@@ -1,0 +1,5 @@
+1,2=badlands
+1,2=deserts
+1,2=nether
+1,2=subzerohypogeal
+1,2=volcano

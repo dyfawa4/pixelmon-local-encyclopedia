@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Sneasel form:hisuian","item":{"itemID":"pixelmon:razor_claw","additionalProperties":{}},"to":"Sneasler","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"interact","additionalProperties":{}}]}

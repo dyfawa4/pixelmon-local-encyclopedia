@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:steelworker"]={"description":"对战中\r\n拥有钢能力者特性的宝可梦使用钢属性招式的威力会提高50%。","holders":[[781,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Steelworker"}};

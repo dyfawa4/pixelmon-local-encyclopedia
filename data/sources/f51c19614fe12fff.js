@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f51c19614fe12fff"]={"json":{"type":"minecraft:crafting_shaped","pattern":["ITI"," G "],"key":{"I":{"tag":"forge:ingots/iron"},"T":{"item":"minecraft:torch"},"G":{"item":"minecraft:glass_pane"}},"result":{"item":"pixelmon:street_light","count":1}}};

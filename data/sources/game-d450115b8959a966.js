@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d450115b8959a966"]={"json":{"type_id":"simple","id":"day_care","suffix":"ribbon.day_care.title","translation_key":"ribbon.day_care","description":"ribbon.day_care.description","icon":"pixelmon:textures/gui/ribbons/day_care.png"}};

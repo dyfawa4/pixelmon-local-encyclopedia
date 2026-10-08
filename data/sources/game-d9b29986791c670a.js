@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d9b29986791c670a"]={"json":{"id":"Nickit","spawnInfos":[{"spec":"species:Nickit","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":17,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["forests","roofed","taigas","biomesoplenty:burnt_forest"]},"rarity":50.0}]}};

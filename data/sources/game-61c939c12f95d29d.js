@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-61c939c12f95d29d"]={"json":{"id":"Scatterbug Forage","spawnInfos":[{"spec":"species:Scatterbug","stringLocationTypes":["Forage"],"minLevel":4,"maxLevel":8,"typeID":"pokemon","condition":{"stringBiomes":["birches"]},"rarity":10.0}]}};

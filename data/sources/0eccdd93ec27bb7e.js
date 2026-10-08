@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0eccdd93ec27bb7e"]={"json":{"Evolutions":[{"from":"Beldum","level":20,"to":"Metang","conditions":[],"evoType":"leveling","moves":["Metal Claw","Confusion"],"additionalProperties":{}},{"from":"Metang","level":45,"to":"Metagross","conditions":[],"evoType":"leveling","moves":["Hammer Arm"],"additionalProperties":{}}]}};

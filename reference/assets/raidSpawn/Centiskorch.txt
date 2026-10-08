@@ -1,0 +1,5 @@
+4,5=badlands
+4,5=burntforest
+4,5=deserts
+4,5=nether
+4=ultradesert

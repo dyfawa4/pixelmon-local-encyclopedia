@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9198a91e0d4ba356"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"miner.png"}],"names":[{"name":"Minatore"}],"chat":[{"opening":"Utilizzerò la forza della Terra per sconfiggerti!","win":"Adesso ho bisogno di una pala.","lose":"Mi hai seppellito!"}]}};

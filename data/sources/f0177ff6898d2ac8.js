@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f0177ff6898d2ac8"]={"json":{"id":"Cetoddle","spawnInfos":[{"spec":"species:Cetoddle","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:frozen_ocean","minecraft:snowy_beach","byg:shattered_glacier","byg:snowy_black_beach","byg:snowy_rocky_black_beach"]},"rarity":90.0}]}};

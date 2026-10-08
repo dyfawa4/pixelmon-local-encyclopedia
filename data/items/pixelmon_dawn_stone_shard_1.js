@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_dawn_stone_shard_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:dawn_stone_ore"},"result":"pixelmon:dawn_stone_shard","experience":0.7,"cookingtime":200},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

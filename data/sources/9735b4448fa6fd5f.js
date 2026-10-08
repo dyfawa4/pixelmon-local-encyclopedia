@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9735b4448fa6fd5f"]={"json":{"pokemon":"Nihilego","items":[{"item":"minecraft:cobblestone","min":3,"max":6,"chance":1.0},{"item":"pixelmon:beast_ball","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.1}]}};

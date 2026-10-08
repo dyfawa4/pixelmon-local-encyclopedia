@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bc06ac233a6c80a0"]={"json":{"pokemon":"Wimpod","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:prismarine_crystals","min":1,"max":2,"chance":0.5},{"item":"pixelmon:shed_shell","min":1,"max":1,"chance":0.1}]}};

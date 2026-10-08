@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c7bdcd61fa804f54"]={"json":{"id":"Seedot","spawnInfos":[{"spec":"species:Seedot","stringLocationTypes":["Land","Headbutt","Sweet Scent"],"minLevel":2,"maxLevel":13,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:power_herb","percentChance":5}],"condition":{"stringBiomes":["redwoods","taigas"]},"rarity":130.0}]}};

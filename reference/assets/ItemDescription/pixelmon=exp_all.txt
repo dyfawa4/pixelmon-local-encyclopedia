@@ -1,0 +1,4 @@
+手持||itemButton=pixelmon:exp_all||使用，可以设置其开启与关闭。开启后，所有未参与战斗的宝可梦都会获得50%的战斗经验与全额的基础点数。
+不会与||itemButton=pixelmon:exp_share||的效果相互叠加，两者效果只会重叠。
+未参与战斗的宝可梦如果携带了||itemButton=pixelmon:lucky_egg||，分享到的战斗经验也会增加50%。
+未参与战斗的宝可梦如果携带了||itemButton=pixelmon:power_bracer||、||itemButton=pixelmon:power_belt||、||itemButton=pixelmon:power_lens||、||itemButton=pixelmon:power_band||、||itemButton=pixelmon:power_weight||、||itemButton=pixelmon:power_anklet||，则其在分配到基础点数的时候也会额外获得对应道具的基础点数。未参与战斗的宝可梦如果携带了||itemButton=pixelmon:macho_brace||，分享到的基础点数也会翻倍。

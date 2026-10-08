@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b8c8082565ae1156"]={"json":{"pokemon":"Copperajah","items":[{"item":"minecraft:beef","min":2,"max":4,"chance":1.0},{"item":"minecraft:iron_ingot","min":1,"max":3,"chance":0.5},{"item":"minecraft:iron_block","min":1,"max":1,"chance":0.3},{"item":"pixelmon:lagging_tail","min":1,"max":1,"chance":0.1}]}};

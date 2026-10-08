@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dfe8850642150a5f"]={"json":{"Evolutions":[{"from":"Snover","level":40,"to":"Abomasnow","conditions":[],"evoType":"leveling","moves":["Ice Punch"],"additionalProperties":{}}]}};

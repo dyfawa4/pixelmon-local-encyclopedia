@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ad63e7fbeaf4b11a"]={"json":{"type_id":"simple","id":"tower_master","suffix":"ribbon.tower_master.title","translation_key":"ribbon.tower_master","description":"ribbon.tower_master.description","icon":"pixelmon:textures/gui/ribbons/tower_master.png"}};

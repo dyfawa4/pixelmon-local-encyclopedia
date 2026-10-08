@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ad7f9eddbe0d2f80"]={"json":{"id":"Comfey Grass","spawnInfos":[{"spec":"species:Comfey","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["flowery"]},"rarity":30.0}]}};

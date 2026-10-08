@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:930519fda16dc5ad"]={"json":{"Name":"HadronEngine","Description":"出场时，会布下电气场地。处于电气场地时，会通过未来的机关升高特攻。","Normal":["Miraidon"],"Hidden":[]}};

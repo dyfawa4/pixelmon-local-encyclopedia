@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "# #"
+    ],
+    "key": {
+        "X": {
+            "item": "pixelmon:sky_tumblestone"
+        },
+        "#": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "pixelmon:feather_ball_lid",
+        "count": 5
+    }
+}

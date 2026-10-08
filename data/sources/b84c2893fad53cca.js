@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b84c2893fad53cca"]={"json":{"Name":"InnardsOut","Description":"被对手打倒的时候，会给予对手相当于HP剩余量的伤害。","Normal":["Pyukumuku"],"Hidden":[]}};

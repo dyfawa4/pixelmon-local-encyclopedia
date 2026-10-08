@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4b1f98024cfa9956"]={"json":{"pokemon":"Avalugg form:base","items":[{"item":"minecraft:packed_ice","min":2,"max":4,"chance":1.0},{"item":"minecraft:blue_ice","min":1,"max":3,"chance":0.5},{"item":"pixelmon:never_melt_ice","min":1,"max":1,"chance":0.1}]}};

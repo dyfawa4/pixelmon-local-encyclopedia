@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-61d2778f37194b04"]={"json":{"id":"Dhelmise Fishing","spawnInfos":[{"spec":"species:Dhelmise","stringLocationTypes":["Super Rod"],"minLevel":20,"maxLevel":45,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["oceanic","pixelmon:ultra_deep_sea"]},"rarity":5.0}]}};

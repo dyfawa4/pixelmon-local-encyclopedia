@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:17d7da20a2a2ecff"]={"json":{"pokemon":"Komala","items":[{"item":"minecraft:acacia_leaves","min":1,"max":3,"chance":1.0},{"item":"minecraft:leather","min":1,"max":1,"chance":0.5},{"item":"minecraft:acacia_log","min":1,"max":1,"chance":0.3},{"item":"pixelmon:chesto_berry","min":1,"max":1,"chance":0.1}]}};

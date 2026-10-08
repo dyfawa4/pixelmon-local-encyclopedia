@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c6b9b973e6450bd3"]={"text":"让||pokemonButton=Necrozma||与||pokemonButton=Lunala||合体，使之变成||pokemonButton=Necrozma form:dawn||。\r\n让||pokemonButton=Necrozma form:dawn||分离为||pokemonButton=Necrozma||与||pokemonButton=Lunala||。"};

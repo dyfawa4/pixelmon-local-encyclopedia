@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8b6d7a2fd2e6abe2"]={"json":{"id":"Vanilluxe","spawnInfos":[{"spec":"species:Vanilluxe","stringLocationTypes":["Land","Sweet Scent"],"minLevel":48,"maxLevel":59,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:never_melt_ice","percentChance":50}],"condition":{"times":["NIGHT"],"stringBiomes":["freezing","pixelmon:mount_lanakila"]},"rarity":0.1}]}};

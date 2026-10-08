@@ -1,0 +1,9 @@
+Acupressure,Skorupi,Drapion
+Aqua Ring,Corsola
+Aurora Beam,Shellder,Cloyster
+Confuse Ray,Tentacool,Tentacruel,Staryu,Starmie,Lileep,Cradily
+Haze,Tentacool,Tentacruel,Krabby,Kingler
+Knock Off,Tentacool,Tentacruel,Corphish,Crawdaunt,Skorupi,Drapion,Crabrawler,Crabominable,Golisopod,Klawf
+Mirror Coat,Corsola,Corsola form:galarian,Cursola
+Rapid Spin,Shellder,Cloyster,Staryu,Starmie
+Tickle,Krabby,Kingler,Binacle,Barbaracle

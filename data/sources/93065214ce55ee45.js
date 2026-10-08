@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:93065214ce55ee45"]={"json":{"id":"Bellibolt","spawnInfos":[{"spec":"species:Bellibolt","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":45,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:river","lakes","swamps","pixelmon:ultra_plant"]},"rarity":25.0}]}};

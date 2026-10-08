@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a2bc8ad250d5bffa"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M","S","S"],"key":{"M":{"tag":"forge:ingots/silver"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:silver_shovel","count":1}}};

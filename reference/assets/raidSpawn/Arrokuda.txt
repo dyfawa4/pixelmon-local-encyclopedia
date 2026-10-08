@@ -1,0 +1,4 @@
+1,2=freshwater
+1,2=lukewarmocean
+1,2=ocean
+1,2=warmocean

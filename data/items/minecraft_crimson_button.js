@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_crimson_button"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"minecraft:crimson_planks"}],"result":{"item":"minecraft:crimson_button"},"source":"data/minecraft/recipes/crimson_button.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

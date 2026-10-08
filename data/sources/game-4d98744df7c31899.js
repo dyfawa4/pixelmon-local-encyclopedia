@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4d98744df7c31899"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","conditions":[{"condition":"minecraft:block_state_property","block":"pixelmon:purple_berry_wood_door","properties":{"half":"lower"}}],"name":"pixelmon:purple_berry_wood_door"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

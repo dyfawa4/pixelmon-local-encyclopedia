@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:05116208acbfcaae"]={"text":"用于合成||itemButton=pixelmon:galarica_cuff||或||itemButton=pixelmon:galarica_wreath||。"};

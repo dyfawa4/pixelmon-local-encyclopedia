@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:019423a8af75ff16"]={"json":{"Name":"ToughClaws","Description":"接触到对手的招式威力会提高。","Normal":["Charizard form:megax","Meowth form:galarian","Aerodactyl form:mega","Metagross form:mega","Binacle","Barbaracle","Lycanroc form:dusk","Perrserker"],"Hidden":[]}};

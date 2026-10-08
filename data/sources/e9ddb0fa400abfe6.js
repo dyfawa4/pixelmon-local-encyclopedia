@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e9ddb0fa400abfe6"]={"json":{"id":"Corphish Forage","spawnInfos":[{"spec":"species:Corphish","stringLocationTypes":["Forage"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:river"]},"rarity":10.0}]}};

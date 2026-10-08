@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a15e6dec2fac2f41"]={"json":{"Name":"SkillLink","Description":"如果使用连续招式，总是能使出最高次数。","Normal":["Shellder","Cloyster","Heracross form:mega","Pikipek","Trumbeak","Toucannon"],"Hidden":["Aipom","Ambipom","Minccino","Cinccino"]}};

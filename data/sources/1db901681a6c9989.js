@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1db901681a6c9989"]={"json":{"Evolutions":[{"from":"Drilbur","level":31,"to":"Excadrill","conditions":[],"evoType":"leveling","moves":["Horn Drill"],"additionalProperties":{}}]}};

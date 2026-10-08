@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bc3d4dd0f96ceee9"]={"text":"Night Slash,Gallade,Pawniard,Bisharp,Pangoro,Ceruledge,Kingambit\r\nQuick Guard,Hitmonchan,MrMime,Hitmontop,Meditite,Medicham,Chimchar,Monferno,Infernape,Lucario,Gallade,Sawk,Mienfoo,Mienshao,Ceruledge\r\nShadow Sneak,Ralts,Kirlia,Sableye,Ceruledge\r\nSolar Blade,Gallade,Ceruledge\r\n"};

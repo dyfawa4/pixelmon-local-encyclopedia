@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b48d9f8a37d8efeb"]={"json":{"rewards":{"recipes":["pixelmon:curry/boiled_egg"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:curry/boiled_egg"}},"has_egg":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"minecraft:egg"}]}}},"requirements":[["has_the_recipe","has_egg"]]}};

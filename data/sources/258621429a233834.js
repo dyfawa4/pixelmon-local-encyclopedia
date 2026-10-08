@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:258621429a233834"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:rabbit"],"replacement_logic":"simple","specs":["scorbunny","buneary","bunnelby"]}};

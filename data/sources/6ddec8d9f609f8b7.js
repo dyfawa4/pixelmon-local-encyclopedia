@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6ddec8d9f609f8b7"]={"json":{"pokemon":"Torterra","items":[{"item":"minecraft:tall_grass","min":1,"max":3,"chance":1.0},{"item":"minecraft:oak_sapling","min":1,"max":2,"chance":0.5},{"item":"pixelmon:tanga_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:absorb_bulb","min":1,"max":1,"chance":0.1}]}};

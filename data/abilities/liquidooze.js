@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:liquidooze"]={"description":"该特性的宝可梦受到吸取ＨＰ的攻击招式的攻击时，攻击方本应回复的ＨＰ会改为受到同等的伤害。\r\n该特性的宝可梦被寄生种子状态吸取ＨＰ时，吸取方本应回复的ＨＰ会改为受到同等的伤害。\r\n如果攻击方携带大根茎，攻击方受到的伤害为会根据大根茎原本吸取提升而增加伤害。","holders":[[72,"",false],[73,"",false],[316,"",false],[317,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.LiquidOoze"}};

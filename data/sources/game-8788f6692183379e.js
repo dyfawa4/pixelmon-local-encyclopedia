@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8788f6692183379e"]={"json":{"id":"Mudkip","spawnInfos":[{"spec":"species:Mudkip","stringLocationTypes":["Land"],"minLevel":2,"maxLevel":10,"typeID":"pokemon","condition":{"times":["NIGHT"],"weathers":["RAIN"],"stringBiomes":["swamps"]},"rarity":5.0}]}};

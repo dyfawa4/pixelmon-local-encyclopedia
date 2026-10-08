@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5c22222f953168ad"]={"json":{"pokemon":"Pangoro","items":[{"item":"minecraft:bamboo","min":1,"max":3,"chance":1.0},{"item":"minecraft:jungle_leaves","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.1}]}};

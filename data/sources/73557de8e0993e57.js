@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:73557de8e0993e57"]={"json":{"Evolutions":[{"from":"Bonsly","to":"Sudowoodo","conditions":[{"evoConditionType":"move","attackName":"Mimic","additionalProperties":{}}],"evoType":"leveling","moves":["Slam"],"additionalProperties":{}}]}};

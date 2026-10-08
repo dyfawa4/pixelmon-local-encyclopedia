@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d05f1cd0743d5bc9"]={"json":{"pokemon":"Alakazam","items":[{"item":"minecraft:ender_pearl","min":1,"max":3,"chance":1.0},{"item":"pixelmon:mental_herb","min":1,"max":3,"chance":0.5},{"item":"pixelmon:kasib_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fb50cd30508edb7a"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"Harry"}],"chat":[{"lines":[{"text":"Welcome to the Snowflake Gym."},{"text":"Our Gym Leader loves to freeze his opponents up!"},{"text":"Try not to fall off the snowflakes; it may hurt..."}]}]}};

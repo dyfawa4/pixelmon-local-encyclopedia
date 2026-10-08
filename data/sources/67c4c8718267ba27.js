@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:67c4c8718267ba27"]={"json":{"npctype":"chat","skins":[{"filename":"hiker.png"}],"names":[{"name":"Josh"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio Pluma."},{"text":"¡El Líder del Gimnasio se encuentra en lo más alto!"},{"text":"Lleva cuidado saltando de rama en rama; está bastante alto..."}]}]}};

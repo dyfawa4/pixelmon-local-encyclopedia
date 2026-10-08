@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:watercompaction"]={"description":"对战中\r\n受到水属性的招式攻击时，防御会提升2个等级。\r\n若对方以遇水凝固的宝可梦为目标使用水属性连续招式，则每一击都会触发效果。","holders":[[769,"",false],[770,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.WaterCompaction"}};

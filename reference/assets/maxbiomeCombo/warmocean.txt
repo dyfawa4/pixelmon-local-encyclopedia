@@ -1,0 +1,2 @@
+minecraft:warm_ocean
+minecraft:deep_warm_ocean

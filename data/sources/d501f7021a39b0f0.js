@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d501f7021a39b0f0"]={"json":{"id":"Magearna","spawnInfos":[{"spec":"species:Magearna level:50","stringLocationTypes":["Indoors"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["roofed"],"baseBlocks":["minecraft:birch_planks"]},"rarity":0.3}]}};

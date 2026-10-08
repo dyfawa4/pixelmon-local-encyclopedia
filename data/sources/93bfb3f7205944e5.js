@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:93bfb3f7205944e5"]={"text":"||bigFont=对战中||\r\n宝可梦携带该道具时，招式对自身的命中率x0.9。\r\n\r\n||bigFont=对战外||\r\n携带该道具的||pokemonButton=Wobbuffet||♀生蛋，孵化出的子代为||pokemonButton=Wynaut||。\r\n携带该道具的||pokemonButton=Wobbuffet||♂与 ||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Wynaut||。\r\n也可以当做装饰性方块放下来。"};

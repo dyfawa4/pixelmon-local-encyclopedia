@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-417628b17d04f2d2"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:wolf"],"replacement_logic":"simple","specs":["poochyena","mightyena","rockruff","lycanroc","boltund","growlithe","arcanine","furfrou","herdier","houndoom","houndor","lillipup"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ed535f577e63f24b"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:platinum_block"}],"result":{"item":"pixelmon:platinum_ingot","count":9}}};

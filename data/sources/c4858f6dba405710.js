@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c4858f6dba405710"]={"text":"当实体在上面时会有类似于灵魂沙的减速效果，当||itemButton=pixelmon:stick_plate||放置在||itemButton=pixelmon:movement_plate||的路径上时，实体在移动过程中会停在||itemButton=pixelmon:stick_plate||上面。"};

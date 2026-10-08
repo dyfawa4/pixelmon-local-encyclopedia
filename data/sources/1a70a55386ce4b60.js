@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1a70a55386ce4b60"]={"json":{"Evolutions":[{"from":"Staryu","item":{"itemID":"pixelmon:water_stone","additionalProperties":{}},"to":"Starmie","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

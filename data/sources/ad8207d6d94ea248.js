@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ad8207d6d94ea248"]={"json":{"Name":"EffectSpore","Description":"受到攻击时，有时会把接触到自己的对手变为中毒、麻痹或睡眠状态。","Normal":["Paras","Parasect","Shroomish","Breloom","Foongus","Amoonguss","Morelull","Shiinotic"],"Hidden":["Vileplume","Gossifleur","Eldegoss"]}};

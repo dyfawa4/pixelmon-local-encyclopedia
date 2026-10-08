@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Teddiursa","level":30,"to":"Ursaring","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Ursaring","item":{"itemID":"pixelmon:peat_block","additionalProperties":{}},"to":"Ursaluna","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"interact","additionalProperties":{}}]}

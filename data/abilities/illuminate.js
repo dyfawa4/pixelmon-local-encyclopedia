@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:illuminate"]={"description":"命中率能力变化不会被对方以任何方式降低，无视目标闪避率能力变化的提升。\r\n\r\n奇迹皮肤对发光特性的宝可梦无效。","holders":[[120,"",false],[121,"",false],[170,"",false],[171,"",false],[313,"",false],[505,"",false],[755,"",false],[756,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Illuminate"}};

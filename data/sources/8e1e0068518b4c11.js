@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8e1e0068518b4c11"]={"json":{"id":"Cranidos","spawnInfos":[{"spec":"species:Cranidos","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":50.0}]}};

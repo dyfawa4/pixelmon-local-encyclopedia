@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-57978432e7262bd9"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:salmon"],"replacement_logic":"simple","specs":["magikarp","arrokuda","barboach"]}};

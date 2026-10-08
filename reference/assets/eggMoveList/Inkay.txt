@@ -1,0 +1,3 @@
+Acupressure,Pincurchin,Qwilfish,Qwilfish form:hisuian,Overqwil
+Destiny Bond,Qwilfish,Qwilfish form:hisuian,Overqwil
+Disable,Psyduck,Golduck,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Seel,Dewgong,Horsea,Seadra,Slowking,Slowking form:galarian,Corsola form:galarian,Kingdra,Cursola,Bruxish

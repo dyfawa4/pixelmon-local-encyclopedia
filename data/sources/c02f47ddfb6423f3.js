@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c02f47ddfb6423f3"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MM "," S "," S "],"key":{"M":{"tag":"forge:gems/crystal"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:crystal_hoe","count":1}}};

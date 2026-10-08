@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ab120cbcca202f44"]={"json":{"pokemon":"Orbeetle","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:fermented_spider_eye","min":1,"max":2,"chance":0.5},{"item":"minecraft:ender_pearl","min":1,"max":2,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

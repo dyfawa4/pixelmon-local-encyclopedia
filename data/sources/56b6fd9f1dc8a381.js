@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:56b6fd9f1dc8a381"]={"json":{"Evolutions":[{"from":"Eevee","item":{"itemID":"pixelmon:water_stone","additionalProperties":{}},"to":"Vaporeon","conditions":[],"evoType":"interact","moves":["Water Gun"],"additionalProperties":{}}]}};

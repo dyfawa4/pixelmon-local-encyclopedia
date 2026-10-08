@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b0a38c5a462011d6"]={"json":{"id":"Deino Caverock","spawnInfos":[{"spec":"species:Deino","stringLocationTypes":["Cave Rock"],"minLevel":40,"maxLevel":49,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous"]},"rarity":5.0}]}};

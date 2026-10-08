@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13d6f7aecfc06f27"]={"json":{"id":"Nidoranmale Sweet Scent","spawnInfos":[{"spec":"species:Nidoranmale","stringLocationTypes":["Sweet Scent"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["savannas"]},"rarity":250.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2295d5369b8e7bd7"]={"json":{"id":"Togepi","spawnInfos":[{"spec":"species:Togepi","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_forest"]},"rarity":10.0}]}};

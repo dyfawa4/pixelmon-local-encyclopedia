@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6da55f4aea44d1d8"]={"json":{"npctype":"chat","skins":[{"filename":"pokefan_m.png"}],"names":[{"name":"喬"}],"chat":[{"lines":[{"text":"歡迎來到電壓道館。"},{"text":"當您與館主交手，您將會感到非常震驚！"}]}]}};

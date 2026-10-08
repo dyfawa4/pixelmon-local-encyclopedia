@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0f8fdbc77a3bfaaa"]={"json":{"pokemon":"Castform form:sun","items":[{"item":"minecraft:glass_bottle","min":1,"max":2,"chance":1.0},{"item":"minecraft:ghast_tear","min":1,"max":1,"chance":0.5},{"item":"pixelmon:heat_rock","min":1,"max":1,"chance":0.1}]}};

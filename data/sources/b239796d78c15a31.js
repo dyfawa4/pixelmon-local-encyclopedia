@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b239796d78c15a31"]={"json":{"Evolutions":[{"from":"Basculin form:white","to":"Basculegion form:male","conditions":[{"evoConditionType":"recoil","recoil":"294","additionalProperties":{}},{"evoConditionType":"gender","genders":["MALE"],"additionalProperties":{}}],"evoType":"ticking","additionalProperties":{}}]}};

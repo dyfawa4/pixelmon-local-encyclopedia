@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d9bb1fe368443dc1"]={"json":{"id":"Miltank Grass","spawnInfos":[{"spec":"species:Miltank","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:moomoo_milk","percentChance":100}],"condition":{"times":["DAWN","DAY","DUSK"],"stringBiomes":["plains"]},"rarity":90.0}]}};

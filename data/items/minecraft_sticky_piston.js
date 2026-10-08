@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_sticky_piston"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["S","P"],"key":{"P":{"item":"minecraft:piston"},"S":{"item":"minecraft:slime_ball"}},"result":{"item":"minecraft:sticky_piston"},"source":"data/minecraft/recipes/sticky_piston.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

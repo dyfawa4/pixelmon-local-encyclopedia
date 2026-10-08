@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-570ede2053e003e4"]={"json":{"name":"pixelmon:tower_darkness/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:towers/tower_darkness","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

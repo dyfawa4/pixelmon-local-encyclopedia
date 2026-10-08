@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bc4bc82a9071ece6"]={"json":{"Name":"Competitive","Description":"如果能力被降低，特攻就会大幅提高。","Normal":["Jigglypuff","Wigglytuff","Articuno form:galarian","Igglybuff","Milotic","Gothita","Gothorita","Gothitelle"],"Hidden":["Boltund","Wattrel","Kilowattrel"]}};

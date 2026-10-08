@@ -1,0 +1,1 @@
+可以让||pokemonButton=Salamence||在对战中mega进化为||pokemonButton=Salamence form:mega||

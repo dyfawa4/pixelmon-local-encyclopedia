@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:868068bf24e3c012"]={"json":{"Name":"Steadfast","Description":"每次畏缩时，不屈之心就会燃起，速度也会提高。","Normal":["Farfetchd form:galarian","Mewtwo form:megax","Tyrogue","Riolu","Lucario","Gallade","Dubwool","Dubwool form:shorn","Sirfetchd"],"Hidden":["Machop","Machoke","Machamp","Scyther","Hitmontop","Rockruff","Lycanroc form:midday"]}};

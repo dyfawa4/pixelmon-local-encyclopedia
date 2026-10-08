@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ea3fc618f1b9c6ea"]={"json":{"pokemon":"Poliwrath","items":[{"item":"minecraft:lily_pad","min":1,"max":3,"chance":1.0},{"item":"pixelmon:fighting_gem","min":1,"max":1,"chance":0.5},{"item":"pixelmon:lucky_punch","min":1,"max":1,"chance":0.1}]}};

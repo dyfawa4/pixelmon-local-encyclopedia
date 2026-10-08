@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9cb1fb68e755da46"]={"text":"将所有属性的石板（共18种，即除传说石板外的所有石板）放入其中的||itemButton=pixelmon:arc_chalice||中可以获得||itemButton=pixelmon:azure_flute||。也可以搜刮其中的战利品或和NPC进行对战。\r\n其中陆上的神殿外还可能会生成相应的神殿村庄残骸结构。"};

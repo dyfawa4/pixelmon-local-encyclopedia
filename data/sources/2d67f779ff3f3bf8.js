@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2d67f779ff3f3bf8"]={"json":{"pokemon":"Slowpoke form:galarian","items":[{"item":"minecraft:porkchop","min":1,"max":2,"chance":1.0},{"item":"minecraft:ender_pearl","min":1,"max":1,"chance":0.5},{"item":"pixelmon:slowpoke_tail","min":1,"max":1,"chance":0.1}]}};

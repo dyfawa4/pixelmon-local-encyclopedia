@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9718ba7964cc63d6"]={"json":{"pokemon":"Sableye","items":[{"item":"minecraft:coal","min":1,"max":2,"chance":1.0},{"item":"pixelmon:ruby","min":1,"max":1,"chance":0.5},{"item":"minecraft:emerald","min":1,"max":1,"chance":0.3},{"item":"minecraft:diamond","min":1,"max":1,"chance":0.1}]}};

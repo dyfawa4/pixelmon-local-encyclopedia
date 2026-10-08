@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f903089e704055f5"]={"json":{"id":"Spinarak","spawnInfos":[{"spec":"species:Spinarak","stringLocationTypes":["Land","Headbutt"],"minLevel":5,"maxLevel":21,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["all forests","evil","byg:crag_gardens"]},"rarity":250.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:01805f438301491d"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦的岩石属性招式威力提升20%。\r\n\r\n||bigFont=对战外||\r\n携带该道具的||pokemonButton=Sudowoodo||♀生蛋，孵化出的子代为||pokemonButton=Bonsly||。\r\n携带该道具的||pokemonButton=Sudowoodo||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Bonsly||。\r\n也可以当做装饰性方块放下来。"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ba3d30c3ca3c5715"]={"json":{"pokemon":"Magmortar","items":[{"item":"minecraft:blaze_powder","min":2,"max":4,"chance":1.0},{"item":"minecraft:magma_block","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fire_stone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:magmarizer","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Burmy form:sandy","level":20,"to":"Wormadam form:sandy","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"leveling","moves":["Quiver Dance"],"additionalProperties":{}}]}

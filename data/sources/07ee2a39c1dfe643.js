@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:07ee2a39c1dfe643"]={"json":{"pokemon":"Turtonator","items":[{"item":"minecraft:blaze_rod","min":1,"max":2,"chance":1.0},{"item":"minecraft:scute","min":1,"max":2,"chance":0.5},{"item":"minecraft:shulker_shell","min":1,"max":2,"chance":0.3},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.1}]}};

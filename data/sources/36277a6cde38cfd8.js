@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:36277a6cde38cfd8"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:ultra_desert_sandstone"},"result":"pixelmon:ultra_desert_smooth_sandstone","experience":0.1,"cookingtime":200}};

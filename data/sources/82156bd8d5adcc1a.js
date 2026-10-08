@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:82156bd8d5adcc1a"]={"json":{"pokemon":"Infernape","items":[{"item":"minecraft:leather","min":1,"max":3,"chance":1.0},{"item":"minecraft:blaze_rod","min":1,"max":2,"chance":0.5},{"item":"pixelmon:passho_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:lucky_punch","min":1,"max":2,"chance":0.1}]}};

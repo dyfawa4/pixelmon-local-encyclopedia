@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7909d89d44a23375"]={"json":{"type":"minecraft:crafting_shapeless","group":"button","ingredients":[{"item":"pixelmon:ultra_space_stone"}],"result":{"item":"pixelmon:ultra_space_stone_button"}}};

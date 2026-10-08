@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3ac49e45a9508656"]={"json":{"id":"Swanna","spawnInfos":[{"spec":"species:Swanna","stringLocationTypes":["Air"],"minLevel":36,"maxLevel":47,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:river","swamps","lakes"]},"rarity":6.0}]}};

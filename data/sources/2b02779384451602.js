@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2b02779384451602"]={"text":"pixelmon:ultra_forest\r\npixelmon:ultra_deep_sea\r\npixelmon:ultra_jungle\r\npixelmon:ultra_plant\r\npixelmon:ultra_crater\r\npixelmon:ultra_ruin\r\npixelmon:ultra_megalopolis\r\npixelmon:ultra_desert\r\n"};

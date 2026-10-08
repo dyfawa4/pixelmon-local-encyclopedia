@@ -1,0 +1,6 @@
+4,5=birches
+4,5=craggardens
+4,5=flowery
+4,5=forests
+4,5=roofed
+4,5=taigas

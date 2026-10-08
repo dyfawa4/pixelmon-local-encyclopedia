@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:639ad0f9606ae069"]={"json":{"id":"Aerodactyl","spawnInfos":[{"spec":"species:Aerodactyl","stringLocationTypes":["Air"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":25.0}]}};

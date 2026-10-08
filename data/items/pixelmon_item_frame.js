@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_item_frame"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XX","XX"],"key":{"X":{"item":"minecraft:painting"}},"result":{"item":"pixelmon:item_frame","count":1},"source":"data/pixelmon/recipes/decor/household_items/item_frame.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

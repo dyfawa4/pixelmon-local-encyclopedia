@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e846e4e920d1d7c5"]={"json":{"Evolutions":[{"from":"Mantyke","to":"Mantine","conditions":[{"evoConditionType":"party","withPokemon":["Remoraid"],"withTypes":[],"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

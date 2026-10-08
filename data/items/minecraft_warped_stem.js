@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_warped_stem"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["minecraft:campfire","minecraft:smoker","minecraft:soul_campfire","minecraft:warped_hyphae","minecraft:warped_planks","pixelmon:bridge_block"],"drops":[],"referenceDrop":{},"special":""};

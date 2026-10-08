@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2cde9b9b74459ec4"]={"json":{"type":"minecraft:crafting_shaped","pattern":["DGD","GRG","APA"],"key":{"A":{"tag":"forge:ingots/aluminium"},"P":{"item":"minecraft:glass_pane"},"G":{"item":"minecraft:gold_ingot"},"D":{"item":"minecraft:diamond"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:item_finder","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fac78641470aacca"]={"json":{"Name":"SpeedBoost","Description":"每一回合速度会变快。","Normal":["Yanma","Blaziken form:mega","Ninjask","Yanmega"],"Hidden":["Torchic","Combusken","Blaziken","Carvanha","Sharpedo","Venipede","Whirlipede","Scolipede","Flittle","Espathra"]}};

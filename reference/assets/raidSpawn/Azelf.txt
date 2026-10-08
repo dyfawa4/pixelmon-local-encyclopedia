@@ -1,0 +1,2 @@
+5=forests
+5=freshwater

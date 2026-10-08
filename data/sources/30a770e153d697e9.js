@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:30a770e153d697e9"]={"json":{"Evolutions":[{"from":"Kricketot","level":10,"to":"Kricketune","conditions":[],"evoType":"leveling","moves":["Fury Cutter"],"additionalProperties":{}}]}};

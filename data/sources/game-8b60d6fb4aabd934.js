@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8b60d6fb4aabd934"]={"json":{"id":"Alakazam","spawnInfos":[{"spec":"species:Alakazam","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:twisted_spoon","percentChance":5}],"condition":{"stringBiomes":["minecraft:end_highlands"]},"rarity":0.1}]}};

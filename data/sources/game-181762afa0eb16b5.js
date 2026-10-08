@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-181762afa0eb16b5"]={"json":{"id":"Anorith","spawnInfos":[{"spec":"species:Anorith","stringLocationTypes":["Water"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":50.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ac7fc9e7f919c388"]={"json":{"id":"Jumpluff","spawnInfos":[{"spec":"species:Jumpluff","stringLocationTypes":["Air"],"minLevel":27,"maxLevel":55,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["plains","flowery"]},"rarity":0.5}]}};

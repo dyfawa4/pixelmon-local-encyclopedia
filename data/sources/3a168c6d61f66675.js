@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3a168c6d61f66675"]={"json":{"type_id":"simple","id":"downcast","suffix":"ribbon.downcast.title","translation_key":"ribbon.downcast","description":"ribbon.downcast.description","icon":"pixelmon:textures/gui/ribbons/downcast.png"}};

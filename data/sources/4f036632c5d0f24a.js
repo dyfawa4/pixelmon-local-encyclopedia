@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4f036632c5d0f24a"]={"json":{"pokemon":"Necrozma","items":[{"item":"minecraft:obsidian","min":2,"max":4,"chance":1.0},{"item":"pixelmon:dusk_stone_shard","min":1,"max":4,"chance":0.5},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dusk_stone","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-10a61af2c835df0f"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:tropical_fish"],"replacement_logic":"simple","specs":["bruxish","finneon","goldeen","luvdisc"]}};

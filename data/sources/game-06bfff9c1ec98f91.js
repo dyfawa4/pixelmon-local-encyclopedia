@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-06bfff9c1ec98f91"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M M","MMM","MMM"],"key":{"M":{"tag":"forge:gems/crystal"}},"result":{"item":"pixelmon:plasma_plate","count":1}}};

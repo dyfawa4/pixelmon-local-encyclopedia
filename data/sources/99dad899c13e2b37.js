@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:99dad899c13e2b37"]={"json":{"type":"minecraft:crafting_shaped","pattern":["PLP","LXL","PLP"],"key":{"L":{"item":"minecraft:leather"},"P":{"item":"minecraft:paper"},"X":{"item":"pixelmon:up_grade"}},"result":{"item":"tcg:compendium","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eeac99ef2dbd7740"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"rockleader1.png"}],"names":[{"name":"Lithos"}],"chat":[{"opening":"Ti distruggerò!","win":"Torna da dove sei venuto.","lose":"Mi hai sconfitto con stile."}]}};

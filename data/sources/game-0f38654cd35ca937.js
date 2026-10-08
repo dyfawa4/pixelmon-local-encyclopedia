@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0f38654cd35ca937"]={"json":{"type_id":"simple","id":"earth","suffix":"ribbon.earth.title","translation_key":"ribbon.earth","description":"ribbon.earth.description","icon":"pixelmon:textures/gui/ribbons/earth.png"}};

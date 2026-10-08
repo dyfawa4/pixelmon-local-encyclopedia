@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a85e2a32fc2cdc59"]={"json":{"pokemon":"Grimmsnarl","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"minecraft:chorus_fruit","min":1,"max":3,"chance":0.5},{"item":"pixelmon:fairy_gem","min":1,"max":1,"chance":0.1}]}};

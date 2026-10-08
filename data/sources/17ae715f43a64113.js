@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:17ae715f43a64113"]={"json":{"__comment__":"This file was automatically created by mcresources","type":"pixelmon:infuser","ingredients":[{"tag":"pixelmon:berries/juice/blue/1","count":1},{"tag":"pixelmon:berries/juice/blue/1","count":1}],"results":{"item":"pixelmon:blue_juice","count":1,"nbt":{"Stats_Boost":8}}}};

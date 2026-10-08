@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:181fcc6a46e573b5"]={"json":{"id":"Emolga Grass","spawnInfos":[{"spec":"species:Emolga","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["jungles"]},"rarity":40.0}]}};

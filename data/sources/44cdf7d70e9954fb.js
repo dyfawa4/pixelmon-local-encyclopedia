@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:44cdf7d70e9954fb"]={"json":{"Evolutions":[{"from":"Salandit","level":33,"to":"Salazzle","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"leveling","moves":["Fire Lash"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cb234ed8d10c95a5"]={"json":{"id":"Swadloon","spawnInfos":[{"spec":"species:Swadloon","stringLocationTypes":["Land","Headbutt"],"minLevel":20,"maxLevel":32,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:mental_herb","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["forests","flowery"]},"rarity":40.0}]}};

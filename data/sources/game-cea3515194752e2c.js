@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cea3515194752e2c"]={"json":{"replace":false,"values":["#pixelmon:berries/juice/red/3","#pixelmon:berries/juice/purple/3","#pixelmon:berries/juice/pink/3","#pixelmon:berries/juice/green/3","#pixelmon:berries/juice/yellow/3","#pixelmon:berries/juice/blue/3"]}};

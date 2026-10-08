@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:29e4980feb8572c4"]={"json":{"id":"TingLu","spawnInfos":[{"spec":"species:Ting-Lu level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["taigas"]},"rarity":3.0}]}};

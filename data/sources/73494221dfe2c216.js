@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:73494221dfe2c216"]={"json":{"id":"Drifloon","spawnInfos":[{"spec":"species:Drifloon","stringLocationTypes":["Air"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["plains","mountainous","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"rarity":130.0}]}};

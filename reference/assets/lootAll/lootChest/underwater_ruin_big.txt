@@ -1,0 +1,16 @@
+pixelmon:mystic_water=20.83%=1-1
+pixelmon:splash_plate=4.17%=1-1
+pixelmon:shell_bell=12.50%=1-1
+pixelmon:pearl=37.41%=1-2
+pixelmon:big_pearl=8.38%=0-1
+pixelmon:pearl_string=23.78%=0-2
+pixelmon:shoal_shell=49.40%=1-5
+pixelmon:shoal_salt=49.40%=1-5
+pixelmon:water_stone=8.38%=1-1
+minecraft:prismarine_shard=46.23%=1-5
+minecraft:prismarine_crystals=46.23%=1-5
+minecraft:nautilus_shell=34.24%=1-2
+minecraft:emerald=15.79%=1-2
+minecraft:fishing_rod=25.38%=1-1=enchantR
+minecraft:book=25.38%=1-1=enchantR
+minecraft:map=25.38%=1-1

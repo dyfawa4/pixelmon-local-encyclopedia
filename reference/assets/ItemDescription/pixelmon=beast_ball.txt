@@ -1,0 +1,2 @@
+若目标是以下究极异兽，捕获率x5，否则捕获率x0.1。
+||pokemonButton=Nihilego||/||pokemonButton=Pheromosa||/||pokemonButton=Buzzwole||/||pokemonButton=Xurkitree||/||pokemonButton=Celesteela||/||pokemonButton=Kartana||/||pokemonButton=Guzzlord||/||pokemonButton=Blacephalon||/||pokemonButton=Stakataka||/||pokemonButton=Poipole||/||pokemonButton=Naganadel||

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f52320816d887a4f"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:max_mushroom"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

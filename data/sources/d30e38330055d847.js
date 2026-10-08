@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d30e38330055d847"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:max_mushroom"},{"item":"pixelmon:max_mushroom"},{"item":"pixelmon:max_mushroom"},{"item":"minecraft:bowl"}],"result":{"item":"pixelmon:max_soup","count":1}}};

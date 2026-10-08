@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e32fa47b56661edf"]={"json":{"pokemon":"Zigzagoon form:galarian","items":[{"item":"minecraft:bone","min":1,"max":2,"chance":1.0},{"item":"pixelmon:pokemail_grass","min":1,"max":1,"chance":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eba1a18ad34057eb"]={"json":{"pokemon":"Toxtricity form:lowkey","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":2,"chance":0.5},{"item":"pixelmon:thunder_stone_shard","min":1,"max":2,"chance":0.3},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.1}]}};

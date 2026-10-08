@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c29a4e374a635888"]={"json":{"id":"Tandemaus","spawnInfos":[{"spec":"species:Tandemaus","stringLocationTypes":["Indoors"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"stringBiomes":["plains","all forests"]},"rarity":100.0}]}};

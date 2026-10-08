@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1962f248486329c3"]={"json":{"id":"Varoom","spawnInfos":[{"spec":"species:Varoom","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mesas"]},"rarity":90.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bb3e59bbca2c1ece"]={"json":{"Evolutions":[{"from":"Aipom","to":"Ambipom","conditions":[{"evoConditionType":"move","attackName":"Double Hit","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

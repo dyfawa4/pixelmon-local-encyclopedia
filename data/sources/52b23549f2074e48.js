@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:52b23549f2074e48"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"type":"forge:nbt","item":"pixelmon:poke_ball_lid","nbt":{"PokeBallID":"wing_ball"}},{"item":"minecraft:stone_button"},{"item":"pixelmon:wooden_base"}],"result":{"item":"pixelmon:poke_ball","count":1,"nbt":{"PokeBallID":"wing_ball"}}}};

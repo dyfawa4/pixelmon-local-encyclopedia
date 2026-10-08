@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f895923185b65ac6"]={"json":{"id":"Pignite","spawnInfos":[{"spec":"species:Pignite","stringLocationTypes":["Land"],"minLevel":17,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":1.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6d9e8e14c5938c96"]={"json":{"Name":"DrySkin","Description":"下雨天气时和受到水属性的招式时，HP会回复。晴朗天气时和受到火属性的招式时，HP会减少。","Normal":["Paras","Parasect","Croagunk","Toxicroak","Helioptile","Heliolisk"],"Hidden":["Jynx"]}};

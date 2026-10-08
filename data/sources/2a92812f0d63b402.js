@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2a92812f0d63b402"]={"json":{"Name":"PowerConstruct","Description":"HP变为一半时，细胞们会赶来支援，变为完全体形态。","Normal":["Zygarde form:fifty_percent","Zygarde form:ten_percent"],"Hidden":[]}};

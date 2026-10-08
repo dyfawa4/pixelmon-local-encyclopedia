@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:79cfe014206f4896"]={"json":{"Evolutions":[{"from":"Froakie","level":16,"to":"Frogadier","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Frogadier","level":36,"to":"Greninja","conditions":[],"evoType":"leveling","moves":["Water Shuriken"],"additionalProperties":{}}]}};

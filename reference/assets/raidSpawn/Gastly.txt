@@ -1,0 +1,5 @@
+1,2=evil
+1,2=nether
+1,2=roofed
+1,2=subzerohypogeal
+1,2=taigas

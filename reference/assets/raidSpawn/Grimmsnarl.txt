@@ -1,0 +1,3 @@
+5=evil
+5=nether
+5=roofed

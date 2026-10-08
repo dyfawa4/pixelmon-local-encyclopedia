@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0be55f576b99ae54"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:braille_block_h"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

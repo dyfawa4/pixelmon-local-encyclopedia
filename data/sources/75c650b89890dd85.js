@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:75c650b89890dd85"]={"json":{"Name":"HeavyMetal","Description":"自身的重量会变为2倍。","Normal":["Duraludon"],"Hidden":["Aron","Lairon","Aggron","Bronzor","Bronzong","Cufant","Copperajah"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9db4e406bfdfc177"]={"json":{"Evolutions":[{"from":"Tyrogue","level":20,"to":"Hitmonchan","conditions":[{"evoConditionType":"statRatio","stat1":"DEFENSE","stat2":"ATTACK","ratio":1.0,"additionalProperties":{}}],"evoType":"leveling","moves":["Drain Punch"],"additionalProperties":{}}]}};

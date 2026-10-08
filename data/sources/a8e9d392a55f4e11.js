@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a8e9d392a55f4e11"]={"json":{"Evolutions":[{"from":"Gossifleur","level":20,"to":"Eldegoss","conditions":[],"evoType":"leveling","moves":["Cotton Spore"],"additionalProperties":{}}]}};

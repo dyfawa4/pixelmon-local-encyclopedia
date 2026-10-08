@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:propellertail"]={"description":"对战中\r\n攻击原本选定的目标，无视交换场地、场上万众瞩目状态、引水、避雷针、对手宝可梦的交换。\r\n只有目标不在场上时，才攻击同位置宝可梦。\r\n螺旋尾鳍特性的宝可梦使用梦话、挥指会失败。","holders":[[846,"",true],[847,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PropellerTail"}};

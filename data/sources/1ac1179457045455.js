@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ac1179457045455"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:book"},{"tag":"pixelmon:curry_ingredient"}],"result":{"item":"pixelmon:curry_dex"}}};

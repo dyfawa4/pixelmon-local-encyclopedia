@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dda39997d830f0d2"]={"json":{"type":"minecraft:crafting_shaped","pattern":["LPL","P P","LPL"],"key":{"L":{"item":"minecraft:leather"},"P":{"item":"minecraft:paper"}},"result":{"item":"tcg:deck","count":1}}};

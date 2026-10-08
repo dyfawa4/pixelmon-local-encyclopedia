@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3941e71f6920b64c"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:gold_hourglass"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_trapped_chest"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:chest"},{"item":"minecraft:tripwire_hook"}],"result":{"item":"minecraft:trapped_chest"},"source":"data/minecraft/recipes/trapped_chest.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

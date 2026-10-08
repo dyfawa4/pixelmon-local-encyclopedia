@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:68cfd9acad52b3f8"]={"json":{"id":"Mega Diancie","spawnInfos":[{"spec":"species:Diancie","stringLocationTypes":["Underground"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

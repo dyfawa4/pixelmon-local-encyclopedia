@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b0c911900e78ad23"]={"json":{"Evolutions":[{"from":"Shellos form:east","level":30,"to":"Gastrodon form:east","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

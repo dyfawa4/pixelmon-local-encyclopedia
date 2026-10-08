@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:42575600c53542f7"]={"json":{"id":"Hoppip","spawnInfos":[{"spec":"species:Hoppip","stringLocationTypes":["Air"],"minLevel":5,"maxLevel":17,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["flowery","plains"]},"rarity":250.0}]}};

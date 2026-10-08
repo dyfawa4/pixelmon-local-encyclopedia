@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a1e70c98d14c36db"]={"json":{"replace":false,"values":["pixelmon:blue_berry_wood_button","pixelmon:green_berry_wood_button","pixelmon:pink_berry_wood_button","pixelmon:purple_berry_wood_button","pixelmon:red_berry_wood_button","pixelmon:yellow_berry_wood_button","pixelmon:ultra_gingko_button","pixelmon:ultra_elm_button","pixelmon:ultra_jungle_button"]}};

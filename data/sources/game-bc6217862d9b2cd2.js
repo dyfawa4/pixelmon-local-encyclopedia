@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bc6217862d9b2cd2"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" A "," TD"," B "],"key":{"A":{"item":"pixelmon:fossil_machine_top"},"T":{"item":"pixelmon:fossil_machine_tank"},"D":{"item":"pixelmon:fossil_machine_display"},"B":{"item":"pixelmon:fossil_machine_base"}},"result":{"item":"pixelmon:fossil_machine","count":1}}};

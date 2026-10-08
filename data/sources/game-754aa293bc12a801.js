@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-754aa293bc12a801"]={"json":{"type_id":"simple","id":"artist","suffix":"ribbon.artist.title","translation_key":"ribbon.artist","description":"ribbon.artist.description","icon":"pixelmon:textures/gui/ribbons/artist.png"}};

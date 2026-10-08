@@ -1,0 +1,4 @@
+4,5=freezingforests
+4,5=mountainousforests
+4,5=mountainous
+4,5=ultracrater

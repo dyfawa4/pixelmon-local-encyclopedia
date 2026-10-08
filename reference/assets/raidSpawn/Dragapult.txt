@@ -1,0 +1,3 @@
+5=evil
+5=savannas
+5=ultracrater

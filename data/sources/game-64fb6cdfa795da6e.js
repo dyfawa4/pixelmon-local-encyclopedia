@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-64fb6cdfa795da6e"]={"json":{"id":"Jynx Grass","spawnInfos":[{"spec":"species:Jynx","stringLocationTypes":["Grass"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["freezing forests"]},"rarity":8.0}]}};

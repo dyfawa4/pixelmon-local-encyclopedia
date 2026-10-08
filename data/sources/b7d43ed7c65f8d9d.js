@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7d43ed7c65f8d9d"]={"json":{"id":"Kecleon Grass","spawnInfos":[{"spec":"species:Kecleon","stringLocationTypes":["Grass"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["jungles"]},"rarity":30.0}]}};

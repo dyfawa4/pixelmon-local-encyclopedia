@@ -1,0 +1,5 @@
+2,3=birches
+2,3=craggardens
+2,3=forests
+2,3=roofed
+3,4=ultraforest

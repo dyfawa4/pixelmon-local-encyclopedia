@@ -1,0 +1,5 @@
+Fake Out,Hitmonlee,Hitmonchan,Hitmontop,Makuhita,Hariyama,Sableye,Meditite,Medicham,Chimchar,Monferno,Infernape,Mienfoo,Mienshao,Impidimp,Morgrem,Grimmsnarl
+Heal Pulse,Ralts,Kirlia,Gardevoir,Lucario,Gallade
+Mean Look,Jynx,Ralts,Kirlia,Sableye
+Mirror Coat,MrMime form:galarian,Lopunny,MrRime
+Torment,Abra,Kadabra,Alakazam,Drowzee,Hypno,MrMime,MrMime form:galarian,Jynx,Ralts,Kirlia,Gardevoir,Sableye,Chimchar,Monferno,Infernape,Croagunk,Toxicroak,Electivire,Magmortar,Gallade,Gothita,Gothorita,Gothitelle,Pawniard,Bisharp,Pancham,Pangoro,Hawlucha,Impidimp,Morgrem,Grimmsnarl,MrRime,Kingambit

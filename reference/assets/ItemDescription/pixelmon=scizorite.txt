@@ -1,0 +1,1 @@
+可以让||pokemonButton=Scizor||在对战中mega进化为||pokemonButton=Scizor form:mega||

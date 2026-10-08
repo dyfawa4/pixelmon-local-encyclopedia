@@ -1,0 +1,3 @@
+Night Slash,Kabutops,Corphish,Crawdaunt,Skorupi,Drapion
+Sand Attack,Omanyte,Omastar,Kabuto,Kabutops,Wimpod,Golisopod,Wiglett,Wugtrio
+Switcheroo

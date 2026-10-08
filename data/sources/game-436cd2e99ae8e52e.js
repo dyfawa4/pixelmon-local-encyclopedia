@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-436cd2e99ae8e52e"]={"json":{"id":"Sobble","spawnInfos":[{"spec":"species:Sobble","stringLocationTypes":["Seafloor"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":10.0}]}};

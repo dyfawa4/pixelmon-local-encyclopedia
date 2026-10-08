@@ -1,0 +1,9 @@
+以下情况下，捕获率x3。
+1.在主世界露天区域，时间为黄昏或夜晚。
+2.在没有昼夜轮转的世界，如地狱或末地。
+3.在y≤64，且光照强度≤14的位置，且天气为雨天(雪天不行)。
+
+若宝可梦为以下究极异兽，捕获率x0.1。
+||pokemonButton=Nihilego||/||pokemonButton=Pheromosa||/||pokemonButton=Buzzwole||/||pokemonButton=Xurkitree||/||pokemonButton=Celesteela||/||pokemonButton=Kartana||/||pokemonButton=Guzzlord||/||pokemonButton=Blacephalon||/||pokemonButton=Stakataka||/||pokemonButton=Poipole||/||pokemonButton=Naganadel||
+
+其余情况捕获率x1。

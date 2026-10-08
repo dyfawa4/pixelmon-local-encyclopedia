@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bd09ead2415920ae"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" R ","ROR"," R "],"key":{"O":{"item":"minecraft:obsidian"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:fossil_machine_display","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_rock"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["GS","SG"],"key":{"S":{"item":"minecraft:stone"},"G":{"item":"minecraft:granite"}},"result":{"item":"pixelmon:rock","count":4},"source":"data/pixelmon/recipes/decor/terrain/rock.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

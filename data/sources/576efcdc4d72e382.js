@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:576efcdc4d72e382"]={"json":{"Evolutions":[{"from":"Bergmite","level":37,"to":"Avalugg","conditions":[{"evoConditionType":"biome","biomes":["minecraft:ice_spikes"],"additionalProperties":{}}],"evoType":"leveling","moves":["Body Slam"],"additionalProperties":{}}]}};

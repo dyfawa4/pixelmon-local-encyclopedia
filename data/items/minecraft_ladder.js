@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_ladder"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["# #","###","# #"],"key":{"#":{"item":"minecraft:stick"}},"result":{"item":"minecraft:ladder","count":3},"source":"data/minecraft/recipes/ladder.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

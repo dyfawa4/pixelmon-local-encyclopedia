@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2455949e1cd47614"]={"json":{"Evolutions":[{"from":"Farfetchd form:galarian","to":"Sirfetchd","conditions":[{"evoConditionType":"critical","critical":3,"additionalProperties":{}}],"evoType":"ticking","moves":["Iron Defense"],"additionalProperties":{}}]}};

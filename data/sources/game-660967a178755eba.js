@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-660967a178755eba"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GWG","GWG","GWG"],"key":{"G":{"item":"minecraft:glass_pane"},"W":{"item":"minecraft:water_bucket"}},"result":{"item":"pixelmon:fossil_machine_tank","count":1}}};

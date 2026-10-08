@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d7b04aa16ba5bc8"]={"json":{"Name":"Scrappy","Description":"一般属性和格斗属性的招式可以击中幽灵属性的宝可梦。","Normal":["Kangaskhan","Miltank","Lopunny form:mega","Flamigo"],"Hidden":["Farfetchd form:galarian","Taillow","Swellow","Loudred","Exploud","Herdier","Stoutland","Pancham","Pangoro","Decidueye form:hisuian","Sirfetchd"]}};

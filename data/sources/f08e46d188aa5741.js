@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f08e46d188aa5741"]={"json":{"pokemon":"Wyrdeer","items":[{"item":"minecraft:leather","min":2,"max":4,"chance":1.0},{"item":"minecraft:beef","min":1,"max":2,"chance":0.5},{"item":"pixelmon:rindo_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,3 @@
+3,4=forests
+3,4=jungles
+3,4=roofed

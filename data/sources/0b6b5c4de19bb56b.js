@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0b6b5c4de19bb56b"]={"json":{"pokemon":"Drapion","items":[{"item":"minecraft:sand","min":1,"max":3,"chance":1.0},{"item":"pixelmon:occa_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:poison_barb","min":1,"max":1,"chance":0.1}]}};

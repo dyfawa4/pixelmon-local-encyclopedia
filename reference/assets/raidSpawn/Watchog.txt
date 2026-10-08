@@ -1,0 +1,2 @@
+2,3,4=plains
+2,3,4=savannas

@@ -1,0 +1,6 @@
+对||pokemonButton=Nidorina||使用，使其进化为||pokemonButton=Nidoqueen||。
+对||pokemonButton=Nidorino||使用，使其进化为||pokemonButton=Nidoking||。
+对||pokemonButton=Clefairy||使用，使其进化为||pokemonButton=Clefable||。
+对||pokemonButton=Jigglypuff||使用，使其进化为||pokemonButton=Wigglytuff||。
+对||pokemonButton=Skitty||使用，使其进化为||pokemonButton=Delcatty||。
+对||pokemonButton=Munna||使用，使其进化为||pokemonButton=Musharna||。

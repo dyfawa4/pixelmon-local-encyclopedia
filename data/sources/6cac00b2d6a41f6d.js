@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6cac00b2d6a41f6d"]={"json":{"pokemon":"Seismitoad","items":[{"item":"minecraft:coarse_dirt","min":2,"max":3,"chance":1.0},{"item":"minecraft:lily_pad","min":1,"max":3,"chance":0.5},{"item":"pixelmon:ground_gem","min":1,"max":1,"chance":0.1}]}};

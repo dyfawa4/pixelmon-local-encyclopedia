@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:52d15db406479998"]={"json":{"id":"Baxcalibur","spawnInfos":[{"spec":"species:Baxcalibur","stringLocationTypes":["Land"],"minLevel":54,"maxLevel":65,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["freezing forests","freezing mountains"]},"rarity":0.01}]}};

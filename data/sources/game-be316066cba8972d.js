@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-be316066cba8972d"]={"json":{"type":"minecraft:crafting_shaped","pattern":["AAA","ABA","AGA"],"key":{"A":{"tag":"forge:ingots/aluminum"},"B":{"item":"minecraft:water_bucket"},"G":{"item":"minecraft:glass_pane"}},"result":{"item":"pixelmon:washing_machine","count":1}}};

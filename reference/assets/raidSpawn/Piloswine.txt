@@ -1,0 +1,6 @@
+3,4=freezingmountains
+3,4=freezingocean
+3,4=freezingplains
+3,4=otherfreezing
+3,4=shatteredglacier
+3,4=tundra

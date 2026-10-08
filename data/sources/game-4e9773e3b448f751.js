@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4e9773e3b448f751"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:shulker"],"replacement_logic":"simple","specs":["shuckle","forretress"]}};

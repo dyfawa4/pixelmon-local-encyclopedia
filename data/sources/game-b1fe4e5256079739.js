@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b1fe4e5256079739"]={"json":{"id":"Wugtrio","spawnInfos":[{"spec":"species:Wugtrio","stringLocationTypes":["Land","Seafloor"],"minLevel":26,"maxLevel":39,"typeID":"pokemon","condition":{"stringBiomes":["beaches","minecraft:ocean","minecraft:lukewarm_ocean","minecraft:warm_ocean"]},"rarity":20.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a35f5be5e4a0f98e"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:polished_ultra_space_stone_stairs"}],"conditions":[]}]}};

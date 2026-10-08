@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-005312aadbb223e9"]={"json":{"id":"Nuzleaf","spawnInfos":[{"spec":"species:Nuzleaf","stringLocationTypes":["Land"],"minLevel":14,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:power_herb","percentChance":5}],"condition":{"stringBiomes":["redwoods","taigas"]},"rarity":8.0}]}};

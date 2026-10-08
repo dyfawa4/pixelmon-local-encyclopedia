@@ -1,0 +1,4 @@
+Double-Edge,Pidgey,Pidgeotto,Pidgeot,Spearow,Fearow,Zubat,Golbat,Farfetchd,Doduo,Dodrio,Aerodactyl,Hoothoot,Noctowl,Crobat,Togetic,Natu,Xatu,Murkrow,Skarmory,Taillow,Swellow,Wingull,Pelipper,Swablu,Altaria,Starly,Staravia,Staraptor,Honchkrow,Togekiss,Ducklett,Swanna,Rufflet,Braviary,Braviary form:hisuian,Vullaby,Mandibuzz,Fletchling,Fletchinder,Talonflame,Noivern,Corviknight,Espathra
+Final Gambit,Farfetchd form:galarian,Starly,Staravia,Staraptor,Sirfetchd
+Flatter,Murkrow,Honchkrow,Vullaby,Mandibuzz
+Parting Shot,Bombirdier

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:68fd83d370d03df3"]={"json":{"id":"Mega Sableye","spawnInfos":[{"spec":"species:Sableye","stringLocationTypes":["Underground"],"spawnSpecificBossRate":1,"condition":{"maxY":60,"maxLightLevel":0},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

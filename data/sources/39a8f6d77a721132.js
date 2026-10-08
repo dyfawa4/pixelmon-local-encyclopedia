@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:39a8f6d77a721132"]={"json":{"id":"Mega Gallade","spawnInfos":[{"spec":"species:Gallade","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9184592da169c13f"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/light_blue"},{"tag":"pixelmon:water_floats"}],"result":{"item":"pixelmon:light_blue_water_float","count":1}}};

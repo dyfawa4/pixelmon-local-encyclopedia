@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:21f3353a2439e8f2"]={"json":{"attack":"变身为巨大的剑，挥斩对手。如果对手正处于极巨化状态，则造成的伤害会变为2倍。","description":"攻击目标造成伤害。\n如果目标处于极巨化状态，威力翻倍。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

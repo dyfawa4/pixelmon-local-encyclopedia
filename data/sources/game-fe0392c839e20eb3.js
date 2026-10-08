@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fe0392c839e20eb3"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"waterleader1.png"}],"names":[{"name":"凱"}],"chat":[{"opening":"你排除萬難走到了我的面前讓我感到印象深刻，但是不要以為我會因此對你手下留情！","win":"哈！不要給我回來。","lose":"你只是運氣好，孩子！"}]}};

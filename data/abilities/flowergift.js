@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:flowergift"]={"description":"对战中\r\n在大晴天或大日照天气时，己方所有宝可梦攻击与特防提升50%，樱花儿的形态会从阴天形态变为晴天形态。\r\n该特性仅当拥有者为樱花儿时有效，当樱花儿失去该特性时会变回阴天形态。","holders":[[421,"overcast",false],[421,"sunshine",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.FlowerGift"}};

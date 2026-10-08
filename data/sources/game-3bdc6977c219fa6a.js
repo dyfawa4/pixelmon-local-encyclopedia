@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3bdc6977c219fa6a"]={"json":{"skins":[{"filename":"dress.png"}],"names":[{"name":"Tiffany"},{"name":"Bridgette"},{"name":"Catherine"},{"name":"Madelaine"}],"chat":[{"lines":[{"text":"Today is a very special day for me!"},{"text":"I hope it doesn't rain."}]},{"lines":[{"text":"Does this dress make my hips look big?"}]}]}};

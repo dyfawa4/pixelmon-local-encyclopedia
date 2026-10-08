@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:973d41c7fb3cde26"]={"json":{"pokemon":"Tarountula","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:spider_eye","min":1,"max":1,"chance":0.5}]}};

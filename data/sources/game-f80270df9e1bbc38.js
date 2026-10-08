@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f80270df9e1bbc38"]={"json":{"id":"Shuckle Rocksmash","spawnInfos":[{"spec":"species:Shuckle","stringLocationTypes":["Rock Smash"],"minLevel":20,"maxLevel":37,"typeID":"pokemon","condition":{"stringBiomes":["beaches","pixelmon:ultra_deep_sea"]},"rarity":90.0}]}};

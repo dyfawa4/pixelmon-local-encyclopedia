@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:43d00c222ad447d0"]={"json":{"pokemon":"Diglett form:alolan","items":[{"item":"minecraft:dirt","min":1,"max":4,"chance":1.0},{"item":"minecraft:iron_nugget","min":1,"max":2,"chance":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0c89349b6e3a58ce"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:potato"},{"item":"minecraft:potato"},{"item":"minecraft:potato"},{"item":"minecraft:potato"},{"item":"minecraft:potato"}],"result":{"item":"pixelmon:curry_potato","count":1}}};

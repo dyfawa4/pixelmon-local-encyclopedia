@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4d98a370f6119244"]={"json":{"name":"pixelmon:hauntedtower/tower_c","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:hauntedtower/haunted_tower_d_tower","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

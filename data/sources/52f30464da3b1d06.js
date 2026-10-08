@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:52f30464da3b1d06"]={"json":{"id":"Teddiursa","spawnInfos":[{"spec":"species:Teddiursa","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":29,"typeID":"pokemon","condition":{"stringBiomes":["all forests"]},"rarity":250.0}]}};

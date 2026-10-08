@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a7f93988504e2719"]={"json":{"pokemon":"Exploud","items":[{"item":"minecraft:gunpowder","min":2,"max":4,"chance":1.0},{"item":"pixelmon:throat_spray","min":1,"max":2,"chance":0.5},{"item":"minecraft:music_disc_13","min":1,"max":1,"chance":0.3},{"item":"minecraft:music_disc_pigstep","min":1,"max":1,"chance":0.1}]}};

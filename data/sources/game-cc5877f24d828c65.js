@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cc5877f24d828c65"]={"json":{"type":"minecraft:crafting_shaped","group":"boat","pattern":["# #","###"],"key":{"#":{"item":"pixelmon:ultra_elm_planks"}},"result":{"item":"pixelmon:ultra_elm_boat"}}};

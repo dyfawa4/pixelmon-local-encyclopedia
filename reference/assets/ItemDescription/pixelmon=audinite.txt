@@ -1,0 +1,1 @@
+可以让||pokemonButton=Audino||在对战中mega进化为||pokemonButton=Audino form:mega||

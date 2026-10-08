@@ -1,0 +1,1 @@
+用于合成||itemButton=pixelmon:galarica_cuff||或||itemButton=pixelmon:galarica_wreath||。

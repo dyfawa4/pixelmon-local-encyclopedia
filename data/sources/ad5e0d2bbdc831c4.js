@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ad5e0d2bbdc831c4"]={"json":{"id":"Volbeat Grass","spawnInfos":[{"spec":"species:Volbeat","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:bright_powder","percentChance":5}],"condition":{"times":["DUSK","NIGHT"],"stringBiomes":["redwoods","taigas"]},"rarity":90.0}]}};

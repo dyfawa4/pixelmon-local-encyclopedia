@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:neuroforce"]={"description":"对战中\r\n使用的效果绝佳招式的威力提升25%。","holders":[[800,"ultra",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Neuroforce"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-53dccc8d4fcbc38b"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:bat"],"replacement_logic":"simple","specs":["woobat","crobat","golbat","noibat","zubat","swoobat"]}};

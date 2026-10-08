@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:94d0dd9f8e7257d0"]={"json":{"description":"攻击目标造成伤害。\n茁茁炸弹有100%的几率使目标陷入寄生种子状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

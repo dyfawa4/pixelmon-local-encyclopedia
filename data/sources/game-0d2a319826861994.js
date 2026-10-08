@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0d2a319826861994"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:illusioner"],"replacement_logic":"simple","specs":["delphox","mismagius","hatterene"]}};

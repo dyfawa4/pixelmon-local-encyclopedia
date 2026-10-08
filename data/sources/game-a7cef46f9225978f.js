@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a7cef46f9225978f"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:box"},{"item":"book"},{"tag":"pixelmon:mugs"}],"result":{"item":"pixelmon:cluttered_box","count":1}}};

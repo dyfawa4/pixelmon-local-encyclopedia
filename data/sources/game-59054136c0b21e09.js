@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-59054136c0b21e09"]={"json":{"id":"Gimmighoul","spawnInfos":[{"spec":"species:Gimmighoul","stringLocationTypes":["Land","Indoors","Underground","Manmade"],"minLevel":10,"maxLevel":50,"typeID":"pokemon","condition":{"structures":["jungle_pyramid","desert_pyramid","pixelmon:haunted_tower","pixelmon:graveyard","ruined_portal"]},"rarity":10.0}]}};

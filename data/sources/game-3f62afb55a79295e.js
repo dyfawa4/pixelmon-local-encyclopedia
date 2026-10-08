@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3f62afb55a79295e"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:rindo_berry"},{"item":"pixelmon:crystal_block"}],"results":{"item":"pixelmon:grass_gem"}}};

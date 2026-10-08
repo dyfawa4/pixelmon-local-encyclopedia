@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-14028b17988b0364"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" W ","WRW"," W "],"key":{"R":{"item":"pixelmon:big_root"},"W":{"item":"minecraft:nether_wart"}},"result":{"item":"pixelmon:curry_herb","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:620556a320d7d72d"]={"json":{"id":"Bidoof","spawnInfos":[{"spec":"species:Bidoof","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":10,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["minecraft:river","swamps","lakes"]},"rarity":250.0}]}};

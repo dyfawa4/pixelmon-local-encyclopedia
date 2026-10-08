@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f132024cdc212327"]={"json":{"Evolutions":[{"from":"Exeggcute","item":{"itemID":"pixelmon:leaf_stone","additionalProperties":{}},"to":"Exeggutor","conditions":[],"evoType":"interact","moves":["Stomp"],"additionalProperties":{}}]}};

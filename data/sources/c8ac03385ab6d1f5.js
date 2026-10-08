@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c8ac03385ab6d1f5"]={"json":{"Name":"MagicBounce","Description":"可以不受到由对手使出的变化招式影响，并将其反弹。","Normal":["Sableye form:mega","Absol form:mega","Diancie form:mega"],"Hidden":["Natu","Xatu","Espeon","Hatenna","Hattrem","Hatterene"]}};

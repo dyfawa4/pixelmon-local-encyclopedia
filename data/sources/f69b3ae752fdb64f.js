@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f69b3ae752fdb64f"]={"json":{"id":"Raboot","spawnInfos":[{"spec":"species:Raboot","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":34,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["plains"]},"rarity":1.0}]}};

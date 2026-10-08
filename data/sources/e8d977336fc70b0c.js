@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e8d977336fc70b0c"]={"text":"4,5=freezingbeaches\r\n4,5=freezingforests\r\n4,5=freezingmountains\r\n4,5=freezingocean\r\n4,5=freezingplains\r\n4,5=frozenwater\r\n4,5=mountainous\r\n4,5=otherfreezing\r\n4,5=shatteredglacier\r\n4,5=subzerohypogeal\r\n"};

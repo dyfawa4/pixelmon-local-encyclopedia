@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-af5260d3979bed7c"]={"json":{"id":"Rellor","spawnInfos":[{"spec":"species:Rellor","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"stringBiomes":["arid","savannas","mesas"]},"rarity":150.0}]}};

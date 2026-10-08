@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e7b86fef97ef87a4"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"electricleader1.png"}],"names":[{"name":"Amphy"}],"chat":[{"opening":"¡Te mostraré el verdadero poder de la electricidad!","win":"¡Já! No subestimes el poder del voltaje.","lose":"¡Tuviste suerte, muchacho!"}]}};

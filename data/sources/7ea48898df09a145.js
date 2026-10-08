@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7ea48898df09a145"]={"json":{"pokemon":"Regieleki","items":[{"item":"minecraft:glowstone","min":2,"max":5,"chance":1.0},{"item":"pixelmon:wacan_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:electric_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:magnet","min":1,"max":1,"chance":0.1}]}};

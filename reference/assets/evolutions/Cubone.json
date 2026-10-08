@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Cubone","level":28,"to":"Marowak form:alolan","conditions":[{"evoConditionType":"party","withPokemon":[],"withTypes":[],"withForms":["ALOLAN"],"additionalProperties":{}}],"evoType":"leveling","moves":["Shadow Bone"],"additionalProperties":{}},{"from":"Cubone","level":28,"to":"Marowak","conditions":[],"evoType":"leveling","additionalProperties":{}}]}

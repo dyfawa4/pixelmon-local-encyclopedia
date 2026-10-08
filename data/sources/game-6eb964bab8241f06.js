@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6eb964bab8241f06"]={"json":{"id":"Abra","spawnInfos":[{"spec":"species:Abra","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:twisted_spoon","percentChance":5}],"condition":{"stringBiomes":["forests","end"]},"rarity":130.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b294a0b3fa929568"]={"json":{"id":"Grotle","spawnInfos":[{"spec":"species:Grotle","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":25,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["forests","roofed","redwoods"]},"rarity":1.0}]}};

@@ -1,0 +1,2 @@
+3,4=freezingplains
+3,4=plains

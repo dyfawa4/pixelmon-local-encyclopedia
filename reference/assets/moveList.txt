@@ -1,0 +1,897 @@
+Absorb,吸取,GRASS,SPECIAL,20,25,100
+Accelerock,冲岩,ROCK,PHYSICAL,40,20,100
+Acid,溶解液,POISON,SPECIAL,40,30,100
+Acid Armor,溶化,POISON,STATUS,0,20,-1
+Acid Spray,酸液炸弹,POISON,SPECIAL,40,20,100
+Acrobatics,杂技,FLYING,PHYSICAL,55,15,100
+Acupressure,点穴,NORMAL,STATUS,0,30,-1
+Aerial Ace,燕返,FLYING,PHYSICAL,60,20,-1
+Aeroblast,气旋攻击,FLYING,SPECIAL,100,5,95
+After You,您先请,NORMAL,STATUS,0,15,-1
+Agility,高速移动,PSYCHIC,STATUS,0,30,-1
+Air Cutter,空气利刃,FLYING,SPECIAL,60,25,95
+Air Slash,空气斩,FLYING,SPECIAL,75,15,95
+Ally Switch,交换场地,PSYCHIC,STATUS,0,15,-1
+Amnesia,瞬间失忆,PSYCHIC,STATUS,0,20,-1
+Anchor Shot,掷锚,STEEL,PHYSICAL,80,20,100
+Ancient Power,原始之力,ROCK,SPECIAL,60,5,100
+Apple Acid,苹果酸,GRASS,SPECIAL,80,10,100
+Aqua Cutter,水波刀,WATER,PHYSICAL,70,20,100
+Aqua Jet,水流喷射,WATER,PHYSICAL,40,20,100
+Aqua Ring,水流环,WATER,STATUS,0,20,-1
+Aqua Step,流水旋舞,WATER,PHYSICAL,80,10,100
+Aqua Tail,水流尾,WATER,PHYSICAL,90,10,90
+Armor Cannon,铠农炮,FIRE,SPECIAL,120,5,100
+Arm Thrust,猛推,FIGHTING,PHYSICAL,15,20,100
+Aromatherapy,芳香治疗,GRASS,STATUS,0,5,-1
+Aromatic Mist,芳香薄雾,FAIRY,STATUS,0,20,-1
+Assist,借助,NORMAL,STATUS,0,20,-1
+Assurance,恶意追击,DARK,PHYSICAL,60,10,100
+Astonish,惊吓,GHOST,PHYSICAL,30,15,100
+Astral Barrage,星碎,GHOST,SPECIAL,120,5,100
+Attack Order,攻击指令,BUG,PHYSICAL,90,15,100
+Attract,迷人,NORMAL,STATUS,0,15,100
+Aura Sphere,波导弹,FIGHTING,SPECIAL,80,20,-1
+Aura Wheel,气场轮,ELECTRIC,PHYSICAL,110,10,100
+Aurora Beam,极光束,ICE,SPECIAL,65,20,100
+Aurora Veil,极光幕,ICE,STATUS,0,20,-1
+Autotomize,身体轻量化,STEEL,STATUS,0,15,-1
+Avalanche,雪崩,ICE,PHYSICAL,60,10,100
+Axe Kick,下压踢,FIGHTING,PHYSICAL,120,10,90
+Baby-Doll Eyes,圆瞳,FAIRY,STATUS,0,30,100
+Baneful Bunker,碉堡,POISON,STATUS,0,10,-1
+Barb Barrage,毒千针,POISON,PHYSICAL,60,15,100
+Barrage,投球,NORMAL,PHYSICAL,15,20,85
+Barrier,屏障,PSYCHIC,STATUS,0,20,-1
+Baton Pass,接棒,NORMAL,STATUS,0,40,-1
+Beak Blast,鸟嘴加农炮,FLYING,PHYSICAL,100,15,100
+Beat Up,围攻,DARK,PHYSICAL,0,10,100
+Behemoth Bash,巨兽弹,STEEL,PHYSICAL,100,5,100
+Behemoth Blade,巨兽斩,STEEL,PHYSICAL,100,5,100
+Belch,打嗝,POISON,SPECIAL,120,10,90
+Belly Drum,腹鼓,NORMAL,STATUS,0,10,-1
+Bestow,传递礼物,NORMAL,STATUS,0,15,-1
+Bide,忍耐,NORMAL,PHYSICAL,0,10,-1
+Bind,绑紧,NORMAL,PHYSICAL,15,20,85
+Bite,咬住,DARK,PHYSICAL,60,25,100
+Bitter Blade,悔念剑,FIRE,PHYSICAL,90,10,100
+Bitter Malice,冤冤相报,GHOST,SPECIAL,60,15,100
+Blast Burn,爆炸烈焰,FIRE,SPECIAL,150,5,90
+Blaze Kick,火焰踢,FIRE,PHYSICAL,85,10,90
+Bleakwind Storm,枯叶风暴,FLYING,SPECIAL,95,5,80
+Blizzard,暴风雪,ICE,SPECIAL,110,5,70
+Block,挡路,NORMAL,STATUS,0,5,-1
+Blue Flare,青焰,FIRE,SPECIAL,130,5,85
+Body Press,扑击,FIGHTING,PHYSICAL,80,10,100
+Body Slam,泰山压顶,NORMAL,PHYSICAL,85,15,100
+Bolt Beak,电喙,ELECTRIC,PHYSICAL,85,10,100
+Bolt Strike,雷击,ELECTRIC,PHYSICAL,130,5,85
+Bonemerang,骨头回力镖,GROUND,PHYSICAL,50,10,90
+Bone Club,骨棒,GROUND,PHYSICAL,65,20,85
+Bone Rush,骨棒乱打,GROUND,PHYSICAL,25,10,90
+Boomburst,爆音波,NORMAL,SPECIAL,140,10,100
+Bounce,弹跳,FLYING,PHYSICAL,85,5,85
+Branch Poke,木枝突刺,GRASS,PHYSICAL,40,40,100
+Brave Bird,勇鸟猛攻,FLYING,PHYSICAL,120,15,100
+Breaking Swipe,广域破坏,DRAGON,PHYSICAL,60,15,100
+Brick Break,劈瓦,FIGHTING,PHYSICAL,75,15,100
+Brine,盐水,WATER,SPECIAL,65,10,100
+Brutal Swing,狂舞挥打,DARK,PHYSICAL,60,20,100
+Bubble,泡沫,WATER,SPECIAL,40,30,100
+Bubble Beam,泡沫光线,WATER,SPECIAL,65,20,100
+Bug Bite,虫咬,BUG,PHYSICAL,60,20,100
+Bug Buzz,虫鸣,BUG,SPECIAL,90,10,100
+Bulk Up,健美,FIGHTING,STATUS,0,20,-1
+Bulldoze,重踏,GROUND,PHYSICAL,60,20,100
+Bullet Punch,子弹拳,STEEL,PHYSICAL,40,30,100
+Bullet Seed,种子机关枪,GRASS,PHYSICAL,25,30,100
+Burning Jealousy,妒火,FIRE,SPECIAL,70,5,100
+Burn Up,燃尽,FIRE,SPECIAL,130,5,100
+Calm Mind,冥想,PSYCHIC,STATUS,0,20,-1
+Camouflage,保护色,NORMAL,STATUS,0,20,-1
+Captivate,诱惑,NORMAL,STATUS,0,20,100
+Ceaseless Edge,秘剑・千重涛,DARK,PHYSICAL,65,15,90
+Celebrate,庆祝,NORMAL,STATUS,0,40,-1
+Charge,充电,ELECTRIC,STATUS,0,20,-1
+Charge Beam,充电光束,ELECTRIC,SPECIAL,50,10,90
+Charm,撒娇,FAIRY,STATUS,0,20,100
+Chatter,喋喋不休,FLYING,SPECIAL,65,20,100
+Chilling Water,泼冷水,WATER,SPECIAL,50,20,100
+Chilly Reception,冷笑话,ICE,STATUS,0,10,-1
+Chip Away,逐步击破,NORMAL,PHYSICAL,70,20,100
+Chloroblast,叶绿爆震,GRASS,SPECIAL,120,5,95
+Circle Throw,巴投,FIGHTING,PHYSICAL,60,10,90
+Clamp,贝壳夹击,WATER,PHYSICAL,35,10,85
+Clanging Scales,鳞片噪音,DRAGON,SPECIAL,110,5,100
+Clangorous Soul,魂舞烈音爆,DRAGON,STATUS,0,5,-1
+Clear Smog,清除之烟,POISON,SPECIAL,50,15,-1
+Close Combat,近身战,FIGHTING,PHYSICAL,120,5,100
+Coaching,指导,FIGHTING,STATUS,0,10,-1
+Coil,盘蜷,POISON,STATUS,0,20,-1
+Collision Course,全开猛撞,FIGHTING,PHYSICAL,100,5,100
+Comet Punch,连续拳,NORMAL,PHYSICAL,18,15,85
+Comeuppance,复仇,DARK,PHYSICAL,0,10,100
+Confide,密语,NORMAL,STATUS,0,20,-1
+Confuse Ray,奇异之光,GHOST,STATUS,0,10,100
+Confusion,念力,PSYCHIC,SPECIAL,50,25,100
+Constrict,缠绕,NORMAL,PHYSICAL,10,35,100
+Conversion,纹理,NORMAL,STATUS,0,30,-1
+Conversion 2,纹理2,NORMAL,STATUS,0,30,-1
+Copycat,仿效,NORMAL,STATUS,0,20,-1
+Core Enforcer,核心惩罚者,DRAGON,SPECIAL,100,10,100
+Corrosive Gas,腐蚀气体,POISON,STATUS,0,40,100
+Cosmic Power,宇宙力量,PSYCHIC,STATUS,0,20,-1
+Cotton Guard,棉花防守,GRASS,STATUS,0,10,-1
+Cotton Spore,棉孢子,GRASS,STATUS,0,40,100
+Counter,双倍奉还,FIGHTING,PHYSICAL,0,20,100
+Court Change,换场,NORMAL,STATUS,0,10,-1
+Covet,渴望,NORMAL,PHYSICAL,60,25,100
+Crabhammer,蟹钳锤,WATER,PHYSICAL,100,10,90
+Crafty Shield,戏法防守,FAIRY,STATUS,0,10,-1
+Cross Chop,十字劈,FIGHTING,PHYSICAL,100,5,80
+Cross Poison,十字毒刃,POISON,PHYSICAL,70,20,100
+Crunch,咬碎,DARK,PHYSICAL,80,15,100
+Crush Claw,撕裂爪,NORMAL,PHYSICAL,75,10,95
+Crush Grip,捏碎,NORMAL,PHYSICAL,120,5,100
+Curse,诅咒,GHOST,STATUS,0,10,-1
+Cut,居合斩,NORMAL,PHYSICAL,50,30,95
+Darkest Lariat,DD金勾臂,DARK,PHYSICAL,85,10,100
+Dark Pulse,恶之波动,DARK,SPECIAL,80,15,100
+Dark Void,暗黑洞,DARK,STATUS,0,10,50
+Dazzling Gleam,魔法闪耀,FAIRY,SPECIAL,80,10,100
+Decorate,装饰,FAIRY,STATUS,0,10,-1
+Defend Order,防御指令,BUG,STATUS,0,10,-1
+Defense Curl,变圆,NORMAL,STATUS,0,40,-1
+Defog,清除浓雾,FLYING,STATUS,0,15,-1
+Destiny Bond,同命,GHOST,STATUS,0,5,-1
+Detect,看穿,FIGHTING,STATUS,0,5,-1
+Diamond Storm,钻石风暴,ROCK,PHYSICAL,100,5,95
+Dig,挖洞,GROUND,PHYSICAL,80,10,100
+Dire Claw,克命爪,POISON,PHYSICAL,60,15,100
+Disable,定身法,NORMAL,STATUS,0,20,100
+Disarming Voice,魅惑之声,FAIRY,SPECIAL,40,15,-1
+Discharge,放电,ELECTRIC,SPECIAL,80,15,100
+Dive,潜水,WATER,PHYSICAL,80,10,100
+Dizzy Punch,迷昏拳,NORMAL,PHYSICAL,80,10,100
+Doodle,描绘,NORMAL,STATUS,0,10,100
+Doom Desire,破灭之愿,STEEL,SPECIAL,140,5,100
+Double-Edge,舍身冲撞,NORMAL,PHYSICAL,120,15,100
+Double Hit,二连击,NORMAL,PHYSICAL,35,10,90
+Double Iron Bash,钢拳双击,STEEL,PHYSICAL,60,5,100
+Double Kick,二连踢,FIGHTING,PHYSICAL,30,30,100
+Double Shock,电光双击,ELECTRIC,PHYSICAL,120,5,100
+Double Slap,连环巴掌,NORMAL,PHYSICAL,10,10,85
+Double Team,影子分身,NORMAL,STATUS,0,15,-1
+Draco Meteor,流星群,DRAGON,SPECIAL,130,5,90
+Dragon Ascent,画龙点睛,FLYING,PHYSICAL,120,5,100
+Dragon Breath,龙息,DRAGON,SPECIAL,60,20,100
+Dragon Claw,龙爪,DRAGON,PHYSICAL,80,15,100
+Dragon Dance,龙之舞,DRAGON,STATUS,0,20,-1
+Dragon Darts,龙箭,DRAGON,PHYSICAL,50,10,100
+Dragon Energy,巨龙威能,DRAGON,SPECIAL,150,5,100
+Dragon Hammer,龙锤,DRAGON,PHYSICAL,90,15,100
+Dragon Pulse,龙之波动,DRAGON,SPECIAL,85,10,100
+Dragon Rage,龙之怒,DRAGON,SPECIAL,0,10,100
+Dragon Rush,龙之俯冲,DRAGON,PHYSICAL,100,10,75
+Dragon Tail,龙尾,DRAGON,PHYSICAL,60,10,90
+Draining Kiss,吸取之吻,FAIRY,SPECIAL,50,10,100
+Drain Punch,吸取拳,FIGHTING,PHYSICAL,75,10,100
+Dream Eater,食梦,PSYCHIC,SPECIAL,100,15,100
+Drill Peck,啄钻,FLYING,PHYSICAL,80,20,100
+Drill Run,直冲钻,GROUND,PHYSICAL,80,10,95
+Drum Beating,鼓击,GRASS,PHYSICAL,80,10,100
+Dual Chop,二连劈,DRAGON,PHYSICAL,40,15,90
+Dual Wingbeat,双翼,FLYING,PHYSICAL,40,10,90
+Dynamax Cannon,极巨炮,DRAGON,SPECIAL,100,5,100
+Dynamic Punch,爆裂拳,FIGHTING,PHYSICAL,100,5,50
+Earthquake,地震,GROUND,PHYSICAL,100,10,100
+Earth Power,大地之力,GROUND,SPECIAL,90,10,100
+Echoed Voice,回声,NORMAL,SPECIAL,40,15,100
+Eerie Impulse,怪异电波,ELECTRIC,STATUS,0,15,100
+Eerie Spell,诡异咒语,PSYCHIC,SPECIAL,80,5,100
+Egg Bomb,炸蛋,NORMAL,PHYSICAL,100,10,75
+Electric Terrain,电气场地,ELECTRIC,STATUS,0,10,-1
+Electrify,输电,ELECTRIC,STATUS,0,20,-1
+Electroweb,电网,ELECTRIC,SPECIAL,55,15,95
+Electro Ball,电球,ELECTRIC,SPECIAL,0,10,100
+Electro Drift,闪电猛冲,ELECTRIC,SPECIAL,100,5,100
+Embargo,查封,DARK,STATUS,0,15,100
+Ember,火花,FIRE,SPECIAL,40,25,100
+Encore,再来一次,NORMAL,STATUS,0,5,100
+Endeavor,蛮干,NORMAL,PHYSICAL,0,5,100
+Endure,挺住,NORMAL,STATUS,0,10,-1
+Energy Ball,能量球,GRASS,SPECIAL,90,10,100
+Entrainment,找伙伴,NORMAL,STATUS,0,15,100
+Eruption,喷火,FIRE,SPECIAL,150,5,100
+Esper Wing,气场之翼,PSYCHIC,SPECIAL,75,10,90
+Eternabeam,无极光束,DRAGON,SPECIAL,160,5,90
+Expanding Force,广域战力,PSYCHIC,SPECIAL,80,20,100
+Explosion,大爆炸,NORMAL,PHYSICAL,250,5,100
+Extrasensory,神通力,PSYCHIC,SPECIAL,80,20,100
+Extreme Speed,神速,NORMAL,PHYSICAL,80,5,100
+Facade,硬撑,NORMAL,PHYSICAL,70,20,100
+Fairy Lock,妖精之锁,FAIRY,STATUS,0,10,-1
+Fairy Wind,妖精之风,FAIRY,SPECIAL,40,30,100
+Fake Out,击掌奇袭,NORMAL,PHYSICAL,40,10,100
+Fake Tears,假哭,DARK,STATUS,0,20,100
+False Surrender,假跪真撞,DARK,PHYSICAL,80,10,-1
+False Swipe,点到为止,NORMAL,PHYSICAL,40,40,100
+Feather Dance,羽毛舞,FLYING,STATUS,0,15,-1
+Feint,佯攻,NORMAL,PHYSICAL,30,10,100
+Feint Attack,出奇一击,DARK,PHYSICAL,60,20,-1
+Fell Stinger,致命针刺,BUG,PHYSICAL,50,25,100
+Fiery Dance,火之舞,FIRE,SPECIAL,80,10,100
+Fiery Wrath,怒火中烧,DARK,SPECIAL,90,10,100
+Fillet Away,甩肉,NORMAL,STATUS,0,10,-1
+Final Gambit,搏命,FIGHTING,SPECIAL,0,5,100
+Fire Blast,大字爆炎,FIRE,SPECIAL,110,5,85
+Fire Fang,火焰牙,FIRE,PHYSICAL,65,15,95
+Fire Lash,火焰鞭,FIRE,PHYSICAL,80,15,100
+Fire Pledge,火之誓约,FIRE,SPECIAL,80,10,100
+Fire Punch,火焰拳,FIRE,PHYSICAL,75,15,100
+Fire Spin,火焰旋涡,FIRE,SPECIAL,35,15,85
+First Impression,迎头一击,BUG,PHYSICAL,90,10,100
+Fishious Rend,鳃咬,WATER,PHYSICAL,85,10,100
+Fissure,地裂,GROUND,PHYSICAL,0,5,-1
+Flail,抓狂,NORMAL,PHYSICAL,0,15,100
+Flamethrower,喷射火焰,FIRE,SPECIAL,90,15,100
+Flame Burst,烈焰溅射,FIRE,SPECIAL,70,15,100
+Flame Charge,蓄能焰袭,FIRE,PHYSICAL,50,20,100
+Flame Wheel,火焰轮,FIRE,PHYSICAL,60,25,100
+Flare Blitz,闪焰冲锋,FIRE,PHYSICAL,120,15,100
+Flash,闪光,NORMAL,STATUS,0,20,100
+Flash Cannon,加农光炮,STEEL,SPECIAL,80,10,100
+Flatter,吹捧,DARK,STATUS,0,15,100
+Fleur Cannon,花朵加农炮,FAIRY,SPECIAL,130,5,90
+Fling,投掷,DARK,PHYSICAL,0,10,100
+Flip Turn,快速折返,WATER,PHYSICAL,60,20,100
+Floral Healing,花疗,FAIRY,STATUS,0,10,-1
+Flower Shield,鲜花防守,FAIRY,STATUS,0,10,-1
+Flower Trick,千变万花,GRASS,PHYSICAL,70,10,-1
+Fly,飞翔,FLYING,PHYSICAL,90,15,95
+Flying Press,飞身重压,FIGHTING,PHYSICAL,100,10,95
+Focus Blast,真气弹,FIGHTING,SPECIAL,120,5,70
+Focus Energy,聚气,NORMAL,STATUS,0,30,-1
+Focus Punch,真气拳,FIGHTING,PHYSICAL,150,20,100
+Follow Me,看我嘛,NORMAL,STATUS,0,20,-1
+Force Palm,发劲,FIGHTING,PHYSICAL,60,10,100
+Foresight,识破,NORMAL,STATUS,0,40,-1
+Forest's Curse,森林诅咒,GRASS,STATUS,0,20,100
+Foul Play,欺诈,DARK,PHYSICAL,95,15,100
+Freeze-Dry,冷冻干燥,ICE,SPECIAL,70,20,100
+Freeze Shock,冰冻伏特,ICE,PHYSICAL,140,5,90
+Freezing Glare,冰冷视线,PSYCHIC,SPECIAL,90,10,100
+Frenzy Plant,疯狂植物,GRASS,SPECIAL,150,5,90
+Frost Breath,冰息,ICE,SPECIAL,60,10,90
+Frustration,迁怒,NORMAL,PHYSICAL,0,20,100
+Fury Attack,乱击,NORMAL,PHYSICAL,15,20,85
+Fury Cutter,连斩,BUG,PHYSICAL,40,20,95
+Fury Swipes,乱抓,NORMAL,PHYSICAL,18,15,80
+Fusion Bolt,交错闪电,ELECTRIC,PHYSICAL,100,5,100
+Fusion Flare,交错火焰,FIRE,SPECIAL,100,5,100
+Future Sight,预知未来,PSYCHIC,SPECIAL,120,10,100
+Gastro Acid,胃液,POISON,STATUS,0,10,100
+Gear Grind,齿轮飞盘,STEEL,PHYSICAL,50,15,85
+Gear Up,辅助齿轮,STEEL,STATUS,0,20,-1
+Geomancy,大地掌控,FAIRY,STATUS,0,10,-1
+Gigaton Hammer,巨力锤,STEEL,PHYSICAL,160,5,100
+Giga Drain,终极吸取,GRASS,SPECIAL,75,10,100
+Giga Impact,终极冲击,NORMAL,PHYSICAL,150,5,90
+Glacial Lance,雪矛,ICE,PHYSICAL,130,5,100
+Glaciate,冰封世界,ICE,SPECIAL,65,10,95
+Glaive Rush,巨剑突击,DRAGON,PHYSICAL,120,5,100
+Glare,大蛇瞪眼,NORMAL,STATUS,0,30,100
+Grassy Glide,青草滑梯,GRASS,PHYSICAL,70,20,100
+Grassy Terrain,青草场地,GRASS,STATUS,0,10,-1
+Grass Knot,打草结,GRASS,SPECIAL,0,20,100
+Grass Pledge,草之誓约,GRASS,SPECIAL,80,10,100
+Grass Whistle,草笛,GRASS,STATUS,0,15,55
+Gravity,重力,PSYCHIC,STATUS,0,5,-1
+Grav Apple,万有引力,GRASS,PHYSICAL,80,10,100
+Growl,叫声,NORMAL,STATUS,0,40,100
+Growth,生长,NORMAL,STATUS,0,20,-1
+Grudge,怨念,GHOST,STATUS,0,5,-1
+Guard Split,防守平分,PSYCHIC,STATUS,0,10,-1
+Guard Swap,防守互换,PSYCHIC,STATUS,0,10,-1
+Guillotine,断头钳,NORMAL,PHYSICAL,0,5,30
+Gunk Shot,垃圾射击,POISON,PHYSICAL,120,5,80
+Gust,起风,FLYING,SPECIAL,40,35,100
+Gyro Ball,陀螺球,STEEL,PHYSICAL,0,5,100
+Hail,冰雹,ICE,STATUS,0,10,-1
+Hammer Arm,臂锤,FIGHTING,PHYSICAL,100,10,90
+Happy Hour,欢乐时光,NORMAL,STATUS,0,30,-1
+Harden,变硬,NORMAL,STATUS,0,30,-1
+Haze,黑雾,ICE,STATUS,0,30,-1
+Headbutt,头锤,NORMAL,PHYSICAL,70,15,100
+Headlong Rush,突飞猛扑,GROUND,PHYSICAL,100,5,100
+Head Charge,爆炸头突击,NORMAL,PHYSICAL,120,15,100
+Head Smash,双刃头锤,ROCK,PHYSICAL,150,5,80
+Healing Wish,治愈之愿,PSYCHIC,STATUS,0,10,-1
+Heal Bell,治愈铃声,NORMAL,STATUS,0,5,-1
+Heal Block,回复封锁,PSYCHIC,STATUS,0,15,100
+Heal Order,回复指令,BUG,STATUS,0,10,-1
+Heal Pulse,治愈波动,PSYCHIC,STATUS,0,10,-1
+Heart Stamp,爱心印章,PSYCHIC,PHYSICAL,60,25,100
+Heart Swap,心灵互换,PSYCHIC,STATUS,0,10,-1
+Heat Crash,高温重压,FIRE,PHYSICAL,0,10,100
+Heat Wave,热风,FIRE,SPECIAL,95,10,90
+Heavy Slam,重磅冲撞,STEEL,PHYSICAL,0,10,100
+Helping Hand,帮助,NORMAL,STATUS,0,20,-1
+Hex,祸不单行,GHOST,SPECIAL,65,10,100
+Hidden Power,觉醒力量,NORMAL,SPECIAL,60,15,100
+High Horsepower,十万马力,GROUND,PHYSICAL,95,10,95
+High Jump Kick,飞膝踢,FIGHTING,PHYSICAL,130,10,90
+Hold Back,手下留情,NORMAL,PHYSICAL,40,40,100
+Hold Hands,牵手,NORMAL,STATUS,0,40,-1
+Hone Claws,磨爪,DARK,STATUS,0,15,-1
+Horn Attack,角撞,NORMAL,PHYSICAL,65,25,100
+Horn Drill,角钻,NORMAL,PHYSICAL,0,5,-1
+Horn Leech,木角,GRASS,PHYSICAL,75,10,100
+Howl,长嚎,NORMAL,STATUS,0,40,-1
+Hurricane,暴风,FLYING,SPECIAL,110,10,70
+Hydro Cannon,加农水炮,WATER,SPECIAL,150,5,90
+Hydro Pump,水炮,WATER,SPECIAL,110,5,80
+Hydro Steam,水蒸气,WATER,SPECIAL,80,15,100
+Hyperspace Fury,异次元猛攻,DARK,PHYSICAL,100,5,-1
+Hyperspace Hole,异次元洞,PSYCHIC,SPECIAL,80,5,-1
+Hyper Beam,破坏光线,NORMAL,SPECIAL,150,5,90
+Hyper Drill,强力钻,NORMAL,PHYSICAL,100,5,100
+Hyper Fang,必杀门牙,NORMAL,PHYSICAL,80,15,90
+Hyper Voice,巨声,NORMAL,SPECIAL,90,10,100
+Hypnosis,催眠术,PSYCHIC,STATUS,0,20,60
+Ice Ball,冰球,ICE,PHYSICAL,30,20,90
+Ice Beam,冰冻光束,ICE,SPECIAL,90,10,100
+Ice Burn,极寒冷焰,ICE,SPECIAL,140,5,90
+Ice Fang,冰冻牙,ICE,PHYSICAL,65,15,95
+Ice Hammer,冰锤,ICE,PHYSICAL,100,10,90
+Ice Punch,冰冻拳,ICE,PHYSICAL,75,15,100
+Ice Shard,冰砾,ICE,PHYSICAL,40,30,100
+Ice Spinner,冰旋,ICE,PHYSICAL,80,15,100
+Icicle Crash,冰柱坠击,ICE,PHYSICAL,85,10,90
+Icicle Spear,冰锥,ICE,PHYSICAL,25,30,100
+Icy Wind,冰冻之风,ICE,SPECIAL,55,15,95
+Imprison,封印,PSYCHIC,STATUS,0,10,-1
+Incinerate,烧尽,FIRE,SPECIAL,60,15,100
+Infernal Parade,群魔乱舞,GHOST,SPECIAL,60,15,100
+Inferno,炼狱,FIRE,SPECIAL,100,5,50
+Infestation,死缠烂打,BUG,SPECIAL,20,20,100
+Ingrain,扎根,GRASS,STATUS,0,20,-1
+Instruct,号令,PSYCHIC,STATUS,0,15,-1
+Ion Deluge,等离子浴,ELECTRIC,STATUS,0,25,-1
+Iron Defense,铁壁,STEEL,STATUS,0,15,-1
+Iron Head,铁头,STEEL,PHYSICAL,80,15,100
+Iron Tail,铁尾,STEEL,PHYSICAL,100,15,75
+Jaw Lock,紧咬不放,DARK,PHYSICAL,80,10,100
+Jet Punch,喷射拳,WATER,PHYSICAL,60,15,100
+Judgment,制裁光砾,NORMAL,SPECIAL,100,5,100
+Jump Kick,飞踢,FIGHTING,PHYSICAL,100,10,95
+Jungle Healing,丛林治疗,GRASS,STATUS,0,10,-1
+Karate Chop,空手劈,FIGHTING,PHYSICAL,50,25,100
+Kinesis,折弯汤匙,PSYCHIC,STATUS,0,15,-1
+King's Shield,王者盾牌,STEEL,STATUS,0,10,-1
+Knock Off,拍落,DARK,PHYSICAL,65,20,100
+Kowtow Cleave,仆斩,DARK,PHYSICAL,85,10,-1
+Land's Wrath,大地神力,GROUND,PHYSICAL,90,10,100
+Laser Focus,磨砺,NORMAL,STATUS,0,30,-1
+Lash Out,泄愤,DARK,PHYSICAL,75,5,100
+Last Resort,珍藏,NORMAL,PHYSICAL,140,5,100
+Last Respects,扫墓,GHOST,PHYSICAL,50,10,100
+Lava Plume,喷烟,FIRE,SPECIAL,80,15,100
+Leafage,树叶,GRASS,PHYSICAL,40,40,100
+Leaf Blade,叶刃,GRASS,PHYSICAL,90,15,100
+Leaf Storm,飞叶风暴,GRASS,SPECIAL,130,5,90
+Leaf Tornado,青草搅拌器,GRASS,SPECIAL,65,10,90
+Leech Life,吸血,BUG,PHYSICAL,80,10,100
+Leech Seed,寄生种子,GRASS,STATUS,0,10,90
+Leer,瞪眼,NORMAL,STATUS,0,30,100
+Lick,舌舔,GHOST,PHYSICAL,30,30,100
+Life Dew,生命水滴,WATER,STATUS,0,10,-1
+Light of Ruin,破灭之光,FAIRY,SPECIAL,140,5,90
+Light Screen,光墙,PSYCHIC,STATUS,0,30,-1
+Liquidation,水流裂破,WATER,PHYSICAL,85,10,100
+Lock-On,锁定,NORMAL,STATUS,0,5,-1
+Lovely Kiss,恶魔之吻,NORMAL,STATUS,0,10,75
+Low Kick,踢倒,FIGHTING,PHYSICAL,0,20,100
+Low Sweep,下盘踢,FIGHTING,PHYSICAL,65,20,100
+Lucky Chant,幸运咒语,NORMAL,STATUS,0,30,-1
+Lumina Crash,琉光冲激,PSYCHIC,SPECIAL,80,10,100
+Lunar Blessing,新月祈祷,PSYCHIC,STATUS,0,5,-1
+Lunar Dance,新月舞,PSYCHIC,STATUS,0,10,-1
+Lunge,猛扑,BUG,PHYSICAL,80,15,100
+Luster Purge,洁净光芒,PSYCHIC,SPECIAL,70,5,100
+Mach Punch,音速拳,FIGHTING,PHYSICAL,40,30,100
+Magical Leaf,魔法叶,GRASS,SPECIAL,60,20,-1
+Magic Coat,魔法反射,PSYCHIC,STATUS,0,15,-1
+Magic Powder,魔法粉,PSYCHIC,STATUS,0,20,-1
+Magic Room,魔法空间,PSYCHIC,STATUS,0,10,-1
+Magma Storm,熔岩风暴,FIRE,SPECIAL,100,5,75
+Magnetic Flux,磁场操控,ELECTRIC,STATUS,0,20,-1
+Magnet Bomb,磁铁炸弹,STEEL,PHYSICAL,60,20,-1
+Magnet Rise,电磁飘浮,ELECTRIC,STATUS,0,10,-1
+Magnitude,震级,GROUND,PHYSICAL,0,30,100
+Make It Rain,淘金潮,STEEL,SPECIAL,120,5,100
+Mat Block,掀榻榻米,FIGHTING,STATUS,0,10,-1
+Mean Look,黑色目光,NORMAL,STATUS,0,5,-1
+Meditate,瑜伽姿势,PSYCHIC,STATUS,0,40,-1
+Megahorn,超级角击,BUG,PHYSICAL,120,10,85
+Mega Drain,超级吸取,GRASS,SPECIAL,40,15,100
+Mega Kick,百万吨重踢,NORMAL,PHYSICAL,120,5,75
+Mega Punch,百万吨重拳,NORMAL,PHYSICAL,80,20,85
+Memento,临别礼物,DARK,STATUS,0,10,100
+Metal Burst,金属爆炸,STEEL,PHYSICAL,0,10,100
+Metal Claw,金属爪,STEEL,PHYSICAL,50,35,95
+Metal Sound,金属音,STEEL,STATUS,0,40,85
+Meteor Assault,流星突击,FIGHTING,PHYSICAL,150,5,100
+Meteor Beam,流星光束,ROCK,SPECIAL,120,10,90
+Meteor Mash,彗星拳,STEEL,PHYSICAL,90,10,90
+Metronome,挥指,NORMAL,STATUS,0,10,-1
+Me First,抢先一步,NORMAL,STATUS,0,20,-1
+Milk Drink,喝牛奶,NORMAL,STATUS,0,10,-1
+Mimic,模仿,NORMAL,STATUS,0,10,-1
+Mind Blown,惊爆大头,FIRE,SPECIAL,150,5,100
+Mind Reader,心之眼,NORMAL,STATUS,0,5,-1
+Minimize,变小,NORMAL,STATUS,0,10,-1
+Miracle Eye,奇迹之眼,PSYCHIC,STATUS,0,40,-1
+Mirror Coat,镜面反射,PSYCHIC,SPECIAL,0,20,100
+Mirror Move,鹦鹉学舌,FLYING,STATUS,0,20,-1
+Mirror Shot,镜光射击,STEEL,SPECIAL,65,10,85
+Mist,白雾,ICE,STATUS,0,30,-1
+Misty Explosion,薄雾炸裂,FAIRY,SPECIAL,100,5,100
+Misty Terrain,薄雾场地,FAIRY,STATUS,0,10,-1
+Mist Ball,薄雾球,PSYCHIC,SPECIAL,70,5,100
+Moonblast,月亮之力,FAIRY,SPECIAL,95,15,100
+Moongeist Beam,暗影之光,GHOST,SPECIAL,100,5,100
+Moonlight,月光,FAIRY,STATUS,0,5,-1
+Morning Sun,晨光,NORMAL,STATUS,0,5,-1
+Mortal Spin,晶光转转,POISON,PHYSICAL,30,15,100
+Mountain Gale,冰山风,ICE,PHYSICAL,100,5,85
+Mud-Slap,掷泥,GROUND,SPECIAL,20,10,100
+Muddy Water,浊流,WATER,SPECIAL,90,10,85
+Mud Bomb,泥巴炸弹,GROUND,SPECIAL,65,10,85
+Mud Shot,泥巴射击,GROUND,SPECIAL,55,15,95
+Mud Sport,玩泥巴,GROUND,STATUS,0,15,-1
+Multi-Attack,多属性攻击,NORMAL,PHYSICAL,120,10,100
+Mystical Fire,魔法火焰,FIRE,SPECIAL,75,10,100
+Mystical Power,神秘之力,PSYCHIC,SPECIAL,70,10,90
+Nasty Plot,诡计,DARK,STATUS,0,20,-1
+Natural Gift,自然之恩,NORMAL,PHYSICAL,0,15,100
+Nature's Madness,自然之怒,FAIRY,SPECIAL,0,10,90
+Nature Power,自然之力,NORMAL,SPECIAL,0,20,-1
+Needle Arm,尖刺臂,GRASS,PHYSICAL,60,15,100
+Nightmare,恶梦,GHOST,STATUS,0,15,100
+Night Daze,暗黑爆破,DARK,SPECIAL,85,10,95
+Night Shade,黑夜魔影,GHOST,SPECIAL,0,15,100
+Night Slash,暗袭要害,DARK,PHYSICAL,70,15,100
+Noble Roar,战吼,NORMAL,STATUS,0,30,100
+No Retreat,背水一战,FIGHTING,STATUS,0,5,-1
+Nuzzle,蹭蹭脸颊,ELECTRIC,PHYSICAL,20,20,100
+Oblivion Wing,死亡之翼,FLYING,SPECIAL,80,10,100
+Obstruct,拦堵,DARK,STATUS,0,10,-1
+Octazooka,章鱼桶炮,WATER,SPECIAL,65,10,85
+Octolock,蛸固,FIGHTING,STATUS,0,15,100
+Odor Sleuth,气味侦测,NORMAL,STATUS,0,40,-1
+Ominous Wind,奇异之风,GHOST,SPECIAL,60,5,100
+Order Up,上菜,DRAGON,PHYSICAL,80,10,100
+Origin Pulse,根源波动,WATER,SPECIAL,110,10,85
+Outrage,逆鳞,DRAGON,PHYSICAL,120,10,100
+Overdrive,破音,ELECTRIC,SPECIAL,80,10,100
+Overheat,过热,FIRE,SPECIAL,130,5,90
+Pain Split,分担痛楚,NORMAL,STATUS,0,20,-1
+Parabolic Charge,抛物面充电,ELECTRIC,SPECIAL,65,20,100
+Parting Shot,抛下狠话,DARK,STATUS,0,20,100
+Payback,以牙还牙,DARK,PHYSICAL,50,10,100
+Pay Day,聚宝功,NORMAL,PHYSICAL,40,20,100
+Peck,啄,FLYING,PHYSICAL,35,35,100
+Perish Song,灭亡之歌,NORMAL,STATUS,0,5,-1
+Petal Blizzard,落英缤纷,GRASS,PHYSICAL,90,15,100
+Petal Dance,花瓣舞,GRASS,SPECIAL,120,10,100
+Phantom Force,潜灵奇袭,GHOST,PHYSICAL,90,10,100
+Photon Geyser,光子喷涌,PSYCHIC,SPECIAL,100,5,100
+Pin Missile,飞弹针,BUG,PHYSICAL,25,20,95
+Plasma Fists,等离子闪电拳,ELECTRIC,PHYSICAL,100,15,100
+Play Nice,和睦相处,NORMAL,STATUS,0,20,-1
+Play Rough,嬉闹,FAIRY,PHYSICAL,90,10,90
+Pluck,啄食,FLYING,PHYSICAL,60,20,100
+Poison Fang,剧毒牙,POISON,PHYSICAL,50,15,100
+Poison Gas,毒瓦斯,POISON,STATUS,0,40,90
+Poison Jab,毒击,POISON,PHYSICAL,80,20,100
+Poison Powder,毒粉,POISON,STATUS,0,35,75
+Poison Sting,毒针,POISON,PHYSICAL,15,35,100
+Poison Tail,毒尾,POISON,PHYSICAL,50,25,100
+Pollen Puff,花粉团,BUG,SPECIAL,90,15,100
+Poltergeist,灵骚,GHOST,PHYSICAL,110,5,90
+Population Bomb,鼠数儿,NORMAL,PHYSICAL,20,10,90
+Pounce,虫扑,BUG,PHYSICAL,50,20,100
+Pound,拍击,NORMAL,PHYSICAL,40,35,100
+Powder,粉尘,BUG,STATUS,0,20,100
+Powder Snow,细雪,ICE,SPECIAL,40,25,100
+Power-Up Punch,增强拳,FIGHTING,PHYSICAL,40,20,100
+Power Gem,力量宝石,ROCK,SPECIAL,80,20,100
+Power Shift,力量转换,NORMAL,STATUS,0,10,-1
+Power Split,力量平分,PSYCHIC,STATUS,0,10,-1
+Power Swap,力量互换,PSYCHIC,STATUS,0,10,-1
+Power Trick,力量戏法,PSYCHIC,STATUS,0,10,-1
+Power Trip,嚣张,DARK,PHYSICAL,20,10,100
+Power Whip,强力鞭打,GRASS,PHYSICAL,120,10,85
+Precipice Blades,断崖之剑,GROUND,PHYSICAL,120,10,85
+Present,礼物,NORMAL,PHYSICAL,0,15,90
+Prismatic Laser,棱镜镭射,PSYCHIC,SPECIAL,160,10,100
+Protect,守住,NORMAL,STATUS,0,10,-1
+Psybeam,幻象光线,PSYCHIC,SPECIAL,65,20,100
+Psyblade,精神剑,PSYCHIC,PHYSICAL,80,15,100
+Psychic,精神强念,PSYCHIC,SPECIAL,90,10,100
+Psychic Fangs,精神之牙,PSYCHIC,PHYSICAL,85,10,100
+Psychic Terrain,精神场地,PSYCHIC,STATUS,0,10,-1
+Psycho Boost,精神突进,PSYCHIC,SPECIAL,140,5,90
+Psycho Cut,精神利刃,PSYCHIC,PHYSICAL,70,20,100
+Psycho Shift,精神转移,PSYCHIC,STATUS,0,10,100
+Psych Up,自我暗示,NORMAL,STATUS,0,10,-1
+Psyshield Bash,屏障猛攻,PSYCHIC,PHYSICAL,70,10,90
+Psyshock,精神冲击,PSYCHIC,SPECIAL,80,10,100
+Psystrike,精神击破,PSYCHIC,SPECIAL,100,10,100
+Psywave,精神波,PSYCHIC,SPECIAL,0,15,100
+Punishment,惩罚,DARK,PHYSICAL,0,5,100
+Purify,净化,POISON,STATUS,0,20,-1
+Pursuit,追打,DARK,PHYSICAL,40,20,100
+Pyro Ball,火焰球,FIRE,PHYSICAL,120,5,90
+Quash,延后,DARK,STATUS,0,15,100
+Quick Attack,电光一闪,NORMAL,PHYSICAL,40,30,100
+Quick Guard,快速防守,FIGHTING,STATUS,0,15,-1
+Quiver Dance,蝶舞,BUG,STATUS,0,20,-1
+Rage,愤怒,NORMAL,PHYSICAL,20,20,100
+Rage Fist,愤怒之拳,GHOST,PHYSICAL,50,10,100
+Rage Powder,愤怒粉,BUG,STATUS,0,20,-1
+Raging Bull,怒牛,NORMAL,PHYSICAL,90,10,100
+Raging Fury,大愤慨,FIRE,PHYSICAL,120,10,100
+Rain Dance,求雨,WATER,STATUS,0,5,-1
+Rapid Spin,高速旋转,NORMAL,PHYSICAL,50,40,100
+Razor Leaf,飞叶快刀,GRASS,PHYSICAL,55,25,95
+Razor Shell,贝壳刃,WATER,PHYSICAL,75,10,95
+Razor Wind,旋风刀,NORMAL,SPECIAL,80,10,100
+Recover,自我再生,NORMAL,STATUS,0,10,-1
+Recycle,回收利用,NORMAL,STATUS,0,10,-1
+Reflect,反射壁,PSYCHIC,STATUS,0,20,-1
+Reflect Type,镜面属性,NORMAL,STATUS,0,15,-1
+Refresh,焕然一新,NORMAL,STATUS,0,20,-1
+Relic Song,古老之歌,NORMAL,SPECIAL,90,10,100
+Rest,睡觉,PSYCHIC,STATUS,0,10,-1
+Retaliate,报仇,NORMAL,PHYSICAL,70,5,100
+Return,报恩,NORMAL,PHYSICAL,0,20,100
+Revelation Dance,觉醒之舞,NORMAL,SPECIAL,90,15,100
+Revenge,报复,FIGHTING,PHYSICAL,60,10,100
+Reversal,起死回生,FIGHTING,PHYSICAL,0,15,100
+Revival Blessing,复生祈祷,NORMAL,STATUS,0,1,-1
+Rising Voltage,电力上升,ELECTRIC,SPECIAL,70,20,100
+Roar,吼叫,NORMAL,STATUS,0,20,-1
+Roar of Time,时光咆哮,DRAGON,SPECIAL,150,5,90
+Rock Blast,岩石爆击,ROCK,PHYSICAL,25,10,90
+Rock Climb,攀岩,NORMAL,PHYSICAL,90,20,85
+Rock Polish,岩石打磨,ROCK,STATUS,0,20,-1
+Rock Slide,岩崩,ROCK,PHYSICAL,75,10,90
+Rock Smash,碎岩,FIGHTING,PHYSICAL,40,15,100
+Rock Throw,落石,ROCK,PHYSICAL,50,15,90
+Rock Tomb,岩石封锁,ROCK,PHYSICAL,60,15,95
+Rock Wrecker,岩石炮,ROCK,PHYSICAL,150,5,90
+Role Play,扮演,PSYCHIC,STATUS,0,10,-1
+Rolling Kick,回旋踢,FIGHTING,PHYSICAL,60,15,85
+Rollout,滚动,ROCK,PHYSICAL,30,20,90
+Roost,羽栖,FLYING,STATUS,0,10,-1
+Rototiller,耕地,GROUND,STATUS,0,10,-1
+Round,轮唱,NORMAL,SPECIAL,60,15,100
+Ruination,大灾难,DARK,SPECIAL,0,10,90
+Sacred Fire,神圣之火,FIRE,PHYSICAL,100,5,95
+Sacred Sword,圣剑,FIGHTING,PHYSICAL,90,15,100
+Safeguard,神秘守护,NORMAL,STATUS,0,25,-1
+Salt Cure,盐腌,ROCK,PHYSICAL,40,15,100
+Sandsear Storm,热沙风暴,GROUND,SPECIAL,95,5,80
+Sandstorm,沙暴,ROCK,STATUS,0,10,-1
+Sand Attack,泼沙,GROUND,STATUS,0,15,100
+Sand Tomb,流沙地狱,GROUND,PHYSICAL,35,15,85
+Scald,热水,WATER,SPECIAL,80,15,100
+Scale Shot,鳞射,DRAGON,PHYSICAL,25,20,90
+Scary Face,鬼面,NORMAL,STATUS,0,10,100
+Scorching Sands,热沙大地,GROUND,SPECIAL,70,10,100
+Scratch,抓,NORMAL,PHYSICAL,40,35,100
+Screech,刺耳声,NORMAL,STATUS,0,40,85
+Searing Shot,火焰弹,FIRE,SPECIAL,100,5,100
+Secret Power,秘密之力,NORMAL,PHYSICAL,70,20,100
+Secret Sword,神秘之剑,FIGHTING,SPECIAL,85,10,100
+Seed Bomb,种子炸弹,GRASS,PHYSICAL,80,15,100
+Seed Flare,种子闪光,GRASS,SPECIAL,120,5,85
+Seismic Toss,地球上投,FIGHTING,PHYSICAL,0,20,100
+Self-Destruct,自爆,NORMAL,PHYSICAL,200,5,100
+Shadow Ball,暗影球,GHOST,SPECIAL,80,15,100
+Shadow Bone,暗影之骨,GHOST,PHYSICAL,85,10,100
+Shadow Claw,暗影爪,GHOST,PHYSICAL,70,15,100
+Shadow Force,暗影潜袭,GHOST,PHYSICAL,120,5,100
+Shadow Punch,暗影拳,GHOST,PHYSICAL,60,20,-1
+Shadow Sneak,影子偷袭,GHOST,PHYSICAL,40,30,100
+Sharpen,棱角化,NORMAL,STATUS,0,30,-1
+Shed Tail,断尾,NORMAL,STATUS,0,10,-1
+Sheer Cold,绝对零度,ICE,SPECIAL,0,5,-1
+Shell Side Arm,臂贝武器,POISON,SPECIAL,90,10,100
+Shell Smash,破壳,NORMAL,STATUS,0,15,-1
+Shell Trap,陷阱甲壳,FIRE,SPECIAL,150,5,100
+Shelter,闭关,STEEL,STATUS,0,10,-1
+Shift Gear,换挡,STEEL,STATUS,0,10,-1
+Shock Wave,电击波,ELECTRIC,SPECIAL,60,20,-1
+Shore Up,集沙,GROUND,STATUS,0,10,-1
+Signal Beam,信号光束,BUG,SPECIAL,75,15,100
+Silk Trap,线阱,BUG,STATUS,0,10,-1
+Silver Wind,银色旋风,BUG,SPECIAL,60,5,100
+Simple Beam,单纯光束,NORMAL,STATUS,0,15,100
+Sing,唱歌,NORMAL,STATUS,0,15,55
+Sketch,写生,NORMAL,STATUS,0,1,-1
+Skill Swap,特性互换,PSYCHIC,STATUS,0,10,-1
+Skitter Smack,爬击,BUG,PHYSICAL,70,10,90
+Skull Bash,火箭头锤,NORMAL,PHYSICAL,130,10,100
+Sky Attack,神鸟猛击,FLYING,PHYSICAL,140,5,90
+Sky Drop,自由落体,FLYING,PHYSICAL,60,10,100
+Sky Uppercut,冲天拳,FIGHTING,PHYSICAL,85,15,90
+Slack Off,偷懒,NORMAL,STATUS,0,10,-1
+Slam,摔打,NORMAL,PHYSICAL,80,20,75
+Slash,劈开,NORMAL,PHYSICAL,70,20,100
+Sleep Powder,催眠粉,GRASS,STATUS,0,15,75
+Sleep Talk,梦话,NORMAL,STATUS,0,10,-1
+Sludge,污泥攻击,POISON,SPECIAL,65,20,100
+Sludge Bomb,污泥炸弹,POISON,SPECIAL,90,10,100
+Sludge Wave,污泥波,POISON,SPECIAL,95,10,100
+Smack Down,击落,ROCK,PHYSICAL,50,15,100
+Smart Strike,修长之角,STEEL,PHYSICAL,70,10,-1
+Smelling Salts,清醒,NORMAL,PHYSICAL,70,10,100
+Smog,浊雾,POISON,SPECIAL,30,20,70
+Smokescreen,烟幕,NORMAL,STATUS,0,20,100
+Snap Trap,捕兽夹,GRASS,PHYSICAL,35,15,100
+Snarl,大声咆哮,DARK,SPECIAL,55,15,95
+Snatch,抢夺,DARK,STATUS,0,10,-1
+Snipe Shot,狙击,WATER,SPECIAL,80,15,100
+Snore,打鼾,NORMAL,SPECIAL,50,15,100
+Snowscape,雪景,ICE,STATUS,0,10,-1
+Soak,浸水,WATER,STATUS,0,20,-1
+Soft-Boiled,生蛋,NORMAL,STATUS,0,10,-1
+Solar Beam,日光束,GRASS,SPECIAL,120,10,100
+Solar Blade,日光刃,GRASS,PHYSICAL,125,10,100
+Sonic Boom,音爆,NORMAL,SPECIAL,0,20,90
+Spacial Rend,亚空裂斩,DRAGON,SPECIAL,100,5,95
+Spark,电光,ELECTRIC,PHYSICAL,65,20,100
+Sparkling Aria,泡影的咏叹调,WATER,SPECIAL,90,10,100
+Spectral Thief,暗影偷盗,GHOST,PHYSICAL,90,10,100
+Speed Swap,速度互换,PSYCHIC,STATUS,0,10,-1
+Spicy Extract,辣椒精华,GRASS,STATUS,0,15,-1
+Spider Web,蛛网,BUG,STATUS,0,10,-1
+Spikes,撒菱,GROUND,STATUS,0,20,-2
+Spike Cannon,尖刺加农炮,NORMAL,PHYSICAL,20,15,100
+Spiky Shield,尖刺防守,GRASS,STATUS,0,10,-1
+Spin Out,疾速转轮,STEEL,PHYSICAL,100,5,100
+Spirit Break,灵魂冲击,FAIRY,PHYSICAL,75,15,100
+Spirit Shackle,缝影,GHOST,PHYSICAL,80,10,100
+Spite,怨恨,GHOST,STATUS,0,10,100
+Spit Up,喷出,NORMAL,SPECIAL,0,10,100
+Splash,跃起,NORMAL,STATUS,0,40,-1
+Spore,蘑菇孢子,GRASS,STATUS,0,15,100
+Spotlight,聚光灯,NORMAL,STATUS,0,15,-1
+Springtide Storm,阳春风暴,FAIRY,SPECIAL,95,5,80
+Stealth Rock,隐形岩,ROCK,STATUS,0,20,-2
+Steamroller,疯狂滚压,BUG,PHYSICAL,65,20,100
+Steam Eruption,蒸汽爆炸,WATER,SPECIAL,110,5,95
+Steel Beam,铁蹄光线,STEEL,SPECIAL,140,5,95
+Steel Roller,铁滚轮,STEEL,PHYSICAL,130,5,100
+Steel Wing,钢翼,STEEL,PHYSICAL,70,25,90
+Sticky Web,黏黏网,BUG,STATUS,0,20,-2
+Stockpile,蓄力,NORMAL,STATUS,0,20,-1
+Stomp,踩踏,NORMAL,PHYSICAL,65,20,100
+Stomping Tantrum,跺脚,GROUND,PHYSICAL,75,10,100
+Stone Axe,岩斧,ROCK,PHYSICAL,65,15,90
+Stone Edge,尖石攻击,ROCK,PHYSICAL,100,5,80
+Stored Power,辅助力量,PSYCHIC,SPECIAL,20,10,100
+Storm Throw,山岚摔,FIGHTING,PHYSICAL,60,10,100
+Strange Steam,神奇蒸汽,FAIRY,SPECIAL,90,10,95
+Strength,怪力,NORMAL,PHYSICAL,80,15,100
+Strength Sap,吸取力量,GRASS,STATUS,-1,10,100
+String Shot,吐丝,BUG,STATUS,0,30,95
+Struggle,挣扎,MYSTERY,PHYSICAL,50,0,-1
+Struggle Bug,虫之抵抗,BUG,SPECIAL,50,20,100
+Stuff Cheeks,大快朵颐,NORMAL,STATUS,0,10,-1
+Stun Spore,麻痹粉,GRASS,STATUS,0,30,75
+Submission,地狱翻滚,FIGHTING,PHYSICAL,80,20,80
+Substitute,替身,NORMAL,STATUS,0,10,-1
+Sucker Punch,突袭,DARK,PHYSICAL,70,5,100
+Sunny Day,大晴天,FIRE,STATUS,0,5,-1
+Sunsteel Strike,流星闪冲,STEEL,PHYSICAL,100,5,100
+Superpower,蛮力,FIGHTING,PHYSICAL,120,5,100
+Supersonic,超音波,NORMAL,STATUS,0,20,55
+Super Fang,愤怒门牙,NORMAL,PHYSICAL,0,10,90
+Surf,冲浪,WATER,SPECIAL,90,15,100
+Surging Strikes,水流连打,WATER,PHYSICAL,25,5,100
+Swagger,虚张声势,NORMAL,STATUS,0,15,85
+Swallow,吞下,NORMAL,STATUS,0,10,-1
+Sweet Kiss,天使之吻,FAIRY,STATUS,0,10,75
+Sweet Scent,甜甜香气,NORMAL,STATUS,0,20,100
+Swift,高速星星,NORMAL,SPECIAL,60,20,-1
+Switcheroo,掉包,DARK,STATUS,0,10,100
+Swords Dance,剑舞,NORMAL,STATUS,0,20,-1
+Synchronoise,同步干扰,PSYCHIC,SPECIAL,120,15,100
+Synthesis,光合作用,GRASS,STATUS,0,5,-1
+Tackle,撞击,NORMAL,PHYSICAL,40,35,100
+Tailwind,顺风,FLYING,STATUS,0,15,-1
+Tail Glow,萤火,BUG,STATUS,0,20,-1
+Tail Slap,扫尾拍打,NORMAL,PHYSICAL,25,10,85
+Tail Whip,摇尾巴,NORMAL,STATUS,0,30,100
+Take Down,猛撞,NORMAL,PHYSICAL,90,20,85
+Take Heart,勇气填充,PSYCHIC,STATUS,0,10,-1
+Tar Shot,沥青射击,ROCK,STATUS,0,15,100
+Taunt,挑衅,DARK,STATUS,0,20,100
+Tearful Look,泪眼汪汪,NORMAL,STATUS,0,20,-1
+Teatime,茶会,NORMAL,STATUS,0,10,-1
+Techno Blast,高科技光炮,NORMAL,SPECIAL,120,5,100
+Teeter Dance,摇晃舞,NORMAL,STATUS,0,20,-1
+Telekinesis,意念移物,PSYCHIC,STATUS,0,15,-1
+Teleport,瞬间移动,PSYCHIC,STATUS,0,20,-1
+Tera Blast,太晶爆发,NORMAL,SPECIAL,80,10,100
+Terrain Pulse,大地波动,NORMAL,SPECIAL,50,10,100
+Thief,小偷,DARK,PHYSICAL,60,25,100
+Thousand Arrows,千箭齐发,GROUND,PHYSICAL,90,10,100
+Thousand Waves,千波激荡,GROUND,PHYSICAL,90,10,100
+Thrash,大闹一番,NORMAL,PHYSICAL,120,10,100
+Throat Chop,地狱突刺,DARK,PHYSICAL,80,15,100
+Thunder,打雷,ELECTRIC,SPECIAL,110,10,70
+Thunderbolt,十万伏特,ELECTRIC,SPECIAL,90,15,100
+Thunderous Kick,雷鸣蹴击,FIGHTING,PHYSICAL,90,10,100
+Thunder Cage,雷电囚笼,ELECTRIC,SPECIAL,80,15,90
+Thunder Fang,雷电牙,ELECTRIC,PHYSICAL,65,15,95
+Thunder Punch,雷电拳,ELECTRIC,PHYSICAL,75,15,100
+Thunder Shock,电击,ELECTRIC,SPECIAL,40,30,100
+Thunder Wave,电磁波,ELECTRIC,STATUS,0,20,90
+Tickle,挠痒,NORMAL,STATUS,0,20,100
+Tidy Up,大扫除,NORMAL,STATUS,0,10,-1
+Topsy-Turvy,颠倒,DARK,STATUS,0,20,-1
+Torch Song,闪焰高歌,FIRE,SPECIAL,80,10,100
+Torment,无理取闹,DARK,STATUS,0,15,100
+Toxic,剧毒,POISON,STATUS,0,10,90
+Toxic Spikes,毒菱,POISON,STATUS,0,20,-2
+Toxic Thread,毒丝,POISON,STATUS,-1,20,100
+Trailblaze,起草,GRASS,PHYSICAL,50,20,100
+Transform,变身,NORMAL,STATUS,0,10,-1
+Trick-or-Treat,万圣夜,GHOST,STATUS,0,20,100
+Trick,戏法,PSYCHIC,STATUS,0,10,100
+Trick Room,戏法空间,PSYCHIC,STATUS,0,5,-1
+Triple Arrows,三连箭,FIGHTING,PHYSICAL,90,10,100
+Triple Axel,三旋击,ICE,PHYSICAL,20,10,90
+Triple Dive,三连钻,WATER,PHYSICAL,30,10,95
+Triple Kick,三连踢,FIGHTING,PHYSICAL,10,10,90
+Tri Attack,三重攻击,NORMAL,SPECIAL,80,10,100
+Trop Kick,热带踢,GRASS,PHYSICAL,70,15,100
+Trump Card,王牌,NORMAL,SPECIAL,40,5,-1
+Twineedle,双针,BUG,PHYSICAL,25,20,100
+Twin Beam,双光束,PSYCHIC,SPECIAL,40,10,100
+Twister,龙卷风,DRAGON,SPECIAL,40,20,100
+U-turn,急速折返,BUG,PHYSICAL,70,20,100
+Uproar,吵闹,NORMAL,SPECIAL,90,10,100
+V-Create,V热焰,FIRE,PHYSICAL,180,5,95
+Vacuum Wave,真空波,FIGHTING,SPECIAL,40,30,100
+Venom Drench,毒液陷阱,POISON,STATUS,0,20,100
+Venoshock,毒液冲击,POISON,SPECIAL,65,15,100
+Victory Dance,胜利之舞,FIGHTING,STATUS,0,10,-1
+Vine Whip,藤鞭,GRASS,PHYSICAL,45,25,100
+Vise Grip,夹住,NORMAL,PHYSICAL,55,30,100
+Vital Throw,借力摔,FIGHTING,PHYSICAL,70,10,-1
+Volt Switch,伏特替换,ELECTRIC,SPECIAL,70,20,100
+Volt Tackle,伏特攻击,ELECTRIC,PHYSICAL,120,15,100
+Wake-Up Slap,唤醒巴掌,FIGHTING,PHYSICAL,70,10,100
+Waterfall,攀瀑,WATER,PHYSICAL,80,15,100
+Water Gun,水枪,WATER,SPECIAL,40,25,100
+Water Pledge,水之誓约,WATER,SPECIAL,80,10,100
+Water Pulse,水之波动,WATER,SPECIAL,60,20,100
+Water Shuriken,飞水手里剑,WATER,SPECIAL,15,20,100
+Water Sport,玩水,WATER,STATUS,0,15,-1
+Water Spout,喷水,WATER,SPECIAL,150,5,100
+Wave Crash,波动冲,WATER,PHYSICAL,75,10,100
+Weather Ball,气象球,NORMAL,SPECIAL,50,10,100
+Whirlpool,潮旋,WATER,SPECIAL,35,15,85
+Whirlwind,吹飞,NORMAL,STATUS,0,20,-1
+Wicked Blow,暗冥强击,DARK,PHYSICAL,80,5,100
+Wide Guard,广域防守,ROCK,STATUS,0,10,-1
+Wildbolt Storm,鸣雷风暴,ELECTRIC,SPECIAL,95,5,80
+Wild Charge,疯狂伏特,ELECTRIC,PHYSICAL,90,15,100
+Will-O-Wisp,鬼火,FIRE,STATUS,0,15,85
+Wing Attack,翅膀攻击,FLYING,PHYSICAL,60,35,100
+Wish,祈愿,NORMAL,STATUS,0,10,-1
+Withdraw,缩入壳中,WATER,STATUS,0,40,-1
+Wonder Room,奇妙空间,PSYCHIC,STATUS,0,10,-1
+Wood Hammer,木槌,GRASS,PHYSICAL,120,15,100
+Work Up,自我激励,NORMAL,STATUS,0,30,-1
+Worry Seed,烦恼种子,GRASS,STATUS,0,10,100
+Wrap,紧束,NORMAL,PHYSICAL,15,20,90
+Wring Out,绞紧,NORMAL,SPECIAL,60,5,100
+X-Scissor,十字剪,BUG,PHYSICAL,80,15,100
+Yawn,哈欠,NORMAL,STATUS,0,10,-1
+Zap Cannon,电磁炮,ELECTRIC,SPECIAL,120,5,50
+Zen Headbutt,意念头锤,PSYCHIC,PHYSICAL,80,15,90
+Zing Zap,麻麻刺刺,ELECTRIC,PHYSICAL,80,10,100
+10,000,000 Volt Thunderbolt,千万伏特,ELECTRIC,Z,195,1,-1
+Acid Downpour,强酸剧毒灭绝雨,POISON,Z,-1,1,-1
+All-Out Pummeling,全力无双激烈拳,FIGHTING,Z,-1,1,-1
+Black Hole Eclipse,黑洞吞噬万物灭,DARK,Z,-1,1,-1
+Bloom Doom,绚烂缤纷花怒放,GRASS,Z,-1,1,-1
+Breakneck Blitz,究极无敌大冲撞,NORMAL,Z,-1,1,-1
+Catastropika,皮卡皮卡必杀击,ELECTRIC,Z,210,1,-1
+Clangorous Soulblaze,炽魂热舞烈音爆,DRAGON,Z,185,1,-1
+Continental Crush,毁天灭地巨岩坠,ROCK,Z,-1,1,-1
+Corkscrew Crash,超绝螺旋连击,STEEL,Z,-1,1,-1
+Devastating Drake,究极巨龙震天地,DRAGON,Z,-1,1,-1
+Extreme Evoboost,九彩升华齐聚顶,NORMAL,Z,0,1,-1
+Genesis Supernova,起源超新星大爆炸,PSYCHIC,Z,185,1,-1
+Gigavolt Havoc,终极伏特狂雷闪,ELECTRIC,Z,-1,1,-1
+Guardian of Alola,巨人卫士·阿罗拉,FAIRY,Z,0,1,-1
+Hydro Vortex,超级水流大漩涡,WATER,Z,-1,1,-1
+Inferno Overdrive,超强极限爆焰弹,FIRE,Z,-1,1,-1
+Let's Snuggle Forever,亲密无间大乱揍,FAIRY,Z,190,1,-1
+Light That Burns the Sky,焚天灭世炽光爆,PSYCHIC,Z,200,1,-1
+Malicious Moonsault,极恶飞跃粉碎击,DARK,Z,180,1,-1
+Menacing Moonraze Maelstrom,月华飞溅落灵霄,GHOST,Z,200,1,-1
+Never-Ending Nightmare,无尽暗夜之诱惑,GHOST,Z,-1,1,-1
+Oceanic Operetta,海神庄严交响乐,WATER,Z,195,1,-1
+Pulverizing Pancake,认真起来大爆击,NORMAL,Z,210,1,-1
+Savage Spin-Out,绝对捕食回旋斩,BUG,Z,-1,1,-1
+Searing Sunraze Smash,日光回旋下苍穹,STEEL,Z,200,1,-1
+Shattered Psyche,至高精神破坏波,PSYCHIC,Z,-1,1,-1
+Sinister Arrow Raid,遮天蔽日暗影箭,GHOST,Z,180,1,-1
+Soul-Stealing 7-Star Strike,七星夺魂腿,GHOST,Z,195,1,-1
+Splintered Stormshards,狼啸石牙飓风暴,ROCK,Z,190,1,-1
+Stoked Sparksurfer,驾雷驭电戏冲浪,ELECTRIC,Z,175,1,-1
+Subzero Slammer,激狂大地万里冰,ICE,Z,-1,1,-1
+Supersonic Skystrike,极速俯冲轰烈撞,FLYING,Z,-1,1,-1
+Tectonic Rage,地隆啸天大终结,GROUND,Z,-1,1,-1
+Twinkle Tackle,可爱星星飞天撞,FAIRY,Z,-1,1,-1
+Max Airstream,极巨飞冲,FLYING,MAX,0,10,-1
+Max Darkness,极巨恶霸,DARK,MAX,0,10,-1
+Max Flare,极巨火爆,FIRE,MAX,0,10,-1
+Max Flutterby,极巨虫蛊,BUG,MAX,0,10,-1
+Max Geyser,极巨水流,WATER,MAX,0,10,-1
+Max Guard,极巨防壁,NORMAL,MAX,0,10,-1
+Max Hailstorm,极巨寒冰,ICE,MAX,0,10,-1
+Max Knuckle,极巨拳斗,FIGHTING,MAX,0,10,-1
+Max Lightning,极巨闪电,ELECTRIC,MAX,0,10,-1
+Max Mindstorm,极巨超能,PSYCHIC,MAX,0,10,-1
+Max Ooze,极巨酸毒,POISON,MAX,0,10,-1
+Max Overgrowth,极巨草原,GRASS,MAX,0,10,-1
+Max Phantasm,极巨幽魂,GHOST,MAX,0,10,-1
+Max Quake,极巨大地,GROUND,MAX,0,10,-1
+Max Rockfall,极巨岩石,ROCK,MAX,0,10,-1
+Max Starfall,极巨妖精,FAIRY,MAX,0,10,-1
+Max Steelspike,极巨钢铁,STEEL,MAX,0,10,-1
+Max Strike,极巨攻击,NORMAL,MAX,0,10,-1
+Max Wyrmwind,极巨龙骑,DRAGON,MAX,0,10,-1
+G-Max Befuddle,超极巨蝶影蛊惑,BUG,G-MAX,0,10,-1
+G-Max Cannonade,超极巨水炮轰灭,WATER,G-MAX,0,10,-1
+G-Max Centiferno,超极巨百火焚野,FIRE,G-MAX,0,10,-1
+G-Max Chi Strike,超极巨会心一击,FIGHTING,G-MAX,0,10,-1
+G-Max Cuddle,超极巨热情拥抱,NORMAL,G-MAX,0,10,-1
+G-Max Depletion,超极巨劣化衰变,DRAGON,G-MAX,0,10,-1
+G-Max Drum Solo,超极巨狂擂乱打,GRASS,G-MAX,0,10,-1
+G-Max Finale,超极巨幸福圆满,FAIRY,G-MAX,0,10,-1
+G-Max Fireball,超极巨破阵火球,FIRE,G-MAX,0,10,-1
+G-Max Foam Burst,超极巨激漩泡涡,WATER,G-MAX,0,10,-1
+G-Max Gold Rush,超极巨特大金币,NORMAL,G-MAX,0,10,-1
+G-Max Gravitas,超极巨天道七星,PSYCHIC,G-MAX,0,10,-1
+G-Max Hydrosnipe,超极巨狙击神射,WATER,G-MAX,0,10,-1
+G-Max Malodor,超极巨臭气冲天,POISON,G-MAX,0,10,-1
+G-Max Meltdown,超极巨液金熔击,STEEL,G-MAX,0,10,-1
+G-Max One Blow,超极巨夺命一击,DARK,G-MAX,0,10,-1
+G-Max Rapid Flow,超极巨流水连击,WATER,G-MAX,0,10,-1
+G-Max Replenish,超极巨资源再生,NORMAL,G-MAX,0,10,-1
+G-Max Resonance,超极巨极光旋律,ICE,G-MAX,0,10,-1
+G-Max Sandblast,超极巨沙尘漫天,GROUND,G-MAX,0,10,-1
+G-Max Smite,超极巨天谴雷诛,FAIRY,G-MAX,0,10,-1
+G-Max Snooze,超极巨睡魔降临,DARK,G-MAX,0,10,-1
+G-Max Steelsurge,超极巨钢铁阵法,STEEL,G-MAX,0,10,-1
+G-Max Stonesurge,超极巨岩阵以待,WATER,G-MAX,0,10,-1
+G-Max Stun Shock,超极巨异毒电场,ELECTRIC,G-MAX,0,10,-1
+G-Max Sweetness,超极巨琼浆玉液,GRASS,G-MAX,0,10,-1
+G-Max Tartness,超极巨酸不溜丢,GRASS,G-MAX,0,10,-1
+G-Max Terror,超极巨幻影幽魂,GHOST,G-MAX,0,10,-1
+G-Max Vine Lash,超极巨灰飞鞭灭,GRASS,G-MAX,0,10,-1
+G-Max Volcalith,超极巨炎石喷发,ROCK,G-MAX,0,10,-1
+G-Max Volt Crash,超极巨万雷轰顶,ELECTRIC,G-MAX,0,10,-1
+G-Max Wildfire,超极巨地狱灭焰,FIRE,G-MAX,0,10,-1
+G-Max Wind Rage,超极巨旋风袭卷,FLYING,G-MAX,0,10,-1

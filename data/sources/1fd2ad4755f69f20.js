@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1fd2ad4755f69f20"]={"json":{"type":"minecraft:crafting_shaped","pattern":["###"],"key":{"#":[{"item":"pixelmon:ultra_space_stone"},{"item":"pixelmon:chiseled_ultra_space_stone"}]},"result":{"item":"pixelmon:ultra_space_stone_slab","count":6}}};

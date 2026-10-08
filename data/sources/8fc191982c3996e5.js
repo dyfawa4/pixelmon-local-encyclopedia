@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8fc191982c3996e5"]={"json":{"id":"Mega Altaria","spawnInfos":[{"spec":"species:Altaria","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches","magical","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

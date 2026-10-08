@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4bb04698349d11f3"]={"json":{"Evolutions":[{"from":"Charcadet","item":{"itemID":"pixelmon:malicious_armor","additionalProperties":{}},"to":"Ceruledge","conditions":[],"evoType":"interact","moves":["Shadow Claw"],"additionalProperties":{}}]}};

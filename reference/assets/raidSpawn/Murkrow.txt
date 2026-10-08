@@ -1,0 +1,7 @@
+1,2,3=birches
+1,2,3=evil
+1,2,3=forests
+1,2,3=redwoods
+1,2,3=roofed
+1,2,3=swamps
+1,2,3=taigas

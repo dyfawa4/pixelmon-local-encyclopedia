@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f200c65b93a482c0"]={"json":{"id":"Onix Grass","spawnInfos":[{"spec":"species:Onix","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK"],"weathers":["CLEAR"],"stringBiomes":["mountainous","mesas"],"maxY":90},"rarity":8.0}]}};

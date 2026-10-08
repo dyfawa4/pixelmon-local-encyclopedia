@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:28d70e98f36be559"]={"json":{"id":"TypeNull","spawnInfos":[{"spec":"species:TypeNull level:15","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["minecraft:jungle_edge"]},"rarity":2.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-da04a5576d74fc6d"]={"json":{"type_id":"simple","id":"gorgeous_royal","suffix":"ribbon.gorgeous_royal.title","translation_key":"ribbon.gorgeous_royal","description":"ribbon.gorgeous_royal.description","icon":"pixelmon:textures/gui/ribbons/gorgeous_royal.png"}};

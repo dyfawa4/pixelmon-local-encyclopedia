@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:67f32838f1bbf02c"]={"json":{"pokemon":"Keldeo","items":[{"item":"minecraft:diamond_sword","min":1,"max":1,"chance":1.0},{"item":"minecraft:dark_prismarine","min":1,"max":4,"chance":0.5},{"item":"pixelmon:water_gem","min":1,"max":1,"chance":0.1}]}};

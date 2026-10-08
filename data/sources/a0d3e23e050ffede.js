@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a0d3e23e050ffede"]={"json":{"id":"Mega Scizor","spawnInfos":[{"spec":"species:Scizor","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["DAWN","DAY"],"stringBiomes":["jungles","savannas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

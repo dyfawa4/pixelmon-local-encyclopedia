@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8309530460ae3233"]={"json":{"pokemon":"Bouffalant","items":[{"item":"minecraft:beef","min":2,"max":4,"chance":1.0},{"item":"minecraft:leather","min":1,"max":3,"chance":0.5},{"item":"pixelmon:silk_scarf","min":1,"max":1,"chance":0.1}]}};

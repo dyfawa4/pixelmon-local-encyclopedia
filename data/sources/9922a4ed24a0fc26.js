@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9922a4ed24a0fc26"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦使用任意原本不会造成畏缩状态的攻击招式并造成伤害时，有10%几率使目标陷入畏缩状态。\r\n连续招式每一下连续的攻击都会有相同的几率造成对手畏缩。\r\n\r\n||bigFont=对战外||\r\n||pokemonButton=Gligar||携带该道具夜晚等级提升进化为||pokemonButton=Gliscor||。"};

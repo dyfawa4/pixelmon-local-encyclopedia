@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f91e3b244d6fd087"]={"json":{"attack":"用附有灵魂的骨头殴打对手进行攻击。有时会降低对手的防御。","description":"攻击目标造成伤害。\n20%几率令目标的防御降低1级。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

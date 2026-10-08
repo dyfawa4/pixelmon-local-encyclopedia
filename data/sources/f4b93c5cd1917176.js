@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f4b93c5cd1917176"]={"json":{"pokemon":"Seaking","items":[{"item":"minecraft:cod","min":1,"max":3,"chance":1.0},{"item":"pixelmon:shoal_salt","min":1,"max":2,"chance":0.5},{"item":"pixelmon:wave_incense","min":1,"max":1,"chance":0.3},{"item":"pixelmon:water_gem","min":1,"max":1,"chance":0.1}]}};

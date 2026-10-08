@@ -1,0 +1,14 @@
+minecraft:giant_tree_taiga
+minecraft:giant_tree_taiga_hills
+minecraft:giant_spruce_taiga
+minecraft:giant_spruce_taiga_hills
+biomesoplenty:redwood_forest
+biomesoplenty:redwood_forest_edge
+biomesoplenty:redwood_hills
+byg:blue_giant_taiga
+byg:cika_woods
+byg:cika_mountains
+byg:redwood_clearing
+byg:redwood_mountains
+byg:redwood_tropics
+byg:seasonal_giant_taiga

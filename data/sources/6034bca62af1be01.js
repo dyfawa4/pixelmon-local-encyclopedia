@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6034bca62af1be01"]={"json":{"id":"Clawitzer","spawnInfos":[{"spec":"species:Clawitzer","stringLocationTypes":["Water"],"minLevel":38,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["oceanic"]},"rarity":10.0}]}};

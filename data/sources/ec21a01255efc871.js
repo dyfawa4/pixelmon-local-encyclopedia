@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ec21a01255efc871"]={"json":{"pokemon":"Celesteela","items":[{"item":"minecraft:aluminium_ingot","min":3,"max":6,"chance":1.0},{"item":"pixelmon:beast_ball","min":1,"max":2,"chance":0.5},{"item":"pixelmon:flying_gem","min":1,"max":1,"chance":0.1}]}};

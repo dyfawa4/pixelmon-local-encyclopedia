@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d89d7196457c3edb"]={"json":{"pokemon":"Cradily","items":[{"item":"minecraft:granite","min":1,"max":3,"chance":1.0},{"item":"minecraft:warped_roots","min":1,"max":2,"chance":0.5},{"item":"pixelmon:leaf_stone_shard","min":1,"max":2,"chance":0.1}]}};

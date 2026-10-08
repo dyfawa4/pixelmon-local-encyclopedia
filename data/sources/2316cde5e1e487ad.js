@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2316cde5e1e487ad"]={"json":{"id":"Archen","spawnInfos":[{"spec":"species:Archen","stringLocationTypes":["Tree Top"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":50.0}]}};

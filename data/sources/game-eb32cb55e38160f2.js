@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-eb32cb55e38160f2"]={"json":{"id":"Timburr","spawnInfos":[{"spec":"species:Timburr","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["hills"]},"rarity":130.0}]}};

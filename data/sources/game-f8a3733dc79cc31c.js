@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f8a3733dc79cc31c"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:enderman"],"replacement_logic":"simple","specs":["abra","kadabra","alakazam","elgyem","beheeyem"]}};

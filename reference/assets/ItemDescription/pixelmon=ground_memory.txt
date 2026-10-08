@@ -1,0 +1,2 @@
+||pokemonButton=Silvally||持有此道具时会变成地面属性
+携带该道具的宝可梦学会的||moveButton=Multi-Attack||变为地面属性。

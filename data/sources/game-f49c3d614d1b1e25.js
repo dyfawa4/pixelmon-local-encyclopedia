@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f49c3d614d1b1e25"]={"json":{"type":"minecraft:crafting_shaped","pattern":["PPP","BBB","PPP"],"key":{"P":{"item":"pixelmon:cooked_pink_apricorn"},"B":{"item":"pixelmon:cooked_black_apricorn"}},"result":{"item":"pixelmon:pinkbadgecase","count":1}}};

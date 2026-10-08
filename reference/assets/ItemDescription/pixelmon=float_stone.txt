@@ -1,0 +1,2 @@
+携带该道具的宝可梦的体重减半。
+||itemButton=pixelmon:heavy_ball||的判定不受||itemButton=pixelmon:float_stone||影响。

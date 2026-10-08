@@ -1,0 +1,7 @@
+3,4,5=coldocean
+3,4,5=craggardens
+3,4,5=freshwater
+3,4,5=lukewarmocean
+3,4,5=ocean
+3,4,5=swamps
+3,4,5=warmocean

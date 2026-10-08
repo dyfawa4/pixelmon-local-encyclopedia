@@ -1,0 +1,2 @@
+若目标是使用||itemButton=pixelmon:moon_stone||进化的宝可梦时，捕获率x4，否则捕获率x1。
+能触发||itemButton=pixelmon:moon_ball||特效的宝可梦有||pokemonButton=Nidorina||、||pokemonButton=Nidorino||、||pokemonButton=Clefairy||、||pokemonButton=Jigglypuff||、||pokemonButton=Skitty||和||pokemonButton=Munna||。

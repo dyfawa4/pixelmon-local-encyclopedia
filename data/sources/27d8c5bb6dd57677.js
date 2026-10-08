@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27d8c5bb6dd57677"]={"json":{"pokemon":"Finizen","items":[{"item":"minecraft:cod","min":1,"max":2,"chance":1.0},{"item":"minecraft:nautilus_shell","min":1,"max":1,"chance":0.5}]}};

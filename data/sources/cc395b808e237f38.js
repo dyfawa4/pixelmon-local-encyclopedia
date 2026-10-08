@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cc395b808e237f38"]={"json":{"type_id":"simple","id":"isi","suffix":"ribbon.isi.title","translation_key":"ribbon.isi","description":"ribbon.isi.description","icon":"pixelmon:textures/gui/ribbons/isi.png"}};

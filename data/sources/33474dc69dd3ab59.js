@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:33474dc69dd3ab59"]={"json":{"id":"Pachirisu","spawnInfos":[{"spec":"species:Pachirisu","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["freezing forests","taigas","redwoods"]},"rarity":250.0}]}};

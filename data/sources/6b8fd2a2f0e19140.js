@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6b8fd2a2f0e19140"]={"json":{"Evolutions":[{"from":"Quaxly","level":16,"to":"Quaxwell","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Quaxwell","level":36,"to":"Quaquaval","conditions":[],"evoType":"leveling","moves":["Aqua Step"],"additionalProperties":{}}]}};

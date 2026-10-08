@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e664e3789280c0a5"]={"json":{"Name":"CudChew","Description":"吃了树果后，会在下一回合结束时从胃反刍出来再吃1次。","Normal":["Farigiraf"],"Hidden":["Tauros form:paldean_combat","Tauros form:paldean_blaze","Tauros form:paldean_aqua"]}};

@@ -1,0 +1,1 @@
+{"attack":"治愈对手的异常状态。治愈后可以回复自己的HP。","description":"治愈目标的异常状态。如果成功治愈了异常状态，则恢复使用者ＨＰ最大值的一半。\n如果目标未陷入异常状态，招式使用失败。","levelUpMoves":[{"Name":"Pyukumuku","Level":25}],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}

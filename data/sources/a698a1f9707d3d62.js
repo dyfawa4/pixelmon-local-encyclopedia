@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a698a1f9707d3d62"]={"json":{"id":"Lapras","spawnInfos":[{"spec":"species:Lapras","stringLocationTypes":["Surface Water"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:mystic_water","percentChance":100}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["oceanic","terraforged:warm_beach"]},"rarity":5.0}]}};

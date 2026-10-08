@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-af3744637bc51d9c"]={"json":{"id":"Relearners","spawnInfos":[{"name":"Relearner","stringLocationTypes":["Land"],"condition":{"stringBiomes":["plains","minecraft:snowy_tundra","mountainous"]},"rarityMultipliers":[{"multiplier":0.5,"condition":{"stringBiomes":["minecraft:snowy_tundra"]}}],"typeID":"npc","rarity":0.5}]}};

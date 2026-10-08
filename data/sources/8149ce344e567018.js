@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8149ce344e567018"]={"json":{"pokemon":"Kabutops","items":[{"item":"minecraft:stone","min":1,"max":3,"chance":1.0},{"item":"minecraft:cod","min":1,"max":3,"chance":0.5},{"item":"minecraft:sea_pickle","min":1,"max":1,"chance":0.3},{"item":"pixelmon:deep_sea_tooth","min":1,"max":1,"chance":0.1}]}};

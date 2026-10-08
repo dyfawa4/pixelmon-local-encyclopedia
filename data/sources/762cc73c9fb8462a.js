@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:762cc73c9fb8462a"]={"json":{"pokemon":"Honchkrow","items":[{"item":"minecraft:feather","min":1,"max":3,"chance":1.0},{"item":"pixelmon:shiny_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:health_feather","min":1,"max":1,"chance":0.3},{"item":"pixelmon:shiny_stone","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f36e0edf2546ab4c"]={"json":{"pokemon":"Wo-Chien","items":[{"item":"minecraft:black_terracotta","min":2,"max":4,"chance":1.0},{"item":"pixelmon:relic_silver","min":1,"max":2,"chance":0.5},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:relic_vase","min":1,"max":1,"chance":0.1}]}};

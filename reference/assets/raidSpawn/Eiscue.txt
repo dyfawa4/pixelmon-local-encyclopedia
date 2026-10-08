@@ -1,0 +1,3 @@
+2,3=freezingbeaches
+2,3=freezingocean
+2,3=frozenwater

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5ded091dd9bb0a1c"]={"json":{"Name":"MyceliumMight","Description":"使出变化招式时，虽然行动必定会变慢，但能不受对手的特性妨碍。","Normal":["Toedscool","Toedscruel"],"Hidden":[]}};

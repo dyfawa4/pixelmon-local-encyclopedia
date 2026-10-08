@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Pancham","level":32,"to":"Pangoro","conditions":[{"evoConditionType":"party","withPokemon":[],"withTypes":["DARK"],"additionalProperties":{}}],"evoType":"leveling","moves":["Night Slash"],"additionalProperties":{}}]}

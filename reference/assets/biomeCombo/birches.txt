@@ -1,0 +1,9 @@
+minecraft:birch_forest
+minecraft:birch_forest_hills
+minecraft:tall_birch_forest
+minecraft:tall_birch_hills
+byg:aspen_clearing
+byg:aspen_forest
+byg:aspen_forest_hills
+byg:seasonal_birch_forest
+byg:seasonal_birch_forest_hills

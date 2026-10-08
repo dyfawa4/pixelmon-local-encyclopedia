@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:292fba196886e80d"]={"json":{"name":"pixelmon:grotto_savanna/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:grotto/grotto_savanna","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":4,"y_hack":0,"keep_liquids":true}}]}};

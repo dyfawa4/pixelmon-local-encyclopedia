@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b0351b469a83795e"]={"json":{"Name":"GuardDog","Description":"受到威吓时，攻击会提高。让替换宝可梦的招式和道具无效。","Normal":["Mabosstiff"],"Hidden":["Okidogi"]}};

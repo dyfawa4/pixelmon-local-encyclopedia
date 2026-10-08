@@ -1,0 +1,1 @@
+站在||itemButton=pixelmon:elevator||上的玩家可以通过跳跃或潜行瞬间移动至在这个||itemButton=pixelmon:elevator||正上方或者正下方的一个||itemButton=pixelmon:elevator||，就算中间有其他方块阻拦也可以正常使用。

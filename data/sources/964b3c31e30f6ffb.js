@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:964b3c31e30f6ffb"]={"json":{"Evolutions":[{"from":"Yamask","level":34,"to":"Cofagrigus","conditions":[],"evoType":"leveling","moves":["Shadow Claw"],"additionalProperties":{}}]}};

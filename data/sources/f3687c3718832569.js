@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f3687c3718832569"]={"json":{"pokemon":"Manaphy","items":[{"item":"minecraft:prismarine_shard","min":2,"max":5,"chance":1.0},{"item":"pixelmon:wave_incense","min":1,"max":1,"chance":0.5},{"item":"pixelmon:sea_incense","min":1,"max":1,"chance":0.3},{"item":"pixelmon:water_gem","min":1,"max":1,"chance":0.1}]}};

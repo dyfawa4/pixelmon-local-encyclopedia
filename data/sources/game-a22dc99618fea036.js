@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a22dc99618fea036"]={"json":{"type":"minecraft:crafting_shaped","pattern":["aia","imi","ada"],"key":{"d":{"tag":"forge:dyes/cyan"},"a":{"tag":"forge:ingots/aluminum"},"i":{"tag":"forge:ingots/iron"},"m":{"tag":"forge:gems/diamond"}},"result":{"item":"pixelmon:cyan_healer","count":1}}};

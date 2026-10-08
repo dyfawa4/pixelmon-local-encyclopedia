@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:be4e00fd6fcc72c0"]={"json":{"id":"Mega Aggron","spawnInfos":[{"spec":"species:Aggron","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

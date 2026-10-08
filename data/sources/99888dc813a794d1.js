@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:99888dc813a794d1"]={"json":{"type":"minecraft:crafting_shaped","group":"sign","pattern":["###","###"," X "],"key":{"#":{"item":"pixelmon:blue_berry_wood_planks"},"X":{"item":"minecraft:stick"}},"result":{"item":"pixelmon:blue_berry_wood_sign","count":3}}};

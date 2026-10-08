@@ -1,0 +1,4 @@
+Astonish,Sableye,Croagunk,Toxicroak,Charcadet,Armarouge,Ceruledge
+Destiny Bond,Ralts,Kirlia,Cacnea,Cacturne,Ceruledge
+Disable,Kadabra,Alakazam,Drowzee,Hypno,Ralts,Kirlia,Sableye,Cacnea,Cacturne,Ceruledge
+Psych Up,Abra,Kadabra,Alakazam,Drowzee,Hypno,MrMime,MrMime form:galarian,Jynx,Ralts,Kirlia,Gardevoir,Sableye,Meditite,Medicham,Volbeat,Illumise,Spinda,Chimchar,Monferno,Infernape,Lucario,Gallade,Gothita,Gothorita,Gothitelle,Elgyem,Beheeyem,Mienfoo,Mienshao,MrRime,Armarouge,Ceruledge

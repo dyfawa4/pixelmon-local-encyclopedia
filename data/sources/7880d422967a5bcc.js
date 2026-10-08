@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7880d422967a5bcc"]={"json":{"pokemon":"Grimer form:base","items":[{"item":"minecraft:slime_ball","min":1,"max":2,"chance":1.0},{"item":"minecraft:slime_block","min":1,"max":1,"chance":0.1}]}};

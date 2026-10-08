@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-85b4a4665660e860"]={"json":{"type":"minecraft:crafting_shaped","pattern":["aia","imi","ada"],"key":{"d":{"tag":"forge:dyes/gray"},"a":{"tag":"forge:ingots/aluminum"},"i":{"tag":"forge:ingots/iron"},"m":{"tag":"forge:gems/diamond"}},"result":{"item":"pixelmon:gray_healer","count":1}}};

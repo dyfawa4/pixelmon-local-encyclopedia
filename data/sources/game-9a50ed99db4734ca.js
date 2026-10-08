@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9a50ed99db4734ca"]={"json":{"id":"Sentret","spawnInfos":[{"spec":"species:Sentret","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":14,"typeID":"pokemon","condition":{"stringBiomes":["plains","biomesoplenty:tundra","biomesoplenty:tundra_basin","biomesoplenty:tundra_bog"]},"rarity":300.0}]}};

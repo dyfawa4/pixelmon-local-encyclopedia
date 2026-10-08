@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4502e3add92aefbc"]={"json":{"type":"minecraft:crafting_shaped","pattern":["cws","w w","www"],"key":{"c":{"item":"minecraft:orange_dye"},"s":{"item":"minecraft:stick"},"w":{"tag":"minecraft:wooden_slabs"}},"result":{"item":"pixelmon:orange_mail_box","count":1}}};

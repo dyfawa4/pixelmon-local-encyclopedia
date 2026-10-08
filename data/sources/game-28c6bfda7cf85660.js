@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-28c6bfda7cf85660"]={"json":{"type_id":"simple","id":"vigor","suffix":"ribbon.vigor.title","translation_key":"ribbon.vigor","description":"ribbon.vigor.description","icon":"pixelmon:textures/gui/ribbons/vigor.png"}};

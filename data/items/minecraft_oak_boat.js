@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_oak_boat"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","group":"boat","pattern":["# #","###"],"key":{"#":{"item":"minecraft:oak_planks"}},"result":{"item":"minecraft:oak_boat"},"source":"data/minecraft/recipes/oak_boat.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

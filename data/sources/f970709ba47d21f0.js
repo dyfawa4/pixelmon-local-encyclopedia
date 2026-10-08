@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f970709ba47d21f0"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M M","M M"],"key":{"M":{"tag":"forge:gems/crystal"}},"result":{"item":"pixelmon:plasma_boots","count":1}}};

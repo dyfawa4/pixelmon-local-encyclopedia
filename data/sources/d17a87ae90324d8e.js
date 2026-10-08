@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d17a87ae90324d8e"]={"json":{"id":"Elekid","spawnInfos":[{"spec":"species:Elekid","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":50.0}]}};

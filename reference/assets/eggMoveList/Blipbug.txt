@@ -1,0 +1,4 @@
+Infestation,Butterfree,Beedrill,Venonat,Venomoth,Ledyba,Ledian,Spinarak,Ariados,Shuckle,Beautifly,Dustox,Surskit,Masquerain,Volbeat,Illumise,Kricketune,Wormadam form:plant,Wormadam form:sandy,Wormadam form:trash,Mothim,Vespiquen,Skorupi,Drapion,Venipede,Whirlipede,Scolipede,Karrablast,Escavalier,Joltik,Galvantula,Shelmet,Accelgor,Vivillon,Cutiefly,Ribombee,Dewpider,Araquanid,Frosmoth
+Recover,Shelmet,Accelgor,Rabsca
+Sticky Web,Spinarak,Ariados,Shuckle,Surskit,Kricketune,Sewaddle,Swadloon,Galvantula,Grubbin,Charjabug,Vikavolt,Tarountula,Spidops
+Supersonic,Butterfree,Venonat,Venomoth,Ledyba,Ledian,Yanma,Vibrava,Flygon,Yanmega,Vivillon

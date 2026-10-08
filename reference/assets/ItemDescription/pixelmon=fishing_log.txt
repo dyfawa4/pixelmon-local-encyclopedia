@@ -1,0 +1,1 @@
+追踪你垂钓出的||pokemonButton=Magikarp||，||pokemonButton=Clobbopus||，||pokemonButton=Shellos form:west||，||pokemonButton=Shellos form:east||，||pokemonButton=Slugma||，||pokemonButton=Spheal||的花纹进度。具体可见||fishButton=||。

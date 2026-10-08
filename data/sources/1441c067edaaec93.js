@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1441c067edaaec93"]={"json":{"Evolutions":[{"from":"Popplio","level":17,"to":"Brionne","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Brionne","level":34,"to":"Primarina","conditions":[],"evoType":"leveling","moves":["Sparkling Aria"],"additionalProperties":{}}]}};

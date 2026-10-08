@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e763cf3cc5b3f4e7"]={"json":{"attack":"得到Z力量的梦幻将全力攻击对手。脚下会变成精神场地。","description":"起源超新星大爆炸会造成伤害，攻击后会发动精神场地。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

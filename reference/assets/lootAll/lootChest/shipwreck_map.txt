@@ -1,0 +1,16 @@
+minecraft:map=100.00%=1-1
+pixelmon:film=100.00%=0-8
+pixelmon:camera=2.50%=1-1
+pixelmon:health_feather=10.70%=1-1
+pixelmon:muscle_feather=10.70%=1-1
+pixelmon:resist_feather=10.70%=1-1
+pixelmon:genius_feather=10.70%=1-1
+pixelmon:clever_feather=10.70%=1-1
+pixelmon:swift_feather=10.70%=1-1
+pixelmon:pretty_feather=29.63%=1-1
+minecraft:compass=7.69%=1-1
+minecraft:map=7.69%=1-1
+minecraft:clock=7.69%=1-1
+minecraft:paper=89.37%=1-10
+minecraft:feather=59.99%=1-5
+minecraft:book=34.51%=1-5

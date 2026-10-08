@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd92bd886d4a8447"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_desert_chiseled_sandstone"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

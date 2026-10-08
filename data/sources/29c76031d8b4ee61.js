@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:29c76031d8b4ee61"]={"json":{"Evolutions":[{"from":"Bramblin","to":"Brambleghast","conditions":[{"evoConditionType":"blocksWalkedOutsideBall","blocksToWalk":1000,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

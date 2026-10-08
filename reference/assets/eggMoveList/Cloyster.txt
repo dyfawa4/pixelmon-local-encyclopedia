@@ -1,0 +1,4 @@
+Aqua Ring,Corsola
+Bubble Beam,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corphish,Crawdaunt,Crabrawler,Crabominable
+Life Dew,Corsola
+Water Pulse,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corphish,Crawdaunt,Anorith,Armaldo,Binacle,Barbaracle,Clauncher,Clawitzer,Golisopod,Wiglett,Wugtrio

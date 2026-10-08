@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d7a3cbf160bde6ad"]={"json":{"Evolutions":[{"from":"Tarountula","level":15,"to":"Spidops","conditions":[],"evoType":"leveling","moves":["Silk Trap"],"additionalProperties":{}}]}};

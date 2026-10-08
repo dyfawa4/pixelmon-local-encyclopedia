@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:764483bb5a80a7dd"]={"json":{"Evolutions":[{"from":"Tadbulb","item":{"itemID":"pixelmon:thunder_stone","additionalProperties":{}},"to":"Bellibolt","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

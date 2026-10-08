@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:96e62dcc0b7a9a22"]={"json":{"type_id":"simple","id":"world_champion","suffix":"ribbon.world_champion.title","translation_key":"ribbon.world_champion","description":"ribbon.world_champion.description","icon":"pixelmon:textures/gui/ribbons/world_champion.png"}};

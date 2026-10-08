@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8666aae999cc7023"]={"json":{"type":"minecraft:blasting","ingredient":{"item":"minecraft:obsidian"},"result":"pixelmon:black_augurite","experience":4.2,"cookingtime":72000}};

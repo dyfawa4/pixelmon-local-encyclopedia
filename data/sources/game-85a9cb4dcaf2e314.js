@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-85a9cb4dcaf2e314"]={"json":{"type_id":"simple","id":"zoned_out","suffix":"ribbon.zoned_out.title","translation_key":"ribbon.zoned_out","description":"ribbon.zoned_out.description","icon":"pixelmon:textures/gui/ribbons/zoned_out.png"}};

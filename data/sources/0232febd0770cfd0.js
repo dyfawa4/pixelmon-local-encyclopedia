@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0232febd0770cfd0"]={"json":{"Evolutions":[{"from":"Dreepy","level":50,"to":"Drakloak","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Drakloak","level":60,"to":"Dragapult","conditions":[],"evoType":"leveling","moves":["Dragon Darts"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:82c6480abc03a8b3"]={"json":{"pokemon":"Weezing form:galarian","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"minecraft:gunpowder","min":1,"max":3,"chance":0.5},{"item":"pixelmon:fairy_gem","min":1,"max":1,"chance":0.1}]}};

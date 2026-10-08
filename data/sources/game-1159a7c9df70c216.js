@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1159a7c9df70c216"]={"json":{"id":"Arctozolt","spawnInfos":[{"spec":"species:Arctozolt","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":10.0}]}};

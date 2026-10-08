@@ -1,0 +1,5 @@
+4,5=birches
+4,5=magical
+4,5=mushroom
+4,5=redwoods
+4,5=taigas

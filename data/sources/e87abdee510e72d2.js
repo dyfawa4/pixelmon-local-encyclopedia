@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e87abdee510e72d2"]={"json":{"id":"Klefki Grass","spawnInfos":[{"spec":"species:Klefki","stringLocationTypes":["Grass"],"minLevel":42,"maxLevel":54,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["taigas","magical"]},"rarity":40.0}]}};

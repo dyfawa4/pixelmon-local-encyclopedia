@@ -1,0 +1,3 @@
+Leech Seed,Voltorb form:hisuian,Electrode form:hisuian
+Recycle,Magnemite,Magneton,Voltorb,Voltorb form:hisuian,Electrode,Electrode form:hisuian,Porygon,Porygon2,Lunatone form:gibbous,Lunatone form:quarter,Lunatone form:full,Lunatone form:new_moon,Lunatone form:crescent,Solrock,Baltoy,Claydol,Bronzor,Bronzong,Magnezone,Porygon-Z,Trubbish,Garbodor,Klink,Klang,Klinklang,Klefki
+Worry Seed,Voltorb form:hisuian,Electrode form:hisuian,Ferroseed,Ferrothorn

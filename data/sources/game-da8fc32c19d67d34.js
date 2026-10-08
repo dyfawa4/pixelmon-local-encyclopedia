@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-da8fc32c19d67d34"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SL ","EB ","   "],"key":{"S":{"item":"pixelmon:soda_pop"},"L":{"item":"pixelmon:lansat_berry"},"E":{"item":"pixelmon:starf_berry"},"B":{"item":"pixelmon:silver_bottle_cap"}},"result":{"item":"pixelmon:rare_soda","count":1}}};

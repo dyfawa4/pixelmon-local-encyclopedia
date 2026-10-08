@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e78289e5e2f1d08d"]={"json":{"Evolutions":[{"from":"Snom","to":"Frosmoth","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Icy Wind"],"additionalProperties":{}}]}};

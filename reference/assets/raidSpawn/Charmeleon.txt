@@ -1,0 +1,4 @@
+2,3=badlands
+2,3=mountainous
+3,4=ultracrater
+2,3=volcano

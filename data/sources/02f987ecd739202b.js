@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:02f987ecd739202b"]={"json":{"pokemon":"Typhlosion form:hisuian","items":[{"item":"minecraft:blaze_rod","min":1,"max":3,"chance":1.0},{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":0.5},{"item":"pixelmon:spell_tag","min":1,"max":1,"chance":0.3},{"item":"pixelmon:flame_orb","min":1,"max":1,"chance":0.1}]}};

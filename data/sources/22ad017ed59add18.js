@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:22ad017ed59add18"]={"json":{"id":"Stonjourner Grass","spawnInfos":[{"spec":"species:Stonjourner","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["hills"]},"rarity":10.0}]}};

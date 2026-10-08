@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:370c08a8564b7954"]={"json":{"pokemon":"Volcarona","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:spider_eye","min":1,"max":3,"chance":0.5},{"item":"pixelmon:fire_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:flame_orb","min":1,"max":1,"chance":0.1}]}};

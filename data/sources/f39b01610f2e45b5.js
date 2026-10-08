@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f39b01610f2e45b5"]={"json":{"id":"Medicham","spawnInfos":[{"spec":"species:Medicham","stringLocationTypes":["Land"],"minLevel":38,"maxLevel":45,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous forests"]},"rarity":6.0}]}};

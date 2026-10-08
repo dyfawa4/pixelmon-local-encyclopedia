@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ffbfd206a84acf2d"]={"json":{"pokemon":"Porygon","items":[{"item":"pixelmon:silicon","min":1,"max":2,"chance":1.0},{"item":"pixelmon:normal_gem","min":1,"max":1,"chance":0.5},{"item":"pixelmon:pc","min":1,"max":1,"chance":0.1}]}};

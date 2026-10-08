@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a0b0c48d15bdb4ff"]={"json":{"attack":"变身为巨大的盾，撞击对手。如果对手正处于极巨化状态，则造成的伤害会变为2倍。","description":"攻击目标造成伤害。\n如果目标处于极巨化状态，威力翻倍。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

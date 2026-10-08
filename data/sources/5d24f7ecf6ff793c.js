@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d24f7ecf6ff793c"]={"json":{"id":"Sudowoodo Grass","spawnInfos":[{"spec":"species:Sudowoodo","stringLocationTypes":["Grass"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","condition":{"stringBiomes":["redwoods"]},"rarity":30.0}]}};

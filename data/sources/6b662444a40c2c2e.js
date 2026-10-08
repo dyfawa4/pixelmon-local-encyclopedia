@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6b662444a40c2c2e"]={"json":{"Evolutions":[{"from":"Charmander","level":16,"to":"Charmeleon","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Charmeleon","level":36,"to":"Charizard","conditions":[],"evoType":"leveling","moves":["Air Slash"],"additionalProperties":{}}]}};

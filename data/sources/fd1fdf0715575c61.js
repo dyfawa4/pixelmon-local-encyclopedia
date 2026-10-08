@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fd1fdf0715575c61"]={"json":{"Evolutions":[{"from":"Fomantis","level":34,"to":"Lurantis","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Petal Blizzard"],"additionalProperties":{}}]}};

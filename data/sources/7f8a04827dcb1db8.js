@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7f8a04827dcb1db8"]={"json":{"id":"Annihilape","spawnInfos":[{"spec":"species:Annihilape","stringLocationTypes":["Tree Top"],"minLevel":45,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles","pixelmon:ultra_jungle","byg:crag_gardens"]},"rarity":0.1}]}};

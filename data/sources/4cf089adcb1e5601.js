@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4cf089adcb1e5601"]={"json":{"id":"Jynx","spawnInfos":[{"spec":"species:Jynx","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["freezing forests"]},"rarity":8.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4e01d01a2580411c"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MM ","MS "," S "],"key":{"M":{"item":"pixelmon:dusk_stone"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:dusk_stone_axe","count":1}}};

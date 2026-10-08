@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3fc2f69f4a6a6f1a"]={"text":"Electric Terrain,Zapdos,Mew,Pichu,Pichu form:spiky,Elekid,Raikou,Zekrom,TapuKoko,Xurkitree,Zeraora,Melmetal,Regieleki,SandyShocks,IronTreads,IronBundle,IronHands,IronJugulis,IronMoth,IronThorns,IronValiant,Miraidon,IronLeaves\r\n"};

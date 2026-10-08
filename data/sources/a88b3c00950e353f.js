@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a88b3c00950e353f"]={"json":{"pokemon":"Vikavolt","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":3,"chance":0.5},{"item":"pixelmon:occa_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:electric_gem","min":1,"max":1,"chance":0.1}]}};

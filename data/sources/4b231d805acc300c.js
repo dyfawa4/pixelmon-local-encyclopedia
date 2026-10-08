@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4b231d805acc300c"]={"json":{"id":"Aggron","spawnInfos":[{"spec":"species:Aggron","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:hard_stone","percentChance":5}],"condition":{"stringBiomes":["mesas"]},"rarity":0.1}]}};

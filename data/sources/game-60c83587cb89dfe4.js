@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-60c83587cb89dfe4"]={"json":{"npctype":"chat","skins":[{"filename":"ornithologist.png"}],"names":[{"name":"Jorge"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio-Resort de la Caverna Arenisca."},{"text":"¡Nuestro Líder de gimnasio te hará caer!"},{"text":"Cuando creas que lo has logrado, la batalla no habrá hecho más que empezar."}]}]}};

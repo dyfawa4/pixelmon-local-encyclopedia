@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7d203bfc416fa46a"]={"json":{"pokemon":"Tatsugiri form:curly","items":[{"item":"minecraft:cod","min":1,"max":2,"chance":1.0},{"item":"minecraft:tropical_fish","min":1,"max":1,"chance":0.5}]}};

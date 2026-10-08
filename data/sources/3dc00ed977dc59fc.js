@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3dc00ed977dc59fc"]={"text":"将十个||itemButton=pixelmon:alpha_shard||放在地上即可变成||itemButton=pixelmon:blue_orb||"};

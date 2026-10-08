@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9ead3d924ea5bfab"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦的草属性招式威力提升20%。\r\n\r\n||bigFont=对战外||\r\n携带该道具的||pokemonButton=Roselia||♀/||pokemonButton=Roserade||♀生蛋，孵化出的子代为||pokemonButton=Budew||。\r\n携带该道具的||pokemonButton=Roselia||♂/||pokemonButton=Roserade||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Budew||。\r\n也可以当做装饰性方块放下来。"};

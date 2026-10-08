@@ -1,0 +1,3 @@
+携带该道具的宝可梦的岩石属性招式威力提升20%
+携带该道具的宝可梦学会的||moveButton=Judgment||变为岩石属性。
+||pokemonButton=Arceus||携带后形态转换为岩石属性。

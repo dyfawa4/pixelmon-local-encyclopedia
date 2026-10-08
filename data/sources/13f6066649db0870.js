@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13f6066649db0870"]={"json":{"Evolutions":[{"from":"Blipbug","level":10,"to":"Dottler","conditions":[],"evoType":"leveling","moves":["Reflect","Light Screen","Confusion"],"additionalProperties":{}},{"from":"Dottler","level":30,"to":"Orbeetle","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

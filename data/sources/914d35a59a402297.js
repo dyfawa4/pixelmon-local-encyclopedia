@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:914d35a59a402297"]={"json":{"Evolutions":[{"from":"Zorua","level":30,"to":"Zoroark","conditions":[],"evoType":"leveling","moves":["Night Slash"],"additionalProperties":{}}]}};

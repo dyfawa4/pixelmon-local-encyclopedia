@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:06a7d5b01d66a791"]={"json":{"pokemon":"Rockruff","items":[{"item":"minecraft:diorite","min":1,"max":2,"chance":1.0},{"item":"minecraft:bone","min":1,"max":1,"chance":0.5}]}};

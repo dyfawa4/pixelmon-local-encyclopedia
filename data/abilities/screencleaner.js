@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:screencleaner"]={"description":"对战中\r\n当该特性的宝可梦出场时，解除双方场地的光墙、反射壁和极光幕状态。","holders":[[122,"galarian",false],[866,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ScreenCleaner"}};

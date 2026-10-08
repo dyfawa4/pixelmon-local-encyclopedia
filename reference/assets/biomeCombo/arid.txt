@@ -1,0 +1,12 @@
+minecraft:desert
+minecraft:desert_hills
+minecraft:desert_lakes
+biomesoplenty:dry_boneyard
+biomesoplenty:dryland
+biomesoplenty:lush_desert
+byg:dunes
+byg:lush_red_desert
+byg:mojave_desert
+byg:oasis
+byg:red_desert
+byg:red_desert_dunes

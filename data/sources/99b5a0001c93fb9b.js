@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:99b5a0001c93fb9b"]={"json":{"Evolutions":[{"from":"Patrat","level":20,"to":"Watchog","conditions":[],"evoType":"leveling","moves":["Confuse Ray"],"additionalProperties":{}}]}};

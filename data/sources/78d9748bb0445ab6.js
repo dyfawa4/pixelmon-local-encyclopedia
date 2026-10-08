@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:78d9748bb0445ab6"]={"json":{"Evolutions":[{"from":"Cetoddle","item":{"itemID":"pixelmon:ice_stone","additionalProperties":{}},"to":"Cetitan","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

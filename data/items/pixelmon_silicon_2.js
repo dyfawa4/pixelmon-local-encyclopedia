@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_silicon_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:blasting","ingredient":{"tag":"forge:ores/silicon"},"result":"pixelmon:silicon","experience":0.7,"cookingtime":100},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

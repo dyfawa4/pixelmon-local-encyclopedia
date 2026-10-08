@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:03362ac244bd7e11"]={"json":{"Evolutions":[{"from":"Finizen","level":38,"to":"Palafin form:zero","conditions":[],"evoType":"leveling","moves":["Flip Turn"],"additionalProperties":{}}]}};

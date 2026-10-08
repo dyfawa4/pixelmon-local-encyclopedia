@@ -1,0 +1,3 @@
+1,2=flowery
+1,2=forests
+1,2=roofed

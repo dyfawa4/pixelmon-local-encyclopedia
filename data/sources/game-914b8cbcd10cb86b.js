@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-914b8cbcd10cb86b"]={"json":{"id":"Poipole","spawnInfos":[{"spec":"species:Poipole","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":40,"maxLevel":40,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":0.5}]}};

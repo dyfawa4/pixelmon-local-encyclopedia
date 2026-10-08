@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8609906bdd8a644a"]={"json":{"Evolutions":[{"from":"Zubat","level":22,"to":"Golbat","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Golbat","to":"Crobat","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","moves":["Cross Poison"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Cleffa","to":"Clefairy","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}},{"from":"Clefairy","item":{"itemID":"pixelmon:moon_stone","additionalProperties":{}},"to":"Clefable","conditions":[],"evoType":"interact","additionalProperties":{}}]}

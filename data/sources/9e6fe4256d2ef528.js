@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9e6fe4256d2ef528"]={"json":{"pokemon":"Electabuzz","items":[{"item":"minecraft:glowstone_dust","min":1,"max":3,"chance":1.0},{"item":"pixelmon:thunder_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:thunder_stone","min":1,"max":1,"chance":0.1}]}};

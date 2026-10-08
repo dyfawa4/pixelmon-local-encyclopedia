@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2c461e7df06b5b91"]={"json":{"id":"Sandygast","spawnInfos":[{"spec":"species:Sandygast","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:spell_tag","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["beaches"]},"rarity":170.0}]}};

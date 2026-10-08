@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b3657d2da4789537"]={"json":{"id":"Manectric","spawnInfos":[{"spec":"species:Manectric","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas","plains"]},"rarity":8.0}]}};

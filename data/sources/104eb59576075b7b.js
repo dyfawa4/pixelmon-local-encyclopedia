@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:104eb59576075b7b"]={"text":"宝可梦携带后，可以使用地面属性的Ｚ招式。\r\n携带该道具的||pokemonButton=Arceus||属性变为地面属性。"};

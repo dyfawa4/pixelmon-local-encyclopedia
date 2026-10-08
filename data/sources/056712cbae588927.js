@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:056712cbae588927"]={"json":{"id":"ChienPao","spawnInfos":[{"spec":"species:Chien-Pao level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"minY":80,"stringBiomes":["freezing mountains"]},"rarity":3.0}]}};

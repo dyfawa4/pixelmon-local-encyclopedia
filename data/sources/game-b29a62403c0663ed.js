@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b29a62403c0663ed"]={"json":{"id":"Grubbin","spawnInfos":[{"spec":"species:Grubbin","stringLocationTypes":["Land","Headbutt","Forage"],"minLevel":5,"maxLevel":19,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK","NIGHT"],"stringBiomes":["taigas","redwoods","jungles"]},"rarity":300.0}]}};

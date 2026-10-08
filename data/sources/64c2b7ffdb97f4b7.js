@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:64c2b7ffdb97f4b7"]={"json":{"Name":"TintedLens","Description":"可以将效果不好的招式以通常的威力使出。","Normal":["Venonat","Venomoth","Illumise","Yanmega"],"Hidden":["Butterfree","Hoothoot","Noctowl","Mothim","Sigilyph","Braviary form:hisuian","Nymble","Lokix"]}};

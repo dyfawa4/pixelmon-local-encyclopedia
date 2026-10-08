@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6c69e40478ae1453"]={"json":{"id":"Toedscool","spawnInfos":[{"spec":"species:Toedscool","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mushroom","redwoods","taigas"]},"rarity":100.0}]}};

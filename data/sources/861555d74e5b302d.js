@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:861555d74e5b302d"]={"json":{"Evolutions":[{"from":"Inkay","level":30,"to":"Malamar","conditions":[{"evoConditionType":"highAltitude","minAltitude":127.0,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

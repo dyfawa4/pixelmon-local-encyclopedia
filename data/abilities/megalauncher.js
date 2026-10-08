@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:megalauncher"]={"description":"对战中\r\n该特性的宝可梦所使用除治愈波动以外的波动和波导类招式的威力会提高50%，治愈波动的ＨＰ回复变为最大ＨＰ的3⁄4。","holders":[[9,"mega",false],[692,"",false],[693,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MegaLauncher"}};

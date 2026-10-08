@@ -1,0 +1,7 @@
+2,3,4=coldocean
+2,3,4=deadsea
+2,3,4=freezingocean
+2,3,4=lukewarmocean
+2,3,4=ocean
+3,4=ultradeepsea
+2,3,4=warmocean

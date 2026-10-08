@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-dd18333c7976553c"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MMM","M M","M M"],"key":{"M":{"tag":"forge:gems/silicon"}},"result":{"item":"pixelmon:galactic_legs","count":1}}};

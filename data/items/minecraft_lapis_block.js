@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_lapis_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:lapis_lazuli"}},"result":{"item":"minecraft:lapis_block"},"source":"data/minecraft/recipes/lapis_block.json"}],"appRecipe":{},"usedIn":["minecraft:lapis_lazuli"],"drops":[],"referenceDrop":{},"special":""};

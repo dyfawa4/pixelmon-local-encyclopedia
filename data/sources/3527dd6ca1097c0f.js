@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3527dd6ca1097c0f"]={"text":"携带该道具的宝可梦不会进化。\r\n||pokemonButton=Shelmet||与||pokemonButton=Karrablast||连接交换时，任意一方携带该道具则双方都不会进化。\r\n携带该道具的宝可梦生蛋时，子代的性格会遗传自携带者。\r\n亲代双方都持有||itemButton=pixelmon:ever_stone||时，子代的性格有50%可能性遗传自父方，50%可能性遗传自母方。\r\n携带该道具的宝可梦生蛋时，子代的地区形态会遗传自携带者。"};

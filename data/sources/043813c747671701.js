@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:043813c747671701"]={"json":{"id":"Golisopod","spawnInfos":[{"spec":"species:Golisopod","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["beaches","pixelmon:ultra_deep_sea"]},"anticondition":{"stringBiomes":["freezing"]},"rarity":0.5}]}};

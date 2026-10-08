@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3043e53caf6612be"]={"json":{"type_id":"simple","id":"ferocious","suffix":"ribbon.ferocious.title","translation_key":"ribbon.ferocious","description":"ribbon.ferocious.description","icon":"pixelmon:textures/gui/ribbons/ferocious.png"}};

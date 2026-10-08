@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f9ea4c2c63fabb4c"]={"json":{"Evolutions":[{"from":"Hatenna","level":32,"to":"Hattrem","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Hattrem","level":42,"to":"Hatterene","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

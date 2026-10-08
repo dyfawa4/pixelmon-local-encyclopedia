@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_composter"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["# #","# #","###"],"key":{"#":{"tag":"minecraft:wooden_slabs"}},"result":{"item":"minecraft:composter"},"source":"data/minecraft/recipes/composter.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

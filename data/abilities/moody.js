@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:moody"]={"description":"对战中\r\n每回合结束时攻击、防御、特攻、特防、速度中随机一项提升2级，随机另一项降低1级。","holders":[[223,"",true],[224,"",true],[235,"",true],[361,"",true],[362,"",true],[362,"mega",true],[399,"",true],[399,"sirdoofusiii",true],[400,"",true],[952,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Moody"}};

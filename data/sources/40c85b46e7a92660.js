@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:40c85b46e7a92660"]={"json":{"pokemon":"Paras","items":[{"item":"minecraft:crimson_fungus","min":1,"max":2,"chance":1.0},{"item":"minecraft:nether_wart","min":1,"max":1,"chance":0.5}]}};

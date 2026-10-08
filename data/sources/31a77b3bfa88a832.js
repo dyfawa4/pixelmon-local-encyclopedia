@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:31a77b3bfa88a832"]={"json":{"pokemon":"Poliwhirl","items":[{"item":"minecraft:lily_pad","min":1,"max":2,"chance":1.0},{"item":"pixelmon:water_stone_shard","min":1,"max":1,"chance":0.5},{"item":"pixelmon:damp_rock","min":1,"max":1,"chance":0.1}]}};

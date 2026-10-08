@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:203d261b77bf2b0e"]={"json":{"Evolutions":[{"from":"Wooper form:paldean","level":20,"to":"Clodsire","conditions":[],"evoType":"leveling","moves":["Amnesia"],"additionalProperties":{}}]}};

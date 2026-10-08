@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f1a98deb9a75978c"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦击中要害率提高1级。\r\n\r\n||bigFont=对战外||\r\n||pokemonButton=Sneasel||携带该道具夜晚等级提升进化为||pokemonButton=Weavile||。\r\n||pokemonButton=Sneasel form:hisuian||携带该道具白天等级提升进化为||pokemonButton=Sneasler||。"};

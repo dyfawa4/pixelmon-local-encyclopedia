@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a0dff4563a68a742"]={"json":{"pokemon":"Miraidon","items":[{"item":"minecraft:bread","min":2,"max":4,"chance":1.0},{"item":"pixelmon:electric_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dragon_fang","min":1,"max":1,"chance":0.1}]}};

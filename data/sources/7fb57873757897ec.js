@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7fb57873757897ec"]={"json":{"pokemon":"Wooper form:paldean","items":[{"item":"minecraft:slime_ball","min":1,"max":1,"chance":1.0},{"item":"minecraft:coarse_dirt","min":1,"max":1,"chance":0.5}]}};

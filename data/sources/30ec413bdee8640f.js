@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:30ec413bdee8640f"]={"text":"Feint,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Breloom\r\nIce Hammer\r\nQuash,Hatenna,Hattrem\r\n"};

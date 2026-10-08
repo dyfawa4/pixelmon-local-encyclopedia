@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e439a9cd3573bbed"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"firebreather3.png"}],"names":[{"name":"Firebreather"}],"chat":[{"opening":"Did you have fun getting up here?","win":"Fire always wins!","lose":"Cheater!"}]}};

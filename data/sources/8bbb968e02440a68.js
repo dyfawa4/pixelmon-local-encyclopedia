@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8bbb968e02440a68"]={"json":{"id":"Pichu","spawnInfos":[{"spec":"species:Pichu","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:light_ball","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_forest"]},"rarity":50.0}]}};

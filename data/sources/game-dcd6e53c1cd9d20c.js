@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-dcd6e53c1cd9d20c"]={"json":{"id":"Karrablast","spawnInfos":[{"spec":"species:Karrablast","stringLocationTypes":["Land","Sweet Scent"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["swamps"]},"rarity":130.0}]}};

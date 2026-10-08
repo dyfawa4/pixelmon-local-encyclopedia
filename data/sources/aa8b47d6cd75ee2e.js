@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:aa8b47d6cd75ee2e"]={"json":{"id":"Stunky","spawnInfos":[{"spec":"species:Stunky","stringLocationTypes":["Land"],"minLevel":23,"maxLevel":33,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["swamps","forests","roofed","biomesoplenty:burnt_forest"]},"rarity":130.0}]}};

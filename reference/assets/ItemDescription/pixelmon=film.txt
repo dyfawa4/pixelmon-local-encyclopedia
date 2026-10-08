@@ -1,0 +1,1 @@
+||itemButton=pixelmon:camera||拍照时会消耗背包内的||itemButton=pixelmon:film||，背包内没有||itemButton=pixelmon:film||时无法生成照片。

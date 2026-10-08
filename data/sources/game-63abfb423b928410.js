@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-63abfb423b928410"]={"json":{"id":"Magmortar","spawnInfos":[{"spec":"species:Magmortar","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:magmarizer","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_desert"]},"rarity":10.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:759aac6621495e6a"]={"json":{"Evolutions":[{"from":"Meowth form:alolan","to":"Persian form:alolan","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","moves":["Power Gem"],"additionalProperties":{}}]}};

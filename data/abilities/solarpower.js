@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:solarpower"]={"description":"对战中\r\n大晴天和大日照天气下特攻增至1.5倍，但每回合损失最大ＨＰ的1⁄8。","holders":[[4,"",true],[5,"",true],[6,"",true],[6,"megax",true],[6,"megay",true],[6,"gmax",true],[191,"",false],[192,"",false],[229,"mega",false],[357,"",false],[694,"",true],[695,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SolarPower"}};

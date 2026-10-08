@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:41b7cd17d013fd11"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"pokefan_m.png"}],"names":[{"name":"Rex"}],"chat":[{"opening":"Sei riuscito a raggiungermi. Non sperare di battermi così facilmente!","win":"Ah! Non tornare, ragazzo.","lose":"La fortuna è dalla tua parte questa volta, ragazzo."}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5fced4780856bec"]={"json":{"Name":"PowerOfAlchemy","Description":"继承被打倒的同伴的特性，变为相同的特性。","Normal":[],"Hidden":["Grimer form:alolan","Muk form:alolan"]}};

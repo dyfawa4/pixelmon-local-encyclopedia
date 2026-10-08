@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:queenlymajesty"]={"description":"对战中\r\n让对方使出会影响己方的先制招式失败，包含受到恶作剧之心、先行治疗或疾风之翼影响使优先度大于0的招式。\r\n\r\n该效果与出招顺序无关。只要是先制招式，即使慢于优先度为0的招式使出，己方仍会受到该特性的保护。","holders":[[763,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.QueenlyMajesty"}};

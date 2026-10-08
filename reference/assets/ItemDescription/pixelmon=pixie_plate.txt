@@ -1,0 +1,3 @@
+携带该道具的宝可梦的妖精属性招式威力提升20%
+携带该道具的宝可梦学会的||moveButton=Judgment||变为妖精属性。
+||pokemonButton=Arceus||携带后形态转换为妖精属性。

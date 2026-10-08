@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd665ae3ed05be17"]={"json":{"Name":"CheekPouch","Description":"无论是哪种树果，食用后，HP都会回复。","Normal":["Bunnelby","Diggersby","Dedenne","Skwovet","Greedent","Maushold form:family_four","Maushold form:family_three"],"Hidden":[]}};

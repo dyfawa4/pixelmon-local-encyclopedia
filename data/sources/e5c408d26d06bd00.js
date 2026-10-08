@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e5c408d26d06bd00"]={"text":"||itemButton=pixelmon:uno_orb||有着375点耐久度，每当击败一只野生宝可梦，||itemButton=pixelmon:uno_orb||会减少一点耐久，当耐久度降为0时，||itemButton=pixelmon:uno_orb||将被充满，这时候拿着||itemButton=pixelmon:uno_orb||对着||itemButton=pixelmon:articuno_shrine||使用可以召唤一只||pokemonButton=Articuno||并与其进行战斗。"};

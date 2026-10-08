@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:724cae93822e2b73"]={"json":{"Name":"Harvest","Description":"可以多次制作出已被使用掉的树果。","Normal":[],"Hidden":["Exeggcute","Exeggutor","Exeggutor form:alolan","Tropius","Phantump","Trevenant","Smoliv","Dolliv","Arboliva"]}};

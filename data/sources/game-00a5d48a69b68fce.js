@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-00a5d48a69b68fce"]={"json":{"id":"Chespin","spawnInfos":[{"spec":"species:Chespin","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["birches","taigas"]},"rarity":10.0}]}};

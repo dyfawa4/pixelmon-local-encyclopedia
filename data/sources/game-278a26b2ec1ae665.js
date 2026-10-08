@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-278a26b2ec1ae665"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:cat"],"replacement_logic":"simple","specs":["meowth","meowstic","glameow","shinx","purrloin","litleo","espurr"]}};

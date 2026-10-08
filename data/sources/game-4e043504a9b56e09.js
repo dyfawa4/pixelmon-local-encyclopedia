@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4e043504a9b56e09"]={"json":{"id":"Scatterbug","spawnInfos":[{"spec":"species:Scatterbug","stringLocationTypes":["Land","Tree Top","Forage","Headbutt"],"minLevel":3,"maxLevel":8,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["birches","freezing forests","magical"]},"rarity":300.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5249358dbbc97f29"]={"json":{"description":"攻击目标造成伤害。\n使己方场地变为反射壁状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

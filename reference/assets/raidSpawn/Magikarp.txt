@@ -1,0 +1,13 @@
+1,2=beaches
+1,2=coldocean
+1,2=craggardens
+1,2=freezingbeaches
+1,2=freezingocean
+1,2=freshwater
+1,2=frozenwater
+1,2=lukewarmocean
+1,2=ocean
+1,2=pollutedlake
+1,2=stonybeaches
+1,2=swamps
+1,2=warmocean

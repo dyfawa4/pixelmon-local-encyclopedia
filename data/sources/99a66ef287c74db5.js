@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:99a66ef287c74db5"]={"json":{"Evolutions":[{"from":"Turtwig","level":18,"to":"Grotle","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Grotle","level":32,"to":"Torterra","conditions":[],"evoType":"leveling","moves":["Earthquake"],"additionalProperties":{}}]}};

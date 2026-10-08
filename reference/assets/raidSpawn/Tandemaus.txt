@@ -1,0 +1,6 @@
+1,2,3=birches
+1,2,3=forests
+1,2,3=plains
+1,2,3=redwoods
+1,2,3=roofed
+1,2,3=taigas

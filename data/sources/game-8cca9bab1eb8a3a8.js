@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8cca9bab1eb8a3a8"]={"json":{"id":"Sneasler","spawnInfos":[{"spec":"species:Sneasler","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":55,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:quick_claw","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["freezing forests"]},"rarity":0.05}]}};

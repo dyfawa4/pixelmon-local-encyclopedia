@@ -1,0 +1,5 @@
+2,3=badlands
+2,3=savannas
+3,4=ultradeepsea
+3,4=ultradesert
+2,3=volcano

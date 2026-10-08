@@ -1,0 +1,5 @@
+4,5=badlands
+4,5=savannas
+4,5=ultradeepsea
+4,5=ultradesert
+4,5=volcano

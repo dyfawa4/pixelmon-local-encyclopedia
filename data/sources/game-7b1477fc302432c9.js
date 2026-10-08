@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7b1477fc302432c9"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather2.png"}],"names":[{"name":"Netsu"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio Inferno."},{"text":"¡Nuestro Líder de gimnasio se encuentra al otro lado del río de lava!"},{"text":"Intenta no caerte en él; ¡lo único que conseguirás es quemarte!"}]}]}};

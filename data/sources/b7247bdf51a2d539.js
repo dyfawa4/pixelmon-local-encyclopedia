@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7247bdf51a2d539"]={"json":{"Name":"WanderingSpirit","Description":"与使用接触类招式攻击自己的宝可梦互换特性。","Normal":["Yamask form:galarian","Runerigus"],"Hidden":[]}};

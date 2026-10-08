@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3ef69f053868e47a"]={"json":{"pokemon":"ScreamTail","items":[{"item":"minecraft:sugar","min":2,"max":4,"chance":1.0},{"item":"pixelmon:psychic_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fairy_wand","min":1,"max":1,"chance":0.1}]}};

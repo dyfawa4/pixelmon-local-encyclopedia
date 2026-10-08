@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:48f9760aa1babf24"]={"json":{"pokemon":"Cascoon","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:cobweb","min":1,"max":2,"chance":0.5},{"item":"pixelmon:shed_shell","min":1,"max":1,"chance":0.1}]}};

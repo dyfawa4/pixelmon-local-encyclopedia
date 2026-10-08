@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:11af7a1211d40994"]={"json":{"Name":"Magician","Description":"夺走被自己的招式击中的对手的道具。","Normal":["Hoopa form:confined","Hoopa form:unbound"],"Hidden":["Fennekin","Braixen","Delphox","Klefki"]}};

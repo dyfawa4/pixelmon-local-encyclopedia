@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-42f0a0107a213499"]={"json":{"id":"Crocalor","spawnInfos":[{"spec":"species:Crocalor","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":36,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mesas"]},"rarity":1.0}]}};

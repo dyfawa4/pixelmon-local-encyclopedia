@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fdb4d66b9061ac38"]={"json":{"pokemon":"Conkeldurr","items":[{"item":"minecraft:stone","min":2,"max":4,"chance":1.0},{"item":"minecraft:andesite","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fighting_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:muscle_band","min":1,"max":1,"chance":0.1}]}};

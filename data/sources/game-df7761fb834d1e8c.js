@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-df7761fb834d1e8c"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:yellow_gym_sign"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

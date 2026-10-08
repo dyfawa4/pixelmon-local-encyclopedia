@@ -1,0 +1,1 @@
+通过||pokemonButton=Marill||或||pokemonButton=Azumarill||携带||itemButton=pixelmon:sea_incense||繁殖可得

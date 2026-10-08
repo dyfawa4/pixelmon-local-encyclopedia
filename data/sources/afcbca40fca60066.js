@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:afcbca40fca60066"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:lansat_berry"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

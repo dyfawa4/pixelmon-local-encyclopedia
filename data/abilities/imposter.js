@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:imposter"]={"description":"对战中\r\n登场时以对手对应位置的宝可梦为目标进入变身状态。在皇家对战中，以该特性宝可梦的对角线位置为目标进入变身状态。\r\n如果目标处于幻觉之下、变身状态、替身的保护下，或者目标位置没有宝可梦，则变身者特性发动失败。\r\n如果目标是太晶化的厄诡椪，或是自身已太晶化且目标是厄诡椪，则变身者特性发动失败。\r\n如果目标是太晶化的太乐巴戈斯，或是自身已太晶化且目标是太乐巴戈斯，则变身者特性发动失败。","holders":[[132,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Imposter"}};

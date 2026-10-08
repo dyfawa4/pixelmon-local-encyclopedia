@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-325578f9cd100ce2"]={"json":{"type_id":"simple","id":"great_ability","suffix":"ribbon.great_ability.title","translation_key":"ribbon.great_ability","description":"ribbon.great_ability.description","icon":"pixelmon:textures/gui/ribbons/great_ability.png"}};

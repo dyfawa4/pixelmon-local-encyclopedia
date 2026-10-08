@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b19a51e8e570c1b9"]={"json":{"id":"Zarude","spawnInfos":[{"spec":"species:Zarude level:70","stringLocationTypes":["Tree Top"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":0.1}]}};

@@ -1,0 +1,2 @@
+1,2=deserts
+1,2=volcano

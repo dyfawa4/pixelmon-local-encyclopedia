@@ -1,0 +1,4 @@
+Power Split,Surskit,Masquerain,Inkay,Malamar,Shuckle
+Spit Up,Seel,Dewgong,Wooper,Quagsire,Pelipper,Cramorant,Clodsire
+Sticky Web,Surskit,Spinarak,Ariados,Shuckle,Kricketune,Sewaddle,Swadloon,Galvantula,Grubbin,Charjabug,Vikavolt,Tarountula,Spidops
+Stockpile,Seel,Dewgong,Wooper,Quagsire,Pelipper,Cramorant,Clodsire

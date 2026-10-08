@@ -1,0 +1,5 @@
+Confuse Ray,Mewtwo,Mew,Magby,Jirachi,Uxie,Mesprit,Regigigas,Cresselia,Darkrai,Lunala,Lunala form:fullmoon,Blacephalon,Eternatus form:ordinary,Eternatus form:eternamax,Spectrier,Calyrex form:shadowrider,BruteBonnet,FlutterMane,IronMoth,Gimmighoul form:chest,Gholdengo,Chi-Yu,IronValiant,Miraidon,Munkidori
+Fake Out,Mew,Tyrogue,Zeraora,IronHands,Munkidori
+Hypnosis,Articuno form:galarian,Mew,Chingling,Darkrai,Lunala,Lunala form:fullmoon,Xurkitree,Blacephalon,IronValiant
+Power Split,Latios,Hoopa form:confined,Hoopa form:unbound,Nihilego
+Tickle,Cleffa,Igglybuff,Wynaut,TapuLele,Nihilego,Wo-Chien

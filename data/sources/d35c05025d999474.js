@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d35c05025d999474"]={"text":"手持||itemButton=pixelmon:ruby||对一个亲密度为满（255）的60级以上的||pokemonButton=Mesprit||点击[攻击]键（默认为鼠标左键）之后，它会降低一定的等级和亲密度，||itemButton=pixelmon:ruby||会“附魔”为||itemButton=pixelmon:ruby_mesprit||。"};

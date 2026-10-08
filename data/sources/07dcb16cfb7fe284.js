@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:07dcb16cfb7fe284"]={"json":{"Evolutions":[{"from":"Kubfu","to":"Urshifu form:rapidstrike","conditions":[{"evoConditionType":"evolutionScroll","maxRangeSquared":64,"evolutionScroll":"WATERS","additionalProperties":{}}],"evoType":"interact","moves":["Surging Strikes"],"additionalProperties":{}}]}};

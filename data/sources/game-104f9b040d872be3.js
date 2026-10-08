@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-104f9b040d872be3"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GLG","SRS"],"key":{"S":{"item":"minecraft:iron_bars"},"G":{"item":"minecraft:glass_pane"},"L":{"item":"pixelmon:tv2"},"R":{"item":"minecraft:stone_button"}},"result":{"item":"pixelmon:tv3","count":1}}};

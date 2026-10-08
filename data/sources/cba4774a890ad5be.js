@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cba4774a890ad5be"]={"json":{"pokemon":"Scizor","items":[{"item":"minecraft:iron_ingot","min":1,"max":3,"chance":1.0},{"item":"pixelmon:aluminium_ingot","min":1,"max":3,"chance":0.5},{"item":"pixelmon:razor_claw","min":1,"max":1,"chance":0.3},{"item":"pixelmon:metal_coat","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cf9e7a89e8259467"]={"json":{"Evolutions":[{"from":"Maschiff","level":30,"to":"Mabosstiff","conditions":[],"evoType":"leveling","moves":["Comeuppance"],"additionalProperties":{}}]}};

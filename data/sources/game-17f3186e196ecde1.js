@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-17f3186e196ecde1"]={"json":{"type":"minecraft:crafting_shaped","pattern":["A  ","HAA","SRS"],"key":{"A":{"tag":"forge:ingots/aluminum"},"H":{"item":"minecraft:hopper"},"R":{"item":"minecraft:shears"},"S":{"tag":"forge:gems/silicon"}},"result":{"item":"pixelmon:mower","count":1}}};

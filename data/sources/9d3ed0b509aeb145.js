@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9d3ed0b509aeb145"]={"json":{"pokemon":"Dialga","items":[{"item":"pixelmon:orb","min":1,"max":1,"chance":1.0},{"item":"minecraft:netherite_scrap","min":1,"max":3,"chance":0.5},{"item":"pixelmon:steel_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:adamant_orb","min":1,"max":1,"chance":0.1}]}};

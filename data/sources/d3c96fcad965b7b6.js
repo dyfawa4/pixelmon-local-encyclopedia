@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d3c96fcad965b7b6"]={"json":{"pokemon":"Samurott form:base","items":[{"item":"minecraft:cod","min":1,"max":3,"chance":1.0},{"item":"pixelmon:shoal_shell","min":1,"max":2,"chance":0.5},{"item":"pixelmon:pearl","min":1,"max":2,"chance":0.3},{"item":"pixelmon:shell_bell","min":1,"max":2,"chance":0.1}]}};

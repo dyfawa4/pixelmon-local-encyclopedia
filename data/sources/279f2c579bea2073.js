@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:279f2c579bea2073"]={"json":{"id":"Heracross Grass","spawnInfos":[{"spec":"species:Heracross","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":60,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["taigas","redwoods"]},"rarity":8.0}]}};

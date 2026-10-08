@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d6e4053e52f6314c"]={"text":"对||pokemonButton=Togetic||使用，使其进化为||pokemonButton=Togekiss||。\r\n对||pokemonButton=Roselia||使用，使其进化为||pokemonButton=Roserade||。\r\n对||pokemonButton=Minccino||使用，使其进化为||pokemonButton=Cinccino||。\r\n对||pokemonButton=Floette||使用，使其进化为||pokemonButton=Florges||。"};

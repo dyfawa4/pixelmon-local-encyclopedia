@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e59a46751c5d4171"]={"json":{"id":"Solrock Caverock","spawnInfos":[{"spec":"species:Solrock","stringLocationTypes":["Cave Rock"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:sun_stone","percentChance":5},{"itemID":"pixelmon:stardust","percentChance":50}],"condition":{"times":["DAY"],"maxLightLevel":0},"rarity":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6bdbe0ffe25d95e0"]={"text":"携带该道具的宝可梦在每回合结束时损失最大HP的1/8。\r\n携带该道具的宝可梦受到接触类招式（包括拍落）的攻击时，如果攻击方没有携带道具，||itemButton=pixelmon:sticky_barb||必定会转移到攻击方身上。\r\n黏着特性不影响该道具的转移。\r\n若攻击方处于替身状态，则道具不会转移。"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f1d76af011cd4491"]={"json":{"id":"Venipede","spawnInfos":[{"spec":"species:Venipede","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":5,"maxLevel":21,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:poison_barb","percentChance":5}],"condition":{"times":["AFTERNOON","DUSK","NIGHT"],"stringBiomes":["jungles"]},"rarity":250.0}]}};

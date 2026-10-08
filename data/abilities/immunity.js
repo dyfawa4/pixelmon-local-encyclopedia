@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:immunity"]={"description":"对战中\r\n该特性的宝可梦不会陷入中毒或剧毒状态。陷入中毒或剧毒的宝可梦获得该特性时中毒或剧毒状态消除。","holders":[[143,"",false],[143,"gmax",false],[207,"",true],[335,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Immunity"}};

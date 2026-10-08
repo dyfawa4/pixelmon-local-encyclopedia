@@ -1,0 +1,1 @@
+可用||itemButton=pixelmon:fossil_cleaner||处理为||itemButton=pixelmon:drake_fossil||。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a1e3415d9eb2cfca"]={"json":{"id":"Mega Gyarados","spawnInfos":[{"spec":"species:Gyarados","stringLocationTypes":["Water"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["oceanic","lakes"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

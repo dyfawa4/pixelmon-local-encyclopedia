@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:641846ce3a3a4976"]={"json":{"id":"Pyukumuku Grass","spawnInfos":[{"spec":"species:Pyukumuku","stringLocationTypes":["Grass"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","condition":{"stringBiomes":["beaches"]},"rarity":250.0}]}};

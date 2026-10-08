@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ab399f233b3fa6b6"]={"json":{"pokemon":"Reshiram","items":[{"item":"minecraft:magma_block","min":2,"max":3,"chance":1.0},{"item":"pixelmon:flame_orb","min":1,"max":1,"chance":0.5},{"item":"minecraft:fire_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.1}]}};

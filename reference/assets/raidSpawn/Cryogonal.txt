@@ -1,0 +1,8 @@
+2,3=freezingbeaches
+2,3=freezingforests
+2,3=freezingmountains
+2,3=freezingocean
+2,3=freezingplains
+2,3=mountainous
+2,3=otherfreezing
+2,3=shatteredglacier

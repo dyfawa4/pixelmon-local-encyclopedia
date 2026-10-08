@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dc3a85ee7ba19e96"]={"json":{"Name":"SlushRush","Description":"冰雹天气时，速度会提高。","Normal":["Cubchoo","Beartic","Cetitan"],"Hidden":["Sandshrew form:alolan","Sandslash form:alolan","Arctozolt","Arctovish"]}};

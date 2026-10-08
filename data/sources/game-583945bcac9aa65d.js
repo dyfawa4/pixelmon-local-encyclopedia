@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-583945bcac9aa65d"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"Ekitai"}],"chat":[{"lines":[{"text":"Welcome to the Swimmer's Stronghold."},{"text":"Our Gym Leader loves to wash his opponents away!"}]}]}};

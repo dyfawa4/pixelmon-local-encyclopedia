@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bdb5f696fd573553"]={"text":"Destiny Bond,Ralts,Kirlia,Cacnea,Cacturne,Ceruledge\r\nDisable,Kadabra,Alakazam,Drowzee,Hypno,Ralts,Kirlia,Sableye,Cacnea,Cacturne,Ceruledge\r\nSpite,Sableye,Cacnea,Cacturne,Croagunk,Toxicroak,Pawniard,Bisharp,Pancham,Pangoro,Charcadet,Armarouge,Ceruledge,Kingambit\r\n"};

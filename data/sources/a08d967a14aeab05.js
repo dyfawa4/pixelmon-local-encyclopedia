@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a08d967a14aeab05"]={"json":{"type":"minecraft:crafting_shapeless","group":"planks","ingredients":[{"item":"pixelmon:apricorn_log"}],"result":{"item":"pixelmon:yellow_berry_wood_planks","count":4}}};

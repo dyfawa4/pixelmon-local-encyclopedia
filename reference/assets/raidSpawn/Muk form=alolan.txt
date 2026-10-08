@@ -1,0 +1,4 @@
+4,5=evil
+4,5=pollutedlake
+4,5=swamps
+4,5=ultradeepsea

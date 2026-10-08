@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ab40364e452d92c7"]={"json":{"id":"Bulbasaur","spawnInfos":[{"spec":"species:Bulbasaur","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":16,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["forests","birches","byg:crag_gardens","pixelmon:ultra_forest"]},"rarity":10.0}]}};

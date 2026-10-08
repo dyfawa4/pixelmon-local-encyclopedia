@@ -1,0 +1,1 @@
+可以让||pokemonButton=Kangaskhan||在对战中mega进化为||pokemonButton=Kangaskhan form:mega||

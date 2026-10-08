@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0098c2e84992bbb7"]={"json":{"id":"Mega Tyranitar","spawnInfos":[{"spec":"species:Tyranitar","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["NIGHT"],"stringBiomes":["mountainous","mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

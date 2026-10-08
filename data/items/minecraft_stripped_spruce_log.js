@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_stripped_spruce_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["minecraft:campfire","minecraft:charcoal","minecraft:smoker","minecraft:soul_campfire","minecraft:spruce_planks","minecraft:stripped_spruce_wood","pixelmon:bridge_block"],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9b40e8722dcbf184"]={"json":{"Name":"Galvanize","Description":"一般属性的招式会变为电属性。威力会少量提高。","Normal":[],"Hidden":["Geodude form:alolan","Graveler form:alolan","Golem form:alolan"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c50c4a259ab12a6e"]={"json":{"id":"Steenee","spawnInfos":[{"spec":"species:Steenee","stringLocationTypes":["Land","Sweet Scent"],"minLevel":18,"maxLevel":34,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:grassy_seed","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["birches","flowery"]},"rarity":8.0}]}};

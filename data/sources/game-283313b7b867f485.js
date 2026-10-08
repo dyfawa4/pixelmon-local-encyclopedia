@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-283313b7b867f485"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/light_blue"},{"tag":"pixelmon:vending_machines"}],"result":{"item":"pixelmon:light_blue_vending_machine","count":1}}};

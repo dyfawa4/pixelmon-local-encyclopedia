@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:725d0d633b2b720e"]={"json":{"pokemon":"Wooloo palette:light_gray","items":[{"item":"minecraft:light_gray_wool","min":1,"max":3,"chance":1.0},{"item":"minecraft:mutton","min":1,"max":4,"chance":0.5}]}};

@@ -1,0 +1,1 @@
+||pokemonButton=Marshadow||携带后，可以把||moveButton=Spectral Thief||转化成特殊的Z招式：||moveButton=Soul-Stealing 7-Star Strike||。

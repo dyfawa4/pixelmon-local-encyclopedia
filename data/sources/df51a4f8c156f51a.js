@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:df51a4f8c156f51a"]={"json":{"type":"minecraft:crafting_shaped","pattern":["BIL","xIx","###"],"key":{"#":{"item":"minecraft:smooth_stone_slab"},"I":{"item":"pixelmon:silver_ingot"},"x":{"item":"minecraft:redstone"},"B":{"item":"pixelmon:poke_ball"},"L":{"item":"minecraft:lead"}},"result":{"item":"pixelmon:poke_display","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:04d919235b70d96c"]={"json":{"pokemon":"Chandelure","items":[{"item":"minecraft:soul_torch","min":2,"max":4,"chance":1.0},{"item":"minecraft:soul_lantern","min":1,"max":2,"chance":0.5},{"item":"minecraft:blaze_rod","min":1,"max":2,"chance":0.3},{"item":"pixelmon:spell_tag","min":1,"max":1,"chance":0.1}]}};

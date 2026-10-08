@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:991f70f16790e5d2"]={"json":{"id":"Komala Grass","spawnInfos":[{"spec":"species:Komala","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":90.0}]}};

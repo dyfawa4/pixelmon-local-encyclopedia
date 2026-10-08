@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cccbdfd4f4adfe6d"]={"json":{"Evolutions":[{"from":"Munna","item":{"itemID":"pixelmon:moon_stone","additionalProperties":{}},"to":"Musharna","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

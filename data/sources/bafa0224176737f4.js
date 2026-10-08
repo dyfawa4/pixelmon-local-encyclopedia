@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bafa0224176737f4"]={"json":{"Name":"CuteCharm","Description":"有时会让接触到自己的对手着迷。","Normal":["Clefairy","Clefable","Jigglypuff","Wigglytuff","Cleffa","Igglybuff","Skitty","Delcatty","Lopunny","Minccino","Cinccino","Sylveon","Enamorus form:incarnate"],"Hidden":["Milotic","Stufful"]}};

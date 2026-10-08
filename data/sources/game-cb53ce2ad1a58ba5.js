@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cb53ce2ad1a58ba5"]={"json":{"type":"minecraft:crafting_shapeless","group":"pixelmon:unown_block","ingredients":[{"item":"pixelmon:unown_block_blank"},{"type":"forge:nbt","item":"pixelmon:pixelmon_sprite","nbt":"{ndex: 201s, palette: \"none\", form: \"k\", gender: 2b}"}],"result":{"item":"pixelmon:unown_block_k","count":1}}};

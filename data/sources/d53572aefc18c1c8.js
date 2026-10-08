@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d53572aefc18c1c8"]={"json":{"Evolutions":[{"from":"Torchic","level":16,"to":"Combusken","conditions":[],"evoType":"leveling","moves":["Double Kick"],"additionalProperties":{}},{"from":"Combusken","level":36,"to":"Blaziken","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

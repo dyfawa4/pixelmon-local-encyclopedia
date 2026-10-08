@@ -1,0 +1,4 @@
+Aqua Tail,Ekans,Arbok,Gyarados,Dratini,Dragonair,Dragonite,Dragonite form:creator,Seviper,Milotic,Salamence,Garchomp,Axew,Fraxure,Haxorus,Druddigon,Deino,Zweilous,Hydreigon,Skrelp,Dragalge,Goodra,Jangmo-o,Hakamo-o,Kommo-o,Steelix
+Dragon Rush,Charmander,Charmeleon,Charizard,Dratini,Dragonair,Dragonite,Dragonite form:creator,Vibrava,Flygon,Altaria,Shelgon,Gible,Gabite,Garchomp,Deino,Zweilous,Hydreigon,Flapple,Drakloak,Dragapult
+Freeze-Dry,Glalie,Vanilluxe,Cryogonal
+Icicle Spear,Frigibax,Arctibax,Baxcalibur,Snorunt,Glalie,Froslass,Vanillite,Vanillish,Vanilluxe,Cryogonal,Bergmite,Avalugg,Avalugg form:hisuian

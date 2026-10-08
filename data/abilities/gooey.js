@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:gooey"]={"description":"对战中\r\n该特性的宝可梦受到接触攻击伤害后，则令攻击方速度降低1级。\r\n接触类连续招式的每一击都会触发此特性。","holders":[[704,"",true],[705,"",true],[705,"hisuian",true],[706,"",true],[706,"hisuian",true],[960,"",false],[961,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Gooey"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3064f0c47cb03384"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  B"," BT","B P"],"key":{"B":{"item":"minecraft:blaze_rod"},"T":{"item":"minecraft:string"},"P":{"type":"forge:nbt","item":"pixelmon:poke_ball","nbt":{"PokeBallID":"ultra_ball"}}},"result":{"item":"pixelmon:good_rod","count":1}}};

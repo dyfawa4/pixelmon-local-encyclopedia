@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b65629d3dbcec8a2"]={"json":{"id":"Honchkrow","spawnInfos":[{"spec":"species:Honchkrow","stringLocationTypes":["Air"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["all forests","swamps","evil"]},"rarityMultipliers":[{"multiplier":2,"condition":{"times":["MIDNIGHT"]}}],"rarity":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27d7ce562e6fac60"]={"json":{"Evolutions":[{"from":"Chimchar","level":14,"to":"Monferno","conditions":[],"evoType":"leveling","moves":["Mach Punch"],"additionalProperties":{}},{"from":"Monferno","level":36,"to":"Infernape","conditions":[],"evoType":"leveling","moves":["Close Combat"],"additionalProperties":{}}]}};

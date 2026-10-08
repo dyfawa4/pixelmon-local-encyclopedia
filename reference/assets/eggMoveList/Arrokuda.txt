@@ -1,0 +1,4 @@
+Acupressure,Qwilfish,Qwilfish form:hisuian,Overqwil
+Night Slash,Sharpedo,Inkay,Malamar,Veluza
+Slash,Sharpedo,Inkay,Malamar,Veluza
+Thrash,Gyarados,Whiscash,Basculin form:red,Basculin form:blue,Basculegion form:male,Basculegion form:female

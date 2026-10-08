@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3abc3013c2623de9"]={"json":{"id":"Stunfisk Caverock","spawnInfos":[{"spec":"species:Stunfisk form:galarian","stringLocationTypes":["Cave Rock"],"minLevel":34,"maxLevel":48,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:soft_sand","percentChance":5}],"condition":{"stringBiomes":["swamps"]},"rarity":8.0}]}};

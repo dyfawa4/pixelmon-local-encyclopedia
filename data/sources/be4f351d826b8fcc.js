@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:be4f351d826b8fcc"]={"json":{"Evolutions":[{"from":"Qwilfish form:hisuian","to":"Overqwil","conditions":[{"evoConditionType":"moveUses","move":"Barb Barrage","uses":20,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

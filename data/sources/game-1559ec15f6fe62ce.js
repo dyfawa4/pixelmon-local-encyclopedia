@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1559ec15f6fe62ce"]={"json":{"id":"Wobbuffet Grass","spawnInfos":[{"spec":"species:Wobbuffet","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:focus_sash","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["freezing forests"]},"rarity":30.0}]}};

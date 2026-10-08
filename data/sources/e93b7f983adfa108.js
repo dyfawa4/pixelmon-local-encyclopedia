@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e93b7f983adfa108"]={"json":{"pokemon":"Dudunsparce form:two_segment","items":[{"item":"minecraft:feather","min":2,"max":4,"chance":1.0},{"item":"minecraft:sand","min":2,"max":4,"chance":0.5},{"item":"pixelmon:normal_gem","min":1,"max":2,"chance":0.1}]}};

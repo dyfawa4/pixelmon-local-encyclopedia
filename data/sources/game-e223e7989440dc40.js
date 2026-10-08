@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e223e7989440dc40"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_door","pattern":["##","##","##"],"key":{"#":{"item":"pixelmon:ultra_jungle_planks"}},"result":{"item":"pixelmon:ultra_jungle_door","count":3}}};

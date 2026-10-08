@@ -1,0 +1,2 @@
+1,2=beaches
+1,2=freshwater

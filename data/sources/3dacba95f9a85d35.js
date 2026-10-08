@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3dacba95f9a85d35"]={"json":{"Name":"Pickpocket","Description":"盗取接触到自己的对手的道具。","Normal":["Shroodle"],"Hidden":["Sneasel","Sneasel form:hisuian","Seedot","Nuzleaf","Shiftry","Weavile","Binacle","Barbaracle","Impidimp","Morgrem","Grimmsnarl","Tinkatink","Tinkatuff","Tinkaton"]}};

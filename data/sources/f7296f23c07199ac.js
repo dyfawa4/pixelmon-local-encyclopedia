@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f7296f23c07199ac"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  A","AS ","A A"],"key":{"A":{"tag":"forge:ingots/aluminum"},"S":{"item":"pixelmon:dawn_stone"}},"result":{"item":"pixelmon:acro_bike_frame","count":1}}};

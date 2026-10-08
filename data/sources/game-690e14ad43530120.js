@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-690e14ad43530120"]={"json":{"id":"Panpour","spawnInfos":[{"spec":"species:Panpour","stringLocationTypes":["Tree Top","Headbutt"],"minLevel":11,"maxLevel":23,"typeID":"pokemon","condition":{"weathers":["RAIN"],"stringBiomes":["jungles"]},"rarity":30.0}]}};

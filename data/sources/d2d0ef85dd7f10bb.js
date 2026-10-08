@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d2d0ef85dd7f10bb"]={"json":{"Name":"Prankster","Description":"可以率先使出变化招式。","Normal":["Banette form:mega","Cottonee","Whimsicott","Tornadus form:incarnate","Thundurus form:incarnate","Klefki","Impidimp","Morgrem","Grimmsnarl"],"Hidden":["Murkrow","Sableye","Volbeat","Illumise","Riolu","Purrloin","Liepard","Meowstic","Shroodle","Grafaiai"]}};

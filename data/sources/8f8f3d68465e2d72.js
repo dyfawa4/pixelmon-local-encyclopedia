@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8f8f3d68465e2d72"]={"json":{"Name":"Soundproof","Description":"通过屏蔽声音，不受到声音招式的攻击。","Normal":["Voltorb","Voltorb form:hisuian","Electrode","Electrode form:hisuian","MrMime","Whismur","Loudred","Exploud","MimeJr","Jangmo-o","Hakamo-o","Kommo-o"],"Hidden":["Shieldon","Bastiodon","Snover","Abomasnow","Bouffalant"]}};

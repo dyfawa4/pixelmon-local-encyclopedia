@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e8caa05522132f08"]={"json":{"id":"Sableye Grass","spawnInfos":[{"spec":"species:Sableye","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:wide_lens","percentChance":5}],"condition":{"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":30.0}]}};

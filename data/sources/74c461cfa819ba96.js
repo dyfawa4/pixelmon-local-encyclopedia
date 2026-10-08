@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:74c461cfa819ba96"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GGG","GWG","PPP"],"key":{"G":{"item":"minecraft:glass_pane"},"W":{"item":"minecraft:purple_wool"},"P":{"tag":"minecraft:planks"}},"result":{"item":"pixelmon:fossil_display","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5f1f50b07f3d1028"]={"json":{"id":"Yanmega","spawnInfos":[{"spec":"species:Yanmega","stringLocationTypes":["Air"],"minLevel":34,"maxLevel":45,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:wide_lens","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["swamps","jungles","lakes","minecraft:river"]},"rarity":0.5}]}};

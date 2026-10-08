@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ac6e5a7f7519e0a9"]={"json":{"type":"minecraft:crafting_shaped","pattern":["BS","SB"],"key":{"S":{"item":"minecraft:sandstone"},"B":{"item":"minecraft:stone_bricks"}},"result":{"item":"pixelmon:temple_block","count":4}}};

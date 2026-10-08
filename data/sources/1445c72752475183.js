@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1445c72752475183"]={"text":"||itemButton=pixelmon:dos_orb||有着375点耐久度，每当击败一只野生宝可梦，||itemButton=pixelmon:dos_orb||会减少一点耐久，当耐久度降为0时，||itemButton=pixelmon:dos_orb||将被充满，这时候拿着||itemButton=pixelmon:dos_orb||对着||itemButton=pixelmon:zapdos_shrine||使用可以召唤一只||pokemonButton=Zapdos||并与其进行战斗。"};

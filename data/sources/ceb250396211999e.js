@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ceb250396211999e"]={"json":{"id":"Mega Slowbro","spawnInfos":[{"spec":"species:Slowbro","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["beaches","lakes","minecraft:river"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

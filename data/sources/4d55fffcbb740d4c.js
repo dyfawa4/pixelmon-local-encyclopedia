@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d55fffcbb740d4c"]={"json":{"pokemon":"Nymble","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:wheat_seeds","min":1,"max":1,"chance":0.5}]}};

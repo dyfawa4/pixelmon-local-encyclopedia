@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3cabf56fb38152e0"]={"json":{"id":"Caterpie Forage","spawnInfos":[{"spec":"species:Caterpie","stringLocationTypes":["Forage"],"minLevel":2,"maxLevel":7,"typeID":"pokemon","condition":{"stringBiomes":["forests"]},"rarity":10.0}]}};

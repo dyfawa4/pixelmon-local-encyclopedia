@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4aa1b9548626e222"]={"json":{"pokemon":"Delphox","items":[{"item":"minecraft:blaze_powder","min":2,"max":4,"chance":1.0},{"item":"minecraft:stick","min":1,"max":2,"chance":0.5},{"item":"pixelmon:hondew_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:choice_specs","min":1,"max":1,"chance":0.1}]}};

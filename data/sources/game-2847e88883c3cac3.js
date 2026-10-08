@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2847e88883c3cac3"]={"json":{"npctype":"chat","skins":[{"filename":"hiker.png"}],"names":[{"name":"Josh"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Piuma."},{"text":"Il nostro Capopalestra è appollaiato in alto!"},{"text":"Fai attenzione a saltare da una parte all'altra. Faresti un bel volo."}]}]}};

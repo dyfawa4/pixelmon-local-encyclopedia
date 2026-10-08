@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d4948f4c87d475d"]={"json":{"Name":"AromaVeil","Description":"可以防住向自己和同伴发出的心灵攻击。","Normal":["Lechonk","Oinkologne form:female"],"Hidden":["Spritzee","Aromatisse","Milcery","Alcremie","Dachsbun"]}};

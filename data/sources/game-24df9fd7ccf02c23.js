@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-24df9fd7ccf02c23"]={"json":{"id":"Pineco","spawnInfos":[{"spec":"species:Pineco","stringLocationTypes":["Land","Headbutt"],"minLevel":5,"maxLevel":30,"typeID":"pokemon","condition":{"stringBiomes":["taigas","redwoods","mountainous forests"]},"rarity":130.0}]}};

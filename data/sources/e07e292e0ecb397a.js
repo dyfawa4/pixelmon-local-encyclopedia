@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e07e292e0ecb397a"]={"text":"||pokemonButton=Necrozma form:dusk||或||pokemonButton=Necrozma form:dawn||携带后，可以究极爆发成为||pokemonButton=Necrozma form:ultra||。\r\n||pokemonButton=Necrozma form:ultra||携带后，可以把||moveButton=Photon Geyser||转化成特殊的Z招式：||moveButton=Light That Burns the Sky||。\r\n究极爆发和Z招式的使用不能在同一回合中进行。"};

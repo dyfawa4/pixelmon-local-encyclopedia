@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5f1f1c17fe65d4af"]={"json":{"Name":"Illuminate","Description":"通过让周围变亮，变得容易遇到野生的宝可梦。","Normal":["Staryu","Starmie","Chinchou","Lanturn","Volbeat","Watchog","Morelull","Shiinotic"],"Hidden":[]}};

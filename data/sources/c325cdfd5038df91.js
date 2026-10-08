@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c325cdfd5038df91"]={"json":{"pokemon":"Sandshrew form:alolan","items":[{"item":"minecraft:ice","min":1,"max":2,"chance":1.0},{"item":"pixelmon:ice_stone_shard","min":1,"max":1,"chance":0.5},{"item":"pixelmon:silver_ore","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,9 @@
+Aqua Jet,Keldeo form:ordinary,Keldeo form:resolute,Urshifu form:rapidstrike,WalkingWake
+Belly Drum,Cleffa,Magby,Munchlax,IronHands
+Copycat,Cleffa,Igglybuff,Smoochum,Bonsly,MimeJr,Happiny,Riolu,Mesprit,Marshadow,Marshadow form:zenith
+Perish Song,Smoochum,Celebi,Arceus,Arceus form:grass,Arceus form:fire,Arceus form:water,Arceus form:flying,Arceus form:bug,Arceus form:poison,Arceus form:electric,Arceus form:psychic,Arceus form:rock,Arceus form:ground,Arceus form:dark,Arceus form:ghost,Arceus form:steel,Arceus form:fighting,Arceus form:ice,Arceus form:dragon,Arceus form:fairy,Meloetta form:aria,ScreamTail,FlutterMane
+Present,Cleffa,Happiny,IronBundle
+Sing,Cleffa,Igglybuff,Smoochum,Meloetta form:aria,ScreamTail
+Soak,TapuFini
+Supersonic,Mantyke,SandyShocks
+Tickle,Cleffa,Igglybuff,Wynaut,TapuLele,Nihilego,Wo-Chien

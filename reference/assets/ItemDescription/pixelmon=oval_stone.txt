@@ -1,0 +1,1 @@
+||pokemonButton=Happiny||携带该道具白天等级提升进化为||pokemonButton=Chansey||。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2d54ca0bc3dc51fe"]={"json":{"pokemon":"Hydreigon","items":[{"item":"minecraft:basalt","min":2,"max":4,"chance":1.0},{"item":"minecraft:leather","min":1,"max":3,"chance":0.5},{"item":"minecraft:gold_ingot","min":1,"max":3,"chance":0.3},{"item":"pixelmon:dragon_fang","min":1,"max":1,"chance":0.1}]}};

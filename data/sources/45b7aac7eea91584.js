@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:45b7aac7eea91584"]={"json":{"pokemon":"Lycanroc form:midday","items":[{"item":"minecraft:diorite","min":1,"max":3,"chance":1.0},{"item":"minecraft:bone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:rock_incense","min":1,"max":1,"chance":0.3},{"item":"pixelmon:lycanium_z","min":1,"max":1,"chance":0.1}]}};

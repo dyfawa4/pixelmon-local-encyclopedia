@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-20682d1c6a340590"]={"json":{"type":"minecraft:crafting_shaped","pattern":["XXX","X X","XXX"],"key":{"X":{"item":"minecraft:paper"}},"result":{"item":"pixelmon:box","count":1}}};

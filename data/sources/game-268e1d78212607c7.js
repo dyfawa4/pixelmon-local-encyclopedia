@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-268e1d78212607c7"]={"json":{"type_id":"simple","id":"sandstorm","suffix":"ribbon.sandstorm.title","translation_key":"ribbon.sandstorm","description":"ribbon.sandstorm.description","icon":"pixelmon:textures/gui/ribbons/sandstorm.png"}};

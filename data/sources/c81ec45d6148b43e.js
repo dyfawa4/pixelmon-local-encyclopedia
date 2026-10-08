@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c81ec45d6148b43e"]={"json":{"pokemon":"Lileep","items":[{"item":"minecraft:granite","min":1,"max":2,"chance":1.0},{"item":"minecraft:warped_roots","min":1,"max":1,"chance":0.5},{"item":"pixelmon:leaf_stone_shard","min":1,"max":1,"chance":0.1}]}};

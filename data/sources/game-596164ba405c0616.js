@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-596164ba405c0616"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:creeper"],"replacement_logic":"simple","specs":["voltorb","electrode"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:dauntlessshield"]={"description":"对战中\r\n出场时，自身的防御上升1级。\r\n每只宝可梦一场战斗中仅能发动1次。","holders":[[889,"hero",false],[889,"crowned",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.DauntlessShield"}};

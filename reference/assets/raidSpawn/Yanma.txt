@@ -1,0 +1,3 @@
+1,2,3=freshwater
+1,2,3=jungles
+1,2,3=swamps

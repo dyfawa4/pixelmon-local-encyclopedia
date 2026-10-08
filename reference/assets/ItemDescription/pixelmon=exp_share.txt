@@ -1,0 +1,1 @@
+携带后的宝可梦即使没有参与战斗，也可以获得 50% 的战斗经验与全额的努力值。多个宝可梦携带||itemButton=pixelmon:exp_share||的话不会相互影响，都会获得 50% 的战斗经验与全额的基础点数。不会与||itemButton=pixelmon:exp_all||的效果相互叠加。

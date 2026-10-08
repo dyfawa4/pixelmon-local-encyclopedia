@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e5c4b3bee8878107"]={"json":{"pokemon":"Mesprit","items":[{"item":"pixelmon:ruby","min":1,"max":3,"chance":1.0},{"item":"minecraft:prismarine_shard","min":1,"max":2,"chance":0.5},{"item":"minecraft:ender_eye","min":1,"max":1,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

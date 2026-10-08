@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c23275497554786c"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_forest_fallen_leaves"}],"conditions":[]}]}};

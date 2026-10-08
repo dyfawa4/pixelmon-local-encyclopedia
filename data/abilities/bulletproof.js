@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:bulletproof"]={"description":"对战中\r\n该特性的宝可梦免疫球和弹类招式的伤害。","holders":[[650,"",true],[651,"",true],[652,"",true],[782,"",false],[783,"",false],[784,"",false],[831,"",true],[831,"shorn",true],[832,"",true],[832,"shorn",true],[840,"",true],[901,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Bulletproof"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:874033dcb72f9f5c"]={"json":{"id":"Raikou","spawnInfos":[{"spec":"species:Raikou level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["savannas"]},"rarity":3.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d649226cdf513c55"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MMM","MSM"," S "],"key":{"M":{"tag":"minecraft:planks"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:wood_hammer","count":1}}};

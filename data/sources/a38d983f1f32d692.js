@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a38d983f1f32d692"]={"json":{"pokemon":"Arceus","items":[{"item":"minecraft:gold_ingot","min":2,"max":5,"chance":1.0},{"item":"pixelmon:exp_share","min":1,"max":1,"chance":0.5},{"item":"minecraft:elytra","min":1,"max":1,"chance":0.3},{"item":"pixelmon:exp_all","min":1,"max":1,"chance":0.1},{"item":"pixelmon:legend_plate","min":1,"max":1,"chance":1.0}]}};

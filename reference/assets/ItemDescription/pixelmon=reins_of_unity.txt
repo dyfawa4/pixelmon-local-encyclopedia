@@ -1,0 +1,4 @@
+让||pokemonButton=Calyrex||与||pokemonButton=Glastrier||合体，使之变成||pokemonButton=Calyrex form:icerider||。
+让||pokemonButton=Calyrex||与||pokemonButton=Spectrier||合体，使之变成||pokemonButton=Calyrex form:shadowrider||。
+让||pokemonButton=Calyrex form:icerider||分离为||pokemonButton=Calyrex||和||pokemonButton=Glastrier||。
+让||pokemonButton=Calyrex form:shadowrider||分离为||pokemonButton=Calyrex||和||pokemonButton=Spectrier||。

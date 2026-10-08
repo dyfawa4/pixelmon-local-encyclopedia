@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fb59071606fe958a"]={"json":{"Evolutions":[{"from":"Pawniard","level":52,"to":"Bisharp","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Bisharp","item":{"itemID":"pixelmon:leaders_crest","additionalProperties":{}},"to":"Kingambit","conditions":[],"evoType":"interact","moves":["Kowtow Cleave"],"additionalProperties":{}}]}};

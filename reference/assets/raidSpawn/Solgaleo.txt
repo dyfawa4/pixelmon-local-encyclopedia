@@ -1,0 +1,3 @@
+5=plains
+5=ultracrater
+5=ultradesert

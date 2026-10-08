@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5fb27453eb289426"]={"json":{"id":"Herdier","spawnInfos":[{"spec":"species:Herdier","stringLocationTypes":["Land","Sweet Scent"],"minLevel":17,"maxLevel":31,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["plains"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"neededNearbyBlocks":["minecraft:grass_path"]}}],"rarity":90.0}]}};

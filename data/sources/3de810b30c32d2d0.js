@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3de810b30c32d2d0"]={"json":{"rewards":{"recipes":["pixelmon:meteorite"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:meteorite"}},"has_end_stone":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"minecraft:end_stone"}]}}},"requirements":[["has_the_recipe","has_end_stone"]]}};

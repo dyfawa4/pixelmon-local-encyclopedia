@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:68710c132982c7b4"]={"json":{"id":"Mega Salamence","spawnInfos":[{"spec":"species:Salamence","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7294d415ced51ce4"]={"json":{"Evolutions":[{"from":"Gligar","to":"Gliscor","conditions":[{"evoConditionType":"heldItem","item":{"itemID":"pixelmon:razor_fang","additionalProperties":{}},"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

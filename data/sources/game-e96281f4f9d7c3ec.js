@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e96281f4f9d7c3ec"]={"json":{"id":"Reshiram","spawnInfos":[{"spec":"species:Reshiram level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["redwoods"]},"rarity":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9a2af7518c35b402"]={"json":{"id":"Sunkern","spawnInfos":[{"spec":"species:Sunkern","stringLocationTypes":["Land","Sweet Scent"],"minLevel":2,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"weathers":["CLEAR"],"stringBiomes":["flowery"]},"rarity":90.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bd81585c858bed71"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_trapdoor","pattern":["###","###"],"key":{"#":{"item":"pixelmon:yellow_berry_wood_planks"}},"result":{"item":"pixelmon:yellow_berry_wood_trapdoor","count":2}}};

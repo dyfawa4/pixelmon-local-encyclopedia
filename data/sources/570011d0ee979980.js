@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:570011d0ee979980"]={"json":{"id":"Klawf","spawnInfos":[{"spec":"species:Klawf","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mesas","minecraft:stone_shore"]},"rarity":70.0}]}};

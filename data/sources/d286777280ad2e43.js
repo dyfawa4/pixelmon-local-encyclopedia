@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d286777280ad2e43"]={"json":{"pokemon":"Druddigon","items":[{"item":"minecraft:leather","min":2,"max":4,"chance":1.0},{"item":"minecraft:gold_ingot","min":1,"max":2,"chance":0.5},{"item":"minecraft:netherite_scrap","min":1,"max":2,"chance":0.3},{"item":"pixelmon:dragon_scale","min":1,"max":1,"chance":0.1}]}};

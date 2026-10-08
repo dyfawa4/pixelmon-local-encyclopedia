@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:beadsofruin"]={"description":"对战中\r\n拥有该特性的宝可梦在场时，除拥有灾祸之玉特性的宝可梦外，其他特性的宝可梦的特防降低为原本的3⁄4。\r\n\r\n破格不能无视该特性的效果。\r\n场上存在多只特性为灾祸之玉的宝可梦时，其他宝可梦受到的特防降低效果不叠加。\r\n若场上处于奇妙空间，该特性的效果变为降低防御为原本的3⁄4。\r\n当拥有该特性的宝可梦登场时会出现提示：[宝可梦的名字]的灾祸之玉令周围的宝可梦的特防减弱了！","holders":[[1004,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.BeadsOfRuin"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:35757c67357c63de"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:lure_casing_weak"},{"item":"pixelmon:charti_berry"},{"item":"pixelmon:oran_berry"},{"item":"pixelmon:leppa_berry"}],"result":{"item":"pixelmon:lure_rock_weak","count":1}}};

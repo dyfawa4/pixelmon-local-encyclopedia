@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:367ddf20485da797"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"pokemaniac3.png"}],"names":[{"name":"Poké Maniac"}],"chat":[{"opening":"How do you like our worksite?","win":"I'm invincible when working.","lose":"Impossible!"}]}};

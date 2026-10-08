@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d03bd6b1879c00ed"]={"json":{"pokemon":"Braviary form:base","items":[{"item":"minecraft:feather","min":2,"max":4,"chance":1.0},{"item":"minecraft:chicken","min":1,"max":3,"chance":0.5},{"item":"pixelmon:sharp_beak","min":1,"max":1,"chance":0.3},{"item":"pixelmon:muscle_feather","min":1,"max":1,"chance":0.1}]}};

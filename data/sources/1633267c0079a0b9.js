@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1633267c0079a0b9"]={"json":{"id":"Shelmet Grass","spawnInfos":[{"spec":"species:Shelmet","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["swamps"]},"rarity":130.0}]}};

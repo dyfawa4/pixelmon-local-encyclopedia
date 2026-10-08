@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8f58e0f22cf4e108"]={"json":{"Evolutions":[{"from":"Zorua form:hisuian","level":30,"to":"Zoroark form:hisuian","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

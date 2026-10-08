@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b1034863f8ca2069"]={"json":{"id":"Arboliva","spawnInfos":[{"spec":"species:Arboliva","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":45,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["savannas","plains"]},"rarity":5.0}]}};

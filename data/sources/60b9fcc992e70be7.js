@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:60b9fcc992e70be7"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:galarica_cuff"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

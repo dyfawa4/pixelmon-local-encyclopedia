@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:196edf3541e3afbe"]={"json":{"Evolutions":[{"from":"Pumpkaboo","item":{"itemID":"pixelmon:linking_cord","additionalProperties":{}},"to":"Gourgeist","evoType":"interact","additionalProperties":{}},{"from":"Pumpkaboo","to":"Gourgeist","conditions":[],"evoType":"trade","additionalProperties":{}}]}};

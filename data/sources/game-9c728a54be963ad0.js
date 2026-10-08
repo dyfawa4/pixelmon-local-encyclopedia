@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9c728a54be963ad0"]={"json":{"replace":false,"values":["pixelmon:ultra_gingko_log","pixelmon:ultra_gingko_wood","pixelmon:stripped_ultra_gingko_log","pixelmon:stripped_ultra_gingko_wood"]}};

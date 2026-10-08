@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ef5e9f42865da7fa"]={"text":"Extreme Speed,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Arcanine,Arcanine form:hisuian,Lucario\r\nSimple Beam,Spoink,Grumpig,Woobat,Swoobat\r\nTickle,Raichu form:alolan,Eevee,Aipom,Slakoth,Vigoroth,Ambipom,Minccino,Cinccino\r\n"};

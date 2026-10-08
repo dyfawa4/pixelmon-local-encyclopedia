@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b9986b56cc0a9406"]={"json":{"pokemon":"Baxcalibur","items":[{"item":"minecraft:snow_block","min":2,"max":4,"chance":1.0},{"item":"minecraft:blue_ice","min":1,"max":3,"chance":0.5},{"item":"pixelmon:dragon_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:never_melt_ice","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fb9eb17c5a0bf166"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:colbur_berry"},{"item":"pixelmon:crystal_block"}],"results":{"item":"pixelmon:dark_gem"}}};

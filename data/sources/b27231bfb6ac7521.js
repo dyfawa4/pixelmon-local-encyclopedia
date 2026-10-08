@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b27231bfb6ac7521"]={"text":"拿它右键宝可梦可以提升宝可梦的亲密度，同时降低宝可梦HP努力值10点。"};

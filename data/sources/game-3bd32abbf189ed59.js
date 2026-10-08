@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3bd32abbf189ed59"]={"json":{"id":"Cramorant Grass","spawnInfos":[{"spec":"species:Cramorant","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:river","swamps","beaches","lakes","minecraft:frozen_ocean","minecraft:deep_frozen_ocean"]},"rarity":30.0}]}};

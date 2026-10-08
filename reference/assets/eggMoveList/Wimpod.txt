@@ -1,0 +1,5 @@
+Aqua Jet,Surskit,Masquerain,Kabuto,Kabutops,Tirtouga,Carracosta,Clauncher,Clawitzer,Wiglett,Wugtrio
+Harden,Metapod,Butterfree,Kakuna,Pinsir,Gligar,Heracross,Silcoon,Cascoon,Nincada,Ninjask,Gliscor,Larvesta,Volcarona,Spewpa,Vikavolt,Krabby,Kingler,Staryu,Starmie,Kabuto,Kabutops,Corsola,Corsola form:galarian,Corphish,Crawdaunt,Anorith,Armaldo,Cursola,Klawf
+Metal Claw,Gligar,Scizor,Nincada,Ninjask,Gliscor,Durant,Krabby,Kingler,Corphish,Crawdaunt,Anorith,Armaldo,Klawf
+Rollout,Ledyba,Ledian,Pineco,Forretress,Shuckle,Venipede,Whirlipede,Scolipede,Rellor,Rabsca,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola
+Wide Guard,Araquanid,Frosmoth,Kingler,Tirtouga,Carracosta,Crabrawler,Crabominable

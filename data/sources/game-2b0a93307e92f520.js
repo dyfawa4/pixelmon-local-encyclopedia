@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2b0a93307e92f520"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:cyan_armchair"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

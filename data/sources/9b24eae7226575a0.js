@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9b24eae7226575a0"]={"json":{"id":"Drampa Grass","spawnInfos":[{"spec":"species:Drampa","stringLocationTypes":["Grass"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:persim_berry","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["mushroom"]},"rarity":6.0}]}};

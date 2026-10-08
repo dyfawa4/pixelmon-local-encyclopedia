@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-269c274d8a21e8bb"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"waterleader2.png"}],"names":[{"name":"Tide"}],"chat":[{"opening":"Il flusso del tempo ti ha mandato qui, e il flusso d'acqua ti respingerà!","win":"L'acqua sopravvive a tutto, anche a te!","lose":"Il flusso del tempo mi ha raggiunto, o almeno sembra..."}]}};

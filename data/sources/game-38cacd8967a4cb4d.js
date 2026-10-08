@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-38cacd8967a4cb4d"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" t ","ccb"],"key":{"t":{"item":"pixelmon:tv2"},"c":{"item":"minecraft:black_terracotta"},"b":{"item":"minecraft:stone_button"}},"result":{"item":"pixelmon:darkworkplace","count":1}}};

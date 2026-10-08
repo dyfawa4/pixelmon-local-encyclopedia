@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e1c42690fc017218"]={"json":{"Evolutions":[{"from":"Koffing","level":35,"to":"Weezing","conditions":[],"evoType":"leveling","moves":["Double Hit"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:cloudnine"]={"description":"对战中\r\n拥有该特性的宝可梦在场时，任何天气造成的影响无效。天气并不会消失。","holders":[[54,"",false],[55,"",false],[108,"",true],[333,"",true],[334,"",true],[334,"mega",true],[463,"",true],[780,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.CloudNine"}};

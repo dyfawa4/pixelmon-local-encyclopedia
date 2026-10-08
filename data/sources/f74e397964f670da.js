@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f74e397964f670da"]={"json":{"Evolutions":[{"from":"Nidoranmale","level":16,"to":"Nidorino","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Nidorino","item":{"itemID":"pixelmon:moon_stone","additionalProperties":{}},"to":"Nidoking","conditions":[],"evoType":"interact","moves":["Megahorn"],"additionalProperties":{}}]}};

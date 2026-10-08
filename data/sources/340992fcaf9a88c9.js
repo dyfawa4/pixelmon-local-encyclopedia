@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:340992fcaf9a88c9"]={"json":{"pokemon":"Armarouge","items":[{"item":"minecraft:blaze_powder","min":2,"max":3,"chance":1.0},{"item":"pixelmon:charcoal","min":1,"max":1,"chance":0.5},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:auspicious_armor","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:55563ad566f42113"]={"json":{"Evolutions":[{"from":"Wattrel","level":25,"to":"Kilowattrel","conditions":[],"evoType":"leveling","moves":["Electro Ball"],"additionalProperties":{}}]}};

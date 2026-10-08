@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ada14749371a5d20"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:slowpoke_tail"},"result":{"item":"pixelmon:curry_smoke_poke","count":1},"experience":2,"cookingtime":200}};

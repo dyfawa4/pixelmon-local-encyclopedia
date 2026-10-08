@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f8c49215d2d9e7cc"]={"json":{"type":"minecraft:crafting_shaped","pattern":["III","IDI","ICI"],"key":{"I":{"tag":"forge:ingots/iron"},"D":{"tag":"forge:dyes/purple"},"C":{"item":"minecraft:clock"}},"result":{"item":"pixelmon:purple_clock","count":1}}};

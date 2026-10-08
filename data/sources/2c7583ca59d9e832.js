@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2c7583ca59d9e832"]={"json":{"id":"Mega Swampert","spawnInfos":[{"spec":"species:Swampert","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["swamps"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

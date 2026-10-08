@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b05e7c55d53a382d"]={"json":{"id":"Blaziken","spawnInfos":[{"spec":"species:Blaziken","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas"]},"rarity":1.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:35500d9870085605"]={"json":{"id":"Mega Audino","spawnInfos":[{"spec":"species:Audino","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

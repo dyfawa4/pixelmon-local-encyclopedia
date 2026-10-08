@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5b6e8c69bd081539"]={"json":{"id":"Mega Sharpedo","spawnInfos":[{"spec":"species:Sharpedo","stringLocationTypes":["Water"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["oceanic"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

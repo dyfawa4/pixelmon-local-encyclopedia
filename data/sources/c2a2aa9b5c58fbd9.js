@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c2a2aa9b5c58fbd9"]={"json":{"id":"Weedle Forage","spawnInfos":[{"spec":"species:Weedle","stringLocationTypes":["Forage"],"minLevel":2,"maxLevel":7,"typeID":"pokemon","condition":{"stringBiomes":["taigas"]},"rarity":10.0}]}};

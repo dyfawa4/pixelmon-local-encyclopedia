@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ec711fcd3347213c"]={"json":{"pokemon":"Sandslash form:alolan","items":[{"item":"minecraft:ice","min":1,"max":3,"chance":1.0},{"item":"pixelmon:ice_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:silver_ore","min":1,"max":2,"chance":0.3},{"item":"pixelmon:ice_stone","min":1,"max":1,"chance":0.1}]}};

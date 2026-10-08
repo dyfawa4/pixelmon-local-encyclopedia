@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fde27fc20ba80edf"]={"json":{"Evolutions":[{"from":"Corsola form:galarian","level":38,"to":"Cursola","conditions":[],"evoType":"leveling","moves":[],"additionalProperties":{}}]}};

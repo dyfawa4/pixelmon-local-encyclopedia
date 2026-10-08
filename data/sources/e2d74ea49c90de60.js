@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e2d74ea49c90de60"]={"json":{"pokemon":"Gabite","items":[{"item":"minecraft:coarse_dirt","min":1,"max":3,"chance":1.0},{"item":"pixelmon:crystal","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dragon_scale","min":1,"max":1,"chance":0.1}]}};

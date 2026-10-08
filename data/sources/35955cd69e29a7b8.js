@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:35955cd69e29a7b8"]={"json":{"type":"minecraft:crafting_shaped","group":"sandstone","pattern":["#","#"],"key":{"#":{"item":"pixelmon:ultra_desert_sandstone_slab"}},"result":{"item":"pixelmon:ultra_desert_chiseled_sandstone"}}};

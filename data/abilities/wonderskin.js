@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:wonderskin"]={"description":"对战中\r\n变化招式对该特性的宝可梦命中率减半。","holders":[[49,"",true],[300,"",true],[301,"",true],[561,"",false],[779,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.WonderSkin"}};

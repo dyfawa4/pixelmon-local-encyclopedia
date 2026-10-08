@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bbd75846bbbfa686"]={"json":{"id":"Wigglytuff","spawnInfos":[{"spec":"species:Wigglytuff","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:moon_stone","percentChance":5}],"condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["plains","roofed"]},"rarity":0.5}]}};

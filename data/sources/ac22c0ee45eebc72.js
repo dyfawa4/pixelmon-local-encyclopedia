@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ac22c0ee45eebc72"]={"text":"让||pokemonButton=Hoopa form:confined||形态转换为||pokemonButton=Hoopa form:unbound||。\r\n让||pokemonButton=Hoopa form:unbound||形态转换为||pokemonButton=Hoopa form:confined||。"};

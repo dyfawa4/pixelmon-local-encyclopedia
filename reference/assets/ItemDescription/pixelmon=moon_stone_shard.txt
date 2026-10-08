@@ -1,0 +1,1 @@
+用于制作||itemButton=pixelmon:moon_stone||或||itemButton=pixelmon:meteorite||。

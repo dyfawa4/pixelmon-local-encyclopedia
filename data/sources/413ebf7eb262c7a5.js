@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:413ebf7eb262c7a5"]={"json":{"pokemon":"Geodude form:alolan","items":[{"item":"minecraft:flint","min":1,"max":1,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":1,"chance":0.5},{"item":"minecraft:basalt","min":1,"max":1,"chance":0.1}]}};

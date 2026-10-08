@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9602fe76283520bd"]={"json":{"Evolutions":[{"from":"Snorunt","item":{"itemID":"pixelmon:dawn_stone","additionalProperties":{}},"to":"Froslass","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"interact","moves":["Hex"],"additionalProperties":{}}]}};

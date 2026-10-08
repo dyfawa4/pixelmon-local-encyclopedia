@@ -1,0 +1,1 @@
+通过||pokemonButton=Sudowoodo||携带||itemButton=pixelmon:rock_incense||繁殖可得

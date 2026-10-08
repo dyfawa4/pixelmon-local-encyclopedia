@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:66c97a72b144d5b2"]={"json":{"Name":"BeadsOfRuin","Description":"以能呼唤灾厄的勾玉的力量降低除自己以外的宝可梦的特防。","Normal":["Chi-Yu"],"Hidden":[]}};

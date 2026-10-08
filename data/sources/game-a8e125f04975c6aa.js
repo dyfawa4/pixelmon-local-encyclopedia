@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a8e125f04975c6aa"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:villager","minecraft:wandering_trader","minecraft:zombie_villager"],"replacement_logic":"villager"}};

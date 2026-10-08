@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:92f54758cb93a229"]={"text":"拿着被充满的||itemButton=pixelmon:uno_orb||对着其中的||itemButton=pixelmon:articuno_shrine||使用可以召唤一只||pokemonButton=Articuno||并与其进行战斗。之后其中的||itemButton=pixelmon:articuno_shrine||将不再能使用。"};

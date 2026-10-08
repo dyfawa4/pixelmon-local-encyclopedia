@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:24dc7dbe6ca689c7"]={"json":{"pokemon":"Toucannon","items":[{"item":"minecraft:feather","min":2,"max":4,"chance":1.0},{"item":"minecraft:chicken","min":1,"max":3,"chance":0.5},{"item":"minecraft:cocoa_beans","min":1,"max":3,"chance":0.3},{"item":"pixelmon:health_feather","min":1,"max":1,"chance":0.1}]}};

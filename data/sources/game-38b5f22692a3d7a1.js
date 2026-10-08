@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-38b5f22692a3d7a1"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:liechi_berry","count":10},{"item":"pixelmon:muscle_feather"}],"ticks":1600,"results":{"item":"pixelmon:protein"}}};

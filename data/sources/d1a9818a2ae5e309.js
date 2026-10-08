@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d1a9818a2ae5e309"]={"text":"捕获率x2，但是在战斗外丢出只有||itemButton=pixelmon:poke_ball||速度和距离的60%。"};

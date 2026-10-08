@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:11f3eabd9b02be6c"]={"json":{"Evolutions":[{"from":"Tinkatink","level":24,"to":"Tinkatuff","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Tinkatuff","level":38,"to":"Tinkaton","conditions":[],"evoType":"leveling","moves":["Gigaton Hammer"],"additionalProperties":{}}]}};

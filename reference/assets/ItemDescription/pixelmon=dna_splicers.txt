@@ -1,0 +1,4 @@
+让||pokemonButton=Kyurem||与||pokemonButton=Reshiram||合体，使之变成||pokemonButton=Kyurem form:white||。
+让||pokemonButton=Kyurem||与||pokemonButton=Zekrom||合体，使之变成||pokemonButton=Kyurem form:black||。
+让||pokemonButton=Kyurem form:white||分离为||pokemonButton=Kyurem||和||pokemonButton=Reshiram||。
+让||pokemonButton=Kyurem form:black||分离为||pokemonButton=Kyurem||和||pokemonButton=Zekrom||。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-dc01e21369558729"]={"json":{"id":"Spectrier","spawnInfos":[{"spec":"species:Spectrier level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["swamps"]},"rarity":0.5}]}};

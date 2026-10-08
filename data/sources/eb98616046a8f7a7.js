@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eb98616046a8f7a7"]={"json":{"type":"minecraft:crafting_shaped","pattern":["AAA","EME","OOO"],"key":{"A":{"tag":"forge:ingots/aluminium"},"M":{"item":"pixelmon:fossil_machine"},"E":{"item":"minecraft:emerald"},"O":{"item":"minecraft:obsidian"}},"result":{"item":"pixelmon:green_tank","count":1}}};

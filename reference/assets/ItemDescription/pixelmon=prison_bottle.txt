@@ -1,0 +1,2 @@
+让||pokemonButton=Hoopa form:confined||形态转换为||pokemonButton=Hoopa form:unbound||。
+让||pokemonButton=Hoopa form:unbound||形态转换为||pokemonButton=Hoopa form:confined||。

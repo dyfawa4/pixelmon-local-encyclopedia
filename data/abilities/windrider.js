@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:windrider"]={"description":"对战中\r\n拥有该特性的宝可梦不受风的招式影响，当被风的招式击中时，提升1级攻击。\r\n己方场地上存在顺风时，攻击提高1级。","holders":[[946,"",false],[947,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.WindRider"}};

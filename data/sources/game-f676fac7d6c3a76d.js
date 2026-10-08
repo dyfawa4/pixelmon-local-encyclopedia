@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f676fac7d6c3a76d"]={"json":{"npctype":"chat","skins":[{"filename":"pokefan_m.png"}],"names":[{"name":"Joe"}],"chat":[{"lines":[{"text":"Willkommen im Elektro Gym."},{"text":"Du wirst einen Schock bekommen, wenn du unseren Anführer triffst!"}]}]}};

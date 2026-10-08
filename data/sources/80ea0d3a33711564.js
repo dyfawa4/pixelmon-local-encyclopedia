@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:80ea0d3a33711564"]={"text":"minecraft:desert_lakes\r\nbiomesoplenty:coniferous_lakes\r\nbiomesoplenty:grove_lakes\r\nbyg:fresh_water_lake\r\nbyg:great_lakes\r\nbyg:great_lake_isles\r\nbyg:oasis\r\nterraforged:lake\r\n"};

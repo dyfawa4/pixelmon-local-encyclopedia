@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:65c88c6ea2019204"]={"json":{"id":"Whismur Sweet Scent","spawnInfos":[{"spec":"species:Whismur","stringLocationTypes":["Sweet Scent"],"minLevel":7,"maxLevel":16,"typeID":"pokemon","condition":{"stringBiomes":["mountainous"]},"rarity":150.0}]}};

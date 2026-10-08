@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:161eb59f4520beb3"]={"json":{"pokemon":"Blitzle","items":[{"item":"minecraft:leather","min":1,"max":2,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":2,"chance":0.5}]}};

@@ -1,0 +1,5 @@
+Acupressure,Qwilfish,Qwilfish form:hisuian,Overqwil
+Aqua Tail,Gyarados,Lanturn,Qwilfish,Qwilfish form:hisuian,Barboach,Whiscash,Relicanth,Finneon,Lumineon,Basculin form:red,Basculin form:blue,Basculin form:white,Wishiwashi form:solo,Wishiwashi form:school,Bruxish,Basculegion form:male,Basculegion form:female,Overqwil,Finizen,Palafin form:zero,Dondozo
+Haze,Qwilfish,Qwilfish form:hisuian,Overqwil,Finizen,Palafin form:zero
+Mud-Slap,Remoraid,Octillery,Carvanha,Sharpedo,Barboach,Whiscash
+Psybeam,Chinchou,Lanturn,Remoraid,Octillery,Finneon,Lumineon,Inkay,Malamar

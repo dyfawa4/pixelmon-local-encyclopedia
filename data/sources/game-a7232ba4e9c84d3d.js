@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a7232ba4e9c84d3d"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_slab","pattern":["###"],"key":{"#":{"item":"pixelmon:ultra_gingko_planks"}},"result":{"item":"pixelmon:ultra_gingko_slab","count":6}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:739f12d3d58b94e0"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:yellow_apricorn"},"result":"pixelmon:cooked_yellow_apricorn","experience":0.1,"cookingtime":200}};

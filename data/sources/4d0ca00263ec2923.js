@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d0ca00263ec2923"]={"json":{"id":"Phanpy","spawnInfos":[{"spec":"species:Phanpy","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":24,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mountainous","minecraft:shattered_savanna","minecraft:shattered_savanna_plateau"],"maxY":100},"rarity":130.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd04d6e0b65b9ea4"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:sitrus_berry","count":10},{"item":"pixelmon:health_feather"}],"ticks":1600,"results":{"item":"pixelmon:hp_up"}}};

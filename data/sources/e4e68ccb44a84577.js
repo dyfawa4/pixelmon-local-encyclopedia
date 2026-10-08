@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e4e68ccb44a84577"]={"json":{"Evolutions":[{"from":"Tyrogue","level":20,"to":"Hitmonlee","conditions":[{"evoConditionType":"statRatio","stat1":"ATTACK","stat2":"DEFENSE","ratio":1.0,"additionalProperties":{}}],"evoType":"leveling","moves":["Brick Break"],"additionalProperties":{}}]}};

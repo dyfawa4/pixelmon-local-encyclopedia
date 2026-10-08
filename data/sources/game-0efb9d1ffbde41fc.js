@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0efb9d1ffbde41fc"]={"json":{"type_id":"simple","id":"kalos_champion","suffix":"ribbon.kalos_champion.title","translation_key":"ribbon.kalos_champion","description":"ribbon.kalos_champion.description","icon":"pixelmon:textures/gui/ribbons/kalos_champion.png"}};

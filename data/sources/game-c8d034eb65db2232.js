@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c8d034eb65db2232"]={"json":{"id":"Koraidon","spawnInfos":[{"spec":"species:Koraidon level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:small_end_islands"]},"rarity":2.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c2940c41e47a968b"]={"json":{"pokemon":"Celebi","items":[{"item":"minecraft:lily_of_the_valley","min":2,"max":5,"chance":1.0},{"item":"pixelmon:grass_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:miracle_seed","min":1,"max":1,"chance":0.1}]}};

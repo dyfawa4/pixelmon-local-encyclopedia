@@ -1,0 +1,1 @@
+通过||pokemonButton=Mantine||携带||itemButton=pixelmon:wave_incense||繁殖可得

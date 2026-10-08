@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:tangledfeet"]={"description":"对战中\r\n对拥有该特性且处于混乱状态的宝可梦使用招式时，命中率仅为原本的一半。","holders":[[16,"",false],[17,"",false],[18,"",false],[84,"",true],[85,"",true],[327,"",false],[441,"",false],[866,"",false],[973,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.TangledFeet"}};

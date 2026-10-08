@@ -1,0 +1,1 @@
+可以让||pokemonButton=Lucario||在对战中mega进化为||pokemonButton=Lucario form:mega||

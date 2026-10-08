@@ -1,0 +1,3 @@
+Dragon Rush,Charmander,Charmeleon,Charizard,Rhyhorn,Rhydon,Gible,Gabite,Garchomp,Rhyperior,Dratini,Dragonair,Dragonite,Dragonite form:creator,Vibrava,Flygon,Altaria,Shelgon,Deino,Zweilous,Hydreigon,Flapple,Drakloak,Dragapult
+Mist,Squirtle,Wartortle,Blastoise,Lapras,Snover,Abomasnow,Amaura,Aurorus,Avalugg form:hisuian,Dragonair,Swablu,Altaria
+Tickle,Turtwig,Grotle,Torterra

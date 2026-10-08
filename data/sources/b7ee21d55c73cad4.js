@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7ee21d55c73cad4"]={"json":{"id":"Inteleon","spawnInfos":[{"spec":"species:Inteleon","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":0.5}]}};

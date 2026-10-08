@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:008ab9e2cc2ee84d"]={"json":{"Evolutions":[{"from":"Azurill","to":"Marill","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}},{"from":"Marill","level":18,"to":"Azumarill","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

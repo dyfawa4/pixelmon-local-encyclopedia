@@ -1,0 +1,5 @@
+1,2=birches
+1,2=forests
+1,2=redwoods
+1,2=roofed
+1,2=taigas

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a2ca4c326aefe570"]={"json":{"Name":"Stench","Description":"通过释放臭臭的气味，在攻击的时候，有时会使对手畏缩。","Normal":["Grimer","Muk","Stunky","Skuntank","Trubbish","Garbodor"],"Hidden":["Gloom","Koffing","Weezing"]}};

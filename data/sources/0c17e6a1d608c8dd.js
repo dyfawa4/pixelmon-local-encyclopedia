@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0c17e6a1d608c8dd"]={"json":{"pokemon":"Graveler form:alolan","items":[{"item":"pixelmon:bauxite_ore","min":1,"max":2,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":3,"chance":0.5},{"item":"minecraft:basalt","min":1,"max":2,"chance":0.1}]}};

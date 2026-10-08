@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5bf459a87fd3ee77"]={"json":{"attack":"超极巨化的苹裹龙使出的草属性攻击。会降低对手的闪避率。","description":"攻击目标造成伤害。降低对手的闪避率。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

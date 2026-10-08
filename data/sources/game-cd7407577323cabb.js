@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cd7407577323cabb"]={"json":{"id":"Mega Rayquaza","spawnInfos":[{"spec":"species:Rayquaza","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

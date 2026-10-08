@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:757a15c097a25fb0"]={"json":{"type":"minecraft:crafting_shaped","pattern":["CS","SC"],"key":{"S":{"item":"minecraft:stone"},"C":{"item":"minecraft:clay"}},"result":{"item":"pixelmon:cave_rock","count":4}}};

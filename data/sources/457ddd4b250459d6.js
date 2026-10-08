@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:457ddd4b250459d6"]={"text":"||itemButton=pixelmon:tres_orb||有着375点耐久度，每当击败一只野生宝可梦，||itemButton=pixelmon:tres_orb||会减少一点耐久，当耐久度降为0时，||itemButton=pixelmon:tres_orb||将被充满，这时候拿着||itemButton=pixelmon:tres_orb||对着||itemButton=pixelmon:moltres_shrine||使用可以召唤一只||pokemonButton=Moltres||并与其进行战斗。"};

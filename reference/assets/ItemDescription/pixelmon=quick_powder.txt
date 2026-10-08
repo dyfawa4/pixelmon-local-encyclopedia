@@ -1,0 +1,2 @@
+||pokemonButton=Ditto||携带后速度x2。
+处于变身状态时没有效果。

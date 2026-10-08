@@ -1,0 +1,5 @@
+1,2=badlands
+1,2=burntforest
+1,2=hills
+1,2=mountainous
+1,2=volcano

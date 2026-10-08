@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7bab6a17fbd9a830"]={"json":{"pokemon":"Corsola form:base","items":[{"item":"minecraft:brain_coral","min":1,"max":2,"chance":1.0},{"item":"minecraft:brain_coral_fan","min":1,"max":1,"chance":0.5},{"item":"pixelmon:water_stone_shard","min":1,"max":1,"chance":0.3},{"item":"pixelmon:damp_rock","min":1,"max":1,"chance":0.1}]}};

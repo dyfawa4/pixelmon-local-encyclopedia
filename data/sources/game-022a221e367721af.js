@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-022a221e367721af"]={"json":{"type":"minecraft:crafting_shaped","pattern":["XXX","XXX"],"key":{"X":{"tag":"minecraft:wooden_slabs"}},"result":{"item":"pixelmon:wooden_flooring","count":1}}};

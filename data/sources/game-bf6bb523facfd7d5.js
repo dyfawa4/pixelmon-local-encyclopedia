@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bf6bb523facfd7d5"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_space_cobblestone_slab"}],"conditions":[]}]}};

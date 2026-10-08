@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6baf35b17b45ec28"]={"json":{"Name":"Unburden","Description":"失去所持有的道具时，速度会提高。","Normal":["Drifloon","Drifblim","Purrloin","Liepard","Hawlucha","Nickit","Thievul","Sneasler","Shroodle","Grafaiai"],"Hidden":["Hitmonlee","Treecko","Grovyle","Sceptile","Accelgor","Swirlix","Slurpuff"]}};

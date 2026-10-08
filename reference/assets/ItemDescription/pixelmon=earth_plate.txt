@@ -1,0 +1,3 @@
+携带该道具的宝可梦的地面属性招式威力提升20%
+携带该道具的宝可梦学会的||moveButton=Judgment||变为地面属性。
+||pokemonButton=Arceus||携带后形态转换为地面属性。

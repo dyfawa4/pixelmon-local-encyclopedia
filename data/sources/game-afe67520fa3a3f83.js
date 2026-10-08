@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-afe67520fa3a3f83"]={"json":{"id":"Marshtomp","spawnInfos":[{"spec":"species:Marshtomp","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"weathers":["RAIN"],"stringBiomes":["swamps"]},"rarity":0.5}]}};

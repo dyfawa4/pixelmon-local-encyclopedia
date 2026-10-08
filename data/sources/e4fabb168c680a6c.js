@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e4fabb168c680a6c"]={"json":{"id":"Stoutland","spawnInfos":[{"spec":"species:Stoutland","stringLocationTypes":["Land"],"minLevel":33,"maxLevel":46,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["plains"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"neededNearbyBlocks":["minecraft:grass_path"]}}],"rarity":0.5}]}};

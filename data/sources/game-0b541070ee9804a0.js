@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0b541070ee9804a0"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"Harry"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio Escarcha."},{"text":"¡A nuestro Líder de gimnasio le encanta congelar y acabar con sus oponentes!"},{"text":"Intenta no caer al agua; puedes quedar congelado..."}]}]}};

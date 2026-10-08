@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1b138964c384ff59"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"bugcatcher1.png"}],"names":[{"name":"Pigliamosche"}],"chat":[{"opening":"Mi hai visto attraverso i fiori?","win":"Ecco la vera potenza dei fiori!","lose":"Impossibile!"}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a71922dfbb05aa35"]={"json":{"pokemon":"Smeargle","items":[{"item":"minecraft:lime_dye","min":1,"max":2,"chance":1.0},{"item":"minecraft:magenta_dye","min":1,"max":1,"chance":0.5},{"item":"minecraft:brown_dye","min":1,"max":1,"chance":0.3},{"item":"minecraft:pink_dye","min":1,"max":1,"chance":0.1}]}};

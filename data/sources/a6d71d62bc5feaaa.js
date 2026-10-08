@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a6d71d62bc5feaaa"]={"json":{"pokemon":"Palossand","items":[{"item":"minecraft:sand","min":2,"max":4,"chance":1.0},{"item":"minecraft:soul_sand","min":1,"max":3,"chance":0.5},{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":0.3},{"item":"pixelmon:soft_sand","min":1,"max":1,"chance":0.1}]}};

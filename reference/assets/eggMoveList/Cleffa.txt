@@ -1,0 +1,4 @@
+Heal Pulse,Mewtwo,Cleffa,Latias,Latios,Xerneas form:neutral,Xerneas form:active,TapuFini,Calyrex,Calyrex form:icerider,Calyrex form:shadowrider
+Present,Cleffa,Happiny,IronBundle
+Tickle,Cleffa,Igglybuff,Wynaut,TapuLele,Nihilego,Wo-Chien
+Wish,Cleffa,Togepi,Latias,Jirachi,Chingling,ScreamTail,FlutterMane

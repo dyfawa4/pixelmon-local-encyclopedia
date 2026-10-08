@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-812672b11c90e4cb"]={"json":{"npctype":"chat","skins":[{"filename":"ornithologist.png"}],"names":[{"name":"George"}],"chat":[{"lines":[{"text":"Willkommen im Sandstone Cavern Resort Gym."},{"text":"Unser Trainingsleiter wird dich zu Fall bringen!"},{"text":"Wenn du denkst, dass du fertig bist, der Kampf hat gerade erst begonnen."}]}]}};

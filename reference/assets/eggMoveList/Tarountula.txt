@@ -1,0 +1,4 @@
+First Impression,Vibrava,Flygon,Golisopod,Nymble,Lokix
+Lunge,Venonat,Venomoth,Scyther,Spinarak,Ariados,Yanma,Pineco,Forretress,Gligar,Scizor,Heracross,Surskit,Masquerain,Volbeat,Kricketot,Kricketune,Mothim,Combee,Vespiquen,Yanmega,Gliscor,Sewaddle,Swadloon,Leavanny,Joltik,Galvantula,Larvesta,Volcarona,Grubbin,Charjabug,Vikavolt,Ribombee,Dewpider,Araquanid,Sizzlipede,Centiskorch,Snom,Frosmoth,Kleavor,Tarountula,Spidops,Lokix,Rellor,Rabsca
+Memento,Rabsca
+Sucker Punch,Spinarak,Ariados,Wormadam form:plant,Wormadam form:sandy,Wormadam form:trash,Joltik,Galvantula,Golisopod,Nymble,Lokix

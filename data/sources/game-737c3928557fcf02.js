@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-737c3928557fcf02"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_door","pattern":["##","##","##"],"key":{"#":{"item":"pixelmon:red_berry_wood_planks"}},"result":{"item":"pixelmon:red_berry_wood_door","count":3}}};

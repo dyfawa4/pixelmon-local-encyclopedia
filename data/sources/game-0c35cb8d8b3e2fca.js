@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0c35cb8d8b3e2fca"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"grassbugleader1.png"}],"names":[{"name":"Kusa"}],"chat":[{"opening":"Wir trainieren unser Pokémon im hohen Gras!","win":"Ich hoffe, du hast hier ein oder zwei Dinge gelernt.","lose":"Du bist gut ausgebildet."}]}};

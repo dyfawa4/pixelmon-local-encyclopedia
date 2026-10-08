@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0dcec3d9e71fe674"]={"json":{"pokemon":"Torracat","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fire_gem","min":1,"max":1,"chance":0.1}]}};

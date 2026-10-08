@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-43099b10d77e3bb2"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:ocelot"],"replacement_logic":"simple","specs":["liepard","torracat","luxio","shinx","luxray","pyroar"]}};

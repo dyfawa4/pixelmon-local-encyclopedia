@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:df0b186e9f0ccb9a"]={"json":{"Name":"RainDish","Description":"下雨天气时，会缓缓回复HP。","Normal":["Lotad","Lombre","Ludicolo"],"Hidden":["Squirtle","Wartortle","Blastoise","Tentacool","Tentacruel","Wingull","Pelipper","Surskit","Morelull","Shiinotic"]}};

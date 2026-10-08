@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a91e9b9a5436b94a"]={"json":{"type_id":"simple","id":"waterdude","suffix":"ribbon.waterdude.title","translation_key":"ribbon.waterdude","description":"ribbon.waterdude.description","icon":"pixelmon:textures/gui/ribbons/waterdude.png"}};

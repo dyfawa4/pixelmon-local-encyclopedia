@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1177580c808c74fb"]={"json":{"attack":"极巨化宝可梦使出的格斗属性攻击。会提高我方的攻击。","description":"攻击目标造成伤害。\n令使用者和同伴的攻击提升1级。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

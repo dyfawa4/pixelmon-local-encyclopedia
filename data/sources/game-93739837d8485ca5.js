@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-93739837d8485ca5"]={"json":{"type_id":"simple","id":"smart_master","suffix":"ribbon.smart_master.title","translation_key":"ribbon.smart_master","description":"ribbon.smart_master.description","icon":"pixelmon:textures/gui/ribbons/smart_master.png"}};

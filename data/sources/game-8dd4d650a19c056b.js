@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8dd4d650a19c056b"]={"json":{"id":"Armarouge","spawnInfos":[{"spec":"species:Armarouge","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":45,"typeID":"pokemon","heldItems":[],"condition":{"times":["DAY"],"stringBiomes":["mesas","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"rarity":5.0}]}};

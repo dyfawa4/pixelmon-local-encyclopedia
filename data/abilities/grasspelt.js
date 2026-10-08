@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:grasspelt"]={"description":"对战中\r\n当对战场地处于青草场地状态时，拥有草之毛皮特性的宝可梦的防御会提升50%。","holders":[[672,"",true],[673,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.GrassPelt"}};

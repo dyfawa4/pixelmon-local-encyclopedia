@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-21f3d51ae2df29a3"]={"json":{"id":"Blipbug Forage","spawnInfos":[{"spec":"species:Blipbug","stringLocationTypes":["Forage"],"minLevel":2,"maxLevel":9,"typeID":"pokemon","condition":{"stringBiomes":["redwoods"]},"rarity":10.0}]}};

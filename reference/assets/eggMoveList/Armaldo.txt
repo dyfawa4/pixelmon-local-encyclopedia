@@ -1,0 +1,9 @@
+Aqua Jet,Kabuto,Kabutops,Tirtouga,Carracosta,Clauncher,Clawitzer,Wiglett,Wugtrio
+Cross Poison,Tentacool,Tentacruel,Kabutops,Anorith,Armaldo,Skorupi,Drapion
+Curse,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Tirtouga,Carracosta,Cursola
+Iron Defense,Shellder,Cloyster,Krabby,Kingler,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Corphish,Crawdaunt,Anorith,Armaldo,Drapion,Tirtouga,Carracosta,Archen,Archeops,Binacle,Barbaracle,Crabrawler,Crabominable,Golisopod,Cursola,Klawf
+Knock Off,Tentacool,Tentacruel,Corphish,Crawdaunt,Skorupi,Drapion,Crabrawler,Crabominable,Golisopod,Klawf
+Rapid Spin,Shellder,Cloyster,Staryu,Starmie
+Sand Attack,Omanyte,Omastar,Kabuto,Kabutops,Wimpod,Golisopod,Wiglett,Wugtrio
+Screech,Tentacool,Tentacruel,Shellder,Cloyster,Kabuto,Kabutops,Corsola,Corsola form:galarian,Anorith,Armaldo,Skorupi,Drapion,Binacle,Barbaracle,Wimpod,Golisopod,Cursola
+Water Pulse,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corphish,Crawdaunt,Anorith,Armaldo,Binacle,Barbaracle,Clauncher,Clawitzer,Golisopod,Wiglett,Wugtrio

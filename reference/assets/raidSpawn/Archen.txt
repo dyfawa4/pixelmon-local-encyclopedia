@@ -1,0 +1,6 @@
+2,3=birches
+2,3=forests
+2,3=jungles
+2,3=redwoods
+2,3=roofed
+2,3=taigas

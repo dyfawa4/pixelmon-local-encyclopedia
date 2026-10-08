@@ -1,0 +1,8 @@
+minecraft:river
+biomesoplenty:coniferous_lakes
+biomesoplenty:grove_lakes
+byg:great_lakes
+byg:great_lake_isles
+byg:fresh_water_lake
+byg:oasis
+terraforged:lake

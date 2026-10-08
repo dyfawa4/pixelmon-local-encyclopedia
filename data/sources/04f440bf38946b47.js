@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:04f440bf38946b47"]={"json":{"Evolutions":[{"from":"Tandemaus","level":25,"to":"Maushold form:family_four","conditions":[{"evoConditionType":"insideBattle","additionalProperties":{}},{"evoConditionType":"chance","chance":0.99,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

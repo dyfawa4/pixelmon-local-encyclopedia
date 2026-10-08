@@ -1,0 +1,4 @@
+对||pokemonButton=Murkrow||使用，使其进化为||pokemonButton=Honchkrow||。
+对||pokemonButton=Misdreavus||使用，使其进化为||pokemonButton=Mismagius||。
+对||pokemonButton=Lampent||使用，使其进化为||pokemonButton=Chandelure||。
+对||pokemonButton=Doublade||使用，使其进化为||pokemonButton=Aegislash form:shield||。

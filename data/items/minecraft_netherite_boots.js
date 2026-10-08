@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_netherite_boots"]={"description":"","recipes":[{"type":"minecraft:smithing","base":{"item":"minecraft:diamond_boots"},"addition":{"item":"minecraft:netherite_ingot"},"result":{"item":"minecraft:netherite_boots"},"source":"data/minecraft/recipes/netherite_boots_smithing.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

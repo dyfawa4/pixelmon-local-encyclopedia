@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4ba64de345f22f5e"]={"json":{"Evolutions":[{"from":"Sneasel","to":"Weavile","conditions":[{"evoConditionType":"heldItem","item":{"itemID":"pixelmon:razor_claw","additionalProperties":{}},"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

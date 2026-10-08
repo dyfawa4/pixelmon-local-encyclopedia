@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:suctioncups"]={"description":"拥有该特性的宝可梦不受强制替换宝可梦的招式以及红牌的影响。\r\n\r\n自身使用和后备宝可梦进行替换的招式或携带的逃脱按键不受该特性影响。","holders":[[224,"",false],[345,"",false],[346,"",false],[686,"",false],[687,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SuctionCups"}};

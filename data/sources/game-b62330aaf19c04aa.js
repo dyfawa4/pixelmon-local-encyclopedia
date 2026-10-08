@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b62330aaf19c04aa"]={"json":{"type_id":"simple","id":"zero_energy","suffix":"ribbon.zero_energy.title","translation_key":"ribbon.zero_energy","description":"ribbon.zero_energy.description","icon":"pixelmon:textures/gui/ribbons/zero_energy.png"}};

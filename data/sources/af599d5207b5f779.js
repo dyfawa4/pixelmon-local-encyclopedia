@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:af599d5207b5f779"]={"text":"Night Slash,Kabutops,Corphish,Crawdaunt,Skorupi,Drapion\r\nSand Attack,Omanyte,Omastar,Kabuto,Kabutops,Wimpod,Golisopod,Wiglett,Wugtrio\r\nSwitcheroo\r\n"};

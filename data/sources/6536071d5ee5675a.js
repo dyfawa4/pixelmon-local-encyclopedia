@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6536071d5ee5675a"]={"json":{"Evolutions":[{"from":"Applin","item":{"itemID":"pixelmon:sweet_apple","additionalProperties":{}},"to":"Appletun","conditions":[],"evoType":"interact","moves":["Headbutt"],"additionalProperties":{}}]}};

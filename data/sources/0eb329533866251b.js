@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0eb329533866251b"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:cave_spider"],"replacement_logic":"simple","specs":["galvantula","joltik"]}};

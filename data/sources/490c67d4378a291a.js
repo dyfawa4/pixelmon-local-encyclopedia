@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:490c67d4378a291a"]={"json":{"Evolutions":[{"from":"Poipole","to":"Naganadel","conditions":[{"evoConditionType":"move","attackName":"Dragon Pulse","additionalProperties":{}}],"evoType":"leveling","moves":["Air Cutter"],"additionalProperties":{}}]}};

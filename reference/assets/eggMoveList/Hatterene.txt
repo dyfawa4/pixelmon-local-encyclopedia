@@ -1,0 +1,4 @@
+After You,Clefairy,Clefable,Togetic,Togekiss,Audino,Flabebe,Floette,Floette form:az,Florges,Carbink,Cutiefly,Ribombee,Togedemaru,Hatenna,Hattrem,Indeedee form:male
+Aromatic Mist,Aromatisse,Hatenna,Hattrem,Hatterene,Milcery,Alcremie
+Nuzzle,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Plusle,Minun,Pachirisu,Dedenne,Togedemaru,Hatenna,Hattrem
+Quash,Hatenna,Hattrem

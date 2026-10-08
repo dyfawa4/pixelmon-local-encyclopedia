@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cdfdcc04141fd617"]={"json":{"Name":"Reckless","Description":"自己会因反作用力受伤的招式，其威力会提高。","Normal":["Hitmonlee","Basculin form:red","Bouffalant","Obstagoon"],"Hidden":["Rhyhorn","Rhydon","Starly","Staravia","Staraptor","Rhyperior","Emboar","Mienfoo","Mienshao"]}};

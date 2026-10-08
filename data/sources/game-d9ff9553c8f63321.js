@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d9ff9553c8f63321"]={"json":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:sun_stone_ore"},"result":"pixelmon:sun_stone_shard","experience":0.7,"cookingtime":100}};

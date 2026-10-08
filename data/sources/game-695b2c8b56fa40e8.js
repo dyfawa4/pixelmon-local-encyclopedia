@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-695b2c8b56fa40e8"]={"json":{"type_id":"simple","id":"blizzard","suffix":"ribbon.blizzard.title","translation_key":"ribbon.blizzard","description":"ribbon.blizzard.description","icon":"pixelmon:textures/gui/ribbons/blizzard.png"}};

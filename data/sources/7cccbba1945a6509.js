@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7cccbba1945a6509"]={"json":{"Name":"FlameBody","Description":"有时会让接触到自己的对手变为灼伤状态。","Normal":["Magmar","Slugma","Magcargo","Magby","Magmortar","Litwick","Lampent","Chandelure","Larvesta","Volcarona","Fletchinder","Talonflame","Carkol","Coalossal"],"Hidden":["Ponyta","Rapidash","Moltres","Heatran","Sizzlipede","Centiskorch","Charcadet"]}};

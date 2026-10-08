@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-acf5cfc6e7d0c21e"]={"json":{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":{"item":"pixelmon:ultra_desert_sand"}},"result":{"item":"pixelmon:ultra_desert_sandstone"}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c00edd09ff56689c"]={"json":{"Name":"VoltAbsorb","Description":"受到电属性的招式攻击时，不会受到伤害，而是会回复。","Normal":["Jolteon","Chinchou","Lanturn","Thundurus form:therian","Zeraora","Dracozolt","Arctozolt","Pawmo","Pawmot","Wattrel","Kilowattrel"],"Hidden":["Minun","Pachirisu"]}};

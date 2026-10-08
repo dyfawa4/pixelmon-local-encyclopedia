@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ad5f53303e7e347"]={"json":{"pokemon":"Armaldo","items":[{"item":"minecraft:stone","min":1,"max":3,"chance":1.0},{"item":"minecraft:nautilus_shell","min":1,"max":2,"chance":0.5},{"item":"pixelmon:water_stone_shard","min":1,"max":2,"chance":0.1}]}};

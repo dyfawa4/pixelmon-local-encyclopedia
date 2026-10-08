@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-437ff3cf0e9452ab"]={"json":{"type":"minecraft:crafting_shaped","pattern":["aia","imi","ada"],"key":{"d":{"tag":"forge:dyes/light_blue"},"a":{"tag":"forge:ingots/aluminum"},"i":{"tag":"forge:ingots/iron"},"m":{"tag":"forge:gems/diamond"}},"result":{"item":"pixelmon:light_blue_healer","count":1}}};

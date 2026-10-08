@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:magicbounce"]={"description":"对战中\r\n自身在场时持续处于魔法反射状态，将对方以自身为目标的部分变化招式无效化，并反弹给招式的使用者。","holders":[[177,"",true],[178,"",true],[196,"",true],[302,"mega",false],[359,"mega",false],[719,"mega",false],[856,"",true],[857,"",true],[858,"",true],[858,"gmax",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MagicBounce"}};

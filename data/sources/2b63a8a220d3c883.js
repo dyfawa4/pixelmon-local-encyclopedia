@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2b63a8a220d3c883"]={"json":{"type":"minecraft:crafting_shaped","pattern":["vdv"],"key":{"d":{"tag":"forge:dyes/purple"},"v":{"tag":"minecraft:wool"}},"result":{"item":"pixelmon:purple_rug","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c059fb76e39c0ec4"]={"json":{"Evolutions":[{"from":"Sobble","level":16,"to":"Drizzile","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Drizzile","level":35,"to":"Inteleon","conditions":[],"evoType":"leveling","moves":["Snipe Shot"],"additionalProperties":{}}]}};

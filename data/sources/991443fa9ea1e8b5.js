@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:991443fa9ea1e8b5"]={"json":{"Evolutions":[{"from":"Ponyta form:galarian","level":40,"to":"Rapidash form:galarian","conditions":[],"evoType":"leveling","moves":["Psycho Cut"],"additionalProperties":{}}]}};

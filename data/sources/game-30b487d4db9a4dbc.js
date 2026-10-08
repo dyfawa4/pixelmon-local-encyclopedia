@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-30b487d4db9a4dbc"]={"json":{"id":"Mienshao","spawnInfos":[{"spec":"species:Mienshao","stringLocationTypes":["Land"],"minLevel":24,"maxLevel":51,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous"]},"rarity":9.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bb157894236f479f"]={"json":{"attack":"极巨化宝可梦使出的电属性攻击。可在5回合内将脚下变成电气场地。","description":"攻击目标造成伤害。将场地变成电气场地。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

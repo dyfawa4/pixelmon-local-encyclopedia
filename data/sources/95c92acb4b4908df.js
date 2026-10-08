@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:95c92acb4b4908df"]={"json":{"type":"minecraft:crafting_shaped","pattern":["CCC","C C","S S"],"key":{"C":{"tag":"forge:gems/crystal"},"S":{"tag":"forge:gems/silicon"}},"result":{"item":"pixelmon:neo_plasma_legs","count":1}}};

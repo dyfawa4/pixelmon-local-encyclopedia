@@ -1,0 +1,4 @@
+Endeavor,Corsola,Corphish,Crawdaunt,Archen,Archeops,Binacle,Barbaracle,Crabrawler,Crabominable,Golisopod,Klawf
+Focus Punch,Crabrawler,Crabominable
+Superpower,Krabby,Kingler,Kabutops,Corphish,Crawdaunt,Armaldo,Carracosta,Barbaracle,Crabrawler,Crabominable
+Wide Guard,Kingler,Tirtouga,Carracosta,Crabrawler,Crabominable

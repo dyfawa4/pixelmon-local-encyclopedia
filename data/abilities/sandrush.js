@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:sandrush"]={"description":"对战中\r\n沙暴天气时，速度能力变为原来的2倍。\r\n拥有该特性的宝可梦不受沙暴天气的伤害。","holders":[[27,"",true],[28,"",true],[507,"",false],[508,"",false],[529,"",false],[530,"",false],[745,"midday",false],[880,"",true],[882,"",true],[972,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SandRush"}};

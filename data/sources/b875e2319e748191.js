@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b875e2319e748191"]={"json":{"Name":"AngerPoint","Description":"要害被击中时，会大发雷霆，攻击力变为最大。","Normal":["Mankey","Primeape","Tauros","Tauros form:paldean_combat","Tauros form:paldean_blaze","Tauros form:paldean_aqua"],"Hidden":["Camerupt","Sandile","Krokorok","Krookodile","Crabrawler","Crabominable"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5de8c33a6082a6bf"]={"json":{"id":"Reuniclus","spawnInfos":[{"spec":"species:Reuniclus","stringLocationTypes":["Land"],"minLevel":41,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps"]},"rarity":0.5}]}};

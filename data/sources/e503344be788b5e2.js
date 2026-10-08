@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e503344be788b5e2"]={"json":{"description":"攻击目标造成伤害。威力和对手剩余ＨＰ相关。\n\n威力 = 100 × 当前ＨＰ⁄最大ＨＰ。(小数0.5或以下舍去，0.5以上进1；威力最小为1)","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

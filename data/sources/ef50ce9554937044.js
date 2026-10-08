@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ef50ce9554937044"]={"json":{"Evolutions":[{"from":"Klink","level":38,"to":"Klang","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Klang","level":49,"to":"Klinklang","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

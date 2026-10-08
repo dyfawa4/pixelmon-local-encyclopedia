@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0bd43db02c4d8f1a"]={"json":{"id":"Morpeko Grass","spawnInfos":[{"spec":"species:Morpeko","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["hills","redwoods"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["STORM"]}}],"rarity":100.0}]}};

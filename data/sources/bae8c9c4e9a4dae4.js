@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bae8c9c4e9a4dae4"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MM "," S "," S "],"key":{"M":{"tag":"forge:gems/amethyst"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:amethyst_hoe","count":1}}};

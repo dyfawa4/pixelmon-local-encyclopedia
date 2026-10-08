@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:21da59ba4855d01e"]={"json":{"Evolutions":[{"from":"Grimer form:alolan","level":38,"to":"Muk form:alolan","conditions":[],"evoType":"leveling","moves":["Venom Drench"],"additionalProperties":{}}]}};

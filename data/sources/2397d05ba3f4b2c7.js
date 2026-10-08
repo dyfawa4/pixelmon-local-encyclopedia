@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2397d05ba3f4b2c7"]={"json":{"id":"Rabsca","spawnInfos":[{"spec":"species:Rabsca","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"stringBiomes":["arid","savannas","mesas","pixelmon:ultra_desert"]},"rarity":1.0}]}};

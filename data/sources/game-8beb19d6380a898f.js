@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8beb19d6380a898f"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:pokemon_egg"}],"conditions":[{"condition":"minecraft:match_tool","predicate":{"enchantments":[{"enchantment":"minecraft:silk_touch","levels":{"min":1}}]}}]}]}};

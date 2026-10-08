@@ -1,0 +1,8 @@
+Ally Switch,Gastly,Haunter,Gengar,Misdreavus,Ralts,Kirlia,Gardevoir,Shuppet,Banette,Duskull,Dusclops,Chimecho,Drifloon,Drifblim,Mismagius,Spiritomb,Gallade,Dusknoir,Rotom,Rotom form:heat,Rotom form:wash,Rotom form:frost,Rotom form:fan,Rotom form:mow,Yamask,Yamask form:galarian,Cofagrigus,Solosis,Duosion,Reuniclus,Litwick,Lampent,Chandelure,Phantump,Trevenant,Pumpkaboo,Gourgeist,Sinistea form:phony,Sinistea form:antique,Polteageist form:phony,Polteageist form:antique,Runerigus,Drakloak,Dragapult
+Cosmic Power,Chimecho
+Curse,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Slugma,Magcargo,Gulpin,Swalot,Shuppet,Banette,Duskull,Dusclops,Chimecho,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Phantump,Trevenant,Sandygast,Palossand,Mimikyu form:disguised,Polteageist form:phony,Polteageist form:antique,Runerigus,Pincurchin,Dreepy,Drakloak,Dragapult
+Disable,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Ralts,Kirlia,Shuppet,Banette,Duskull,Dusclops,Chimecho,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Phantump,Trevenant,Runerigus,Dreepy,Drakloak,Dragapult
+Hypnosis,Gastly,Haunter,Gengar,Ralts,Kirlia,Gardevoir,Chimecho,Spiritomb,Gallade,Sandygast,Palossand
+Recover,Slugma,Magcargo,Chimecho,Shellos form:east,Shellos form:west,Gastrodon form:east,Gastrodon form:west,Solosis,Duosion,Reuniclus,Frillish,Jellicent,Milcery,Alcremie,Pincurchin
+Recycle,Grimer form:alolan,Muk form:alolan,Ralts,Kirlia,Gardevoir,Chimecho,Drifloon,Drifblim,Gallade,Sandygast,Palossand
+Wish,Ralts,Kirlia,Gardevoir,Chimecho,Gallade

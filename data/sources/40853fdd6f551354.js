@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:40853fdd6f551354"]={"json":{"pokemon":"Trevenant","items":[{"item":"minecraft:stick","min":2,"max":3,"chance":1.0},{"item":"minecraft:dark_oak_log","min":1,"max":2,"chance":0.5},{"item":"minecraft:crimson_roots","min":1,"max":2,"chance":0.3},{"item":"pixelmon:big_root","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,4 @@
+biomesoplenty:cold_desert
+biomesoplenty:muskeg
+byg:lush_tundra
+terraforged:frozen_marsh

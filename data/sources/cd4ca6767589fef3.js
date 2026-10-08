@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd4ca6767589fef3"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather2.png"}],"names":[{"name":"Netsu"}],"chat":[{"lines":[{"text":"Willkommen im Inferno Gym."},{"text":"Der Trainingsleiter liegt hier über einem Lavafluss!"},{"text":"Versuche nicht hineinzufallen; das ist eine Einbahnfahrt zum Verbrennen!"}]}]}};

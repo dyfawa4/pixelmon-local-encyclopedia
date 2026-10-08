@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Machop","level":28,"to":"Machoke","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Machoke","item":{"itemID":"pixelmon:linking_cord","additionalProperties":{}},"to":"Machamp","evoType":"interact","additionalProperties":{}},{"from":"Machoke","to":"Machamp","conditions":[],"evoType":"trade","additionalProperties":{}}]}

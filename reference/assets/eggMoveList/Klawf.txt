@@ -1,0 +1,4 @@
+Ancient Power,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Lileep,Cradily,Anorith,Armaldo,Tirtouga,Carracosta,Archen,Archeops,Binacle,Barbaracle,Cursola
+Crabhammer,Krabby,Kingler,Corphish,Crawdaunt,Clauncher,Clawitzer,Crabrawler
+Endeavor,Corsola,Corphish,Crawdaunt,Archen,Archeops,Binacle,Barbaracle,Crabrawler,Crabominable,Golisopod,Klawf
+Knock Off,Tentacool,Tentacruel,Corphish,Crawdaunt,Skorupi,Drapion,Crabrawler,Crabominable,Golisopod,Klawf

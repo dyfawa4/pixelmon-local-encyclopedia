@@ -1,0 +1,1 @@
+可以让||pokemonButton=Latios||在对战中mega进化为||pokemonButton=Latios form:mega||

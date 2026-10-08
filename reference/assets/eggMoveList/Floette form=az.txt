@@ -1,0 +1,4 @@
+Camouflage,Azurill,Zygarde form:fifty_percent,Zygarde form:ten_percent
+Captivate,Nidorina,Nidoqueen,Mew,Pichu,Pichu form:spiky,Cleffa,Igglybuff,Togepi,Tyrogue,Smoochum,Elekid,Magby,Azurill,Latias,Latios,Budew,Chingling,Bonsly,MimeJr,Happiny,Munchlax,Riolu,Mantyke,Heatran,Cresselia
+Copycat,Cleffa,Igglybuff,Smoochum,Bonsly,MimeJr,Happiny,Riolu,Mesprit,Marshadow,Marshadow form:zenith
+Tearful Look,Bonsly,Toxel

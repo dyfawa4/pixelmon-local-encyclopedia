@@ -1,0 +1,510 @@
+/* 默认背景色和字体颜色 */
+.toggle-button1 {
+    -fx-background-color: transparent; 
+    -fx-border-color: transparent;
+    -fx-text-fill: #F4F4F4; 
+    -fx-font-family: "Microsoft YaHei Mono";
+    -fx-font-weight: bold;
+    -fx-font-size: 22px;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+}
+
+/* 选中状态的样式 */
+.toggle-button1:selected {
+    -fx-background-color: #F5F5F5;
+    -fx-text-fill: black;
+    -fx-font-size: 22px;
+}
+
+.toggle-button1:hover {
+    -fx-background-color: #909090;
+    -fx-font-size: 22px;
+}
+
+.button1 {
+    -fx-background-color: transparent;  /* 设置透明背景 */
+    -fx-border-color: #495467;  /* 设置边框颜色 */
+    -fx-border-width: 2;  /* 设置边框宽度 */
+    -fx-border-radius: 5;  /* 设置边框圆角 */
+    -fx-padding: 5;  /* 设置按钮内边距 */
+    -fx-text-fill: #495467;  /* 设置文本颜色 */
+    -fx-font-size: 16px;  /* 设置字体大小 */
+}
+
+.button1:hover {
+    -fx-background-color: rgba(73, 84, 103, 0.1);  /* 设置悬停时的背景色 */
+    -fx-border-color: #4A90E2;  /* 悬停时改变边框颜色 */
+    -fx-text-fill: #4A90E2;  /* 悬停时改变文本颜色 */
+}
+
+.scroll-pane {
+    -fx-vbar-policy: always;
+    -fx-hbar-policy: never;
+    -fx-unit-increment: 45; /* 单位滚动增量 */
+    -fx-block-increment: 150; /* 大块滚动增量 */
+}
+
+.text-field {
+    -fx-border-color: gray;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+}
+
+.text-field:focused {
+    -fx-border-color: #3D66CA;
+}
+
+.button2 {
+    -fx-background-color: #FCCC40; /* 设置背景颜色 */
+    -fx-text-fill: white;        /* 设置字体颜色 */
+    -fx-font-weight: bold;       /* 设置字体加粗（可选） */
+    -fx-padding: 5 5;          /* 设置按钮内边距（可选） */
+    -fx-border-radius: 5;        /* 圆角边框（可选） */
+    -fx-background-radius: 5;    /* 圆角背景（可选） */
+    -fx-font-size: 16px;
+    -fx-border-width: 2;               /* 边框宽度 */
+    -fx-border-color: transparent;     /* 默认边框颜色为透明 */
+}
+
+.button2:hover {
+    -fx-border-color: gray;            /* hover 时的边框颜色 */
+    -fx-text-fill: #64A1B7;        /* 设置字体颜色 */
+}
+
+.button2:selected {
+    -fx-border-color: black;           /* select 时（焦点）边框颜色 */
+    -fx-text-fill: black;        /* 设置字体颜色 */
+}
+
+.rounded-hbox {
+    -fx-background-color: #FEE0C5;    /* 背景颜色 */
+    -fx-border-color: #E04137;       /* 边框颜色 */
+    -fx-border-width: 1;             /* 边框宽度 */
+    -fx-background-radius: 15;       /* 圆角半径 */
+    -fx-border-radius: 15;           /* 边框圆角半径 */
+    -fx-padding: 10;                 /* 内边距（可选） */
+}
+
+.h2-title {
+    -fx-font-size: 25px;               /* 设置字体大小 */
+    -fx-font-weight: bold;             /* 设置字体加粗 */
+    -fx-text-fill: #333333;            /* 设置字体颜色 */
+    -fx-font-family: "Arial", sans-serif; /* 设置字体 */
+    -fx-padding: 10px 0;               /* 设置上下内边距 */
+    -fx-background-color: transparent; /* 背景透明 */
+    -fx-padding: 0 0 0 12px;
+}
+
+.vbox-with-bottom-border {
+    -fx-border-width: 0 0 1px 0;   /* 设置上下左右的边框宽度，只有下边有边框 */
+    -fx-border-color: #A2A9B1;       /* 设置下边框的颜色 */
+    -fx-border-style: solid;       /* 设置边框样式为实线 */
+}
+
+.vbox-with-up-border {
+    -fx-border-width: 1px 0 0 0;   /* 设置上下左右的边框宽度，只有下边有边框 */
+    -fx-border-color: #A2A9B1;       /* 设置下边框的颜色 */
+    -fx-border-style: solid;       /* 设置边框样式为实线 */
+}
+
+.vbox-with-inset {
+    -fx-padding: 0px 10px 10px 10px;  /* 上右下左内边距分别为 10px, 20px, 10px, 20px */
+}
+
+.body1 {
+    -fx-font-family: "SimSun"; 
+    -fx-font-size: 18px;  /* 设置字体大小 */
+    -fx-text-fill: #333333;  /* 设置字体颜色 */
+    -fx-padding: 5px 0;  /* 设置上下内边距 */
+}
+
+.pokemon-main {
+    -fx-border-color: transparent;       /* 边框颜色 */
+    -fx-border-width: 1;  
+    -fx-background-radius: 10;       /* 圆角半径 */
+    -fx-border-radius: 10;           /* 边框圆角半径 */
+    -fx-padding: 2;                 /* 内边距（可选） */
+}
+
+.tit {
+    -fx-font-size: 30px;                 /* 标题大小 */
+    -fx-font-weight: bold;              /* 字体加粗 */
+    -fx-text-fill: #333333;                  /* 字体颜色 */
+}
+
+.buttonE {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-underline: true;
+    -fx-padding: 5px;
+}
+
+/* 鼠标悬停时字体变蓝 */
+.buttonE:hover {
+    -fx-text-fill: #4B90E2;
+}
+
+.type-main {
+    -fx-border-color: transparent;       /* 边框颜色 */
+    -fx-border-width: 1;  
+    -fx-background-radius: 10;       /* 圆角半径 */
+    -fx-border-radius: 10;           /* 边框圆角半径 */
+    -fx-padding: 2;                 /* 内边距（可选） */
+}
+
+.white-bg-black-border {
+    -fx-background-color: white; 
+    -fx-border-width: 1;  
+    -fx-border-color: black;
+}
+
+.slider1 {
+    -default-track-color: -fx-control-inner-background;
+    -track-color: -default-track-color ;
+}
+
+.slider1 .track {
+    -fx-background-color: transparent,
+          linear-gradient(to bottom, derive(-fx-text-box-border, -10%), -fx-text-box-border),
+          -track-color;
+}
+
+.custom-combobox {
+    -fx-background-color: white;       /* 背景色为白色 */
+    -fx-text-fill: black;              /* 文字颜色为黑色 */
+    -fx-border-color: transparent;           /* 边框颜色为黑色 */
+    -fx-border-radius: 3;              /* 边框圆角 */
+    -fx-background-radius: 3;          /* 背景圆角 */
+    -fx-padding: 0 0 0 0;                 /* 上下2px，左右10px */
+    -fx-font-size: 14px;               /* 字体大小 */
+}
+
+.custom-combobox .arrow {
+    -fx-background-color: black;      /* 下拉箭头背景色为黑色 */
+}
+
+.custom-combobox .list-cell {
+    -fx-background-color: white;      /* 下拉选项背景色 */
+    -fx-text-fill: black;             /* 下拉选项文字颜色 */
+    -fx-padding: 0 0 0 3;
+}
+
+.custom-combobox .list-cell:hover {
+    -fx-background-color: lightgray;  /* 鼠标悬停选项的背景色 */
+}
+
+.white-bg-black-border1 {
+    -fx-border-width: 1;  
+    -fx-border-color: black;
+}
+
+.check-box1 {
+    -fx-font-size: 14px; /* 设置文字字体大小 */
+}
+
+.check-box1 .box {
+    -fx-border-color: gray; /* 边框颜色 */
+    -fx-background-color: white; /* 未选中时背景色 */
+}
+
+.check-box1:selected .box {
+    -fx-border-color: gray; /* 选中时边框颜色 */
+    -fx-background-color: white; /* 选中时背景色 */
+}
+
+.check-box1:selected .mark {
+    -fx-background-color: green; /* 勾选标记的颜色 */
+}
+
+.check-box2 {
+    -fx-font-size: 12px; /* 设置文字字体大小 */
+}
+
+.check-box2 .box {
+    -fx-border-color: gray; /* 边框颜色 */
+    -fx-background-color: white; /* 未选中时背景色 */
+}
+
+.check-box2:selected .box {
+    -fx-border-color: gray; /* 选中时边框颜色 */
+    -fx-background-color: white; /* 选中时背景色 */
+}
+
+.check-box2:selected .mark {
+    -fx-background-color: green; /* 勾选标记的颜色 */
+}
+
+.button3 {
+    -fx-background-color: transparent;  /* 设置透明背景 */
+    -fx-border-color: #495467;  /* 设置边框颜色 */
+    -fx-border-width: 2;  /* 设置边框宽度 */
+    -fx-border-radius: 5;  /* 设置边框圆角 */
+    -fx-padding: 5;  /* 设置按钮内边距 */
+    -fx-text-fill: black;  /* 设置文本颜色 */
+    -fx-font-size: 16px;  /* 设置字体大小 */
+}
+.button3:hover {
+    -fx-background-color: rgba(73, 84, 103, 0.1);  /* 设置悬停时的背景色 */
+    -fx-border-color: #4A90E2;  /* 悬停时改变边框颜色 */
+    -fx-text-fill: #4A90E2;  /* 悬停时改变文本颜色 */
+}
+
+
+.button4 {
+    -fx-background-color: #FCCC40; /* 设置背景颜色 */
+    -fx-text-fill: white;        /* 设置字体颜色 */
+    -fx-font-weight: bold;       /* 设置字体加粗（可选） */
+    -fx-padding: 0 4 0 0;          /* 设置按钮内边距（可选） */
+    -fx-border-radius: 5;        /* 圆角边框（可选） */
+    -fx-background-radius: 5;    /* 圆角背景（可选） */
+    -fx-font-size: 16px;
+    -fx-border-width: 2;               /* 边框宽度 */
+    -fx-border-color: transparent;     /* 默认边框颜色为透明 */
+}
+
+.button4:hover {
+    -fx-border-color: gray;            /* hover 时的边框颜色 */
+    -fx-text-fill: #64A1B7;        /* 设置字体颜色 */
+}
+
+.button4:selected {
+    -fx-border-color: black;           /* select 时（焦点）边框颜色 */
+    -fx-text-fill: black;        /* 设置字体颜色 */
+}
+
+.pokemon-main1 {
+    -fx-border-color: black;       /* 边框颜色 */
+    -fx-border-width: 1;  
+    -fx-background-radius: 10;       /* 圆角半径 */
+    -fx-border-radius: 10;           /* 边框圆角半径 */
+    -fx-padding: 2;                 /* 内边距（可选） */
+}
+
+
+.left-region {
+    -fx-border-color: transparent;       /* 边框颜色 */
+    -fx-border-width: 1;  
+    -fx-background-radius: 10 0 0 10; /* 左上和左下圆角，右上和右下无圆角 */
+    -fx-border-radius: 10 0 0 10;     /* 同上 */
+    -fx-padding: 2;                 /* 内边距（可选） */
+}
+
+.right-region {
+    -fx-background-color:white;
+    -fx-border-color: transparent;       /* 边框颜色 */
+    -fx-border-width: 1;  
+    -fx-background-radius: 0 10 10 0; /* 左上和左下圆角，右上和右下无圆角 */
+    -fx-border-radius: 0 10 10 0;     /* 同上 */
+    -fx-padding: 2;                 /* 内边距（可选） */
+}
+
+.h3-title {
+    -fx-font-size: 22px;               /* 设置字体大小 */
+    -fx-font-weight: bold;             /* 设置字体加粗 */
+    -fx-text-fill: #333333;            /* 设置字体颜色 */
+    -fx-padding: 10px 0;               /* 设置上下内边距 */
+    -fx-background-color: transparent; /* 背景透明 */
+    -fx-padding: 0 0 0 0;
+}
+
+/* Minimalist ComboBox 样式 */
+.minimal-combobox {
+    -fx-background-color: #f7f7f7; /* 浅灰背景 */
+    -fx-text-fill: black; /* 深灰文本颜色 */
+    -fx-font-size: 18px; /* 字体大小 */
+    -fx-font-weight: bold;
+    -fx-padding: 5 10; /* 内边距 */
+    -fx-border-radius: 5; /* 轻微圆角 */
+    -fx-background-radius: 5; /* 背景圆角 */
+    -fx-border-color: #495467; /* 浅灰边框 */
+    -fx-border-width: 1; /* 边框宽度 */
+}
+
+/* 悬停效果 */
+.minimal-combobox:hover {
+    -fx-border-color: #4A90E2; /* 边框稍深 */
+}
+
+/* 下拉按钮 */
+.minimal-combobox .arrow-button {
+    -fx-background-color: transparent; /* 按钮透明 */
+}
+
+/* 下拉菜单 */
+.minimal-combobox .combo-box-popup {
+    -fx-background-color: #ffffff; /* 纯白背景 */
+    -fx-border-color: #dcdcdc; /* 浅灰边框 */
+    -fx-border-width: 1; /* 边框宽度 */
+    -fx-padding: 5; /* 内边距 */
+}
+
+/* 下拉选项 */
+.minimal-combobox .list-cell {
+    -fx-background-color: transparent; /* 默认背景透明 */
+    -fx-text-fill: #333333; /* 深灰文本颜色 */
+    -fx-font-size: 18px; /* 字体大小 */
+    -fx-padding: 8 10; /* 内边距 */
+}
+
+/* 悬停选项 */
+.minimal-combobox .list-cell:hover {
+    -fx-background-color: #f0f0f0; /* 浅灰背景 */
+    -fx-text-fill: #000000; /* 黑色文本 */
+}
+
+.bodyA {
+    -fx-font-family: "SimSun"; 
+    -fx-font-size: 19px;  /* 设置字体大小 */
+    -fx-text-fill: #333333;  /* 设置字体颜色 */
+    -fx-padding: 5px 0;  /* 设置上下内边距 */
+}
+
+.hyperlinkA {
+    -fx-font-family: "SimSun";  /* 设置字体 */
+    -fx-font-size: 19px;        /* 设置字体大小 */
+    -fx-text-fill: #0073e6;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+}
+
+.hyperlinkA:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: #005bb5;     /* 鼠标悬停时字体颜色变深 */
+}
+
+
+.hyperlinkB {
+    -fx-font-family: "SimSun";  /* 设置字体 */
+    -fx-font-size: 19px;        /* 设置字体大小 */
+    -fx-text-fill: black;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+}
+
+
+.buttonX {
+    -fx-font-size: 15px;        /* 设置字体大小 */
+    -fx-text-fill: #0073e6;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;           /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+    -fx-background-color: transparent; /* 设置透明背景 */
+    -fx-border: none;           /* 去掉边框 */
+    -fx-cursor: hand;           /* 鼠标悬停时显示手形光标 */
+}
+
+.buttonX:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: #005bb5;     /* 鼠标悬停时字体颜色变深 */
+}
+
+.buttonXX {
+    -fx-font-size: 15px;        /* 设置字体大小 */
+    -fx-text-fill: #333333;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;           /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+    -fx-background-color: transparent; /* 设置透明背景 */
+    -fx-border: none;           /* 去掉边框 */
+    -fx-cursor: hand;           /* 鼠标悬停时显示手形光标 */
+}
+
+.buttonXX:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: black;     /* 鼠标悬停时字体颜色变深 */
+}
+
+
+.buttonN {
+    -fx-font-size: 15px;        /* 设置字体大小 */
+    -fx-text-fill: #333333;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;           /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+    -fx-background-color: transparent; /* 设置透明背景 */
+    -fx-border: none;           /* 去掉边框 */
+}
+
+.buttonU {
+    -fx-font-size: 17px;        /* 设置字体大小 */
+    -fx-text-fill: #0073e6;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;           /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+    -fx-background-color: transparent; /* 设置透明背景 */
+    -fx-border: none;           /* 去掉边框 */
+    -fx-cursor: hand;           /* 鼠标悬停时显示手形光标 */
+}
+
+.buttonU:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: #005bb5;     /* 鼠标悬停时字体颜色变深 */
+}
+
+.hyperlinkC {
+    -fx-font-size: 19px;        /* 设置字体大小 */
+    -fx-text-fill: #0073e6;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+}
+
+.hyperlinkC:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: #005bb5;     /* 鼠标悬停时字体颜色变深 */
+}
+
+.bodyC {
+    -fx-font-size: 19px;  /* 设置字体大小 */
+    -fx-text-fill: #333333;  /* 设置字体颜色 */
+    -fx-padding: 5px 0;  /* 设置上下内边距 */
+}
+
+.hyperlinkB {
+    -fx-font-size: 19px;        /* 设置字体大小 */
+    -fx-text-fill: black;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+}
+
+
+.tooltipX {
+    -fx-background-color: white;
+    -fx-text-fill: #333333;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-padding: 5;
+    -fx-font-size: 15px;
+}
+
+.hyperlinkS {
+    -fx-font-size: 15px;        /* 设置字体大小 */
+    -fx-text-fill: #0073e6;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+}
+
+.hyperlinkS:hover {
+    -fx-underline: true;        /* 鼠标悬停时显示下划线 */
+    -fx-text-fill: #005bb5;     /* 鼠标悬停时字体颜色变深 */
+}
+
+.bodyS {
+    -fx-font-size: 15px;  /* 设置字体大小 */
+    -fx-text-fill: #333333;  /* 设置字体颜色 */
+    -fx-padding: 5px 0;  /* 设置上下内边距 */
+}
+
+.hyperlinkN {
+    -fx-font-size: 19px;        /* 设置字体大小 */
+    -fx-text-fill: #333333;     /* 默认蓝色字体 */
+    -fx-padding: 0 0;         /* 上下内边距 */
+    -fx-underline: false;       /* 默认无下划线 */
+    -fx-cursor: default;
+}
+
+
+.rounded-hboxS {
+    -fx-background-color: transparent;    /* 背景颜色 */
+    -fx-border-color: #495467;       /* 边框颜色 */
+    -fx-border-width: 1;             /* 边框宽度 */
+    -fx-background-radius: 15;       /* 圆角半径 */
+    -fx-border-radius: 15;           /* 边框圆角半径 */
+    -fx-padding: 10;                 /* 内边距（可选） */
+}

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Bonsly","to":"Sudowoodo","conditions":[{"evoConditionType":"move","attackName":"Mimic","additionalProperties":{}}],"evoType":"leveling","moves":["Slam"],"additionalProperties":{}}]}

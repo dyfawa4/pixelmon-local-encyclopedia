@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fe31bf390046c878"]={"json":{"Evolutions":[{"from":"Poltchageist form:counterfeit","item":{"itemID":"pixelmon:unremarkable_teacup","additionalProperties":{}},"to":"Sinistcha form:unremarkable","conditions":[],"evoType":"interact","moves":[],"additionalProperties":{}}]}};

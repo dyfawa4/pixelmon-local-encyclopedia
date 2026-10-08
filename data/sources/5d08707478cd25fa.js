@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d08707478cd25fa"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SSS","RPP","SSS"],"key":{"S":{"item":"pixelmon:white_shard"},"P":{"item":"minecraft:glass_pane"},"R":{"item":"minecraft:sugar_cane"}},"result":{"item":"pixelmon:white_flute","count":1}}};

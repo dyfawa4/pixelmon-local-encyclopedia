@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9e1027f667a041f1"]={"json":{"description":"攻击目标造成伤害。攻击必定击中要害。\n\n除非目标拥有战斗盔甲、硬壳盔甲特性或处于幸运咒语的保护之下。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3912c90ded82c42a"]={"json":{"id":"Krabby","spawnInfos":[{"spec":"species:Krabby","stringLocationTypes":["Seafloor","Land","Rock Smash"],"minLevel":15,"maxLevel":28,"typeID":"pokemon","condition":{"times":["DAWN","MORNING","NIGHT"],"stringBiomes":["minecraft:ocean","minecraft:warm_ocean","beaches"]},"rarity":250.0}]}};

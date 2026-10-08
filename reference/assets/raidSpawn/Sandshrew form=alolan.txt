@@ -1,0 +1,3 @@
+1,2,3=freezingmountains
+1,2,3=freezingplains
+1,2,3=shatteredglacier

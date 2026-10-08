@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-daeabf1b095d8623"]={"json":{"id":"Kabuto","spawnInfos":[{"spec":"species:Kabuto","stringLocationTypes":["Water"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":50.0}]}};

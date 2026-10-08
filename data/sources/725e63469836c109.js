@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:725e63469836c109"]={"json":{"Evolutions":[{"from":"Rellor","to":"Rabsca","conditions":[{"evoConditionType":"blocksWalkedOutsideBall","blocksToWalk":1000,"additionalProperties":{}}],"evoType":"leveling","moves":["Revival Blessing"],"additionalProperties":{}}]}};

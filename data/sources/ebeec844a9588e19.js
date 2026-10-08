@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ebeec844a9588e19"]={"json":{"Name":"ClearBody","Description":"不会因为对手的招式或特性而被降低能力。","Normal":["Tentacool","Tentacruel","Beldum","Metang","Metagross","Regirock","Regice","Registeel","Carbink","Diancie","Dreepy","Drakloak","Dragapult"],"Hidden":["Klink","Klang","Klinklang","Nacli","Naclstack","Garganacl"]}};

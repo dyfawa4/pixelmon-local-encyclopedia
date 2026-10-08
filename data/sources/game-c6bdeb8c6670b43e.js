@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c6bdeb8c6670b43e"]={"json":{"type":"minecraft:crafting_shaped","group":"boat","pattern":["# #","###"],"key":{"#":{"item":"pixelmon:pink_berry_wood_planks"}},"result":{"item":"pixelmon:pink_berry_wood_boat"}}};

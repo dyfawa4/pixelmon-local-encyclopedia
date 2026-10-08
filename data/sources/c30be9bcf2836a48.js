@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c30be9bcf2836a48"]={"json":{"type_id":"simple","id":"tower_master","suffix":"ribbon.tower_master.title","translation_key":"ribbon.tower_master","description":"ribbon.tower_master.description","icon":"pixelmon:textures/gui/ribbons/tower_master.png"}};

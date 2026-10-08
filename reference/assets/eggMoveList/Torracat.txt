@@ -1,0 +1,3 @@
+Fake Out,Raichu form:alolan,Meowth,Meowth form:alolan,Meowth form:galarian,Persian,Persian form:alolan,Seel,Dewgong,Aipom,Sneasel form:hisuian,Nuzleaf,Shiftry,Skitty,Delcatty,Chimchar,Monferno,Infernape,Ambipom,Glameow,Purugly,Purrloin,Liepard,Scraggy,Scrafty,Mienfoo,Mienshao,Espurr,Meowstic,Incineroar,Grookey,Thwackey,Rillaboom,Perrserker,Sneasler
+Parting Shot,Pancham,Pangoro,Incineroar,Thievul
+Power Trip,Zangoose,Piplup,Prinplup,Empoleon,Sandile,Krokorok,Krookodile,Incineroar,Morpeko form:fullbelly,Morpeko form:hangry

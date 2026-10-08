@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ebdc6b454dbedad7"]={"json":{"id":"Meowstic","spawnInfos":[{"spec":"species:Meowstic","stringLocationTypes":["Land"],"minLevel":26,"maxLevel":38,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["roofed","birches"]},"rarity":6.0}]}};

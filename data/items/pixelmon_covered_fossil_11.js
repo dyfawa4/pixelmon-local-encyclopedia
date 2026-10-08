@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_covered_fossil_11"]={"description":"可用||itemButton=pixelmon:fossil_cleaner||处理为||itemButton=pixelmon:bird_fossil||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

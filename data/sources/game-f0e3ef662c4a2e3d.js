@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f0e3ef662c4a2e3d"]={"json":{"type_id":"simple","id":"slump","suffix":"ribbon.slump.title","translation_key":"ribbon.slump","description":"ribbon.slump.description","icon":"pixelmon:textures/gui/ribbons/slump.png"}};

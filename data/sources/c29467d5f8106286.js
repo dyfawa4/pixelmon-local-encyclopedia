@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c29467d5f8106286"]={"json":{"pokemon":"Abomasnow","items":[{"item":"minecraft:snowball","min":1,"max":3,"chance":1.0},{"item":"minecraft:spruce_leaves","min":1,"max":2,"chance":0.5},{"item":"pixelmon:icy_rock","min":1,"max":1,"chance":0.3},{"item":"pixelmon:never_melt_ice","min":1,"max":1,"chance":0.1}]}};

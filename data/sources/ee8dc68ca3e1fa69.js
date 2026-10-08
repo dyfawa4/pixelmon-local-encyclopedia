@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ee8dc68ca3e1fa69"]={"json":{"Evolutions":[{"from":"Slowpoke form:galarian","item":{"itemID":"pixelmon:galarica_wreath","additionalProperties":{}},"to":"Slowking form:galarian","conditions":[],"evoType":"interact","moves":["Eerie Spell"],"additionalProperties":{}}]}};

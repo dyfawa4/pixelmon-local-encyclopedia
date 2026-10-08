@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d70d2dd17d89107c"]={"json":{"id":"Wimpod","spawnInfos":[{"spec":"species:Wimpod","stringLocationTypes":["Land","Seafloor"],"minLevel":15,"maxLevel":29,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["beaches","oceanic","pixelmon:ultra_deep_sea"]},"anticondition":{"stringBiomes":["freezing"]},"rarity":40.0}]}};

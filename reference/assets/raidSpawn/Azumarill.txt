@@ -1,0 +1,3 @@
+3,4=beaches
+3,4=freshwater
+3,4=ultradeepsea

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d788544b36213da3"]={"json":{"id":"Kadabra","spawnInfos":[{"spec":"species:Kadabra","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":26,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:twisted_spoon","percentChance":5}],"condition":{"stringBiomes":["forests","end"]},"rarity":8.0}]}};

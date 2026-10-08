@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:761f5fd3d0be512c"]={"json":{"Evolutions":[{"from":"Gimmighoul form:chest","item":{"itemID":"pixelmon:linking_cord","additionalProperties":{}},"to":"Gholdengo","conditions":[{"evoConditionType":"heldItem","item":{"itemID":"pixelmon:amulet_coin","additionalProperties":{}},"additionalProperties":{}}],"evoType":"interact","additionalProperties":{}}]}};

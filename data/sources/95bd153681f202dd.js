@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:95bd153681f202dd"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MSM","S S","MSM"],"key":{"M":{"item":"pixelmon:shoal_salt"},"S":{"item":"pixelmon:shoal_shell"}},"result":{"item":"pixelmon:shell_bell","count":1}}};

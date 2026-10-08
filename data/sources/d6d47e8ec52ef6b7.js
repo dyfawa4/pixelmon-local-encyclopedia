@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d6d47e8ec52ef6b7"]={"json":{"Name":"TangledFeet","Description":"在混乱状态时，闪避率会提高。","Normal":["Pidgey","Pidgeotto","Pidgeot","Spinda","Chatot","MrRime","Flamigo"],"Hidden":["Doduo","Dodrio"]}};

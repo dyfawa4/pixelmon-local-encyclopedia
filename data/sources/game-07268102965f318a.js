@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-07268102965f318a"]={"json":{"id":"Mega Sceptile","spawnInfos":[{"spec":"species:Sceptile","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["jungles"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

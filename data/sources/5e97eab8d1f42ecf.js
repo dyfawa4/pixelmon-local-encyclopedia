@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5e97eab8d1f42ecf"]={"json":{"Name":"Heatproof","Description":"耐热的体质会让火属性的招式威力减半。","Normal":["Bronzor","Bronzong","Rolycoly"],"Hidden":["Poltchageist form:counterfeit","Poltchageist form:artisan","Sinistcha form:unremarkable","Sinistcha form:masterpiece"]}};

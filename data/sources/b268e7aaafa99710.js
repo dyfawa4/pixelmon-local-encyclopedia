@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b268e7aaafa99710"]={"json":{"Evolutions":[{"from":"Eevee","item":{"itemID":"pixelmon:fire_stone","additionalProperties":{}},"to":"Flareon","conditions":[],"evoType":"interact","moves":["Ember"],"additionalProperties":{}}]}};

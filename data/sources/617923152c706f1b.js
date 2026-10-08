@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:617923152c706f1b"]={"json":{"Evolutions":[{"from":"Fennekin","level":16,"to":"Braixen","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Braixen","level":36,"to":"Delphox","conditions":[],"evoType":"leveling","moves":["Mystical Fire"],"additionalProperties":{}}]}};

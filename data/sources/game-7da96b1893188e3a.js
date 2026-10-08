@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7da96b1893188e3a"]={"json":{"id":"Miraidon","spawnInfos":[{"spec":"species:Miraidon level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:small_end_islands"]},"rarity":2.0}]}};

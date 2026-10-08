@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:86df81924278464d"]={"json":{"Evolutions":[{"from":"Bidoof","level":15,"to":"Bibarel","conditions":[],"evoType":"leveling","moves":["Water Gun"],"additionalProperties":{}}]}};

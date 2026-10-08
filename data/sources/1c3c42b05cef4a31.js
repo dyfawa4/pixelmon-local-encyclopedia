@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1c3c42b05cef4a31"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:orb"},{"item":"pixelmon:fire_stone"}],"result":{"item":"pixelmon:tres_orb"}}};

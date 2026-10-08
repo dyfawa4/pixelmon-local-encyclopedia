@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:56838631bf3eb98b"]={"json":{"Name":"Commander","Description":"出场时，若我方当中有吃吼霸，就会进入其口中，并从其口中发出指令。","Normal":["Tatsugiri form:curly","Tatsugiri form:droopy","Tatsugiri form:stretchy"],"Hidden":[]}};

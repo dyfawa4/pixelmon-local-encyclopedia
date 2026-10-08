@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:curiousmedicine"]={"description":"对战中\r\n当拥有这个特性的宝可梦上场战斗时，能产生将我方宝可梦能力变化复原的效果。","holders":[[199,"galarian",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.CuriousMedicine"}};

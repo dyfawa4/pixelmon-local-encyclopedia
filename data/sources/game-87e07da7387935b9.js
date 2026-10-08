@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-87e07da7387935b9"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_slab","pattern":["###"],"key":{"#":{"item":"pixelmon:green_berry_wood_planks"}},"result":{"item":"pixelmon:green_berry_wood_slab","count":6}}};

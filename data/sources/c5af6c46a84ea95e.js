@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5af6c46a84ea95e"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:magost_berry","count":3},{"item":"pixelmon:incense_burner"}],"results":{"item":"pixelmon:wave_incense"}}};

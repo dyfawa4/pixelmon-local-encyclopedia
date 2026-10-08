@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d7cfda386b67a729"]={"json":{"Evolutions":[{"from":"Shroomish","level":23,"to":"Breloom","conditions":[],"evoType":"leveling","moves":["Mach Punch"],"additionalProperties":{}}]}};

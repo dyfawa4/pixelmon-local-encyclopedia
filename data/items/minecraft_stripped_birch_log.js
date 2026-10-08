@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_stripped_birch_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["minecraft:birch_planks","minecraft:campfire","minecraft:charcoal","minecraft:smoker","minecraft:soul_campfire","minecraft:stripped_birch_wood","pixelmon:bridge_block"],"drops":[],"referenceDrop":{},"special":""};

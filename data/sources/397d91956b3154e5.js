@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:397d91956b3154e5"]={"json":{"Evolutions":[{"from":"Noibat","level":48,"to":"Noivern","conditions":[],"evoType":"leveling","moves":["Dragon Pulse"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Bellsprout","level":21,"to":"Weepinbell","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Weepinbell","item":{"itemID":"pixelmon:leaf_stone","additionalProperties":{}},"to":"Victreebel","conditions":[],"evoType":"interact","moves":["Leaf Tornado"],"additionalProperties":{}}]}

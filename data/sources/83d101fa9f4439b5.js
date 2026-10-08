@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:83d101fa9f4439b5"]={"json":{"id":"Phantump Grass","spawnInfos":[{"spec":"species:Phantump","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["roofed","evil","biomesoplenty:burnt_forest"]},"rarity":110.0}]}};

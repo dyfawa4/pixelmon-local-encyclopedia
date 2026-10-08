@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0b450c40e2b8aea0"]={"text":"对拥有第一特性和第二特性的宝可梦使用，在第一特性和第二特性之间改变。\r\n对只有一种通常特性的宝可梦无法使用。\r\n无法将宝可梦的特性在第一特性、第二特性与隐藏特性、特殊特性之间改变。\r\n无法将||pokemonButton=Zygarde form:fifty_percent||的特性在气场破坏和群聚变形之间切换，因为群聚变形是一个特殊特性。\r\n无法将||pokemonButton=Greninja||的特性变成牵绊变身，因为牵绊变身是一个特殊特性。"};

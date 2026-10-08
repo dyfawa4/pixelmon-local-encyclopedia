@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cbc67f64821f0b78"]={"json":{"type_id":"simple","id":"sleepy_time","suffix":"ribbon.sleepy_time.title","translation_key":"ribbon.sleepy_time","description":"ribbon.sleepy_time.description","icon":"pixelmon:textures/gui/ribbons/sleepy_time.png"}};

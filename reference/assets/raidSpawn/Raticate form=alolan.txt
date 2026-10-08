@@ -1,0 +1,3 @@
+3,4=evil
+3,4=plains
+3,4=roofed

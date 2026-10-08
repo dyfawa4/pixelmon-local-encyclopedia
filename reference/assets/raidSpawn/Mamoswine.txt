@@ -1,0 +1,6 @@
+4,5=freezingmountains
+4,5=freezingocean
+4,5=freezingplains
+4,5=otherfreezing
+4,5=shatteredglacier
+4,5=tundra

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Petilil","item":{"itemID":"pixelmon:sun_stone","additionalProperties":{}},"to":"Lilligant","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"interact","moves":["Petal Dance"],"additionalProperties":{}}]}

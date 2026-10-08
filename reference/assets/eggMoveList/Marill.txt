@@ -1,0 +1,9 @@
+Aqua Jet,Squirtle,Wartortle,Blastoise,Golduck,Seel,Dewgong,Kabuto,Kabutops,Dragonair,Totodile,Croconaw,Feraligatr,Surskit,Masquerain,Empoleon,Bibarel,Buizel,Floatzel,Tirtouga,Carracosta,Ducklett,Swanna,Alomomola,Clauncher,Clawitzer,Popplio,Brionne,Primarina,Quaxly,Quaxwell,Quaquaval
+Belly Drum,Poliwag,Poliwhirl,Poliwrath,Slowbro,Politoed,Slowking,Slowking form:galarian,Clefairy,Clefable,Swirlix,Slurpuff
+Copycat,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Skitty,Plusle,Minun,Flabebe,Floette,Tandemaus,Maushold form:family_four,Maushold form:family_three
+Perish Song,Seel,Dewgong,Lapras,Politoed,Cursola
+Present,Delibird,Raichu form:alolan,Clefairy,Clefable,Chansey,Snubbull,Granbull,Blissey,Audino
+Sing,Lapras,Piplup,Prinplup,Empoleon,Popplio,Brionne,Primarina,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Skitty,Delcatty,Mawile,Plusle,Minun,Snorunt,Glalie,Froslass
+Soak,Psyduck,Golduck,Remoraid,Octillery,Pelipper,Surskit,Masquerain,Buizel,Floatzel,Alomomola,Dewpider,Araquanid,Pyukumuku,Sobble,Drizzile,Inteleon
+Supersonic,Dragonair,Mantine,Mudkip,Marshtomp,Swampert,Wingull,Pelipper,Piplup,Prinplup,Empoleon,Phione,Manaphy,Tympole,Palpitoad,Seismitoad
+Tickle,Lotad,Lombre,Ludicolo,Alomomola,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Cottonee,Whimsicott

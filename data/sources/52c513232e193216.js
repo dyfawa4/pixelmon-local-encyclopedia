@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:52c513232e193216"]={"json":{"id":"Pinsir Sweet Scent","spawnInfos":[{"spec":"species:Pinsir","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAWN","NIGHT","DUSK"],"stringBiomes":["jungles"]},"rarity":9.0}]}};

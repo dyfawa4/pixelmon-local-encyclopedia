@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:35552ec3f4b6140d"]={"text":"minecraft:dark_forest\r\nminecraft:dark_forest_hills\r\nbiomesoplenty:dense_woodland\r\nbyg:the_black_forest\r\nbyg:black_forest_hills\r\nbyg:black_forest_clearing\r\nbyg:ebony_woods\r\nbyg:ebony_hills\r\n"};

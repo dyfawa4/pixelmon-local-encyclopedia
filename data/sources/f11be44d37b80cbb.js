@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f11be44d37b80cbb"]={"json":{"type":"minecraft:crafting_shaped","pattern":["APN","APA","APA"],"key":{"A":{"tag":"forge:ingots/aluminum"},"P":{"tag":"forge:dusts/redstone"},"N":{"item":"minecraft:iron_nugget"}},"result":{"item":"pixelmon:repel","count":1}}};

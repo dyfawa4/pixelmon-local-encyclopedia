@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:stall"]={"description":"对战中\r\n在其他宝可梦使用的招式的优先度与自身使用的招式的优先度相同的情况下，拥有该特性的宝可梦一定后使用招式。当多只宝可梦同时具有该特性时，优先度仍由速度低的先使用招式。\r\n慢出特性在场上宝可梦携带有后攻之尾与饱腹薰香时无效。该特性的宝可梦携带了先制之爪或释陀果并触发时，慢出不影响其效果。\r\n慢出特性的宝可梦与戏法空间同时在场，慢出特性的宝可梦仍最后使用招式。","holders":[[302,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Stall"}};

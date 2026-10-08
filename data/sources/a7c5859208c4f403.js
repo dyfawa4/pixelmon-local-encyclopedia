@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a7c5859208c4f403"]={"json":{"id":"Bewear","spawnInfos":[{"spec":"species:Bewear","stringLocationTypes":["Land"],"minLevel":27,"maxLevel":45,"typeID":"pokemon","condition":{"stringBiomes":["hills"]},"rarity":8.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bbfc46d61f0b207c"]={"json":{"type_id":"simple","id":"battle_royal_master","suffix":"ribbon.battle_royal_master.title","translation_key":"ribbon.battle_royal_master","description":"ribbon.battle_royal_master.description","icon":"pixelmon:textures/gui/ribbons/battle_royal_master.png"}};

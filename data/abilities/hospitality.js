@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:hospitality"]={"description":"对战中\r\n出场时款待同伴，使其回复最大ＨＰ的1⁄4。","holders":[[1012,"counterfeit",false],[1012,"artisan",false],[1013,"unremarkable",false],[1013,"masterpiece",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Hospitality"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:55c9d6670f43d976"]={"json":{"Name":"BattleBond","Description":"打倒对手时，与训练家的牵绊会增强，变为小智版甲贺忍蛙。飞水手里剑的招式威力会增强。","Normal":["Greninja form:battle_bond","Greninja form:ash"],"Hidden":[]}};

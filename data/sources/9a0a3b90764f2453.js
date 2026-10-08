@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9a0a3b90764f2453"]={"json":{"type":"minecraft:crafting_shaped","pattern":["PBP","BCB","PBP"],"key":{"P":{"tag":"forge:ingots/aluminium"},"B":{"item":"minecraft:iron_bars"},"C":{"item":"minecraft:coal"}},"result":{"item":"pixelmon:incense_burner","count":1}}};

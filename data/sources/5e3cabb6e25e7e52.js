@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5e3cabb6e25e7e52"]={"json":{"pokemon":"Exeggutor form:base","items":[{"item":"minecraft:egg","min":1,"max":3,"chance":1.0},{"item":"pixelmon:lum_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:payapa_berry","min":1,"max":1,"chance":0.3},{"item":"pixelmon:grass_gem","min":1,"max":2,"chance":0.1}]}};

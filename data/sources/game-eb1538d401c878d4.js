@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-eb1538d401c878d4"]={"json":{"id":"Aipom","spawnInfos":[{"spec":"species:Aipom","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":5,"maxLevel":30,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["jungles","byg:crag_gardens"]},"rarity":90.0}]}};

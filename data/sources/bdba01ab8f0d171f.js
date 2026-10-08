@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bdba01ab8f0d171f"]={"json":{"type_id":"simple","id":"tough_master","suffix":"ribbon.tough_master.title","translation_key":"ribbon.tough_master","description":"ribbon.tough_master.description","icon":"pixelmon:textures/gui/ribbons/tough_master.png"}};

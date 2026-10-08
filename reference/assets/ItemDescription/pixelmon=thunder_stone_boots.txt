@@ -1,0 +1,2 @@
+穿在脚上时+3护甲，+50%速度。
+穿齐一套||itemButton=pixelmon:thunder_stone||的装备时，玩家会获得急迫III的效果且鞋子会额外增加50%的移速。

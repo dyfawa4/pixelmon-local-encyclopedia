@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ece4c9101db599dd"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:sapphire_block"}],"result":{"item":"pixelmon:sapphire","count":9}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b6b2ac380214be69"]={"json":{"Name":"Sniper","Description":"击中要害时，威力会变得更强。","Normal":["Horsea","Seadra","Remoraid","Octillery","Kingdra","Skorupi","Drapion","Binacle","Barbaracle"],"Hidden":["Beedrill","Spearow","Fearow","Spinarak","Ariados","Sobble","Drizzile","Inteleon"]}};

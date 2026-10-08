@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ba3a935c11c1af7a"]={"json":{"pokemon":"Tirtouga","items":[{"item":"minecraft:granite","min":1,"max":2,"chance":1.0},{"item":"minecraft:scute","min":1,"max":1,"chance":0.5}]}};

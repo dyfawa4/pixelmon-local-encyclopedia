@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d8a25c8472105432"]={"json":{"pokemon":"FlutterMane","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"pixelmon:fairy_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:spell_tag","min":1,"max":1,"chance":0.1}]}};

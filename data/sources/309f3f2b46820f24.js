@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:309f3f2b46820f24"]={"json":{"Name":"Rivalry","Description":"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。","Normal":["Nidoranfemale","Nidorina","Nidoqueen","Nidoranmale","Nidorino","Nidoking","Shinx","Luxio","Luxray","Axew","Fraxure","Haxorus","Litleo","Pyroar"],"Hidden":["Beautifly","Pidove","Tranquill","Unfezant"]}};

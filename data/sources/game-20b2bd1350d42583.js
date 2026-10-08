@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-20b2bd1350d42583"]={"json":{"id":"Kingler","spawnInfos":[{"spec":"species:Kingler","stringLocationTypes":["Seafloor","Land","Rock Smash"],"minLevel":28,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING","NIGHT"],"stringBiomes":["minecraft:ocean","minecraft:warm_ocean","beaches"]},"rarity":8.0}]}};

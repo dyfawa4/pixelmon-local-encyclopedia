@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2d817ac8a02f93e4"]={"json":{"id":"Maschiff","spawnInfos":[{"spec":"species:Maschiff","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":28,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["plains"]},"rarity":90.0}]}};

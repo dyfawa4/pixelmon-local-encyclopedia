@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5511e3f167265a4e"]={"json":{"pokemon":"Meowscarada","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:lily_of_the_valley","min":1,"max":3,"chance":0.5},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9ad45f0b5eb83dee"]={"json":{"Name":"IceBody","Description":"冰雹天气时，会缓缓回复HP。","Normal":["Snorunt","Glalie","Spheal","Sealeo","Walrein","Vanillite","Vanillish","Vanilluxe","Bergmite","Avalugg","Avalugg form:hisuian","Arctovish"],"Hidden":["Seel","Dewgong","MrMime form:galarian","Regice","Glaceon","MrRime","Frigibax","Arctibax","Baxcalibur"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:513774496bd50a71"]={"json":{"Name":"SnowCloak","Description":"冰雹天气时，闪避率会提高。","Normal":["Sandshrew form:alolan","Sandslash form:alolan","Vulpix form:alolan","Ninetales form:alolan","Swinub","Piloswine","Glaceon","Mamoswine","Froslass","Vanillite","Vanillish","Cubchoo","Beartic","Cetoddle"],"Hidden":["Articuno"]}};

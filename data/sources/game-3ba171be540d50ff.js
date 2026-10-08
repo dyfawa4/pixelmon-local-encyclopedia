@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3ba171be540d50ff"]={"json":{"id":"Plusle","spawnInfos":[{"spec":"species:Plusle","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:cell_battery","percentChance":5}],"condition":{"times":["DAWN","MORNING"],"stringBiomes":["plains","birches"]},"rarity":130.0}]}};

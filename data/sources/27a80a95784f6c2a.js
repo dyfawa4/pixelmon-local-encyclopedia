@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27a80a95784f6c2a"]={"json":{"pokemon":"IronTreads","items":[{"item":"minecraft:light_gray_terracotta","min":2,"max":4,"chance":1.0},{"item":"pixelmon:steel_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:soft_sand","min":1,"max":1,"chance":0.1}]}};

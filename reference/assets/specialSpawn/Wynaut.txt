@@ -1,0 +1,1 @@
+通过||pokemonButton=Wobbuffet||携带||itemButton=pixelmon:lax_incense||繁殖可得

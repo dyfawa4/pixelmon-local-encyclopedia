@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-182cf8a2aa1b4ec7"]={"json":{"id":"Furfrou Grass","spawnInfos":[{"spec":"species:Furfrou","stringLocationTypes":["Grass"],"minLevel":42,"maxLevel":56,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["birches","plains"]},"rarity":90.0}]}};

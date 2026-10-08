@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ruby_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:ruby_block"}],"result":{"item":"pixelmon:ruby","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

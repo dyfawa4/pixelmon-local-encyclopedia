@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:468d555d54b741f7"]={"json":{"Evolutions":[{"from":"Numel","level":33,"to":"Camerupt","conditions":[],"evoType":"leveling","moves":["Rock Slide"],"additionalProperties":{}}]}};

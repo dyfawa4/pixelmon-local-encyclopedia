@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd5e82492e76ce32"]={"text":"追踪你垂钓出的||pokemonButton=Magikarp||，||pokemonButton=Clobbopus||，||pokemonButton=Shellos form:west||，||pokemonButton=Shellos form:east||，||pokemonButton=Slugma||，||pokemonButton=Spheal||的花纹进度。具体可见||fishButton=||。"};

@@ -1,0 +1,5 @@
+Counter,Squirtle,Wartortle,Blastoise,Psyduck,Golduck,Poliwhirl,Poliwrath,Slowbro,Totodile,Croconaw,Feraligatr,Politoed,Wooper,Quagsire,Slowking,Marshtomp,Swampert,Lotad,Lombre,Ludicolo,Corphish,Crawdaunt,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Pyukumuku,Chewtle,Drednaw,Quaquaval,Clodsire
+Retaliate,Crawdaunt,Bidoof,Bidoof form:sirdoofusiii,Bibarel,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Inkay,Malamar,Clobbopus,Grapploct
+Spikes,Omanyte,Omastar,Wooper,Wooper form:paldean,Quagsire,Delibird,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Pincurchin,Clodsire
+Switcheroo,Buizel,Floatzel,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Inkay,Malamar
+Toxic Spikes,Omanyte,Omastar,Wooper form:paldean,Quagsire,Slowking form:galarian,Froakie,Frogadier,Greninja,Greninja form:battle_bond,Skrelp,Dragalge,Mareanie,Toxapex,Pincurchin,Clodsire

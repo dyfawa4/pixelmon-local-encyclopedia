@@ -1,0 +1,4 @@
+minecraft:stone_shore
+biomesoplenty:gravel_beach
+byg:basalt_barrera
+byg:rocky_beach

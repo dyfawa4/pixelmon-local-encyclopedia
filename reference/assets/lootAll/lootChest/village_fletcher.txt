@@ -1,0 +1,15 @@
+pixelmon:sharp_beak=6.25%=1-1
+pixelmon:pretty_feather=52.73%=1-1
+pixelmon:health_feather=12.11%=1-1
+pixelmon:muscle_feather=12.11%=1-1
+pixelmon:resist_feather=12.11%=1-1
+pixelmon:genius_feather=12.11%=1-1
+pixelmon:clever_feather=12.11%=1-1
+pixelmon:swift_feather=12.11%=1-1
+pixelmon:flying_gem=42.19%=1-3
+pixelmon:steel_gem=22.98%=1-3
+minecraft:arrow=24.18%=1-3
+minecraft:feather=57.52%=1-3
+minecraft:egg=24.18%=1-3
+minecraft:flint=57.52%=1-3
+minecraft:stick=57.52%=1-3

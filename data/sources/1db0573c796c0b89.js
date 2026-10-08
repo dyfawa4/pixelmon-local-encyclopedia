@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1db0573c796c0b89"]={"json":{"pokemon":"Arctovish","items":[{"item":"minecraft:cod","min":1,"max":2,"chance":1.0},{"item":"minecraft:blue_ice","min":1,"max":2,"chance":0.5},{"item":"minecraft:bone_block","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:31c512faba2cbf31"]={"json":{"Name":"QuickDraw","Description":"有时能比对手先一步出手。","Normal":["Slowbro form:galarian"],"Hidden":[]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8b228eafe13a1c54"]={"json":{"pokemon":"Aegislash","items":[{"item":"minecraft:iron_ingot","min":2,"max":4,"chance":1.0},{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":0.5},{"item":"pixelmon:platinum_ingot","min":1,"max":3,"chance":0.3},{"item":"pixelmon:spell_tag","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cb79a94e0351a992"]={"json":{"pokemon":"Stoutland","items":[{"item":"minecraft:bone","min":1,"max":3,"chance":1.0},{"item":"minecraft:leather","min":1,"max":2,"chance":0.5},{"item":"minecraft:mutton","min":1,"max":2,"chance":0.3},{"item":"pixelmon:normal_gem","min":1,"max":2,"chance":0.1}]}};

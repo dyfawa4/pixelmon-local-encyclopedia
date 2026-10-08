@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dc08e429c34cd775"]={"json":{"id":"Obstagoon","spawnInfos":[{"spec":"species:Obstagoon","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["plains","minecraft:snowy_tundra","biomesoplenty:tundra","biomesoplenty:tundra_basin","biomesoplenty:tundra_bog"]},"rarity":1.0}]}};

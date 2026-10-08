@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-756f0ae9a35a2e71"]={"json":{"id":"Leavanny","spawnInfos":[{"spec":"species:Leavanny","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":45,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:mental_herb","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["forests","flowery"]},"rarity":0.5}]}};

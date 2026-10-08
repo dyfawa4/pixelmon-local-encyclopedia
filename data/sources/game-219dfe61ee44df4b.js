@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-219dfe61ee44df4b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["AAA","AAA","RGR"],"key":{"A":{"tag":"forge:ingots/aluminium"},"G":{"item":"minecraft:glass_pane"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:fossil_cleaner","count":1}}};

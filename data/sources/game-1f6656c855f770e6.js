@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1f6656c855f770e6"]={"json":{"id":"Spiritomb Grass","spawnInfos":[{"spec":"species:Spiritomb","stringLocationTypes":["Grass"],"minLevel":30,"maxLevel":45,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["roofed"]},"rarityMultipliers":[{"multiplier":2,"condition":{"times":["MIDNIGHT"]}}],"rarity":0.5}]}};

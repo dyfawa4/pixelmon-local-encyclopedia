@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4c22d07814c90136"]={"json":{"id":"Stakataka","spawnInfos":[{"spec":"species:Stakataka","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_plant"]},"rarity":0.5}]}};

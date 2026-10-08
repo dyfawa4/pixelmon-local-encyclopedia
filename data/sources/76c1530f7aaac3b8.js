@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:76c1530f7aaac3b8"]={"json":{"Evolutions":[{"from":"Poltchageist form:artisan","item":{"itemID":"pixelmon:masterpiece_teacup","additionalProperties":{}},"to":"Sinistcha form:masterpiece","conditions":[],"evoType":"interact","moves":[],"additionalProperties":{}}]}};

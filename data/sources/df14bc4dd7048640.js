@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:df14bc4dd7048640"]={"json":{"attack":"向对手投掷掀起暴风雪的冰矛进行攻击。","description":"攻击目标造成伤害。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":["Calyrex form:icerider"],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

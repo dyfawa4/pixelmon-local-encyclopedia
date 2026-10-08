@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f360c3798a848763"]={"json":{"rewards":{"recipes":["pixelmon:repel"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:repel"}},"has_ingot":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"tag":"forge:ingots/aluminum"}]}}},"requirements":[["has_the_recipe","has_ingot"]]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8fa2c6b058940355"]={"json":{"id":"Lileep","spawnInfos":[{"spec":"species:Lileep","stringLocationTypes":["Seafloor"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":50.0}]}};

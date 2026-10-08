@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:236ac0d668bae0e9"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M M","MMM","MMM"],"key":{"M":{"tag":"forge:gems/ruby"}},"result":{"item":"pixelmon:ruby_plate","count":1}}};

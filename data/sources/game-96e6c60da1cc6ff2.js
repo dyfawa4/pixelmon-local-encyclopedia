@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-96e6c60da1cc6ff2"]={"json":{"id":"Excadrill","spawnInfos":[{"spec":"species:Excadrill","stringLocationTypes":["Underground"],"minLevel":32,"maxLevel":44,"typeID":"pokemon","condition":{"maxY":80},"anticondition":{"stringBiomes":["ultra space"]},"rarity":6.0}]}};

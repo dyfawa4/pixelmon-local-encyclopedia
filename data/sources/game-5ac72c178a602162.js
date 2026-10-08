@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5ac72c178a602162"]={"json":{"id":"Maractus Sweet Scent","spawnInfos":[{"spec":"species:Maractus","stringLocationTypes":["Sweet Scent"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:miracle_seed","percentChance":5}],"condition":{"times":["DAWN","DAY"],"stringBiomes":["arid","minecraft:badlands"]},"rarity":80.0}]}};

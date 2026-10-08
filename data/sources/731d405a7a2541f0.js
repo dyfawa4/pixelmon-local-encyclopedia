@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:731d405a7a2541f0"]={"json":{"pokemon":"Urshifu form:rapidstrike","items":[{"item":"minecraft:sugar_cane","min":2,"max":4,"chance":1.0},{"item":"minecraft:bamboo","min":1,"max":3,"chance":0.5},{"item":"pixelmon:water_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:expert_belt","min":1,"max":1,"chance":0.1}]}};

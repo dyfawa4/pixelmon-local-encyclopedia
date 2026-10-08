@@ -1,0 +1,3 @@
+5=badlands
+5=mountainous
+5=ultracrater

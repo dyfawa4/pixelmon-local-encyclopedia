@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:780c87ba50f864de"]={"json":{"id":"Spidops","spawnInfos":[{"spec":"species:Spidops","stringLocationTypes":["Land","Tree Top"],"minLevel":22,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["all forests"]},"rarity":10.0}]}};

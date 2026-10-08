@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0e75631ef8c8474d"]={"json":{"Evolutions":[{"from":"Burmy form:plant","level":20,"to":"Wormadam form:plant","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"leveling","moves":["Quiver Dance"],"additionalProperties":{}}]}};

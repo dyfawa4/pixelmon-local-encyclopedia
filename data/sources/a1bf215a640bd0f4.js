@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a1bf215a640bd0f4"]={"json":{"id":"Minun","spawnInfos":[{"spec":"species:Minun","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:cell_battery","percentChance":5}],"condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["plains","birches"]},"rarity":130.0}]}};

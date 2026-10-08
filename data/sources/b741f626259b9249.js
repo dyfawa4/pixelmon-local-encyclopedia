@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b741f626259b9249"]={"json":{"type":"minecraft:chest","pools":[{"rolls":1,"entries":[{"type":"minecraft:loot_table","weight":7,"name":"minecraft:chests/abandoned_mineshaft"},{"type":"minecraft:loot_table","weight":1,"name":"pixelmon:chests/ultraspace/crater_geyser"}]}]}};

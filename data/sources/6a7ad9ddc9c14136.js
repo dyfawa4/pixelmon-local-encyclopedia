@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6a7ad9ddc9c14136"]={"json":{"pokemon":"Xerneas","items":[{"item":"minecraft:dark_oak_leaves","min":2,"max":4,"chance":1.0},{"item":"pixelmon:kebia_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fairy_gem","min":1,"max":1,"chance":0.3},{"item":"minecraft:nether_star","min":1,"max":1,"chance":0.1}]}};

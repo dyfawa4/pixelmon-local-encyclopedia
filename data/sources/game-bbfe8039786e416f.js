@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bbfe8039786e416f"]={"json":{"id":"Espurr","spawnInfos":[{"spec":"species:Espurr","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["roofed","birches"]},"rarity":90.0}]}};

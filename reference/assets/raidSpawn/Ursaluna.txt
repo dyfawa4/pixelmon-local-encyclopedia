@@ -1,0 +1,2 @@
+5=swamps
+5=ultraforest

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4c9555e2ded82d7f"]={"json":{"id":"Grubbin Forage","spawnInfos":[{"spec":"species:Grubbin","stringLocationTypes":["Forage"],"minLevel":5,"maxLevel":19,"typeID":"pokemon","condition":{"stringBiomes":["jungles"]},"rarity":10.0}]}};

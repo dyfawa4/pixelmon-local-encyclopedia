@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-20aa3804f51c38b8"]={"json":{"id":"Mega Abomasnow","spawnInfos":[{"spec":"species:Abomasnow","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["freezing forests","freezing mountains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

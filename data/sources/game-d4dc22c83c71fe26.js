@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d4dc22c83c71fe26"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"psychic.png"}],"names":[{"name":"讀心者"}],"chat":[{"opening":"我預見了一場勝利將很快到來...","win":"稍早預見的勝利是屬於我的！","lose":"看樣子你是勝利者..."}]}};

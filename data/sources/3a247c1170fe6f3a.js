@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3a247c1170fe6f3a"]={"json":{"pokemon":"Rhyperior","items":[{"item":"minecraft:granite","min":2,"max":4,"chance":1.0},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":3,"chance":0.5},{"item":"pixelmon:assault_vest","min":1,"max":1,"chance":0.3},{"item":"pixelmon:protector","min":1,"max":1,"chance":0.1}]}};

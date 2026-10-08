@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0a1b03c492b984cf"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:ghast"],"replacement_logic":"simple","specs":["weezing","gastly","koffing"]}};

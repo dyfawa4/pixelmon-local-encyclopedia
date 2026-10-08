@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fc6372a3b00c40c1"]={"json":{"pokemon":"Shieldon","items":[{"item":"minecraft:stone","min":1,"max":2,"chance":1.0},{"item":"minecraft:iron_ingot","min":1,"max":1,"chance":0.5},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":1,"chance":0.3},{"item":"pixelmon:assault_vest","min":1,"max":1,"chance":0.1}]}};

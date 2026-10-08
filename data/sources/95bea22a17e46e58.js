@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:95bea22a17e46e58"]={"json":{"attack":"极巨化宝可梦使出的虫属性攻击。会降低对手的特攻。","description":"攻击目标造成伤害。\n令全部对手宝可梦的特攻降低1级。该效果无视对手的替身。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

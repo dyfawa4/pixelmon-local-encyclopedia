@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4129709adb61af90"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:witch"],"replacement_logic":"simple","specs":["mismagius","hatterene"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:merciless"]={"description":"对战中\r\n拥有该特性的宝可梦每次攻击中毒的目标时，都会击中要害。对拥有战斗盔甲和硬壳盔甲特性的宝可梦为目标使用招式则不会触发该特性。","holders":[[747,"",false],[748,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Merciless"}};

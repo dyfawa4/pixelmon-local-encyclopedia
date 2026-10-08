@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:ironbarbs"]={"description":"对战中\r\n受到接触类招式攻击时对手会损失最大体力的1⁄8。\r\n\r\n连续招式的每一击都会触发此特性。\r\n有铁刺特性的宝可梦使用守住并被攻击方使用Ｚ招式攻击时，铁刺特性不会发动。","holders":[[597,"",false],[598,"",false],[777,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.IronBarbs"}};

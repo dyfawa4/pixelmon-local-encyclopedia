@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c46976cfdd4ac2f0"]={"text":"||pokemonButton=TapuKoko||、||pokemonButton=TapuLele||、||pokemonButton=TapuBulu||、||pokemonButton=TapuFini||携带后，可以把||moveButton=Nature's Madness||转化成特殊的Z招式：||moveButton=Guardian of Alola||。"};

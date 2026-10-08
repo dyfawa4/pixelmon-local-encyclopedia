@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-deb7385a4a8f8ac4"]={"json":{"id":"PorygonZ","spawnInfos":[{"spec":"species:Porygon-Z palette:alter","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":40,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_plant"]},"rarity":0.5}]}};

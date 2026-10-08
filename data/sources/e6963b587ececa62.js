@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e6963b587ececa62"]={"json":{"pokemon":"Kilowattrel","items":[{"item":"minecraft:feather","min":1,"max":3,"chance":1.0},{"item":"minecraft:cod","min":1,"max":2,"chance":0.5},{"item":"pixelmon:swift_feather","min":1,"max":1,"chance":0.1}]}};

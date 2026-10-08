@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a0b2b533f20208b9"]={"json":{"id":"Whirlipede","spawnInfos":[{"spec":"species:Whirlipede","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":22,"maxLevel":29,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:poison_barb","percentChance":5}],"condition":{"times":["AFTERNOON","DUSK","NIGHT"],"stringBiomes":["jungles"]},"rarity":40.0}]}};

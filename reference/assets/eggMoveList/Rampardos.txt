@@ -1,0 +1,4 @@
+Hammer Arm,Rhydon,Snorlax,Swampert,Cranidos,Rampardos,Rhyperior
+Stomp,Slowbro,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Slowking,Slowking form:galarian,Larvitar,Pupitar,Marshtomp,Swampert,Whismur,Loudred,Exploud,Tropius,Cranidos,Rampardos,Snover,Abomasnow,Lickilicky,Rhyperior,Tyrunt,Tyrantrum
+Thrash,Cubone,Marowak,Marowak form:alolan,Rhyhorn,Rhydon,Totodile,Croconaw,Feraligatr,Larvitar,Pupitar,Tyranitar,Turtwig,Grotle,Torterra,Cranidos,Rampardos,Gabite,Rhyperior,Tyrunt,Tyrantrum
+Whirlwind,Snorlax,Tropius,Cranidos,Rampardos

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27d161c020b18126"]={"json":{"id":"Vullaby","spawnInfos":[{"spec":"species:Vullaby","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":42,"maxLevel":53,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK","NIGHT"],"stringBiomes":["arid","mesas","evil","savannas"]},"rarity":130.0}]}};

@@ -1,0 +1,30 @@
+taigas:针叶林类
+beaches:沙滩类
+plains:平原类
+oceanic:海洋类
+end:末地类
+birches:桦木林类
+mushroom:蘑菇岛类
+arid:沙漠类
+savannas:热带草原类
+mesas:粘土山类
+hellish:地狱类
+flowery:花田类
+swamps:沼泽类
+lakes:大湖类
+freezing mountains:冰山类
+mountainous forests:山林类
+jungles:丛林类
+forests:林地类
+magical:奇妙类
+mountainous:高山类
+freezing:寒冷类
+redwoods:红树林类
+roofed:黑森林类
+clearings:林中空地类
+all forests:所有森林
+hills:丘陵类
+ultra space:究极空间
+evil:荒芜类
+freezing forests:冻林类
+drowned:溺水世界

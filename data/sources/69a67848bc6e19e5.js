@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:69a67848bc6e19e5"]={"json":{"pokemon":"Gourgeist","items":[{"item":"minecraft:pumpkin_seeds","min":2,"max":3,"chance":1.0},{"item":"minecraft:pumpkin","min":1,"max":2,"chance":0.5},{"item":"minecraft:jack_o_lantern","min":1,"max":2,"chance":0.3},{"item":"pixelmon:big_root","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_birch_door"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","group":"wooden_door","pattern":["##","##","##"],"key":{"#":{"item":"minecraft:birch_planks"}},"result":{"item":"minecraft:birch_door","count":3},"source":"data/minecraft/recipes/birch_door.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

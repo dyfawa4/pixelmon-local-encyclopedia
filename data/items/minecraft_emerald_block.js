@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_emerald_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:emerald"}},"result":{"item":"minecraft:emerald_block"},"source":"data/minecraft/recipes/emerald_block.json"}],"appRecipe":{},"usedIn":["minecraft:emerald"],"drops":[],"referenceDrop":{},"special":""};

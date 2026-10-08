@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f10e135c0e45435f"]={"json":{"Evolutions":[{"from":"Phanpy","level":25,"to":"Donphan","conditions":[],"evoType":"leveling","moves":["Fury Attack"],"additionalProperties":{}}]}};

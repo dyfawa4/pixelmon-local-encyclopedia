@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d8c4e37d32d59571"]={"json":{"id":"Burmy","spawnInfos":[{"spec":"species:Burmy","stringLocationTypes":["Land","Headbutt"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["DAWN","DAY","DUSK"],"stringBiomes":["forests","roofed"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["CLEAR"]}}],"rarity":250.0}]}};

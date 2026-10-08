@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bdf4447bd52146a7"]={"json":{"Evolutions":[{"from":"Meltan","to":"Melmetal","conditions":[{"evoConditionType":"nuggets","nuggets":400,"additionalProperties":{}}],"evoType":"leveling","moves":["Thunder Punch"],"additionalProperties":{}}]}};

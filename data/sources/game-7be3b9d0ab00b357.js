@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7be3b9d0ab00b357"]={"json":{"id":"Steelix","spawnInfos":[{"spec":"species:Steelix","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":60,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_crater"]},"rarity":5.0}]}};

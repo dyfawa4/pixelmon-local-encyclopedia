@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-43dca558a6948768"]={"json":{"id":"Combusken","spawnInfos":[{"spec":"species:Combusken","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":35,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas"]},"rarity":1.0}]}};

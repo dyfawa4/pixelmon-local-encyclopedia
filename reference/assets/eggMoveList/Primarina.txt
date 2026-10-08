@@ -1,0 +1,3 @@
+Aqua Ring,Squirtle,Wartortle,Blastoise,Seel,Dewgong,Marill,Azumarill,Corsola,Mantine,Pelipper,Milotic,Gorebyss,Piplup,Prinplup,Empoleon,Buizel,Floatzel,Phione,Manaphy,Tympole,Palpitoad,Seismitoad,Ducklett,Swanna,Alomomola,Dewpider,Araquanid,Cramorant,Vaporeon
+Life Dew,Squirtle,Wartortle,Blastoise,Lapras,Corsola,Milotic,Lucario
+Perish Song,Seel,Dewgong,Lapras,Politoed,Cursola,Absol

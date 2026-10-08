@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5e2186106803fb1c"]={"json":{"pokemon":"Salazzle","items":[{"item":"minecraft:blaze_powder","min":2,"max":4,"chance":1.0},{"item":"pixelmon:shuca_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:toxic_orb","min":1,"max":1,"chance":0.3},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.1}]}};

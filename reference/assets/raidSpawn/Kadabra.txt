@@ -1,0 +1,3 @@
+2,3=end
+2,3=forests
+2,3=roofed

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0cc8ddbf9149cb73"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"engineer.png"},{"filename":"hiker.png"},{"filename":"miner.png"}],"names":[{"name":"Worker"}],"chat":[{"opening":"Ti mostrerò quanto sono dure le rocce.","win":"Questa situazione è rocciosa.","lose":"Sono un uomo duro!"}]}};

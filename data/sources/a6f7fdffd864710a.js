@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a6f7fdffd864710a"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" s ","gdg","gcg"],"key":{"g":{"item":"minecraft:glass"},"c":{"item":"pixelmon:crystal_block"},"s":{"tag":"minecraft:wooden_slabs"},"d":{"item":"minecraft:glowstone_dust"}},"result":{"item":"tcg:essence_jar","count":1,"nbt":{"BlockEntityTag":{}}}}};

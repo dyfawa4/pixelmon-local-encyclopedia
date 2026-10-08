@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a75e6ed5552807d0"]={"json":{"id":"Dracozolt","spawnInfos":[{"spec":"species:Dracozolt","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":10.0}]}};

@@ -1,0 +1,3 @@
+3,4=freezingforests
+3,4=mountainousforests
+3,4=mountainous

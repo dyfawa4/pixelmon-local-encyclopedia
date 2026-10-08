@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8b00e27460818bae"]={"json":{"npctype":"chat","skins":[{"filename":"blacksmith.png"}],"names":[{"name":"Ilfred"}],"chat":[{"lines":[{"text":"Bienvennido al Gimnasio Roca."},{"text":"¡Nuestro Líder de gimnasio te hará caer!"},{"text":"Cuando creas que lo has logrado, la batalla no habrá hecho más que empezar."}]}]}};

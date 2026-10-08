@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f36cef818e79804"]={"json":{"pokemon":"Flamigo","items":[{"item":"minecraft:feather","min":2,"max":3,"chance":1.0},{"item":"minecraft:egg","min":1,"max":2,"chance":0.5},{"item":"minecraft:nautilus_shell","min":1,"max":1,"chance":0.1}]}};

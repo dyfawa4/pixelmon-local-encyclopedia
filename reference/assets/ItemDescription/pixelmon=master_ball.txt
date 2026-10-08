@@ -1,0 +1,2 @@
+捕捉宝可梦必中。
+亲代的||itemButton=pixelmon:master_ball||不能遗传至子代，孵化出来宝可梦的球种是||itemButton=pixelmon:poke_ball||。

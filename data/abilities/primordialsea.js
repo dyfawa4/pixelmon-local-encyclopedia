@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:primordialsea"]={"description":"对战中\r\n当拥有该特性的宝可梦登场时，天气转为大雨，直到该宝可梦离场、失去该特性，或被德尔塔气流或终结之地覆盖。\r\n大雨无法被更改为其他天气，除非是因为德尔塔气流或终结之地。","holders":[[382,"primal",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PrimordialSea"}};

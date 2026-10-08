@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b3920aa776845104"]={"json":{"id":"Fidough","spawnInfos":[{"spec":"species:Fidough","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["plains"]},"rarity":100.0}]}};

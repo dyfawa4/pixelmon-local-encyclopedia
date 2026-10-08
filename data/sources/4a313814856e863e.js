@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4a313814856e863e"]={"text":"Glare,Ekans,Arbok,Seviper,Drampa,Silicobra,Sandaconda\r\nNight Slash,Grovyle,Sceptile,Seviper,Axew,Fraxure\r\nPoison Tail,Ekans,Arbok,Seviper,Skrelp,Dragalge,Goomy,Sliggoo,Goodra,Salandit,Salazzle,Silicobra,Sandaconda\r\nSucker Punch,Ekans,Arbok,Seviper,Dreepy,Drakloak,Dragapult,Dipplin,Nidoranfemale,Kangaskhan\r\n"};

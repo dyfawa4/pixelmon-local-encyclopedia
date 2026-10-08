@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6f83fa75361714eb"]={"json":{"pokemon":"Luxray","items":[{"item":"minecraft:redstone","min":1,"max":4,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":3,"chance":0.5},{"item":"pixelmon:electric_gem","min":1,"max":1,"chance":0.1}]}};

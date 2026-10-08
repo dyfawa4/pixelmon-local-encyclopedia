@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:779705feb4ce2197"]={"json":{"id":"Skiploom","spawnInfos":[{"spec":"species:Skiploom","stringLocationTypes":["Air"],"minLevel":18,"maxLevel":26,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["flowery","plains"]},"rarity":40.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:30406a03ca6d2564"]={"json":{"id":"Thwackey","spawnInfos":[{"spec":"species:Thwackey","stringLocationTypes":["Tree Top"],"minLevel":16,"maxLevel":34,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":0.5}]}};

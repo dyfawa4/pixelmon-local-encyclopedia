@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_diamond_hourglass"]={"description":"只有创造模式能够获得，使用它完成培育屋中三组盒子的所有需求和所需时间并给予他们完美个体值，最大亲密度，以及一个奖章。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

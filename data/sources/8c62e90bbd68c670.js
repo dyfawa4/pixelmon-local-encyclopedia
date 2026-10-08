@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8c62e90bbd68c670"]={"json":{"pokemon":"Dodrio","items":[{"item":"minecraft:egg","min":1,"max":3,"chance":1.0},{"item":"minecraft:chicken","min":1,"max":3,"chance":0.5},{"item":"pixelmon:sharp_beak","min":1,"max":1,"chance":0.3},{"item":"pixelmon:swift_feather","min":1,"max":1,"chance":0.1}]}};

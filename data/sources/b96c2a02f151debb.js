@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b96c2a02f151debb"]={"text":"敲击野生的||itemButton=pixelmon:tumblestone||来获得||itemButton=pixelmon:raw_tumblestone||。当挖掘石头时，可以将周围3x3x1的区域一并挖碎，但比相同的镐子慢4倍。\r\n挖掘等级和钻石制工具一样。攻击伤害为7，攻击速度为2。\r\n用它右键水源可将其变为黑曜石。"};

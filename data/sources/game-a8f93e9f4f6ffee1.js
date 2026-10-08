@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a8f93e9f4f6ffee1"]={"json":{"id":"Turtwig","spawnInfos":[{"spec":"species:Turtwig","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":13,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["forests","roofed","redwoods"]},"rarity":10.0}]}};

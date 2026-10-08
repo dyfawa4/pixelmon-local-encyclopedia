@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4783bac4284b5dca"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SSS","S S","SSS"],"key":{"S":{"item":"pixelmon:galarica_twig"}},"result":{"item":"pixelmon:galarica_cuff","count":1}}};

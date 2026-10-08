@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a6cc1ded4a314299"]={"json":{"id":"Rotom Grass","spawnInfos":[{"spec":"species:Rotom","stringLocationTypes":["Grass"],"minLevel":13,"maxLevel":27,"typeID":"pokemon","condition":{"times":["MIDNIGHT"],"stringBiomes":["roofed"]},"rarity":5.0}]}};

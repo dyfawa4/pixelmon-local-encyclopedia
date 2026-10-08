@@ -1,0 +1,2 @@
+2,3=deserts
+3,4=ultradesert

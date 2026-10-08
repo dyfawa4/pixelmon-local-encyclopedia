@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:intrepidsword"]={"description":"对战中\r\n出场时，自身的攻击上升1级。\r\n每只宝可梦一场战斗中仅能发动1次。","holders":[[888,"hero",false],[888,"crowned",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.IntrepidSword"}};

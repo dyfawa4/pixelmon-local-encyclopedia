@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3ec2370a91bd7b6e"]={"json":{"id":"Scizor","spawnInfos":[{"spec":"species:Scizor","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:metal_coat","percentChance":5}],"condition":{"times":["DAWN","DAY"],"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":5.0}]}};

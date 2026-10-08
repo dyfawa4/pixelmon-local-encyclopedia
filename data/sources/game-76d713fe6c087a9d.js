@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-76d713fe6c087a9d"]={"json":{"id":"Registeel","spawnInfos":[{"spec":"species:Registeel level:40","stringLocationTypes":["Underground"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["arid"],"maxY":50},"rarity":3.0}]}};

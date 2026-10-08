@@ -1,0 +1,5 @@
+1,2,3=birches
+1,2,3=magical
+1,2,3=mushroom
+1,2,3=redwoods
+1,2,3=taigas

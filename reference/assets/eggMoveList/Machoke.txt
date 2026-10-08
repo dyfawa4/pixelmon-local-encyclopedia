@@ -1,0 +1,5 @@
+Bullet Punch,Hitmonlee,Hitmonchan,Hitmontop,Makuhita,Hariyama,Meditite,Medicham,Lucario,Pangoro
+Counter,Abra,Kadabra,Alakazam,Machop,Machoke,Machamp,Drowzee,Hypno,Hitmonlee,Hitmonchan,MrMime,Jynx,Electabuzz,Magmar,Hitmontop,Makuhita,Hariyama,Sableye,Meditite,Medicham,Volbeat,Illumise,Spinda,Cacnea,Cacturne,Chimchar,Monferno,Infernape,Lucario,Electivire,Magmortar,Timburr,Gurdurr,Conkeldurr,Sawk,Scorbunny,Raboot,Cinderace
+Quick Guard,Hitmonchan,MrMime,Hitmontop,Meditite,Medicham,Chimchar,Monferno,Infernape,Lucario,Gallade,Sawk,Mienfoo,Mienshao,Ceruledge
+Submission,Abra,Kadabra,Alakazam,Machop,Machoke,Machamp,Drowzee,Hypno,Hitmonlee,Hitmonchan,MrMime,Jynx,Electabuzz,Magmar,Chimchar,Monferno,Infernape,Electivire,Magmortar,Hawlucha,Clobbopus,Grapploct
+Tickle,Sableye,Gothita,Gothorita,Gothitelle

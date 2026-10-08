@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-84ac50acd7c4ef52"]={"json":{"type":"minecraft:crafting_shaped","pattern":["w w","www","sss"],"key":{"w":{"item":"minecraft:purple_wool"},"s":{"tag":"minecraft:planks"}},"result":{"item":"pixelmon:purple_couch","count":1}}};

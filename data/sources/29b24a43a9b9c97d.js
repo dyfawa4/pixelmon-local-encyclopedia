@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:29b24a43a9b9c97d"]={"json":{"Evolutions":[{"from":"Spinarak","level":22,"to":"Ariados","conditions":[],"evoType":"leveling","moves":["Swords Dance"],"additionalProperties":{}}]}};

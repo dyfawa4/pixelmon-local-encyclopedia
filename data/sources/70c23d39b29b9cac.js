@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:70c23d39b29b9cac"]={"text":"Discharge,Joltik,Galvantula,Charjabug,Vikavolt\r\nHarden,Metapod,Butterfree,Kakuna,Pinsir,Gligar,Heracross,Silcoon,Cascoon,Nincada,Ninjask,Gliscor,Larvesta,Volcarona,Spewpa,Vikavolt\r\n"};

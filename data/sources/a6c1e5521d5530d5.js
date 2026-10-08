@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a6c1e5521d5530d5"]={"json":{"pokemon":"Gurdurr","items":[{"item":"minecraft:iron_bars","min":1,"max":2,"chance":1.0},{"item":"minecraft:iron_ingot","min":1,"max":2,"chance":0.5},{"item":"pixelmon:muscle_band","min":1,"max":1,"chance":0.1}]}};

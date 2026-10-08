@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f205e13befa8ee75"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:skeleton","minecraft:wither_skeleton"],"replacement_logic":"simple","specs":["cubone"]}};

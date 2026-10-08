@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3327a1bc99b582f0"]={"json":{"pokemon":"Gyarados","items":[{"item":"minecraft:cod","min":1,"max":3,"chance":1.0},{"item":"minecraft:salmon","min":1,"max":2,"chance":0.5},{"item":"pixelmon:raw_sky_tumblestone","min":1,"max":3,"chance":0.3},{"item":"pixelmon:deep_sea_tooth","min":1,"max":1,"chance":0.1}]}};

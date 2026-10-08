@@ -1,0 +1,6 @@
+Clear Smog,Grimer form:alolan,Gastly,Haunter,Koffing,Weezing,Weezing form:galarian,Slugma,Magcargo,Gulpin,Swalot
+Defog,Weezing form:galarian,Castform,Chimecho,Rotom,Rotom form:heat,Rotom form:wash,Rotom form:frost,Rotom form:fan,Rotom form:mow
+Disable,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Ralts,Kirlia,Shuppet,Banette,Duskull,Dusclops,Chimecho,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Phantump,Trevenant,Runerigus,Dreepy,Drakloak,Dragapult
+Haze,Grimer,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Duskull,Dusclops,Drifloon,Drifblim,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Trevenant,Runerigus
+Hypnosis,Gastly,Haunter,Gengar,Ralts,Kirlia,Gardevoir,Chimecho,Spiritomb,Gallade,Sandygast,Palossand
+Memento,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Koffing,Weezing,Weezing form:galarian,Misdreavus,Slugma,Magcargo,Ralts,Kirlia,Duskull,Dusclops,Shellos form:east,Shellos form:west,Gastrodon form:east,Gastrodon form:west,Mismagius,Spiritomb,Dusknoir,Litwick,Lampent,Chandelure,Sinistea form:phony,Sinistea form:antique,Polteageist form:phony,Polteageist form:antique,Poltchageist form:counterfeit,Poltchageist form:artisan,Sinistcha form:unremarkable,Sinistcha form:masterpiece

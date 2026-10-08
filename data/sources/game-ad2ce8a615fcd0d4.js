@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ad2ce8a615fcd0d4"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"swimmer_m.png"}],"names":[{"name":"訓練師男孩"}],"chat":[{"opening":"你的樂趣就是不停地在這裡被我打敗嗎？","win":"我在我的自然棲息地是無敵的。","lose":"不可能！"}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:battlearmour"]={"description":"对战中\r\n不会被击中要害，即使是必定命中要害的招式也不会击中要害。","holders":[[104,"",true],[105,"",true],[140,"",false],[141,"",false],[347,"",false],[348,"",false],[451,"",false],[452,"",false],[772,"",false],[863,"",false],[870,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.BattleArmour"}};

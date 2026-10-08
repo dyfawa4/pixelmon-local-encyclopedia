@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Koffing","level":35,"to":"Weezing form:galarian","conditions":[{"evoConditionType":"status","type":"Burn","additionalProperties":{}}],"evoType":"leveling","moves":["Double Hit"],"additionalProperties":{}},{"from":"Koffing","level":35,"to":"Weezing","conditions":[],"evoType":"leveling","moves":["Double Hit"],"additionalProperties":{}}]}

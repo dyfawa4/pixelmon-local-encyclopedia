@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:sandspit"]={"description":"对战中\r\n当该宝可梦受到攻击时，天气转为沙暴并持续5回合。即使在受到攻击后濒死，效果也会触发。\r\n\r\n在携带了道具沙沙岩石的情况下，沙暴会持续8回合。","holders":[[843,"",false],[844,"",false],[844,"gmax",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SandSpit"}};

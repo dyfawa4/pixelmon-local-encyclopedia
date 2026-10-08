@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e6fea9fec5a79cba"]={"json":{"Evolutions":[{"from":"Cacnea","level":32,"to":"Cacturne","conditions":[],"evoType":"leveling","moves":["Spiky Shield"],"additionalProperties":{}}]}};

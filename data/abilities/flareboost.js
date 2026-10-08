@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:flareboost"]={"description":"对战中\r\n拥有有该特性的宝可梦陷入灼伤状态时，特攻上升50%。","holders":[[425,"",true],[426,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.FlareBoost"}};

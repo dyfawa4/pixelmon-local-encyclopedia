@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1e570a33bd160b4f"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather5.png"}],"names":[{"name":"Netsu"}],"chat":[{"lines":[{"text":"Bienvenido al gimnasio Faro."},{"text":"¡Nuestro Líder de gimnasio se está tomando unos baños bien calentitos!"}]}]}};

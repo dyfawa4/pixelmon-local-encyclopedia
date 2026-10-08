@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9bc1ee8164821878"]={"json":{"type":"minecraft:crafting_shaped","pattern":["IGI"],"key":{"G":{"item":"minecraft:glass"},"I":{"item":"minecraft:iron_bars"}},"result":{"item":"pixelmon:window1","count":1}}};

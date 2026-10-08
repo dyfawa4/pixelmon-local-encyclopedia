@@ -1,0 +1,4 @@
+Defense Curl,Charmander,Charmeleon,Charizard,Shelgon,Dipplin
+Dragon Rush,Charmander,Charmeleon,Charizard,Dratini,Dragonair,Dragonite,Dragonite form:creator,Vibrava,Flygon,Altaria,Shelgon,Gible,Gabite,Garchomp,Deino,Zweilous,Hydreigon,Flapple,Drakloak,Dragapult
+Thrash,Gyarados,Shelgon,Gabite,Tyrunt,Tyrantrum
+Twister,Charizard,Horsea,Seadra,Gyarados,Dratini,Dragonair,Dragonite,Dragonite form:creator,Kingdra,Vibrava,Flygon,Swablu,Altaria,Milotic,Shelgon,Gabite,Drampa,Flapple

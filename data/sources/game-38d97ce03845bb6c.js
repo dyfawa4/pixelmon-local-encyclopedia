@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-38d97ce03845bb6c"]={"json":{"id":"TapuBulu","spawnInfos":[{"spec":"species:TapuBulu level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:jungle","biomesoplenty:rainforest","byg:tropical_islands","byg:tropical_rainforest"]},"rarity":1.0}]}};

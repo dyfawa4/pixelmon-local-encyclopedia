@@ -1,0 +1,2 @@
+1=freshwater
+1=swamps

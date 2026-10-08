@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:698e6f52f761bda6"]={"json":{"Name":"HyperCutter","Description":"因为拥有以力量自豪的钳子，不会被对手降低攻击。","Normal":["Krabby","Kingler","Pinsir","Gligar","Mawile","Trapinch","Corphish","Crawdaunt","Gliscor","Crabrawler","Crabominable"],"Hidden":[]}};

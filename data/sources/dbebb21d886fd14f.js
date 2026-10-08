@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dbebb21d886fd14f"]={"json":{"id":"Seismitoad","spawnInfos":[{"spec":"species:Seismitoad","stringLocationTypes":["Land"],"minLevel":37,"maxLevel":49,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":0.5}]}};

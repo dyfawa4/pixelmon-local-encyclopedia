@@ -1,0 +1,3 @@
+2,3=redwoods
+2,3=taigas
+3,4=ultraforest

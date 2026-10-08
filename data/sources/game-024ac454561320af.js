@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-024ac454561320af"]={"json":{"id":"Bouffalant Grass","spawnInfos":[{"spec":"species:Bouffalant","stringLocationTypes":["Grass"],"minLevel":46,"maxLevel":58,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["plains","savannas"]},"rarity":40.0}]}};

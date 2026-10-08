@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0594416c13af0657"]={"json":{"name":"pixelmon:way_point/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:way_point","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

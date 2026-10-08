@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:sharpness"]={"description":"对战中\r\n拥有该特性的宝可梦使出的切割类招式威力会提高50%。","holders":[[475,"",false],[503,"hisuian",true],[900,"",true],[976,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Sharpness"}};

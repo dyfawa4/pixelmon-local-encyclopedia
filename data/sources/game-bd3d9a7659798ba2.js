@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bd3d9a7659798ba2"]={"json":{"id":"Skuntank","spawnInfos":[{"spec":"species:Skuntank","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":53,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["swamps","forests","roofed","biomesoplenty:burnt_forest"]},"rarity":6.0}]}};

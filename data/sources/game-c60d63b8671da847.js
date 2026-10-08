@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c60d63b8671da847"]={"json":{"type":"minecraft:smelting","ingredient":{"tag":"forge:ores/platinum"},"result":"pixelmon:platinum_ingot","experience":0.7,"cookingtime":200}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ee94e06b19177b79"]={"json":{"Evolutions":[{"from":"Oddish","level":21,"to":"Gloom","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Gloom","item":{"itemID":"pixelmon:sun_stone","additionalProperties":{}},"to":"Bellossom","conditions":[],"evoType":"interact","moves":["Petal Blizzard"],"additionalProperties":{}}]}};

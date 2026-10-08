@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f5802891eb00c3b6"]={"json":{"id":"Lickitung","spawnInfos":[{"spec":"species:Lickitung","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:lagging_tail","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["savannas"]},"rarity":8.0}]}};

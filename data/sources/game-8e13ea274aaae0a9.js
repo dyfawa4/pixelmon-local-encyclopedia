@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8e13ea274aaae0a9"]={"json":{"id":"Hakamoo","spawnInfos":[{"spec":"species:Hakamo-o","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":44,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:razor_claw","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["mountainous"]},"rarity":6.0}]}};

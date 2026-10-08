@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d363583d6fc30366"]={"json":{"id":"Malamar","spawnInfos":[{"spec":"species:Malamar","stringLocationTypes":["Land"],"minLevel":31,"maxLevel":45,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["beaches"]},"anticondition":{"stringBiomes":["freezing"]},"rarity":0.5}]}};

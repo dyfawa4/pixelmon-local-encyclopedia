@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b544251911449fb3"]={"json":{"id":"MrRime","spawnInfos":[{"spec":"species:MrRime","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["freezing forests"]},"rarity":0.5}]}};

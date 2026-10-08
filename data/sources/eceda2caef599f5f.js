@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eceda2caef599f5f"]={"json":{"Evolutions":[{"from":"Cutiefly","level":25,"to":"Ribombee","conditions":[],"evoType":"leveling","moves":["Pollen Puff"],"additionalProperties":{}}]}};

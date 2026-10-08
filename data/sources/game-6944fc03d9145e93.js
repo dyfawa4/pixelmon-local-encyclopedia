@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6944fc03d9145e93"]={"json":{"id":"Nacli Rocksmash","spawnInfos":[{"spec":"species:Nacli","stringLocationTypes":["Rock Smash"],"minLevel":7,"maxLevel":23,"typeID":"pokemon","condition":{"stringBiomes":["mountainous","mesas","beaches"]},"rarity":150.0}]}};

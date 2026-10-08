@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6b995aac89fda75e"]={"json":{"id":"Kommoo","spawnInfos":[{"spec":"species:Kommo-o","stringLocationTypes":["Land"],"minLevel":45,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:razor_claw","percentChance":50}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["mountainous"]},"rarity":0.1}]}};

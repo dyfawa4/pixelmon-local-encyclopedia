@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:85486e36daad2d94"]={"json":{"Name":"Plus","Description":"出场的伙伴之间如果有正电或负电特性的宝可梦，自己的特攻会提高。","Normal":["Plusle","Klink","Klang","Klinklang","Toxtricity form:amped"],"Hidden":["Mareep","Mareep form:shorn","Flaaffy","Ampharos","Dedenne"]}};

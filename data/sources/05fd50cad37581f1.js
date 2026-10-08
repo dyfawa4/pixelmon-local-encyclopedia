@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:05fd50cad37581f1"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" M ","LPR"],"key":{"M":{"item":"pixelmon:trade_monitor"},"L":{"item":"pixelmon:trade_holder_left"},"P":{"item":"pixelmon:trade_panel"},"R":{"item":"pixelmon:trade_holder_right"}},"result":{"item":"pixelmon:red_trade_machine","count":1}}};

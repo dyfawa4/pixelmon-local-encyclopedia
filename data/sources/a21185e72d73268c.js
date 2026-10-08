@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a21185e72d73268c"]={"json":{"Name":"Unaware","Description":"可以无视对手能力的变化，进行攻击。","Normal":["Bidoof","Bidoof form:sirdoofusiii","Bibarel","Woobat","Swoobat","Cosmog","Dondozo"],"Hidden":["Clefable","Wooper","Wooper form:paldean","Quagsire","Pyukumuku","Fuecoco","Crocalor","Skeledirge","Clodsire"]}};

@@ -1,0 +1,2 @@
+Focus Punch,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Sudowoodo,Metang,Metagross,Golett,Golurk,Garganacl
+Mud-Slap,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Onix,Sudowoodo,Steelix,Shedinja,Nosepass,Baltoy,Claydol,Metang,Metagross,Probopass,Froslass,Roggenrola,Boldore,Gigalith,Golett,Golurk,Rolycoly,Carkol,Fidough,Dachsbun

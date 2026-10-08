@@ -1,0 +1,5 @@
+1,2=freezingbeaches
+1,2=freezingocean
+1,2=frozenwater
+1,2=otherfreezing
+1,2=shatteredglacier

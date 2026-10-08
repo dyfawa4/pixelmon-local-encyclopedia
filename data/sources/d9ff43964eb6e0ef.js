@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d9ff43964eb6e0ef"]={"json":{"pokemon":"Wormadam form:trash","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:iron_ingot","min":1,"max":2,"chance":0.5},{"item":"pixelmon:silver_powder","min":1,"max":1,"chance":0.1}]}};

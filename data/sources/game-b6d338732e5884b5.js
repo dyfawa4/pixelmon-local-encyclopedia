@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b6d338732e5884b5"]={"json":{"id":"Druddigon Grass","spawnInfos":[{"spec":"species:Druddigon","stringLocationTypes":["Grass"],"minLevel":50,"maxLevel":62,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:dragon_fang","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["mountainous"],"minY":70},"rarity":6.0}]}};

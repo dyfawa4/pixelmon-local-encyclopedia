@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-467e3a5b62a51325"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SSS","SSS","SSS"],"key":{"S":{"item":"pixelmon:leaf_stone_shard"}},"result":{"item":"pixelmon:leaf_stone","count":1}}};

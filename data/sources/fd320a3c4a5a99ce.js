@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fd320a3c4a5a99ce"]={"json":{"Evolutions":[{"from":"Nincada","level":20,"to":"Ninjask","conditions":[],"evoType":"leveling","moves":["Double Team","Screech","Fury Cutter"],"additionalProperties":{}}]}};

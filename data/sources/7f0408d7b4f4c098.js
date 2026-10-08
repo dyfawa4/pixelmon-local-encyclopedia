@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7f0408d7b4f4c098"]={"json":{"Name":"FlowerVeil","Description":"我方的草属性宝可梦能力不会降低，也不会变为异常状态。","Normal":["Flabebe","Floette","Floette form:az","Florges","Comfey"],"Hidden":[]}};

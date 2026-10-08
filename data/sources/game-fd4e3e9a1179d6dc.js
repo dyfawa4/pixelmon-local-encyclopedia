@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fd4e3e9a1179d6dc"]={"json":{"id":"Mega Metagross","spawnInfos":[{"spec":"species:Metagross","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mesas","minecraft:ice_spikes","minecraft:end_highlands","minecraft:end_barrens"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

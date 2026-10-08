@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:98765231e4da5425"]={"json":{"Evolutions":[{"from":"Eevee","item":{"itemID":"pixelmon:thunder_stone","additionalProperties":{}},"to":"Jolteon","conditions":[],"evoType":"interact","moves":["Thunder Shock"],"additionalProperties":{}}]}};

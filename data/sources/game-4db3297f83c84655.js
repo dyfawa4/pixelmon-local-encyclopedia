@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4db3297f83c84655"]={"json":{"id":"Snom Forage","spawnInfos":[{"spec":"species:Snom","stringLocationTypes":["Forage"],"minLevel":10,"maxLevel":33,"typeID":"pokemon","condition":{"stringBiomes":["freezing"]},"rarity":10.0}]}};

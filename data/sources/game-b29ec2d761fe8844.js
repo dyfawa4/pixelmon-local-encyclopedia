@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b29ec2d761fe8844"]={"json":{"id":"Mabosstiff","spawnInfos":[{"spec":"species:Mabosstiff","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["plains"]},"rarity":5.0}]}};

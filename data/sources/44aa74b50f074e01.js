@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:44aa74b50f074e01"]={"json":{"Evolutions":[{"from":"Tepig","level":17,"to":"Pignite","conditions":[],"evoType":"leveling","moves":["Arm Thrust"],"additionalProperties":{}},{"from":"Pignite","level":36,"to":"Emboar","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

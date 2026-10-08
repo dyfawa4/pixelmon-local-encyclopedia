@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-112b4792e9a6892e"]={"json":{"id":"Scyther Sweet Scent","spawnInfos":[{"spec":"species:Scyther","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":9.0}]}};

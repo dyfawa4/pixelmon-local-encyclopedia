@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c40571d8a427f36f"]={"json":{"id":"Palpitoad","spawnInfos":[{"spec":"species:Palpitoad","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":40.0}]}};

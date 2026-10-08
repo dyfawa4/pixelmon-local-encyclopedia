@@ -1,0 +1,4 @@
+2,3=mountainousforests
+2,3=mountainous
+2,3=savannas
+3,4=ultraforest

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7a030315c063e911"]={"json":{"id":"Regice","spawnInfos":[{"spec":"species:Regice level:40","stringLocationTypes":["Underground"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["freezing"],"maxY":50},"rarity":3.0}]}};

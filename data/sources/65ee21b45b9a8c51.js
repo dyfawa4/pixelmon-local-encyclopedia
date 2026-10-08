@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:65ee21b45b9a8c51"]={"json":{"pokemon":"Toxicroak","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"minecraft:lily_pad","min":1,"max":2,"chance":0.5},{"item":"pixelmon:raw_tumblestone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:black_sludge","min":1,"max":1,"chance":0.1}]}};

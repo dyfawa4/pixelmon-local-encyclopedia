@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:16705ba8c0529e05"]={"text":"Bug Bite,Dwebble,Crustle\r\nFinal Gambit\r\nFlail,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Sudowoodo,Dwebble,Crustle,Carbink\r\nGust\r\nNight Slash,Cryogonal,Honedge,Doublade,Aegislash form:shield\r\n"};

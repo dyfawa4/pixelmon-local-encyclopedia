@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fb1dde80cb0f6326"]={"json":{"id":"Fuecoco","spawnInfos":[{"spec":"species:Fuecoco","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mesas"]},"rarity":10.0}]}};

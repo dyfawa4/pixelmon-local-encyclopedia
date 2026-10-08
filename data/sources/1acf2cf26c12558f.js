@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1acf2cf26c12558f"]={"text":"Acupressure,Qwilfish,Qwilfish form:hisuian,Overqwil\r\nNight Slash,Sharpedo,Inkay,Malamar,Veluza\r\nSlash,Sharpedo,Inkay,Malamar,Veluza\r\nThrash,Gyarados,Whiscash,Basculin form:red,Basculin form:blue,Basculegion form:male,Basculegion form:female\r\n"};

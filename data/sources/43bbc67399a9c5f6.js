@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:43bbc67399a9c5f6"]={"text":"拿着被充满的||itemButton=pixelmon:dos_orb||对着||itemButton=pixelmon:zapdos_shrine||使用可以召唤一只||pokemonButton=Zapdos||并与其进行战斗。之后||itemButton=pixelmon:zapdos_shrine||将不再能使用。"};

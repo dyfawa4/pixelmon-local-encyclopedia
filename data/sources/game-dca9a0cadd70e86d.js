@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-dca9a0cadd70e86d"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"steelleader1.png"}],"names":[{"name":"Hagane"}],"chat":[{"opening":"Der Bau ist erst der Anfang!","win":"Ha! Komme nicht wieder.","lose":"Du hattest Glück, Kind!"}]}};

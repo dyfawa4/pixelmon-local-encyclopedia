@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0460dda87c9f8932"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"Harry"}],"chat":[{"lines":[{"text":"Bienvenido al Gimnasio Copo de Nieve."},{"text":"¡A nuestro Líder de gimnasio le encanta congelar y acabar con sus oponentes!"},{"text":"Intenta no caer de los copos de nieve; puede doler..."}]}]}};

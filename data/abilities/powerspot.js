@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:powerspot"]={"description":"对战中\r\n拥有此特性的宝可梦一方，除拥有该特性的宝可梦以外的宝可梦招式威力提高30%。","holders":[[874,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PowerSpot"}};

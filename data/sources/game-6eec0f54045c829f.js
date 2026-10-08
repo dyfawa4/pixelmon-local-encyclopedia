@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6eec0f54045c829f"]={"json":{"id":"Marshadow","spawnInfos":[{"spec":"species:Marshadow level:70","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:badlands_plateau","hellish"]},"rarity":0.2}]}};

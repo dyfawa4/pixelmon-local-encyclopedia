@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9a0596bcf6218e74"]={"json":{"npctype":"chat","skins":[{"filename":"hiker.png"}],"names":[{"name":"Josh"}],"chat":[{"lines":[{"text":"Willkommen im Feder Gym."},{"text":"Der Trainingsleiter sitzt ganz oben!"},{"text":"Sei vorsichtig, wenn du von Zweig zu Zweig springst; Es ist ein weiter Weg nach unten..."}]}]}};

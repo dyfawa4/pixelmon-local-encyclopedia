@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e6f7fe81f31b58d6"]={"json":{"pokemon":"Gholdengo","items":[{"item":"minecraft:gold_ingot","min":2,"max":4,"chance":1.0},{"item":"pixelmon:relic_copper","min":1,"max":2,"chance":0.5},{"item":"pixelmon:relic_silver","min":1,"max":1,"chance":0.3},{"item":"pixelmon:relic_gold","min":1,"max":1,"chance":0.1}]}};

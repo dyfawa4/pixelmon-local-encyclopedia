@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a6db4f2d767058c4"]={"json":{"pokemon":"Regirock","items":[{"item":"minecraft:red_sandstone","min":2,"max":5,"chance":1.0},{"item":"pixelmon:charti_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:rock_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:hard_stone","min":1,"max":1,"chance":0.1}]}};

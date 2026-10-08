@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9da3331999ae122e"]={"json":{"type":"minecraft:crafting_shaped","pattern":["AAA","AIA","ARA"],"key":{"A":{"tag":"forge:ingots/aluminum"},"I":{"item":"minecraft:ice"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:fridge","count":1}}};

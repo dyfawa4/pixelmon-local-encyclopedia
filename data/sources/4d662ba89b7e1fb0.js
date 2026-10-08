@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d662ba89b7e1fb0"]={"json":{"id":"Mega Garchomp","spawnInfos":[{"spec":"species:Garchomp","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["arid"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

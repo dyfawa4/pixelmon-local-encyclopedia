@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9e61a4e25d3092d8"]={"json":{"Evolutions":[{"from":"Solosis","level":32,"to":"Duosion","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Duosion","level":41,"to":"Reuniclus","conditions":[],"evoType":"leveling","moves":["Hammer Arm"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fee06fd822386070"]={"json":{"id":"Hawlucha Grass","spawnInfos":[{"spec":"species:Hawlucha","stringLocationTypes":["Grass"],"minLevel":30,"maxLevel":46,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:kings_rock","percentChance":5}],"condition":{"times":["AFTERNOON"],"stringBiomes":["mountainous forests"]},"rarity":30.0}]}};

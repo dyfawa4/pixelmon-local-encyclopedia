@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:23a500d729ddd0c2"]={"json":{"Evolutions":[{"from":"Baltoy","level":36,"to":"Claydol","conditions":[],"evoType":"leveling","moves":["Hyper Beam"],"additionalProperties":{}}]}};

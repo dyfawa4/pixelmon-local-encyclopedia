@@ -1,0 +1,4 @@
+Astonish,Trapinch,Vibrava,Flygon,Altaria,Applin,Flapple,Appletun,Dreepy,Drakloak,Dragapult,Dipplin
+Belch,Ekans,Arbok,Seviper
+Double Hit,Zweilous,Hydreigon,Drakloak,Dragapult,Dipplin
+Head Smash,Scraggy,Scrafty,Tyrantrum

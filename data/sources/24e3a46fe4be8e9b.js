@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:24e3a46fe4be8e9b"]={"json":{"Evolutions":[{"from":"Yamask form:galarian","to":"Runerigus","conditions":[{"evoConditionType":"healthAbsence","health":"49","additionalProperties":{}},{"evoConditionType":"biome","biomes":["minecraft:desert"],"additionalProperties":{}}],"evoType":"ticking","moves":["Shadow Claw"],"additionalProperties":{}}]}};

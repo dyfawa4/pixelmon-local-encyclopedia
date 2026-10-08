@@ -1,0 +1,2 @@
+Bite,Trapinch,Vibrava,Flygon,Skorupi,Drapion,Durant,Grubbin,Charjabug,Vikavolt,Dewpider,Araquanid,Sizzlipede,Centiskorch
+Fury Cutter,Beedrill,Paras,Parasect,Scyther,Pinsir,Gligar,Scizor,Heracross,Nincada,Ninjask,Vibrava,Flygon,Kricketune,Vespiquen,Skorupi,Drapion,Gliscor,Dwebble,Crustle,Karrablast,Escavalier,Joltik,Galvantula,Durant,Golisopod,Kleavor

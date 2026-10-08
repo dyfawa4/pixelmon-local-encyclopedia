@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:679baa838911cd65"]={"json":{"Evolutions":[{"from":"Tangela","to":"Tangrowth","conditions":[{"evoConditionType":"move","attackName":"Ancient Power","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

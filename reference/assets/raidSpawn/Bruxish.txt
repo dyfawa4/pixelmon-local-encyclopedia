@@ -1,0 +1,6 @@
+3,4=beaches
+3,4=coralmangroves
+3,4=lukewarmocean
+3,4=ocean
+3,4=stonybeaches
+3,4=warmocean

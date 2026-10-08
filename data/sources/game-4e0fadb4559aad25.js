@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4e0fadb4559aad25"]={"json":{"id":"Chesnaught","spawnInfos":[{"spec":"species:Chesnaught","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["birches","taigas"]},"rarity":1.0}]}};

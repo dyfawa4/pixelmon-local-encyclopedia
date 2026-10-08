@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:33a2e6cd5c97158f"]={"json":{"Evolutions":[{"from":"Slowpoke form:galarian","item":{"itemID":"pixelmon:galarica_cuff","additionalProperties":{}},"to":"Slowbro form:galarian","conditions":[],"evoType":"interact","moves":["Shell Side Arm"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8d6f852db6e70a36"]={"json":{"type":"minecraft:crafting_shaped","pattern":["SDS","RLR"," A "],"key":{"A":{"tag":"forge:ingots/aluminium"},"D":{"tag":"forge:dyes/blue"},"R":{"tag":"forge:dusts/redstone"},"S":{"item":"minecraft:soul_sand"},"L":{"item":"minecraft:redstone_lamp"}},"result":{"item":"pixelmon:stick_plate","count":1}}};

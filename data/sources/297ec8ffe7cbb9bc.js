@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:297ec8ffe7cbb9bc"]={"json":{"pokemon":"Omanyte","items":[{"item":"minecraft:stone","min":1,"max":2,"chance":1.0},{"item":"minecraft:cod","min":1,"max":2,"chance":0.5},{"item":"minecraft:nautilus_shell","min":1,"max":1,"chance":0.1}]}};

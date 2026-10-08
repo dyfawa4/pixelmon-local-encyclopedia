@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2dce413a809f9cd7"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:donkey","minecraft:mule","minecraft:mooshroom"],"replacement_logic":"simple","specs":["mudbray","mudsdale"]}};

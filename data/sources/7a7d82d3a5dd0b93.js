@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7a7d82d3a5dd0b93"]={"json":{"pokemon":"Raticate form:base","items":[{"item":"minecraft:rotten_flesh","min":1,"max":2,"chance":1.0},{"item":"minecraft:cooked_mutton","min":1,"max":2,"chance":0.5},{"item":"pixelmon:sitrus_berry","min":1,"max":1,"chance":0.1}]}};

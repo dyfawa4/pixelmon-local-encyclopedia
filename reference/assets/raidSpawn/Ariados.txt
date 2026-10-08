@@ -1,0 +1,7 @@
+3,4=birches
+3,4=craggardens
+3,4=evil
+3,4=forests
+3,4=redwoods
+3,4=roofed
+3,4=taigas

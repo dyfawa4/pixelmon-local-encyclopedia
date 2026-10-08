@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cc4f74af1f75e755"]={"json":{"Name":"Contrary","Description":"能力的变化发生逆转，原本提高时会降低，而原本降低时会提高。","Normal":["Inkay","Malamar"],"Hidden":["Shuckle","Spinda","Snivy","Servine","Serperior","Fomantis","Lurantis","Enamorus form:incarnate"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c41e96aef3b684f0"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"bugcatcher1.png"}],"names":[{"name":"Cazabichos"}],"chat":[{"opening":"¿Me viste entre las flores?","win":"¡Se ha demostrado el poder de las flores!","lose":"¡Imposible!"}]}};

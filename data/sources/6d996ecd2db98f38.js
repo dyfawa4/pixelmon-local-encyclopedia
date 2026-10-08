@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6d996ecd2db98f38"]={"json":{"pokemon":"Voltorb form:hisuian","items":[{"item":"pixelmon:wooden_base","min":1,"max":1,"chance":1.0},{"item":"pixelmon:ancient_poke_ball_lid","min":1,"max":1,"chance":0.5},{"item":"pixelmon:ancient_poke_ball","min":1,"max":1,"chance":0.1}]}};

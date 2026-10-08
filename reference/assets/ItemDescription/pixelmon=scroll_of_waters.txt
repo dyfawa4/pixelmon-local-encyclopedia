@@ -1,0 +1,1 @@
+在它附近时右键||pokemonButton=Kubfu||，使其进化为||pokemonButton=Urshifu form:rapidstrike||。

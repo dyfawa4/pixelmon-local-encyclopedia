@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:cottondown"]={"description":"对战中\r\n该特性的宝可梦受到攻击时，令除该特性以外的宝可梦速度降低1级。\r\n连续招式的每一击都会触发此特性。","holders":[[829,"",false],[830,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.CottonDown"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:fairyaura"]={"description":"对战中\r\n拥有该特性的宝可梦在场时场上所有宝可梦使用妖精属性招式的伤害×4⁄3。\r\n\r\n场上有多只该特性的宝可梦时效果不会叠加。\r\n拥有气场破坏特性的宝可梦在场会使得该特性效果逆转为全场妖精属性招式伤害×3⁄4。\r\n当拥有该特性的宝可梦登场时会出现提示：[宝可梦的名字]正在释放妖精气场！","holders":[[716,"neutral",false],[716,"active",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.FairyAura"}};

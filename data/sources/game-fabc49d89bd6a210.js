@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fabc49d89bd6a210"]={"json":{"id":"Seviper","spawnInfos":[{"spec":"species:Seviper","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":65,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:shed_shell","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["plains","minecraft:river","lakes"]},"rarity":30.0}]}};

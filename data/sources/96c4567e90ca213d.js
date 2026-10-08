@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:96c4567e90ca213d"]={"json":{"id":"Wiglett","spawnInfos":[{"spec":"species:Wiglett","stringLocationTypes":["Land","Seafloor"],"minLevel":10,"maxLevel":26,"typeID":"pokemon","condition":{"stringBiomes":["beaches","minecraft:ocean","minecraft:lukewarm_ocean","minecraft:warm_ocean"]},"rarity":150.0}]}};

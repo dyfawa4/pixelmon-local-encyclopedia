@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-199f5919ad630560"]={"json":{"replace":false,"values":["pixelmon:red_berry_wood_planks","pixelmon:purple_berry_wood_planks","pixelmon:pink_berry_wood_planks","pixelmon:green_berry_wood_planks","pixelmon:yellow_berry_wood_planks","pixelmon:blue_berry_wood_planks"]}};

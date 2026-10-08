@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:79b09114eefecd6d"]={"text":"可以在||biomeComboButton=all forests||或||biomeComboButton=taigas||树叶下方的石头里被发现，挖掘会直接掉落||itemButton=pixelmon:leaf_stone_shard||。\r\n只有铁镐及以上的镐可以挖掘，受时运和精准采集影响。"};

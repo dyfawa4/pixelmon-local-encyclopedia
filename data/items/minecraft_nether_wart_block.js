@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_nether_wart_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:nether_wart"}},"result":{"item":"minecraft:nether_wart_block"},"source":"data/minecraft/recipes/nether_wart_block.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a3f8e633d29959ea"]={"json":{"id":"Cyclizar","spawnInfos":[{"spec":"species:Cyclizar","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["savannas","arid"]},"rarity":1.0}]}};

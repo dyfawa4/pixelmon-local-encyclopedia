@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:arenatrap"]={"description":"使对方所有非幽灵属性的地面上的宝可梦处于无法逃走状态，不能替换或逃走。","holders":[[50,"",false],[51,"",false],[328,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ArenaTrap"}};

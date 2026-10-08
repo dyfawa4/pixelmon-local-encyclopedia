@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:soulheart"]={"description":"对战中\r\n每当场上有宝可梦被打倒时，特攻提高1个等级。","holders":[[801,"",false],[801,"original_color",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SoulHeart"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:myceliummight"]={"description":"对战中\r\n拥有该特性的宝可梦使出变化招式时，能够使目标自身、目标同伴以及自身同伴的一部分特性失效，并且在同一优先度下最晚行动。","holders":[[948,"",false],[949,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MyceliumMight"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-475d9e52ad451511"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_jungle_fence_gate"}],"conditions":[]}]}};

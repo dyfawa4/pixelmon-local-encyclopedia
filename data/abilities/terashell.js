@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:terashell"]={"description":"拥有该特性的宝可梦在自身ＨＰ全满时，如果受到的攻击招式的属性相性倍率为1或以上，将变为效果不好（倍率为1⁄2）。","holders":[],"raw":{},"appOnly":true};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8be45c9a78e8e38d"]={"json":{"id":"Absol Grass","spawnInfos":[{"spec":"species:Absol","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":50,"typeID":"pokemon","condition":{"times":["MIDNIGHT"],"stringBiomes":["mountainous"]},"rarity":90.0}]}};

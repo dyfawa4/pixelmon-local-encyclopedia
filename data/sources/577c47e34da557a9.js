@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:577c47e34da557a9"]={"json":{"pokemon":"Clauncher","items":[{"item":"minecraft:seagrass","min":1,"max":2,"chance":1.0},{"item":"minecraft:kelp","min":1,"max":1,"chance":0.5}]}};

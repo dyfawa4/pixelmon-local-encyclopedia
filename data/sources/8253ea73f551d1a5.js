@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8253ea73f551d1a5"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:porygon_leg"},{"item":"pixelmon:porygon_tail"},{"item":"pixelmon:porygon_body"},{"item":"pixelmon:porygon_head"}],"result":{"item":"pixelmon:porygon_piece"}}};

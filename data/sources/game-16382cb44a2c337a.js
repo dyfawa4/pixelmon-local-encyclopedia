@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-16382cb44a2c337a"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","conditions":[{"condition":"minecraft:block_state_property","block":"pixelmon:ultra_elm_door","properties":{"half":"lower"}}],"name":"pixelmon:ultra_elm_door"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

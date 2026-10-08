@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7732b23636dc8a14"]={"json":{"id":"Scyther Line Grass","spawnInfos":[{"spec":"species:Scyther","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","DUSK","DAY"],"stringBiomes":["jungles","savannas"]},"rarity":8.0}]}};

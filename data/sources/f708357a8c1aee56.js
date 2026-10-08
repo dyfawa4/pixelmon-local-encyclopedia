@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f708357a8c1aee56"]={"json":{"Name":"Trace","Description":"出场时，复制对手的特性，变为与之相同的特性。","Normal":["Alakazam form:mega","Porygon","Porygon2","Ralts","Kirlia","Gardevoir"],"Hidden":[]}};

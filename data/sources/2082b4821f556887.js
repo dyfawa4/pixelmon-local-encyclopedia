@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2082b4821f556887"]={"json":{"type":"minecraft:crafting_shaped","pattern":["MMM","M M"],"key":{"M":{"tag":"forge:gems/crystal"}},"result":{"item":"pixelmon:plasma_helm","count":1}}};

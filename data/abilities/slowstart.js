@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:slowstart"]={"description":"对战中\r\n该特性的宝可梦上场的前五回合物理招式的伤害和速度能力减半。","holders":[[486,"",false],[965,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SlowStart"}};

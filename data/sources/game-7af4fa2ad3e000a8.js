@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7af4fa2ad3e000a8"]={"json":{"id":"Duosion","spawnInfos":[{"spec":"species:Duosion","stringLocationTypes":["Land"],"minLevel":32,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps"]},"rarity":8.0}]}};

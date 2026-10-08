@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-53a451e6111f19c5"]={"json":{"id":"Drizzile","spawnInfos":[{"spec":"species:Drizzile","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":34,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":0.5}]}};

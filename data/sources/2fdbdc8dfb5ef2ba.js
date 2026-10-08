@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2fdbdc8dfb5ef2ba"]={"json":{"id":"Gible Caverock","spawnInfos":[{"spec":"species:Gible","stringLocationTypes":["Cave Rock"],"minLevel":14,"maxLevel":23,"typeID":"pokemon","condition":{"stringBiomes":["arid"]},"rarity":6.0}]}};

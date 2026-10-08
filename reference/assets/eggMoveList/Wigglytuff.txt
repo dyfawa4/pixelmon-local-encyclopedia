@@ -1,0 +1,8 @@
+Covet,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Marill,Azumarill,Snubbull,Granbull,Blissey,Skitty,Delcatty,Plusle,Minun,Roselia,Roserade,Pachirisu,Togekiss,Phione,Manaphy,Audino,Cottonee,Whimsicott,Flabebe,Floette,Floette form:az,Florges,Spritzee,Aromatisse,Swirlix,Slurpuff,Carbink,Cutiefly,Ribombee,Togedemaru,Tinkatink,Tinkatuff,Tinkaton
+Gravity,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Audino,Carbink,Togedemaru,Hatterene,Indeedee form:male,Indeedee form:female
+Heal Pulse,Clefairy,Clefable,Chansey,Blissey,Audino,Aromatisse,Hatenna,Hattrem,Hatterene,Indeedee form:female
+Last Resort,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Chansey,Togetic,Snubbull,Granbull,Blissey,Skitty,Delcatty,Mawile,Plusle,Minun,Castform,Pachirisu,Togekiss,Phione,Manaphy,Audino,Dedenne,Cutiefly,Ribombee,Togedemaru,Milcery,Indeedee form:male
+Perish Song
+Present,Raichu form:alolan,Clefairy,Clefable,Chansey,Snubbull,Granbull,Blissey,Audino
+Rollout,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Marill,Azumarill,Blissey,Skitty,Delcatty,Plusle,Minun,Pachirisu,Togekiss,Togedemaru
+Wish,Raichu form:alolan,Clefairy,Clefable,Chansey,Togetic,Blissey,Plusle,Minun,Togekiss,Flabebe,Floette,Floette form:az,Florges,Swirlix,Slurpuff

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:aacfdb24cdc22b84"]={"json":{"pokemon":"Gliscor","items":[{"item":"minecraft:stone","min":1,"max":3,"chance":1.0},{"item":"pixelmon:shuca_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:flying_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.1}]}};

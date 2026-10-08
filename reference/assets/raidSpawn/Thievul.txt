@@ -1,0 +1,4 @@
+3,4=burntforest
+3,4=forests
+3,4=roofed
+3,4=taigas

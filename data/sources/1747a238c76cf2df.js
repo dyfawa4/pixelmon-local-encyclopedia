@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1747a238c76cf2df"]={"json":{"Name":"DesolateLand","Description":"变为不会受到水属性攻击的天气。","Normal":["Groudon form:primal"],"Hidden":[]}};

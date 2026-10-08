@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b16df3e32800fe7b"]={"json":{"id":"Uxie","spawnInfos":[{"spec":"species:Uxie level:50","stringLocationTypes":["Surface Water"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["roofed","lakes"]},"anticondition":{"stringBiomes":["minecraft:desert_lakes"]},"rarity":2.0}]}};

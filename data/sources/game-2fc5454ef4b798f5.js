@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2fc5454ef4b798f5"]={"json":{"type_id":"simple","id":"uncommon","suffix":"ribbon.uncommon.title","translation_key":"ribbon.uncommon","description":"ribbon.uncommon.description","icon":"pixelmon:textures/gui/ribbons/uncommon.png"}};

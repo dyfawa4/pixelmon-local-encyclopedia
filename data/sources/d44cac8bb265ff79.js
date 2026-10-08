@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d44cac8bb265ff79"]={"json":{"id":"Smoliv","spawnInfos":[{"spec":"species:Smoliv","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["savannas","plains"]},"rarity":200.0}]}};

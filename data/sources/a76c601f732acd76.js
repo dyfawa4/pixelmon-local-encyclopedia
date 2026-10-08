@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a76c601f732acd76"]={"json":{"pokemon":"Exeggcute","items":[{"item":"minecraft:egg","min":1,"max":2,"chance":1.0},{"item":"pixelmon:lum_berry","min":1,"max":1,"chance":0.1}]}};

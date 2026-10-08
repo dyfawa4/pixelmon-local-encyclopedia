@@ -1,0 +1,9 @@
+Ally Switch,Natu,Xatu,Togekiss,Woobat,Swoobat,Archen,Archeops,Hawlucha,Krabby,Kingler,Starmie
+Bite,Zubat,Golbat,Aerodactyl,Crobat,Noibat,Noivern,Skorupi,Drapion,Tirtouga,Carracosta
+Defog,Pidgey,Pidgeotto,Pidgeot,Spearow,Fearow,Farfetchd,Farfetchd form:galarian,Aerodactyl,Hoothoot,Noctowl,Togetic,Xatu,Murkrow,Skarmory,Taillow,Swellow,Wingull,Pelipper,Altaria,Starly,Staravia,Staraptor,Honchkrow,Chatot,Togekiss,Woobat,Swoobat,Sigilyph,Ducklett,Swanna,Rufflet,Braviary,Braviary form:hisuian,Vullaby,Mandibuzz,Rowlet,Dartrix,Decidueye,Decidueye form:hisuian,Pikipek,Trumbeak,Toucannon,Oricorio form:baile,Oricorio form:pompom,Oricorio form:pau,Oricorio form:sensu,Cramorant,Sirfetchd
+Dragon Pulse,Aerodactyl,Swablu,Altaria,Archen,Archeops,Noibat,Noivern,Clauncher,Clawitzer
+Earth Power,Aerodactyl,Archen,Archeops,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Lileep,Cradily,Anorith,Armaldo,Tirtouga,Carracosta,Barbaracle,Cursola,Klawf,Wiglett,Wugtrio
+Head Smash
+Knock Off,Farfetchd,Farfetchd form:galarian,Doduo,Dodrio,Wingull,Pelipper,Swanna,Vullaby,Mandibuzz,Rowlet,Dartrix,Decidueye,Decidueye form:hisuian,Pikipek,Trumbeak,Toucannon,Sirfetchd,Quaquaval,Bombirdier,Tentacool,Tentacruel,Corphish,Crawdaunt,Skorupi,Drapion,Crabrawler,Crabominable,Golisopod,Klawf
+Steel Wing,Pidgey,Pidgeotto,Pidgeot,Spearow,Fearow,Zubat,Golbat,Farfetchd,Farfetchd form:galarian,Doduo,Dodrio,Aerodactyl,Hoothoot,Noctowl,Crobat,Togetic,Natu,Xatu,Murkrow,Skarmory,Taillow,Swellow,Wingull,Pelipper,Swablu,Altaria,Starly,Staravia,Staraptor,Honchkrow,Chatot,Togekiss,Pidove,Tranquill,Unfezant,Woobat,Swoobat,Sigilyph,Archen,Archeops,Ducklett,Swanna,Rufflet,Braviary,Vullaby,Mandibuzz,Fletchling,Fletchinder,Talonflame,Hawlucha,Noibat,Noivern,Rowlet,Dartrix,Decidueye,Pikipek,Trumbeak,Toucannon,Oricorio form:baile,Oricorio form:pompom,Oricorio form:pau,Oricorio form:sensu,Corviknight,Cramorant,Sirfetchd
+Switcheroo,Noibat,Noivern

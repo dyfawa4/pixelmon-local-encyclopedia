@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-997ccd9f0c8ed160"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  S"," ST","S P"],"key":{"S":{"tag":"forge:rods/wooden"},"T":{"item":"minecraft:string"},"P":{"type":"forge:nbt","item":"pixelmon:poke_ball","nbt":{"PokeBallID":"poke_ball"}}},"result":{"item":"pixelmon:old_rod","count":1}}};

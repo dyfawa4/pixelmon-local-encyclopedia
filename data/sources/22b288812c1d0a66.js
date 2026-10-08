@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:22b288812c1d0a66"]={"json":{"pokemon":"Tatsugiri form:droopy","items":[{"item":"minecraft:cod","min":1,"max":2,"chance":1.0},{"item":"minecraft:salmon","min":1,"max":1,"chance":0.5}]}};

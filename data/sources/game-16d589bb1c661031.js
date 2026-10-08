@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-16d589bb1c661031"]={"json":{"id":"Glastrier","spawnInfos":[{"spec":"species:Glastrier level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["freezing"]},"anticondition":{"stringBiomes":["freezing forests"]},"rarity":0.5}]}};

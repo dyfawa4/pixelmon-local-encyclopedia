@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:86f388600d28f963"]={"json":{"Evolutions":[{"from":"Darumaka","level":35,"to":"Darmanitan","conditions":[],"evoType":"leveling","moves":["Hammer Arm"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:946ab8a1888c1aaa"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦的钢属性招式威力提升20%。\r\n\r\n||bigFont=对战外||\r\n||pokemonButton=Onix||携带该道具连接交换进化为||pokemonButton=Steelix||。\r\n||pokemonButton=Scyther||携带该道具连接交换进化为||pokemonButton=Scizor||。"};

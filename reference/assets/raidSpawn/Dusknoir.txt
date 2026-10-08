@@ -1,0 +1,5 @@
+5=badlands
+5=burntforest
+5=evil
+5=nether
+5=subzerohypogeal

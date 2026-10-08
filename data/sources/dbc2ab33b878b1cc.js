@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dbc2ab33b878b1cc"]={"json":{"pokemon":"Ponyta form:galarian","items":[{"item":"minecraft:leather","min":1,"max":1,"chance":1.0},{"item":"minecraft:carrot","min":1,"max":1,"chance":0.5},{"item":"pixelmon:payapa_berry","min":1,"max":1,"chance":0.3}]}};

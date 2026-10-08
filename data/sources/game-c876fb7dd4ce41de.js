@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c876fb7dd4ce41de"]={"json":{"id":"Rillaboom","spawnInfos":[{"spec":"species:Rillaboom","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":0.5}]}};

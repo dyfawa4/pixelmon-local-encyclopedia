@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-eceeb2627c4b989b"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" D ","RLR"," A "],"key":{"A":{"tag":"forge:ingots/aluminium"},"D":{"tag":"forge:dyes/lime"},"R":{"tag":"forge:dusts/redstone"},"L":{"item":"minecraft:redstone_lamp"}},"result":{"item":"pixelmon:movement_plate","count":1}}};

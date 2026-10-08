@@ -1,0 +1,5 @@
+1=burntforest
+1=mountainousforests
+1=mountainous
+1=redwoods
+1=swamps

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:504bf17db93dfaa3"]={"json":{"id":"Primal Kyogre","spawnInfos":[{"spec":"species:Kyogre","stringLocationTypes":["Water"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["oceanic"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

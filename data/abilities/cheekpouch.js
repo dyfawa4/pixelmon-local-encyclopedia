@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:cheekpouch"]={"description":"对战中\r\n该特性的宝可梦食用树果时可触发原本的效果，同时额外恢复1⁄3ＨＰ。若处于回复封锁时，无法恢复ＨＰ。\r\n训练家从包包里拿出来使用的树果对该特性无效。","holders":[[659,"",false],[660,"",false],[702,"",false],[819,"",false],[820,"",false],[925,"family_four",false],[925,"family_three",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.CheekPouch"}};

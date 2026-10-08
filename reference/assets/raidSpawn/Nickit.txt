@@ -1,0 +1,4 @@
+1,2=burntforest
+1,2=forests
+1,2=roofed
+1,2=taigas

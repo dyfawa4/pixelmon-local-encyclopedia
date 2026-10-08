@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8739fa24c1ae36ff"]={"json":{"pokemon":"Yamask form:base","items":[{"item":"minecraft:gold_nugget","min":1,"max":2,"chance":1.0},{"item":"minecraft:soul_sand","min":1,"max":1,"chance":0.5}]}};

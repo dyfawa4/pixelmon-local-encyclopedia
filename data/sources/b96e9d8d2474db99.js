@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b96e9d8d2474db99"]={"json":{"id":"Blacephalon","spawnInfos":[{"spec":"species:Blacephalon","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_forest"]},"rarity":0.5}]}};

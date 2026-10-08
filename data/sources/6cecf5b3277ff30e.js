@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6cecf5b3277ff30e"]={"json":{"Name":"SnowWarning","Description":"出场时，会将天气变为冰雹。","Normal":["Snover","Abomasnow","Abomasnow form:mega","Vanilluxe"],"Hidden":["Vulpix form:alolan","Ninetales form:alolan","Amaura","Aurorus"]}};

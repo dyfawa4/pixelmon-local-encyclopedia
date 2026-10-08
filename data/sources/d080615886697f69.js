@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d080615886697f69"]={"json":{"pokemon":"Vespiquen","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:honeycomb","min":1,"max":2,"chance":0.5},{"item":"minecraft:honey_bottle","min":1,"max":1,"chance":0.3},{"item":"pixelmon:bug_gem","min":1,"max":1,"chance":0.1}]}};

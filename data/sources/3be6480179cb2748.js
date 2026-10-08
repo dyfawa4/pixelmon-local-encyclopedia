@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3be6480179cb2748"]={"json":{"Evolutions":[{"from":"Rowlet","level":17,"to":"Dartrix","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Dartrix","level":34,"to":"Decidueye","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Spirit Shackle"],"additionalProperties":{}}]}};

@@ -1,0 +1,7 @@
+3,4,5=badlands
+3,4,5=deserts
+3,4,5=nether
+3,4,5=subzerohypogeal
+3,4=ultradesert
+4,5=ultradesert
+3,4,5=volcano

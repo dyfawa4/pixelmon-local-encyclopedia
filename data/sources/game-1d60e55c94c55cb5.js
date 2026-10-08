@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1d60e55c94c55cb5"]={"json":{"type":"minecraft:crafting_shaped","pattern":["wdw"," i "," i "],"key":{"w":{"tag":"minecraft:wool"},"d":{"tag":"forge:dyes/orange"},"i":{"tag":"forge:ingots/iron"}},"result":{"item":"pixelmon:orange_cushion_chair","count":1}}};

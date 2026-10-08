@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0d85828517f4c0ba"]={"json":{"pokemon":"Burmy form:plant","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:oak_leaves","min":1,"max":1,"chance":0.5}]}};

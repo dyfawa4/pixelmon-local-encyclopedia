@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b82cb22cd5cd7e1b"]={"json":{"name":"pixelmon:gyms/water/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:gyms/water/gym_water","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

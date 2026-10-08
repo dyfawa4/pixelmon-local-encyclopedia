@@ -1,0 +1,5 @@
+Bug Bite,Dwebble,Crustle
+Final Gambit
+Flail,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Sudowoodo,Dwebble,Crustle,Carbink
+Gust
+Night Slash,Cryogonal,Honedge,Doublade,Aegislash form:shield

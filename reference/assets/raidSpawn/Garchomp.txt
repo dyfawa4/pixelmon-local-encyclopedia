@@ -1,0 +1,3 @@
+5=deserts
+5=ultradesert
+5=volcano

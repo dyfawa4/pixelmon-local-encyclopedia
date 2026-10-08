@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:446f8dce847bc0cd"]={"json":{"id":"Zekrom","spawnInfos":[{"spec":"species:Zekrom level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["redwoods"]},"rarity":0.5}]}};

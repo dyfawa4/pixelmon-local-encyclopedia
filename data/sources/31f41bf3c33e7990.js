@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:31f41bf3c33e7990"]={"json":{"pokemon":"GreatTusk","items":[{"item":"minecraft:light_blue_terracotta","min":2,"max":4,"chance":1.0},{"item":"pixelmon:fighting_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:soft_sand","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd9876fb09c6e91b"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_jungle_vine"}],"conditions":[{"condition":"minecraft:match_tool","predicate":{"item":"minecraft:shears"}}]}]}};

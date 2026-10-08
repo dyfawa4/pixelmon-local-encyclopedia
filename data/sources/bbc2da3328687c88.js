@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bbc2da3328687c88"]={"json":{"Evolutions":[{"from":"TypeNull","to":"Silvally","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","moves":["Multi-Attack"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fef3e4f327b189b8"]={"json":{"type_id":"simple","id":"hoenn_champion","suffix":"ribbon.hoenn_champion.title","translation_key":"ribbon.hoenn_champion","description":"ribbon.hoenn_champion.description","icon":"pixelmon:textures/gui/ribbons/hoenn_champion.png"}};

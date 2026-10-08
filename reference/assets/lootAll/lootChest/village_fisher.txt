@@ -1,0 +1,10 @@
+pixelmon:old_rod=46.15%=1-1
+pixelmon:good_rod=30.77%=1-1
+pixelmon:water_gem=48.90%=1-2
+pixelmon:ice_gem=34.93%=1-2
+minecraft:cod=46.21%=1-3
+minecraft:salmon=26.29%=1-3
+minecraft:water_bucket=26.29%=1-3
+minecraft:barrel=26.29%=1-3
+minecraft:spider_eye=61.18%=1-3
+minecraft:coal=46.21%=1-3

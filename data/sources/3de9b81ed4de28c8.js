@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3de9b81ed4de28c8"]={"json":{"id":"Swirlix Grass","spawnInfos":[{"spec":"species:Swirlix","stringLocationTypes":["Grass"],"minLevel":22,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["birches","mushroom","magical"]},"rarity":90.0}]}};

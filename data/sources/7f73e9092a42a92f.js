@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7f73e9092a42a92f"]={"json":{"Evolutions":[{"from":"Gothita","level":32,"to":"Gothorita","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Gothorita","level":41,"to":"Gothitelle","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

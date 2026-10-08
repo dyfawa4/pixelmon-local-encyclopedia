@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2ea20b7e833b350e"]={"text":"携带该道具的宝可梦在每个回合结束时，如果没有处于异常状态，则进入剧毒状态。\r\n腐蚀特性的毒属性和钢属性宝可梦携带||itemButton=pixelmon:toxic_orb||可以使自己陷入剧毒状态。\r\n该道具对于免疫特性的宝可梦无效。\r\n||itemButton=pixelmon:toxic_orb||的效果在湿润之躯、蜕皮、高友好度自愈异常状态的效果发动之后发动。\r\n由于||itemButton=pixelmon:toxic_orb||的效果在剧毒损失血量的效果之后发动，所以因||itemButton=pixelmon:toxic_orb||陷入剧毒状态的当回合不会损失血量。"};

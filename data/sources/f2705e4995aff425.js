@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f2705e4995aff425"]={"json":{"pokemon":"Raikou","items":[{"item":"minecraft:glowstone","min":1,"max":3,"chance":1.0},{"item":"pixelmon:electric_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:magnet","min":1,"max":1,"chance":0.1}]}};

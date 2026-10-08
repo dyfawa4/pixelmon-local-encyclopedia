@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ae9b38bd9d3a3283"]={"json":{"id":"Mega Lopunny","spawnInfos":[{"spec":"species:Lopunny","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["freezing forests"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

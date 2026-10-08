@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-214921b2590a71b3"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:poke_sand_side4"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_hay_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:wheat"}},"result":{"item":"minecraft:hay_block"},"source":"data/minecraft/recipes/hay_block.json"}],"appRecipe":{},"usedIn":["minecraft:target","minecraft:wheat"],"drops":[],"referenceDrop":{},"special":""};

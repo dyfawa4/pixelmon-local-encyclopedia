@@ -1,0 +1,4 @@
+Confuse Ray,Hypno,Magmar,Ralts,Kirlia,Gardevoir,Sableye,Volbeat,Illumise,Magmortar,Gallade,Charcadet,Armarouge,Ceruledge
+Fake Out,Hitmonlee,Hitmonchan,Hitmontop,Makuhita,Hariyama,Sableye,Meditite,Medicham,Chimchar,Monferno,Infernape,Mienfoo,Mienshao,Impidimp,Morgrem,Grimmsnarl
+Power Split,Drowzee,Hypno,Elgyem,Beheeyem
+Tickle,Sableye,Gothita,Gothorita,Gothitelle

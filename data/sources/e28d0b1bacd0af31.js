@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e28d0b1bacd0af31"]={"json":{"id":"Regigigas","spawnInfos":[{"spec":"species:Regigigas level:70","stringLocationTypes":["Underground"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["savannas"],"maxY":40},"rarity":1.0}]}};

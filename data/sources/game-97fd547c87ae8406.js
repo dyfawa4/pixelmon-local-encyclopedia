@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-97fd547c87ae8406"]={"json":{"id":"Snorlax Grass","spawnInfos":[{"spec":"species:Snorlax","stringLocationTypes":["Grass"],"minLevel":40,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:leftovers","percentChance":100}],"condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["mountainous forests"]},"rarity":6.0}]}};

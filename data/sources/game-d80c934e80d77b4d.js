@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d80c934e80d77b4d"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:turtle"],"replacement_logic":"simple","specs":["tirtouga","squirtle","chewtle","drednaw"]}};

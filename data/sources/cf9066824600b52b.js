@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cf9066824600b52b"]={"json":{"id":"Bayleef","spawnInfos":[{"spec":"species:Bayleef","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":32,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains","flowery"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["CLEAR"]}}],"rarity":1.0}]}};

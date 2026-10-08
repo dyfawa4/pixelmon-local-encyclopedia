@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:872c4f59f272bcec"]={"json":{"Evolutions":[{"from":"Chewtle","level":22,"to":"Drednaw","conditions":[],"evoType":"leveling","moves":["Rock Tomb"],"additionalProperties":{}}]}};

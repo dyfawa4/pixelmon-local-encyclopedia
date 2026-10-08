@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4011140a21b0d4e7"]={"json":{"id":"Mega Alakazam","spawnInfos":[{"spec":"species:Alakazam","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["minecraft:end_highlands","forests"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

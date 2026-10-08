@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6a46d72e6a6b9fe3"]={"json":{"npctype":"chat","skins":[{"filename":"ornithologist.png"}],"names":[{"name":"George"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Resort."},{"text":"Il nostro Capopalestra ti farà cadere!"},{"text":"Quando pensi di aver finito; in realtà è tutto appena iniziato."}]}]}};

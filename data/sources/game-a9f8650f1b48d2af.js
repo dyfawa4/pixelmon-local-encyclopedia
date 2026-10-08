@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a9f8650f1b48d2af"]={"json":{"id":"Venusaur","spawnInfos":[{"spec":"species:Venusaur","stringLocationTypes":["Land"],"minLevel":32,"maxLevel":50,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["forests","birches","byg:crag_gardens","pixelmon:ultra_forest"]},"rarity":1.0}]}};

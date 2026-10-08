@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:962f226a2e50ae01"]={"json":{"id":"Clodsire","spawnInfos":[{"spec":"species:Clodsire","stringLocationTypes":["Land","Water"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT","DAWN"],"stringBiomes":["swamps"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["RAIN"]}}],"rarity":30.0}]}};

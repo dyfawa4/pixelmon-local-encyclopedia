@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6c99c2bf8502afb3"]={"json":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:leaf_stone_ore"},"result":"pixelmon:leaf_stone_shard","experience":0.7,"cookingtime":100}};

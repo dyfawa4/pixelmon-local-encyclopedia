@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-162fd4ca2593fdb2"]={"json":{"id":"Scovillain","spawnInfos":[{"spec":"species:Scovillain","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["arid","mesas"]},"rarity":5.0}]}};

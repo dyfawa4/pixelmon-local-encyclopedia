@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c83e2d1452e99059"]={"json":{"id":"Tadbulb","spawnInfos":[{"spec":"species:Tadbulb","stringLocationTypes":["Water"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:river","lakes","swamps"]},"rarity":100.0}]}};

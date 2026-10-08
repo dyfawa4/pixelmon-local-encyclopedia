@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2404d384827d1b76"]={"json":{"attack":"超极巨化的铝钢龙使出的龙属性攻击。可减少对手最后使用的招式的PP。","description":"攻击目标造成伤害。使对手最后使用的招式的ＰＰ减少2。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

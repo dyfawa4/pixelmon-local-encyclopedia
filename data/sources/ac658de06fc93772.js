@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ac658de06fc93772"]={"json":{"id":"Oddish Sweet Scent","spawnInfos":[{"spec":"species:Oddish","stringLocationTypes":["Sweet Scent"],"minLevel":2,"maxLevel":8,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles","forests","roofed","swamps"]},"rarity":130.0}]}};

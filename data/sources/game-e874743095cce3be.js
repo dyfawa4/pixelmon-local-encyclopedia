@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e874743095cce3be"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M","S","S"],"key":{"M":{"tag":"forge:gems/ruby"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:ruby_shovel","count":1}}};

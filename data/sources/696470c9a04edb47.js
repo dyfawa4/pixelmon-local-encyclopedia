@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:696470c9a04edb47"]={"json":{"id":"Tauros Grass","spawnInfos":[{"spec":"species:Tauros","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["savannas","plains"]},"rarity":40.0}]}};

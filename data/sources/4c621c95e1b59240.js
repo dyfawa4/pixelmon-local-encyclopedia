@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4c621c95e1b59240"]={"json":{"id":"equal","name":"enum.trainerBoss.equal","canRandomlySpawn":false,"weight":0,"color":{"r":255,"g":255,"b":255,"a":255},"modelScaleFactor":1,"isMega":false,"megaStoneObtainChance":0,"megaStoneRepeatChance":0,"alwaysPalette":"","levelMultiplier":1,"extraLevels":0,"dropSets":[]}};

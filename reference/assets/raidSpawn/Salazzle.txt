@@ -1,0 +1,5 @@
+4,5=badlands
+4,5=evil
+4,5=nether
+4=ultradesert
+4,5=volcano

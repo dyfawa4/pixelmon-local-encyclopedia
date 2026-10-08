@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e8554cadfdb07d35"]={"json":{"skins":[{"filename":"suit.png"}],"names":[{"name":"Mark"},{"name":"Brandon"},{"name":"Robert"},{"name":"Henry"}],"chat":[{"lines":[{"text":"Sono così nervoso, spero di non rovinare tutto!"}]},{"lines":[{"text":"Oggi è il giorno più bello della mia vita, non vedo l'ora di sposarmi!"}]}]}};

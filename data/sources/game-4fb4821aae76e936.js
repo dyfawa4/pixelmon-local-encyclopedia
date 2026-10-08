@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4fb4821aae76e936"]={"json":{"id":"Mesprit","spawnInfos":[{"spec":"species:Mesprit level:50","stringLocationTypes":["Surface Water"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["birches","lakes"]},"anticondition":{"stringBiomes":["minecraft:desert_lakes"]},"rarity":2.0}]}};

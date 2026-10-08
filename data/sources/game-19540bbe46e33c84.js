@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-19540bbe46e33c84"]={"json":{"type_id":"simple","id":"charismatic","suffix":"ribbon.charismatic.title","translation_key":"ribbon.charismatic","description":"ribbon.charismatic.description","icon":"pixelmon:textures/gui/ribbons/charismatic.png"}};

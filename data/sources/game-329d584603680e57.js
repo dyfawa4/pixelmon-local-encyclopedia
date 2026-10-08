@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-329d584603680e57"]={"json":{"id":"Eternatus","spawnInfos":[{"spec":"species:Eternatus level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["minecraft:end_barrens","swamps"]},"rarity":3.0}]}};

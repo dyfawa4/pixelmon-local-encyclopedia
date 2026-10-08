@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:mimicry"]={"description":"对战中\r\n拥有此特性的宝可梦，自身的属性将取决于当前的场地型状态而改变。\r\n\r\n对战场地处于电气场地状态时，会变为电属性。\r\n对战场地处于青草场地状态时，会变为草属性。\r\n对战场地处于薄雾场地状态时，会变为妖精属性。\r\n对战场地处于精神场地状态时，会变为超能力属性。","holders":[[618,"galarian",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Mimicry"}};

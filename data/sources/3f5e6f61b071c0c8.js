@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f5e6f61b071c0c8"]={"text":"第一次击败||pokemonButton=Metagross form:mega||BOSS必定可得，往后再次击败他掉落的几率取决于BOSS等级，分别为史诗-2.5%，传说-5%和终极-10%。"};

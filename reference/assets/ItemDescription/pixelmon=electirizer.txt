@@ -1,0 +1,1 @@
+||pokemonButton=Electabuzz||携带该道具连接交换进化为||pokemonButton=Electivire||。

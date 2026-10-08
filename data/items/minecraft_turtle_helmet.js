@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_turtle_helmet"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XXX","X X"],"key":{"X":{"item":"minecraft:scute"}},"result":{"item":"minecraft:turtle_helmet"},"source":"data/minecraft/recipes/turtle_helmet.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

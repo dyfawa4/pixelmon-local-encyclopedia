@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:81c87d4850ba52a9"]={"text":"在携带该道具的宝可梦使用接触类招式攻击时，不会受到本应受到的效果。\r\n能防止的效果包括：\r\n||itemButton=pixelmon:rocky_helmet||造成的HP损失；\r\n碉堡造成的中毒，尖刺防守造成的HP损失；\r\n粗糙皮肤、铁刺和引爆造成的HP损失；\r\n火焰之躯、静电、迷人之躯和灭亡之躯的特性效果。"};

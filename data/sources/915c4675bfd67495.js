@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:915c4675bfd67495"]={"json":{"pokemon":"Ninetales form:base","items":[{"item":"minecraft:blaze_rod","min":1,"max":2,"chance":1.0},{"item":"minecraft:sweet_berries","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fire_stone_shard","min":1,"max":2,"chance":0.3},{"item":"pixelmon:fire_stone","min":1,"max":1,"chance":0.1}]}};

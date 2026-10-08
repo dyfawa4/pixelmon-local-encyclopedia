@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:19888f4ce9523c9d"]={"json":{"pokemon":"Electivire","items":[{"item":"minecraft:glowstone_dust","min":2,"max":4,"chance":1.0},{"item":"minecraft:glowstone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:thunder_stone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:electirizer","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-770cd01f0dafe9eb"]={"json":{"id":"Slaking","spawnInfos":[{"spec":"species:Slaking","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["jungles"]},"rarity":0.5}]}};

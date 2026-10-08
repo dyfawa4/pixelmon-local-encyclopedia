@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Farfetchd form:galarian","to":"Sirfetchd","conditions":[{"evoConditionType":"critical","critical":3,"additionalProperties":{}}],"evoType":"ticking","moves":["Iron Defense"],"additionalProperties":{}}]}

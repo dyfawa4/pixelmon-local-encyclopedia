@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:07bd788b6b8edb51"]={"json":{"pokemon":"Snorlax","items":[{"item":"minecraft:apple","min":1,"max":3,"chance":1.0},{"item":"minecraft:cookie","min":1,"max":2,"chance":0.5},{"item":"pixelmon:chesto_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:snorlium_z","min":1,"max":1,"chance":0.1}]}};

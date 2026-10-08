@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1cfb126da69c2206"]={"json":{"pokemon":"Klinklang","items":[{"item":"pixelmon:aluminium_ingot","min":2,"max":4,"chance":1.0},{"item":"pixelmon:platinum_ingot","min":1,"max":3,"chance":0.5},{"item":"pixelmon:cell_battery","min":1,"max":2,"chance":0.3},{"item":"pixelmon:metal_powder","min":1,"max":1,"chance":0.3}]}};

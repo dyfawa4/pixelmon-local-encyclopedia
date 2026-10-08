@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a273a52d7a953954"]={"json":{"type":"minecraft:crafting_shaped","pattern":["WCW","W W","W W"],"key":{"W":{"tag":"minecraft:planks"},"C":{"item":"minecraft:crafting_table"}},"result":{"item":"pixelmon:end_table","count":1}}};

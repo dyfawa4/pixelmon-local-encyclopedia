@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:966c0d48ca2f739d"]={"json":{"Name":"BigPecks","Description":"不会受到防御降低的效果。","Normal":["Pidove","Tranquill","Unfezant","Ducklett","Swanna","Vullaby","Mandibuzz","Fletchling","Bombirdier"],"Hidden":["Pidgey","Pidgeotto","Pidgeot","Chatot","Rookidee","Corvisquire"]}};

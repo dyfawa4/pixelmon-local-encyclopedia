@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Snorunt","item":{"itemID":"pixelmon:dawn_stone","additionalProperties":{}},"to":"Froslass","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"interact","moves":["Hex"],"additionalProperties":{}}]}

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-be18cef1b24b6cc2"]={"json":{"id":"Mega Latios","spawnInfos":[{"spec":"species:Latios","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["oceanic"],"times":["NIGHT"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

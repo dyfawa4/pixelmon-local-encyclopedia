@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1a768121a939b1cc"]={"json":{"id":"Kabutops","spawnInfos":[{"spec":"species:Kabutops","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":5.0}]}};

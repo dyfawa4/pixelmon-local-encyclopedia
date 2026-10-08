@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cca57003936ad63f"]={"json":{"type_id":"simple","id":"best_friends","suffix":"ribbon.best_friends.title","translation_key":"ribbon.best_friends","description":"ribbon.best_friends.description","icon":"pixelmon:textures/gui/ribbons/best_friends.png"}};

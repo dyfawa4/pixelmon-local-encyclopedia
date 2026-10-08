@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:47024fb0039eaca1"]={"json":{"id":"notboss","name":"enum.trainerBoss.notboss","canRandomlySpawn":false,"weight":0,"color":{"r":255,"g":255,"b":255,"a":255},"modelScaleFactor":1,"isMega":false,"megaStoneObtainChance":0,"megaStoneRepeatChance":0,"alwaysPalette":"","levelMultiplier":1,"extraLevels":0,"dropSets":[]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-703b7701f56d2a86"]={"json":{"id":"Mienfoo","spawnInfos":[{"spec":"species:Mienfoo","stringLocationTypes":["Land"],"minLevel":38,"maxLevel":49,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous"]},"rarity":60.0}]}};

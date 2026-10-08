@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-771637cd5ca2f04c"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:sheep"],"replacement_logic":"simple","specs":["wooloo","dubwool","mareep","flaaffy"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0455e4ecf936b601"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"Greg"}],"chat":[{"lines":[{"text":"Bienvenido a la Plaza Arroyo."},{"text":"¡A nuestro Líder de gimnasio le encanta el agua, y acabará con tu fuego!"},{"text":"¡Veremos si tus Pokémon pueden resistir a la tormenta!"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2c0f0dde27257639"]={"json":{"Evolutions":[{"from":"Varoom","level":40,"to":"Revavroom","conditions":[],"evoType":"leveling","moves":["Shift Gear"],"additionalProperties":{}}]}};

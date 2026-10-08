@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b55892d6b2d86b11"]={"json":{"id":"Tutors","spawnInfos":[{"name":"Tutor","stringLocationTypes":["Land"],"condition":{"stringBiomes":["plains","minecraft:snowy_tundra","mountainous"]},"rarityMultipliers":[{"multiplier":0.5,"condition":{"stringBiomes":["minecraft:snowy_tundra"]}}],"typeID":"npc","rarity":5.0}]}};

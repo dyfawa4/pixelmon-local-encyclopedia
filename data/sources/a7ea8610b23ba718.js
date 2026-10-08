@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a7ea8610b23ba718"]={"json":{"attack":"极巨化宝可梦使出的水属性攻击。可在5回合内降下大雨。","description":"攻击目标造成伤害。将天气转为下雨。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

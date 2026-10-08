@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8a4b3b6a81fdf239"]={"json":{"id":"Mothim Sweet Scent","spawnInfos":[{"spec":"species:Mothim","stringLocationTypes":["Sweet Scent"],"minLevel":20,"maxLevel":35,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["taigas","redwoods"]},"rarity":120.0}]}};

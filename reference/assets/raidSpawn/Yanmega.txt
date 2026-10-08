@@ -1,0 +1,3 @@
+4,5=freshwater
+4,5=jungles
+4,5=swamps

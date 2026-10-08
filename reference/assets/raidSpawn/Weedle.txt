@@ -1,0 +1,6 @@
+1=birches
+1=craggardens
+1=flowery
+1=forests
+1=roofed
+1=taigas

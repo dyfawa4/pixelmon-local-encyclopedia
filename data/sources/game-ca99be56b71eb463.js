@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ca99be56b71eb463"]={"json":{"id":"Ceruledge","spawnInfos":[{"spec":"species:Ceruledge","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":45,"typeID":"pokemon","heldItems":[],"condition":{"times":["NIGHT"],"stringBiomes":["mesas","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"rarity":5.0}]}};

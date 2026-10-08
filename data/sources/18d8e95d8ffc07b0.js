@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:18d8e95d8ffc07b0"]={"json":{"id":"Snubbull","spawnInfos":[{"spec":"species:Snubbull","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":22,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains"]},"rarity":130.0}]}};

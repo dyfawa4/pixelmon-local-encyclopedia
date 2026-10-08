@@ -1,0 +1,7 @@
+||bigFont=对战中||
+携带该道具的宝可梦的水属性招式威力提升20%。
+
+||bigFont=对战外||
+携带该道具的||pokemonButton=Mantine||♀生蛋，孵化出的子代为||pokemonButton=Mantyke||。
+携带该道具的||pokemonButton=Mantine||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Mantyke||。
+也可以当做装饰性方块放下来。

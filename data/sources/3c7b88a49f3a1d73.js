@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3c7b88a49f3a1d73"]={"json":{"pokemon":"Mewtwo","items":[{"item":"pixelmon:bright_powder","min":1,"max":1,"chance":1.0},{"item":"pixelmon:psychic_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ability_capsule","min":1,"max":1,"chance":0.1}]}};

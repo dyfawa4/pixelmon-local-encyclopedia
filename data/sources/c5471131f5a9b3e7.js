@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5471131f5a9b3e7"]={"json":{"replace":false,"values":["#pixelmon:berries/firmness/hard","#pixelmon:berries/firmness/soft","#pixelmon:berries/firmness/super_hard","#pixelmon:berries/firmness/very_hard","#pixelmon:berries/firmness/very_soft"]}};

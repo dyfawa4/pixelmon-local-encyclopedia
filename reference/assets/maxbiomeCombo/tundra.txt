@@ -1,0 +1,3 @@
+biomesoplenty:tundra
+biomesoplenty:tundra_basin
+biomesoplenty:tundra_bog

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9c4c0cdb5c1a915b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["X","X"],"key":{"X":{"item":"pixelmon:inside_wall"}},"result":{"item":"pixelmon:inside_wall_moulding","count":2}}};

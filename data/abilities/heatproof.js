@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:heatproof"]={"description":"对战中\r\n该特性的宝可梦受到火属性招式和灼伤造成的伤害变为原本的1⁄2。\r\n\r\n灼伤的降低物理招式伤害效果对该特性宝可梦仍然会触发。","holders":[[436,"",false],[437,"",false],[837,"",false],[1012,"counterfeit",true],[1012,"artisan",true],[1013,"unremarkable",true],[1013,"masterpiece",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Heatproof"}};

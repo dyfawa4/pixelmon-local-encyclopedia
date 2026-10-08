@@ -1,0 +1,9 @@
+4,5=beaches
+4,5=coldocean
+4,5=deadsea
+4,5=freezingbeaches
+4,5=freezingocean
+4,5=lukewarmocean
+4,5=ocean
+4,5=stonybeaches
+4,5=warmocean

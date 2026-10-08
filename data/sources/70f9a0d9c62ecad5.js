@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:70f9a0d9c62ecad5"]={"json":{"pokemon":"Sandslash form:base","items":[{"item":"minecraft:sand","min":1,"max":3,"chance":1.0},{"item":"minecraft:sandstone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:soft_sand","min":1,"max":1,"chance":0.1}]}};

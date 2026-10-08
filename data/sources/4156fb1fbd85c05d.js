@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4156fb1fbd85c05d"]={"json":{"id":"Vaporeon Fishing","spawnInfos":[{"spec":"species:Vaporeon","stringLocationTypes":["Super Rod"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","condition":{"stringBiomes":["beaches"]},"anticondition":{"stringBiomes":["freezing"]},"rarityMultipliers":[{"multiplier":2.5,"condition":{"weathers":["RAIN"]}}],"rarity":7.0}]}};

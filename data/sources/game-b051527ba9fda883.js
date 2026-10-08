@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b051527ba9fda883"]={"json":{"id":"Meditite","spawnInfos":[{"spec":"species:Meditite","stringLocationTypes":["Land"],"minLevel":13,"maxLevel":31,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mountainous forests"]},"rarity":90.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2f60d96324795756"]={"text":"minecraft:birch_forest\r\nminecraft:birch_forest_hills\r\nminecraft:tall_birch_forest\r\nminecraft:tall_birch_hills\r\nbyg:aspen_forest\r\nbyg:aspen_forest_hills\r\nbyg:aspen_clearing\r\nbyg:seasonal_birch_forest\r\nbyg:seasonal_birch_forest_hills\r\n"};

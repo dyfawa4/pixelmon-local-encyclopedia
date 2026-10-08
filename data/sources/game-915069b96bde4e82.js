@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-915069b96bde4e82"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_space_cobblestone_pressure_plate"}],"conditions":[]}]}};

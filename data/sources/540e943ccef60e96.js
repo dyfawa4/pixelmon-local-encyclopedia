@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:540e943ccef60e96"]={"json":{"pokemon":"Ceruledge","items":[{"item":"minecraft:blaze_powder","min":2,"max":3,"chance":1.0},{"item":"pixelmon:charcoal","min":1,"max":1,"chance":0.5},{"item":"pixelmon:ghost_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:malicious_armor","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,4 @@
+1=birches
+1=forests
+1=freezingforests
+1=roofed

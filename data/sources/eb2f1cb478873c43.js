@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eb2f1cb478873c43"]={"json":{"id":"Mega Houndoom","spawnInfos":[{"spec":"species:Houndoom","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mesas","arid","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

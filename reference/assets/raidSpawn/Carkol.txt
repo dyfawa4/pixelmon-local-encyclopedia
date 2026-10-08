@@ -1,0 +1,4 @@
+2,3=badlands
+2,3=mountainous
+2,3=savannas
+2,3=volcano

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4953c985606a1a72"]={"json":{"id":"Arctovish","spawnInfos":[{"spec":"species:Arctovish","stringLocationTypes":["Water"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":10.0}]}};

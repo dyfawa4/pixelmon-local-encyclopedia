@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-902d34c599e55555"]={"json":{"rewards":{"recipes":["pixelmon:summon/tres_orb"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:summon/tres_orb"}},"has_orb":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"pixelmon:orb"}]}}},"requirements":[["has_the_recipe","has_orb"]]}};

@@ -1,0 +1,6 @@
+4,5=burntforest
+4,5=mountainousforests
+4,5=mountainous
+4,5=redwoods
+4,5=swamps
+4,5=ultracrater

@@ -1,0 +1,3 @@
+手持||itemButton=pixelmon:old_rod||、||itemButton=pixelmon:good_rod||或||itemButton=pixelmon:super_rod||右键他，它会帮你鉴赏钓竿，用鉴赏过的钓竿垂钓可以有几率钓出有特殊花纹的宝可梦，详见||fishButton||。
+以下为能鉴赏出的等级和其概率(不受钓竿种类影响): 普通-38.56%，较好-19.29%，厉害-12.94%，漂亮-9.65%，珍贵-7.71%，讲究-6.34%，超棒-5.51%。
+之后当你背包中有那些特殊花纹的宝可梦时，再次找到他，他会给予你一本||itemButton=pixelmon:fishing_log||。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:40f893f3778d0463"]={"text":"Acupressure,Pincurchin,Qwilfish,Qwilfish form:hisuian,Overqwil\r\nDestiny Bond,Qwilfish,Qwilfish form:hisuian,Overqwil\r\nDisable,Psyduck,Golduck,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Seel,Dewgong,Horsea,Seadra,Slowking,Slowking form:galarian,Corsola form:galarian,Kingdra,Cursola,Bruxish\r\n"};

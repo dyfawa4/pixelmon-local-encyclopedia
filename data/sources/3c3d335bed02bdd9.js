@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3c3d335bed02bdd9"]={"json":{"Name":"UnseenFist","Description":"如果使出的是接触到对手的招式，就可以无视守护效果进行攻击。","Normal":["Urshifu form:singlestrike","Urshifu form:rapidstrike"],"Hidden":[]}};

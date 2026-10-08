@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:34b648a84310047a"]={"json":{"Evolutions":[{"from":"Pancham","level":32,"to":"Pangoro","conditions":[{"evoConditionType":"party","withPokemon":[],"withTypes":["DARK"],"additionalProperties":{}}],"evoType":"leveling","moves":["Night Slash"],"additionalProperties":{}}]}};

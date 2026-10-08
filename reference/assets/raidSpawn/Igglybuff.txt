@@ -1,0 +1,2 @@
+1=plains
+1=roofed

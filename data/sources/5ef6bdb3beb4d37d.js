@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5ef6bdb3beb4d37d"]={"json":{"pokemon":"Growlithe form:hisuian","items":[{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":1.0},{"item":"minecraft:bone","min":1,"max":1,"chance":0.5}]}};

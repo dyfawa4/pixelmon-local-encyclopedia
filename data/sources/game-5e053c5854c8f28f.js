@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5e053c5854c8f28f"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GDG","DGD","GDG"],"key":{"G":{"item":"minecraft:gravel"},"D":{"tag":"forge:dyes/black"}},"result":{"item":"pixelmon:shingles","count":5}}};

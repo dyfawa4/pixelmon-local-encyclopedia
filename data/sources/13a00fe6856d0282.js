@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13a00fe6856d0282"]={"json":{"pokemon":"Nacli","items":[{"item":"minecraft:diorite","min":1,"max":2,"chance":1.0},{"item":"minecraft:granite","min":1,"max":1,"chance":0.5}]}};

@@ -1,0 +1,1 @@
+可以让||pokemonButton=Sharpedo||在对战中mega进化为||pokemonButton=Sharpedo form:mega||

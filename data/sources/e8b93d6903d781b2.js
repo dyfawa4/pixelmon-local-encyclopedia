@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e8b93d6903d781b2"]={"json":{"Name":"Bulletproof","Description":"可以防住对手的球和弹类招式。","Normal":["Jangmo-o","Hakamo-o","Kommo-o","Ursaluna"],"Hidden":["Chespin","Quilladin","Chesnaught","Wooloo","Wooloo form:shorn","Dubwool","Dubwool form:shorn","Applin"]}};

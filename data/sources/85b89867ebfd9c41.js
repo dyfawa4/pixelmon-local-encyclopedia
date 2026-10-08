@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:85b89867ebfd9c41"]={"json":{"Name":"VitalSpirit","Description":"通过激发出干劲，不会变为睡眠状态。","Normal":["Mankey","Primeape","MrMime form:galarian","Delibird","Vigoroth","Lillipup","Rockruff","Lycanroc form:midnight","Annihilape"],"Hidden":["Electabuzz","Magmar","Tyrogue","Elekid","Magby","Electivire","Magmortar"]}};

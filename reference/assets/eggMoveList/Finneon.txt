@@ -1,0 +1,9 @@
+Agility,Goldeen,Seaking,Chinchou,Lanturn,Qwilfish,Qwilfish form:hisuian,Carvanha,Sharpedo,Luvdisc,Finneon,Lumineon,Basculin form:red,Basculin form:blue,Bruxish,Arrokuda,Barraskewda,Basculegion form:male,Basculegion form:female,Overqwil,Finizen,Palafin form:zero,Veluza
+Aqua Tail,Gyarados,Lanturn,Qwilfish,Qwilfish form:hisuian,Barboach,Whiscash,Relicanth,Finneon,Lumineon,Basculin form:red,Basculin form:blue,Basculin form:white,Wishiwashi form:solo,Wishiwashi form:school,Bruxish,Basculegion form:male,Basculegion form:female,Overqwil,Finizen,Palafin form:zero,Dondozo
+Aurora Beam,Remoraid,Octillery,Finneon,Lumineon
+Charm,Luvdisc,Finneon,Lumineon,Finizen,Palafin form:zero
+Confuse Ray,Chinchou,Lanturn,Finneon,Lumineon,Basculegion form:male,Basculegion form:female
+Flail,Goldeen,Seaking,Magikarp,Gyarados,Chinchou,Lanturn,Qwilfish,Qwilfish form:hisuian,Relicanth,Luvdisc,Finneon,Lumineon,Basculin form:red,Basculin form:blue,Basculegion form:male,Basculegion form:female,Overqwil,Dondozo
+Psybeam,Chinchou,Lanturn,Remoraid,Octillery,Finneon,Lumineon,Inkay,Malamar
+Sweet Kiss,Luvdisc,Finneon,Lumineon
+Tickle,Whiscash,Finneon,Lumineon,Alomomola,Dondozo

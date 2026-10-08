@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:744bff71fbc06c0e"]={"json":{"Evolutions":[{"from":"Litwick","level":41,"to":"Lampent","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Lampent","item":{"itemID":"pixelmon:dusk_stone","additionalProperties":{}},"to":"Chandelure","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

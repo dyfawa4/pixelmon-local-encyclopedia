@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_amethyst_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:amethyst_ore"},"result":"pixelmon:amethyst","experience":0.7,"cookingtime":200},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

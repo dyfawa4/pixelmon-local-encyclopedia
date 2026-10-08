@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:opportunist"]={"description":"对战中\r\n对手的能力提高时，拥有该特性的宝可梦也会提高相同的能力。","holders":[[956,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Opportunist"}};

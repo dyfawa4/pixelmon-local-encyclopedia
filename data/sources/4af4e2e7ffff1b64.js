@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4af4e2e7ffff1b64"]={"json":{"replace":false,"values":["pixelmon:ultra_elm_log","pixelmon:ultra_elm_wood","pixelmon:stripped_ultra_elm_log","pixelmon:stripped_ultra_elm_wood"]}};

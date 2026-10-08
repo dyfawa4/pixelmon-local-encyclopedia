@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b842fcca01a9b5c1"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:parrot"],"replacement_logic":"simple","specs":["oricorio","pikipek","fletchling","natu"]}};

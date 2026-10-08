@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0dba48bee7aaa60e"]={"json":{"pokemon":"Wobbuffet","items":[{"item":"pixelmon:pokemail_inquiry","min":1,"max":1,"chance":1.0},{"item":"pixelmon:apicot_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ganlon_berry","min":1,"max":2,"chance":0.3}]}};

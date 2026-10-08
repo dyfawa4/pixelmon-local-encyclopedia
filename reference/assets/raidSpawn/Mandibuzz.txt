@@ -1,0 +1,4 @@
+4,5=badlands
+4,5=deserts
+4,5=evil
+4=ultradesert

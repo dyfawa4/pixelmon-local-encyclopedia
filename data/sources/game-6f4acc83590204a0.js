@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6f4acc83590204a0"]={"json":{"id":"Cinderace","spawnInfos":[{"spec":"species:Cinderace","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["plains"]},"rarity":1.0}]}};

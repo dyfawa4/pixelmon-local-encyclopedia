@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d68b2ae39f9299d4"]={"json":{"pokemon":"Rellor","items":[{"item":"minecraft:slime_ball","min":1,"max":2,"chance":1.0},{"item":"minecraft:coarse_dirt","min":1,"max":1,"chance":0.5}]}};

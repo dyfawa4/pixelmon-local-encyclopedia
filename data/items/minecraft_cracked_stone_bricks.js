@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_cracked_stone_bricks"]={"description":"","recipes":[{"type":"minecraft:smelting","ingredient":{"item":"minecraft:stone_bricks"},"result":{"item":"minecraft:cracked_stone_bricks"},"experience":0.1,"cookingtime":200,"source":"data/minecraft/recipes/cracked_stone_bricks.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

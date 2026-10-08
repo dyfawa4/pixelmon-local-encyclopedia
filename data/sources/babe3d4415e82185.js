@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:babe3d4415e82185"]={"json":{"Evolutions":[{"from":"Shellder","item":{"itemID":"pixelmon:water_stone","additionalProperties":{}},"to":"Cloyster","conditions":[],"evoType":"interact","moves":["Icicle Spear"],"additionalProperties":{}}]}};

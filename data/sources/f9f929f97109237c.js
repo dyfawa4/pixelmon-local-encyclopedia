@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f9f929f97109237c"]={"json":{"pokemon":"Omastar","items":[{"item":"minecraft:stone","min":1,"max":3,"chance":1.0},{"item":"minecraft:cod","min":1,"max":3,"chance":0.5},{"item":"minecraft:mautilus_shell","min":1,"max":1,"chance":0.3},{"item":"pixelmon:smooth_rock","min":1,"max":1,"chance":0.1}]}};

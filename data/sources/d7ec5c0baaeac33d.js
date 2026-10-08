@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d7ec5c0baaeac33d"]={"json":{"Name":"PoisonTouch","Description":"只通过接触就有可能让对手变为中毒状态。","Normal":["Grimer form:alolan","Muk form:alolan","Seismitoad","Skrelp","Dragalge","Grafaiai"],"Hidden":["Grimer","Muk","Croagunk","Toxicroak","Sneasler"]}};

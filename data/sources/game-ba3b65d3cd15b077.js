@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ba3b65d3cd15b077"]={"json":{"id":"Druddigon Caverock","spawnInfos":[{"spec":"species:Druddigon","stringLocationTypes":["Cave Rock"],"minLevel":50,"maxLevel":62,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:dragon_fang","percentChance":5}],"condition":{"stringBiomes":["mountainous"],"minY":70},"rarity":0.5}]}};

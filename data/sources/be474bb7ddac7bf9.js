@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:be474bb7ddac7bf9"]={"json":{"type":"minecraft:crafting_shaped","pattern":["RS","SR"],"key":{"S":{"item":"minecraft:sand"},"R":{"item":"pixelmon:ruins_wall"}},"result":{"item":"pixelmon:dusty_ruins_wall","count":4}}};

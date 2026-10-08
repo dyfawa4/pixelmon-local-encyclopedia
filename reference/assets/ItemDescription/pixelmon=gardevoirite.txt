@@ -1,0 +1,1 @@
+可以让||pokemonButton=Gardevoir||在对战中mega进化为||pokemonButton=Gardevoir form:mega||

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8ef2cd708c090a17"]={"json":{"id":"Tyrantrum","spawnInfos":[{"spec":"species:Tyrantrum","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_crater"]},"rarity":5.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9d77c36ac835a70d"]={"json":{"name":"pixelmon:pumpkin_house/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:pumpkin_house","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":1,"y_hack":20,"keep_liquids":true}}]}};

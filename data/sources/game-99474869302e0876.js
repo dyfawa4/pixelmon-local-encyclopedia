@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-99474869302e0876"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:purple_water_float"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b33d7f2e6e5051fd"]={"json":{"id":"Minun Grass","spawnInfos":[{"spec":"species:Minun","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:cell_battery","percentChance":5}],"condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["plains","birches"]},"rarity":130.0}]}};

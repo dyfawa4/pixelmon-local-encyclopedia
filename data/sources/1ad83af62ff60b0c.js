@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ad83af62ff60b0c"]={"text":"minecraft:mushroom_fields\r\nminecraft:mushroom_field_shore\r\nbiomesoplenty:fungal_field\r\nbiomesoplenty:fungal_jungle\r\nbiomesoplenty:shroomy_wetland\r\nbyg:fungal_patch\r\nbyg:glowshroom_bayou\r\nbyg:tropical_fungal_forest\r\nbyg:tropical_fungal_rainforest_hills\r\n"};

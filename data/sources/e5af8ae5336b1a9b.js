@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e5af8ae5336b1a9b"]={"json":{"Name":"SuperLuck","Description":"因为拥有超幸运，攻击容易击中对手的要害。","Normal":["Murkrow","Absol","Honchkrow","Pidove","Tranquill","Unfezant"],"Hidden":["Togepi","Togetic","Togekiss"]}};

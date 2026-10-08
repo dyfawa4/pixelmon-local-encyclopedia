@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b4c7bc920e6e209b"]={"json":{"id":"Mega Pidgeot","spawnInfos":[{"spec":"species:Pidgeot","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"times":["DAY"],"stringBiomes":["forests","plains","taigas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8d2ccf5d107be77d"]={"json":{"id":"Vanillite","spawnInfos":[{"spec":"species:Vanillite","stringLocationTypes":["Land","Sweet Scent"],"minLevel":20,"maxLevel":34,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:never_melt_ice","percentChance":5}],"condition":{"stringBiomes":["freezing","pixelmon:mount_lanakila"]},"rarity":250.0}]}};

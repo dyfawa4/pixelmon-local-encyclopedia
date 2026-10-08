@@ -1,0 +1,4 @@
+4,5=burntforest
+4,5=evil
+4,5=roofed
+4,5=ultraforest

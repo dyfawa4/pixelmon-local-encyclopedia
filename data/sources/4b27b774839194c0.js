@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4b27b774839194c0"]={"json":{"id":"Diancie","spawnInfos":[{"spec":"species:Diancie level:70","stringLocationTypes":["Underground"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["mountainous"],"maxY":50},"rarity":0.4}]}};

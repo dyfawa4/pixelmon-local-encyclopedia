@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ba28689cca623502"]={"json":{"Evolutions":[{"from":"Yungoos","level":20,"to":"Gumshoos","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

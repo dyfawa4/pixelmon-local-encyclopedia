@@ -1,0 +1,2 @@
+Discharge,Joltik,Galvantula,Charjabug,Vikavolt
+Harden,Metapod,Butterfree,Kakuna,Pinsir,Gligar,Heracross,Silcoon,Cascoon,Nincada,Ninjask,Gliscor,Larvesta,Volcarona,Spewpa,Vikavolt

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3169f2781de98fb7"]={"json":{"id":"Lokix","spawnInfos":[{"spec":"species:Lokix","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":45,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas"]},"rarity":30.0}]}};

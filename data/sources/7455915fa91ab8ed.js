@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7455915fa91ab8ed"]={"json":{"pokemon":"Sprigatito","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:lily_of_the_valley","min":1,"max":1,"chance":0.5}]}};

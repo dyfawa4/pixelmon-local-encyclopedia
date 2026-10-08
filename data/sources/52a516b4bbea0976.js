@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:52a516b4bbea0976"]={"json":{"pokemon":"Primarina","items":[{"item":"minecraft:tropical_fish","min":2,"max":4,"chance":1.0},{"item":"pixelmon:shoal_shell","min":1,"max":3,"chance":0.5},{"item":"pixelmon:fairy_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:primarium_z","min":1,"max":1,"chance":0.1}]}};

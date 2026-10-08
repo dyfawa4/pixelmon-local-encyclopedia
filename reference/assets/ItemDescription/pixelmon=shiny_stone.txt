@@ -1,0 +1,4 @@
+对||pokemonButton=Togetic||使用，使其进化为||pokemonButton=Togekiss||。
+对||pokemonButton=Roselia||使用，使其进化为||pokemonButton=Roserade||。
+对||pokemonButton=Minccino||使用，使其进化为||pokemonButton=Cinccino||。
+对||pokemonButton=Floette||使用，使其进化为||pokemonButton=Florges||。

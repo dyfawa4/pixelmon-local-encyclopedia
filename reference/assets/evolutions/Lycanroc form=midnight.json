@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Rockruff","level":25,"to":"Lycanroc form:midnight","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Counter"],"additionalProperties":{}}]}

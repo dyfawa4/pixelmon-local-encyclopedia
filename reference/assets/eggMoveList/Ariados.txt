@@ -1,0 +1,5 @@
+Disable,Venonat,Venomoth,Spinarak,Ariados,Joltik,Galvantula
+Lunge,Venonat,Venomoth,Scyther,Spinarak,Ariados,Yanma,Pineco,Forretress,Gligar,Scizor,Heracross,Surskit,Masquerain,Volbeat,Kricketot,Kricketune,Mothim,Combee,Vespiquen,Yanmega,Gliscor,Sewaddle,Swadloon,Leavanny,Joltik,Galvantula,Larvesta,Volcarona,Grubbin,Charjabug,Vikavolt,Ribombee,Dewpider,Araquanid,Sizzlipede,Centiskorch,Snom,Frosmoth,Kleavor,Tarountula,Spidops,Lokix,Rellor,Rabsca
+Megahorn,Spinarak,Ariados,Heracross,Scolipede,Karrablast,Escavalier
+Night Slash,Spinarak,Ariados,Gligar,Heracross,Kricketune,Skorupi,Drapion,Yanmega,Gliscor,Kleavor
+Rage Powder,Butterfree,Paras,Parasect,Venonat,Venomoth,Spinarak,Ariados,Volcarona,Scatterbug,Spewpa

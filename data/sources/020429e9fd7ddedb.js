@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:020429e9fd7ddedb"]={"json":{"pokemon":"Gothorita","items":[{"item":"minecraft:ender_pearl","min":1,"max":3,"chance":1.0},{"item":"minecraft:book","min":1,"max":2,"chance":0.5},{"item":"pixelmon:spell_tag","min":1,"max":1,"chance":0.1}]}};

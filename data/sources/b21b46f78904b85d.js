@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b21b46f78904b85d"]={"json":{"Name":"Insomnia","Description":"因为是不会睡觉的体质，所以不会变为睡眠状态。","Normal":["Drowzee","Hypno","Mewtwo form:megay","Hoothoot","Noctowl","Spinarak","Ariados","Murkrow","Shuppet","Banette","Honchkrow","Tarountula","Spidops","Capsakid","Scovillain"],"Hidden":["Delibird","Pumpkaboo","Gourgeist"]}};

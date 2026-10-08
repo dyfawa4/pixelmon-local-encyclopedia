@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:faca97c65b4c517d"]={"json":{"pokemon":"Breloom","items":[{"item":"minecraft:brown_mushroom","min":1,"max":3,"chance":1.0},{"item":"minecraft:nether_wart","min":1,"max":2,"chance":0.5},{"item":"minecraft:warped_fungus","min":1,"max":2,"chance":0.3},{"item":"pixelmon:big_root","min":1,"max":1,"chance":0.1}]}};

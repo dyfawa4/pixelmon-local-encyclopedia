@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b8b050adafafb9b0"]={"json":{"id":"Silcoon","spawnInfos":[{"spec":"species:Silcoon","stringLocationTypes":["Land","Headbutt","Sweet Scent"],"minLevel":6,"maxLevel":11,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["all forests"]},"rarity":40.0}]}};

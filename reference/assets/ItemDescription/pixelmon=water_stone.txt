@@ -1,0 +1,6 @@
+对||pokemonButton=Poliwhirl||使用，使其进化为||pokemonButton=Poliwrath||。
+对||pokemonButton=Shellder||使用，使其进化为||pokemonButton=Cloyster||。
+对||pokemonButton=Staryu||使用，使其进化为||pokemonButton=Starmie||。
+对||pokemonButton=Eevee||使用，使其进化为||pokemonButton=Vaporeon||。
+对||pokemonButton=Lombre||使用，使其进化为||pokemonButton=Ludicolo||。
+对||pokemonButton=Panpour||使用，使其进化为||pokemonButton=Simipour||。

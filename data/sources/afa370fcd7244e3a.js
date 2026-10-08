@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:afa370fcd7244e3a"]={"json":{"name":"pixelmon:ice_den/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:dens/den_ice_spikes_a","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":2,"y_hack":0,"keep_liquids":true}}]}};

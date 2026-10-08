@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:40ec3f352f1990f7"]={"json":{"pokemon":"Pineco","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:spruce_log","min":1,"max":1,"chance":0.5}]}};

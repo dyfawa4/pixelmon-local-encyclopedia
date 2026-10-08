@@ -1,0 +1,13 @@
+minecraft:blue_ice=9.90%=1-1
+minecraft:snow_block=34.47%=1-1
+minecraft:potato=66.28%=1-7
+minecraft:bread=66.28%=1-4
+minecraft:beetroot_seeds=66.28%=1-5
+minecraft:beetroot_soup=9.90%=1-1
+minecraft:furnace=9.90%=1-1
+minecraft:emerald=9.90%=1-4
+minecraft:snowball=66.28%=1-7
+minecraft:coal=41.18%=1-4
+pixelmon:tapu_cocoa=20.00%=1-2
+pixelmon:lava_cookie=20.00%=1-2
+pixelmon:special/random_berry=12.50%=2-3

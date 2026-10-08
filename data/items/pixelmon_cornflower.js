@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_cornflower"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[{"item":"pixelmon:cornflower","min":1,"max":3,"chance":1.0,"pokemon":"Shaymin"}],"referenceDrop":{},"special":""};

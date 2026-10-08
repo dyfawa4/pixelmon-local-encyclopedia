@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-606a8acb748d2a0b"]={"json":{"id":"TapuLele","spawnInfos":[{"spec":"species:TapuLele level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:jungle","biomesoplenty:rainforest","byg:tropical_islands","byg:tropical_rainforest"]},"rarity":1.0}]}};

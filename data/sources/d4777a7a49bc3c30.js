@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4777a7a49bc3c30"]={"text":"用于制作||itemButton=pixelmon:dusk_ball||、||itemButton=pixelmon:luxury_ball||、||itemButton=pixelmon:quick_ball||、||itemButton=pixelmon:repeat_ball||、||itemButton=pixelmon:timer_ball||、||itemButton=pixelmon:ultra_ball||。"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:punkrock"]={"description":"对战中\r\n拥有此特性的宝可梦使出的声音的招式的威力会提高至1.3倍；\r\n同时受到的声音的招式伤害会减半。","holders":[[849,"amped",false],[849,"lowkey",false],[849,"gmax",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PunkRock"}};

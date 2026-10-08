@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:75b5b9979921d9bf"]={"json":{"Evolutions":[{"from":"Poliwag","level":25,"to":"Poliwhirl","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Poliwhirl","item":{"itemID":"pixelmon:water_stone","additionalProperties":{}},"to":"Poliwrath","conditions":[],"evoType":"interact","moves":["Submission"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c2420a0a0bf7e5d0"]={"json":{"pokemon":"Sliggoo form:hisuian","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"pixelmon:silver_ingot","min":1,"max":2,"chance":0.5},{"item":"pixelmon:roseli_berry","min":1,"max":1,"chance":0.1}]}};

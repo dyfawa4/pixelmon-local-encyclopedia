@@ -1,0 +1,6 @@
+4,5=beaches
+4,5=lukewarmocean
+4,5=ocean
+4,5=stonybeaches
+4,5=ultradeepsea
+4,5=warmocean

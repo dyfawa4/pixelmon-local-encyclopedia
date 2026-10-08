@@ -1,0 +1,5 @@
+1,2=beaches
+1,2=freezingbeaches
+1,2=ocean
+1,2=stonybeaches
+1,2=warmocean

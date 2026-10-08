@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:88d7fd6000142de0"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"Harry"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Fiocco di Neve."},{"text":"Il nostro Capopalestra ama congelare i suoi avversari!"},{"text":"Attenzione a cadere; potresti farti male..."}]}]}};

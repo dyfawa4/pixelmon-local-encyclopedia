@@ -1,0 +1,5 @@
+Defense Curl,Bulbasaur,Ivysaur,Venusaur,Hoppip,Skiploom,Jumpluff,Seedot,Nuzleaf,Shiftry,Bramblin,Brambleghast,Dipplin,Charmander,Charmeleon,Charizard,Shelgon
+Infestation,Oddish,Gloom,Vileplume,Bellsprout,Weepinbell,Victreebel,Exeggcute,Exeggutor,Exeggutor form:alolan,Tangela,Bellossom,Hoppip,Skiploom,Jumpluff,Carnivine,Tangrowth,Bramblin,Brambleghast,Dipplin,Ekans,Arbok,Seviper,Goomy,Sliggoo,Goodra,Dreepy,Drakloak,Dragapult
+Recycle,Morelull,Shiinotic,Flapple,Appletun,Dipplin
+Rollout,Exeggcute,Exeggutor,Exeggutor form:alolan,Seedot,Nuzleaf,Shiftry,Ferroseed,Ferrothorn,Bramblin,Brambleghast,Dipplin,Shelgon,Salamence
+Sucker Punch,Bellsprout,Weepinbell,Victreebel,Seedot,Nuzleaf,Shiftry,Cacnea,Cacturne,Maractus,Phantump,Trevenant,Meowscarada,Dipplin,Ekans,Arbok,Seviper,Dreepy,Drakloak,Dragapult

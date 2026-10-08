@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_item_frame"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","#X#","###"],"key":{"#":{"item":"minecraft:stick"},"X":{"item":"minecraft:leather"}},"result":{"item":"minecraft:item_frame"},"source":"data/minecraft/recipes/item_frame.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

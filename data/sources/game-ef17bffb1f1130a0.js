@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ef17bffb1f1130a0"]={"json":{"type":"minecraft:crafting_shaped","pattern":["w  ","www","s s"],"key":{"w":{"item":"minecraft:yellow_wool"},"s":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:yellow_chair","count":1}}};

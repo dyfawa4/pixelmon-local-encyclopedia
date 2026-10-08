@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ff0f8d43138a5dee"]={"json":{"pokemon":"Dragalge","items":[{"item":"minecraft:kelp","min":2,"max":4,"chance":1.0},{"item":"minecraft:fire_coral","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dragon_scale","min":1,"max":1,"chance":0.1}]}};

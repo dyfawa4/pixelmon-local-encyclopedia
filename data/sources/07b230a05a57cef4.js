@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:07b230a05a57cef4"]={"json":{"pokemon":"Sirfetchd","items":[{"item":"minecraft:feather","min":2,"max":4,"chance":1.0},{"item":"pixelmon:curry_leek","min":1,"max":3,"chance":0.5},{"item":"pixelmon:muscle_feather","min":1,"max":1,"chance":0.3},{"item":"pixelmon:muscle_band","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b17bf85685960364"]={"json":{"Evolutions":[{"from":"Bounsweet","level":18,"to":"Steenee","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Steenee","to":"Tsareena","conditions":[{"evoConditionType":"move","attackName":"Stomp","additionalProperties":{}}],"evoType":"leveling","moves":["Trop Kick"],"additionalProperties":{}}]}};

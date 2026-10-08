@@ -1,0 +1,3 @@
+Destiny Bond,Ralts,Kirlia,Cacnea,Cacturne,Ceruledge
+Disable,Kadabra,Alakazam,Drowzee,Hypno,Ralts,Kirlia,Sableye,Cacnea,Cacturne,Ceruledge
+Spite,Sableye,Cacnea,Cacturne,Croagunk,Toxicroak,Pawniard,Bisharp,Pancham,Pangoro,Charcadet,Armarouge,Ceruledge,Kingambit

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:661fe2a5785beed9"]={"json":{"id":"Toxel","spawnInfos":[{"spec":"species:Toxel","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["STORM"]}}],"rarity":100.0}]}};

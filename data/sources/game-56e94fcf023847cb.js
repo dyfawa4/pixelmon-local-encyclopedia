@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-56e94fcf023847cb"]={"json":{"id":"Dolliv","spawnInfos":[{"spec":"species:Dolliv","stringLocationTypes":["Land","Sweet Scent"],"minLevel":25,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["savannas","plains"]},"rarity":50.0}]}};

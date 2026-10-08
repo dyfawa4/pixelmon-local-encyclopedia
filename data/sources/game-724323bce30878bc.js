@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-724323bce30878bc"]={"json":{"name":"pixelmon:grotto_hills/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:grotto/grotto_hills","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":11,"y_hack":0,"keep_liquids":true}}]}};

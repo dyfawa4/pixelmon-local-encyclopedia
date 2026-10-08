@@ -1,0 +1,1 @@
+如果在||biomeComboButton=plains||或||biomeComboButton=savannas||中，捕获率x1.5，否则捕获率x1。

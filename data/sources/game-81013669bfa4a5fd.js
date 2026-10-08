@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-81013669bfa4a5fd"]={"json":{"id":"Cherubi","spawnInfos":[{"spec":"species:Cherubi","stringLocationTypes":["Land","Headbutt","Sweet Scent"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["forests","birches"]},"rarity":130.0}]}};

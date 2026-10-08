@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ca4c489dbc8a82a0"]={"json":{"Name":"Gooey","Description":"对于用攻击接触到自己的对手，会降低其速度。","Normal":["Wiglett","Wugtrio"],"Hidden":["Goomy","Sliggoo","Sliggoo form:hisuian","Goodra","Goodra form:hisuian"]}};

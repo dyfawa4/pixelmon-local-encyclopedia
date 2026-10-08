@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:toxicdebris"]={"description":"对战中\r\n拥有该特性的宝可梦受到物理招式攻击时，会向对手的场地撒下毒菱，使交换上场的宝可梦中毒。\r\n可撒下两层毒菱，使交换上场的宝可梦进入剧毒状态。\r\n\r\n对手场地上已有两层毒菱时，该特性不会触发。\r\n连续招式的每一击都会触发此特性。\r\n受到高速旋转或晶光转转攻击时，会先触发该特性撒下毒菱，然后毒菱被移除。","holders":[[969,"",false],[970,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ToxicDebris"}};

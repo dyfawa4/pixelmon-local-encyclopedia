@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1babb71929c4aa26"]={"json":{"id":"Wurmple Forage","spawnInfos":[{"spec":"species:Wurmple","stringLocationTypes":["Forage"],"minLevel":4,"maxLevel":8,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:bright_powder","percentChance":5},{"itemID":"pixelmon:pecha_berry","percentChance":50}],"condition":{"stringBiomes":["roofed"]},"rarity":10.0}]}};

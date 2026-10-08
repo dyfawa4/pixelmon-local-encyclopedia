@@ -1,0 +1,4 @@
+2,3,4=end
+2,3,4=freezingmountains
+2,3,4=mountainous
+3,4=ultracrater

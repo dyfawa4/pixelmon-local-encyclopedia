@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:10c38a6b9430b49d"]={"json":{"pokemon":"Diglett form:base","items":[{"item":"minecraft:dirt","min":1,"max":4,"chance":1.0},{"item":"minecraft:coarse_dirt","min":1,"max":2,"chance":0.5}]}};

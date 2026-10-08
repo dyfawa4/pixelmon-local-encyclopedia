@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ae5c7ebef1e76ffd"]={"json":{"id":"Mega Steelix","spawnInfos":[{"spec":"species:Steelix","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["DAY"],"stringBiomes":["mountainous","mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

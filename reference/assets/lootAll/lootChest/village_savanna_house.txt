@@ -1,0 +1,13 @@
+minecraft:gold_nugget=11.32%=1-3
+minecraft:grass=45.86%=1-1
+minecraft:tall_grass=45.86%=1-1
+minecraft:bread=71.69%=1-4
+minecraft:wheat_seeds=71.69%=1-5
+minecraft:emerald=21.46%=1-4
+minecraft:acacia_sapling=71.69%=1-2
+minecraft:saddle=11.32%=1-1
+minecraft:torch=11.32%=1-2
+minecraft:bucket=11.32%=1-1
+pixelmon:komala_coffee=20.00%=1-2
+pixelmon:big_malasada=20.00%=1-2
+pixelmon:special/random_berry=12.50%=2-3

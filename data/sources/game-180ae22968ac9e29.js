@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-180ae22968ac9e29"]={"json":{"name":"pixelmon:grotto_taiga/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:grotto/grotto_taiga","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":5,"y_hack":0,"keep_liquids":true}}]}};

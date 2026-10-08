@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:acffd5c1deec5f23"]={"json":{"pokemon":"Corsola form:galarian","items":[{"item":"minecraft:dead_brain_coral","min":1,"max":2,"chance":1.0},{"item":"minecraft:dead_brain_coral_fan","min":1,"max":1,"chance":0.5},{"item":"pixelmon:dusk_stone_shard","min":1,"max":1,"chance":0.3},{"item":"pixelmon:float_stone","min":1,"max":1,"chance":0.1}]}};

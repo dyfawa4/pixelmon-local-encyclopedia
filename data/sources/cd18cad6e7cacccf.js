@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd18cad6e7cacccf"]={"json":{"type":"minecraft:crafting_shaped","group":"bark","pattern":["##","##"],"key":{"#":{"item":"pixelmon:stripped_ultra_jungle_log"}},"result":{"item":"pixelmon:stripped_ultra_jungle_wood","count":3}}};

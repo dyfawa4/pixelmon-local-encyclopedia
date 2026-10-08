@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9ec4d201eccfbe40"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_trapdoor","pattern":["###","###"],"key":{"#":{"item":"pixelmon:ultra_elm_planks"}},"result":{"item":"pixelmon:ultra_elm_trapdoor","count":2}}};

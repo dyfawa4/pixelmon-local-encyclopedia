@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b3c29bf397658bcc"]={"json":{"Evolutions":[{"from":"Cubone","level":28,"to":"Marowak form:alolan","conditions":[{"evoConditionType":"party","withPokemon":[],"withTypes":[],"withForms":["ALOLAN"],"additionalProperties":{}}],"evoType":"leveling","moves":["Shadow Bone"],"additionalProperties":{}}]}};

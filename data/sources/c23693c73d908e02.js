@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c23693c73d908e02"]={"json":{"Name":"IronFist","Description":"使用拳类招式的威力会提高。","Normal":["Hitmonchan","Golett","Golurk","Pancham","Pangoro","Crabrawler","Crabominable","Melmetal"],"Hidden":["Ledian","Chimchar","Monferno","Infernape","Timburr","Gurdurr","Conkeldurr","Pawmi","Pawmo","Pawmot"]}};

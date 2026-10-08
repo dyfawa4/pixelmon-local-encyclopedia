@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cb68c929c3f1c03d"]={"json":{"Evolutions":[{"from":"Greavard","level":30,"to":"Houndstone","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Last Respects"],"additionalProperties":{}}]}};

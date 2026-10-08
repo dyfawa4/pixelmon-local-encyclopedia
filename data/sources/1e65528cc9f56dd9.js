@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1e65528cc9f56dd9"]={"json":{"pokemon":"Regigigas","items":[{"item":"minecraft:red_sandstone","min":1,"max":2,"chance":1.0},{"item":"minecraft:blue_ice","min":1,"max":2,"chance":0.5},{"item":"minecraft:iron_block","min":1,"max":2,"chance":0.3},{"item":"pixelmon:normal_gem","min":1,"max":1,"chance":0.1}]}};

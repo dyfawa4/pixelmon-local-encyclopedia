@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ultra_elm_button"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"pixelmon:ultra_elm_planks"}],"result":{"item":"pixelmon:ultra_elm_button"},"source":"data/pixelmon/recipes/ultra_elm/ultra_elm_button.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ice_rock"]={"description":"||pokemonButton=Eevee||或||pokemonButton=Crabrawler||在它附近10格方块内进化可以进化成||pokemonButton=Glaceon||或||pokemonButton=Crabominable||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

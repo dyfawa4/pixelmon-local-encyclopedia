@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b3a3ff3e44a84e7c"]={"json":{"id":"Quagsire","spawnInfos":[{"spec":"species:Quagsire","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY","DUSK"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["RAIN"]}}],"rarity":30.0}]}};

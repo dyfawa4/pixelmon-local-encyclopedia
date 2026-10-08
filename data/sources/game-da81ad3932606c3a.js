@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-da81ad3932606c3a"]={"json":{"id":"WoChien","spawnInfos":[{"spec":"species:Wo-Chien level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["swamps"]},"rarity":3.0}]}};

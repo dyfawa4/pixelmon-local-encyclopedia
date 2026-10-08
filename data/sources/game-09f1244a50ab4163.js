@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-09f1244a50ab4163"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"Ekitai"}],"chat":[{"lines":[{"text":"Benvenuti nella Fortezza del nuotatore."},{"text":"Il nostro capopalestra ama lavare via i suoi avversari!"}]}]}};

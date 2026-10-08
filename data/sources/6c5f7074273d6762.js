@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6c5f7074273d6762"]={"json":{"id":"Quaxly","spawnInfos":[{"spec":"species:Quaxly","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["minecraft:river","lakes"]},"rarity":10.0}]}};

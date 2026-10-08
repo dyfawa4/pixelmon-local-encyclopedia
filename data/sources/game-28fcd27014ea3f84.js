@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-28fcd27014ea3f84"]={"json":{"id":"Mega Blaziken","spawnInfos":[{"spec":"species:Blaziken","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["savannas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

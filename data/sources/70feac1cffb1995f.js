@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:70feac1cffb1995f"]={"json":{"id":"Mega Glalie","spawnInfos":[{"spec":"species:Glalie","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["freezing"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

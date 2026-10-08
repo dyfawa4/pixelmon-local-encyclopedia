@@ -1,0 +1,4 @@
+5=deserts
+5=nether
+5=ultradesert
+5=volcano

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:db73bd436c37b1a9"]={"json":{"type":"minecraft:crafting_shaped","pattern":["III","IRI","III"],"key":{"R":{"tag":"forge:dusts/redstone"},"I":{"tag":"forge:ingots/iron"}},"result":{"item":"pixelmon:elevator","count":1}}};

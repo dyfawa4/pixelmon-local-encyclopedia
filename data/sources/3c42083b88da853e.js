@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3c42083b88da853e"]={"json":{"id":"Victini","spawnInfos":[{"spec":"species:Victini level:70","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"weathers":["CLEAR"],"times":["DAY"],"stringBiomes":["savannas"]},"rarity":0.4}]}};

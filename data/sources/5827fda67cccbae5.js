@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5827fda67cccbae5"]={"json":{"pokemon":"Beheeyem","items":[{"item":"minecraft:clay","min":2,"max":4,"chance":1.0},{"item":"minecraft:ender_pearl","min":1,"max":2,"chance":0.5},{"item":"minecraft:terracotta","min":1,"max":2,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

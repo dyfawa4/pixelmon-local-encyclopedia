@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d44b08e073a06083"]={"json":{"pokemon":"Zeraora","items":[{"item":"minecraft:glowstone_dust","min":3,"max":6,"chance":1.0},{"item":"pixelmon:electric_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:quick_claw","min":1,"max":1,"chance":0.1}]}};

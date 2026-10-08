@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5c21a2ea3f8cf62d"]={"json":{"id":"Mega Mewtwo","spawnInfos":[{"spec":"species:Mewtwo","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["minecraft:modified_jungle"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

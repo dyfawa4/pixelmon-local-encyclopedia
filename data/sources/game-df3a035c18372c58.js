@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-df3a035c18372c58"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  H"," F ","W W"],"key":{"H":{"item":"pixelmon:handles"},"F":{"item":"pixelmon:acro_bike_frame"},"W":{"item":"pixelmon:wheel"}},"result":{"item":"pixelmon:acro_bike","count":1}}};

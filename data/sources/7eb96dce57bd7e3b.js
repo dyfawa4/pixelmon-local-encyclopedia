@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7eb96dce57bd7e3b"]={"json":{"Name":"GrimNeigh","Description":"打倒对手时会用恐怖的声音嘶鸣并提高特攻。","Normal":["Spectrier"],"Hidden":[]}};

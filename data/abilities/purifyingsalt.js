@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:purifyingsalt"]={"description":"对战中\r\n拥有该特性的宝可梦不会陷入异常状态。受到幽灵属性的招式的伤害变为1⁄2。\r\n\r\n无法成功使出睡觉。\r\n已经陷入异常状态的宝可梦获得该特性后，异常状态不会解除。\r\n不影响幽灵属性的固定伤害类招式，如黑夜魔影的伤害。","holders":[[932,"",false],[933,"",false],[934,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PurifyingSalt"}};

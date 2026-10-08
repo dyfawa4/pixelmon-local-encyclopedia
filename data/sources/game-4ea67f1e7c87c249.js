@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4ea67f1e7c87c249"]={"json":{"id":"Comfey","spawnInfos":[{"spec":"species:Comfey","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:misty_seed","percentChance":5}],"condition":{"times":["MORNING"],"stringBiomes":["flowery"]},"rarity":30.0}]}};

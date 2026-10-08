@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6bcebb8bb1aab876"]={"json":{"Evolutions":[{"from":"Cherubi","level":25,"to":"Cherrim form:overcast","conditions":[],"evoType":"leveling","moves":["Sunny Day"],"additionalProperties":{}}]}};

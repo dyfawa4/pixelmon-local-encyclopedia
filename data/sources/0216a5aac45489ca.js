@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0216a5aac45489ca"]={"json":{"type":"minecraft:crafting_shaped","pattern":["DBD","I I","F F"],"key":{"B":{"item":"pixelmon:old_running_boots"},"D":{"item":"minecraft:diamond"},"I":{"tag":"forge:ingots/iron"},"F":{"item":"minecraft:feather"}},"result":{"item":"pixelmon:new_running_boots","count":1}}};

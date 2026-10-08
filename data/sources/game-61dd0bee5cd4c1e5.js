@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-61dd0bee5cd4c1e5"]={"json":{"id":"Mega Mawile","spawnInfos":[{"spec":"species:Mawile","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","freezing mountains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

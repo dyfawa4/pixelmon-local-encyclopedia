@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d26de935b70d311f"]={"text":"Chilly Reception,Slowking,Slowking form:galarian\r\nFuture Sight,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Lapras,Slowking,Slowking form:galarian,Psyduck,Golduck,Marill,Azumarill,Delibird,Inkay,Malamar\r\n"};

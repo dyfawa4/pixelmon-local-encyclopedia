@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b8c756ff1a8b6c44"]={"json":{"pokemon":"Bramblin","items":[{"item":"minecraft:dead_bush","min":1,"max":2,"chance":1.0},{"item":"minecraft:ghast_tear","min":1,"max":1,"chance":0.5}]}};

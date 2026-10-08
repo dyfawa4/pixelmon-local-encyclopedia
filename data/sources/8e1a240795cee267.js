@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8e1a240795cee267"]={"json":{"name":"pixelmon:grotto_mushroom/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:grotto/grotto_mushroom","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":3,"y_hack":0,"keep_liquids":true}}]}};

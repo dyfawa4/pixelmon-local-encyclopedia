@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6e628ec397d22f07"]={"json":{"type_id":"simple","id":"unova_champion","suffix":"ribbon.unova_champion.title","translation_key":"ribbon.unova_champion","description":"ribbon.unova_champion.description","icon":"pixelmon:textures/gui/ribbons/unova_champion.png"}};

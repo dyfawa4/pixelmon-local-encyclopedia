@@ -1,0 +1,7 @@
+对||pokemonButton=Pikachu||使用，使其进化为||pokemonButton=Raichu||或||pokemonButton=Raichu form:alolan||。
+对||pokemonButton=Eevee||使用，使其进化为||pokemonButton=Jolteon||。
+对||pokemonButton=Magneton||使用，使其进化为||pokemonButton=Magnezone||。
+对||pokemonButton=Nosepass||使用，使其进化为||pokemonButton=Probopass||。
+对||pokemonButton=Eelektrik||使用，使其进化为||pokemonButton=Eelektross||。
+对||pokemonButton=Charjabug||使用，使其进化为||pokemonButton=Vikavolt||。
+对||pokemonButton=Tadbulb||使用，使其进化为||pokemonButton=Bellibolt||。

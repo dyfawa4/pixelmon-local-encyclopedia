@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-72d4f712a0000816"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather5.png"}],"names":[{"name":"Netsu"}],"chat":[{"lines":[{"text":"Willkommen im Feuer Gym."},{"text":"Unser Trainingsleiter nimmt heiße Bäder!"}]}]}};

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+            {
+                "item": "pixelmon:ultra_ball_lid"
+            },
+
+            {
+                "item": "minecraft:stone_button"
+            },
+
+            {
+                "item": "pixelmon:platinum_base"
+            }
+
+    ],
+    "result": {
+        "item": "pixelmon:ultra_ball",
+        "count": 1
+    }
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7e24dc1b12929b9a"]={"json":{"id":"Roselia Sweet Scent","spawnInfos":[{"spec":"species:Roselia","stringLocationTypes":["Sweet Scent"],"minLevel":12,"maxLevel":25,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["flowery"]},"rarity":50.0}]}};

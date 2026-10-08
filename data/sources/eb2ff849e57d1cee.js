@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eb2ff849e57d1cee"]={"text":"作为工艺制作的材料，可用来制作||itemButton=pixelmon:ancient_poke_ball||、||itemButton=pixelmon:ancient_great_ball||、||itemButton=pixelmon:ancient_ultra_ball||。"};

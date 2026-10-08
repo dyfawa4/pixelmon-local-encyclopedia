@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:02f3e2e92e5f2462"]={"json":{"pokemon":"Burmy form:sandy","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:sand","min":1,"max":1,"chance":0.5}]}};

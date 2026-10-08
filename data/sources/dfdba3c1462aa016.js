@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dfdba3c1462aa016"]={"json":{"pokemon":"Entei","items":[{"item":"minecraft:blaze_rod","min":1,"max":3,"chance":1.0},{"item":"pixelmon:fire_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:charcoal","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,14 @@
+pixelmon:cherish_ball=62.50%=3-5
+pixelmon:christmas_ball=62.50%=3-5
+pixelmon:sweet_strawberry=14.50%=3-5
+pixelmon:sweet_berry=14.50%=3-5
+pixelmon:sweet_clover=14.50%=3-5
+pixelmon:sweet_ribbon=14.50%=3-5
+pixelmon:sweet_star=14.50%=3-5
+pixelmon:sweet_love=14.50%=3-5
+pixelmon:sweet_flower=14.50%=3-5
+pixelmon:rare_candy=14.50%=3-5
+pixelmon:casteliacone=14.50%=3-5
+pixelmon:lava_cookie=14.50%=3-5
+minecraft:coal=30.86%=5-10
+minecraft:charcoal=30.86%=5-10

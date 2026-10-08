@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-04d953af25c4dfad"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"Greg"}],"chat":[{"lines":[{"text":"Welcome to the Stream Plaza."},{"text":"The Gym Leader here loves water, and will put your fire out!"},{"text":"We'll see if your Pokémon can weather the storm!"}]}]}};

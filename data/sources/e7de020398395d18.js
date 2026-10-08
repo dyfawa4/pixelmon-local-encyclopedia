@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e7de020398395d18"]={"json":{"id":"Swellow","spawnInfos":[{"spec":"species:Swellow","stringLocationTypes":["Air","Headbutt"],"minLevel":25,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["forests","roofed","birches"]},"rarity":8.0}]}};

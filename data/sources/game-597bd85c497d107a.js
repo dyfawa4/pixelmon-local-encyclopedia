@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-597bd85c497d107a"]={"json":{"id":"Celesteela","spawnInfos":[{"spec":"species:Celesteela","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_crater"]},"rarity":0.5}]}};

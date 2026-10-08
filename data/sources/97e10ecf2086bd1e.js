@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:97e10ecf2086bd1e"]={"text":"在战斗中使用||itemButton=pixelmon:max_mushroom||可以令宝可梦的攻击、防御、特攻、特防、速度都上升1级。\r\n同时，它也是制作||itemButton=pixelmon:max_soup||的材料。\r\n在菌丝上有概率自然生成||itemButton=pixelmon:max_mushroom||块，破坏后会掉落一个||itemButton=pixelmon:max_mushroom||。\r\n||itemButton=pixelmon:max_mushroom||有着和蘑菇相同的蔓延方法。"};

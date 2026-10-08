@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d141590613eba3de"]={"json":{"Evolutions":[{"from":"Dunsparce","to":"Dudunsparce form:three_segment","conditions":[{"evoConditionType":"move","attackName":"Hyper Drill","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

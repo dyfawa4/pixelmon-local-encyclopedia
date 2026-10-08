@@ -1,0 +1,5 @@
+||bigFont=对战中||
+||pokemonButton=Pikachu||携带后攻击和特攻加倍。
+
+||bigFont=对战外||
+亲代任一方携带该道具生蛋，孵化出的||pokemonButton=Pichu||将学会伏特攻击。

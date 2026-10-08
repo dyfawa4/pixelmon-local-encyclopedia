@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:263218ffc067b05f"]={"json":{"pokemon":"Tauros form:paldean_combat","items":[{"item":"minecraft:beef","min":1,"max":3,"chance":1.0},{"item":"minecraft:leather","min":1,"max":2,"chance":0.5}]}};

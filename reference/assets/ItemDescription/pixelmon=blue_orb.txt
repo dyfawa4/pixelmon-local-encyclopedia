@@ -1,0 +1,1 @@
+||pokemonButton=Kyogre||携带后，可以原始回归成为||pokemonButton=Kyogre form:primal||。

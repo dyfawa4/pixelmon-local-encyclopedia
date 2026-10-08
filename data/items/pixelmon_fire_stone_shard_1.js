@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_fire_stone_shard_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:fire_stone_ore"},"result":"pixelmon:fire_stone_shard","experience":0.7,"cookingtime":200},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

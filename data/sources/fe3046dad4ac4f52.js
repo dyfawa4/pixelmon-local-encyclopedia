@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fe3046dad4ac4f52"]={"text":"右键可以获得mega手环(附加装备)，开启后可以在任意对战中使用mega进化。"};

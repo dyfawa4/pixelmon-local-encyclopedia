@@ -1,0 +1,1336 @@
+MissingNo,0
+Bulbasaur,1
+Ivysaur,2
+Venusaur,3
+Venusaur form:mega,3.01
+Venusaur form:gmax,3.02
+Charmander,4
+Charmeleon,5
+Charizard,6
+Charizard form:megax,6.01
+Charizard form:megay,6.02
+Charizard form:gmax,6.03
+Squirtle,7
+Wartortle,8
+Blastoise,9
+Blastoise form:mega,9.01
+Blastoise form:gmax,9.02
+Caterpie,10
+Metapod,11
+Butterfree,12
+Butterfree form:gmax,12.01
+Weedle,13
+Kakuna,14
+Beedrill,15
+Beedrill form:mega,15.01
+Pidgey,16
+Pidgeotto,17
+Pidgeot,18
+Pidgeot form:mega,18.01
+Rattata,19
+Rattata form:alolan,19.01
+Raticate,20
+Raticate form:alolan,20.01
+Spearow,21
+Fearow,22
+Ekans,23
+Arbok,24
+Pikachu,25
+Pikachu form:gmax,25.01
+Pikachu form:belle,25.02
+Pikachu form:cosplay,25.03
+Pikachu form:phd,25.04
+Pikachu form:popstar,25.05
+Pikachu form:rockstar,25.06
+Pikachu form:libre,25.07
+Raichu,26
+Raichu form:alolan,26.01
+Sandshrew,27
+Sandshrew form:alolan,27.01
+Sandslash,28
+Sandslash form:alolan,28.01
+Nidoranfemale,29
+Nidorina,30
+Nidoqueen,31
+Nidoranmale,32
+Nidorino,33
+Nidoking,34
+Clefairy,35
+Clefable,36
+Vulpix,37
+Vulpix form:alolan,37.01
+Ninetales,38
+Ninetales form:alolan,38.01
+Jigglypuff,39
+Wigglytuff,40
+Zubat,41
+Golbat,42
+Oddish,43
+Gloom,44
+Vileplume,45
+Paras,46
+Parasect,47
+Venonat,48
+Venomoth,49
+Diglett,50
+Diglett form:alolan,50.01
+Dugtrio,51
+Dugtrio form:alolan,51.01
+Meowth,52
+Meowth form:alolan,52.01
+Meowth form:galarian,52.02
+Meowth form:gmax,52.03
+Persian,53
+Persian form:alolan,53.01
+Psyduck,54
+Golduck,55
+Mankey,56
+Primeape,57
+Growlithe,58
+Growlithe form:hisuian,58.01
+Arcanine,59
+Arcanine form:hisuian,59.01
+Poliwag,60
+Poliwhirl,61
+Poliwrath,62
+Abra,63
+Kadabra,64
+Alakazam,65
+Alakazam form:mega,65.01
+Machop,66
+Machoke,67
+Machamp,68
+Machamp form:gmax,68.01
+Bellsprout,69
+Weepinbell,70
+Victreebel,71
+Tentacool,72
+Tentacruel,73
+Geodude,74
+Geodude form:alolan,74.01
+Graveler,75
+Graveler form:alolan,75.01
+Golem,76
+Golem form:alolan,76.01
+Ponyta,77
+Ponyta form:galarian,77.01
+Rapidash,78
+Rapidash form:galarian,78.01
+Slowpoke,79
+Slowpoke form:galarian,79.01
+Slowbro,80
+Slowbro form:mega,80.01
+Slowbro form:galarian,80.02
+Magnemite,81
+Magneton,82
+Farfetchd,83
+Farfetchd form:galarian,83.01
+Doduo,84
+Dodrio,85
+Seel,86
+Dewgong,87
+Grimer,88
+Grimer form:alolan,88.01
+Muk,89
+Muk form:alolan,89.01
+Shellder,90
+Cloyster,91
+Gastly,92
+Haunter,93
+Gengar,94
+Gengar form:mega,94.01
+Gengar form:gmax,94.02
+Onix,95
+Drowzee,96
+Hypno,97
+Krabby,98
+Kingler,99
+Kingler form:gmax,99.01
+Voltorb,100
+Voltorb form:hisuian,100.01
+Electrode,101
+Electrode form:hisuian,101.01
+Exeggcute,102
+Exeggutor,103
+Exeggutor form:alolan,103.01
+Cubone,104
+Marowak,105
+Marowak form:alolan,105.01
+Hitmonlee,106
+Hitmonchan,107
+Lickitung,108
+Koffing,109
+Weezing,110
+Weezing form:galarian,110.01
+Rhyhorn,111
+Rhydon,112
+Chansey,113
+Tangela,114
+Kangaskhan,115
+Kangaskhan form:mega,115.01
+Horsea,116
+Seadra,117
+Goldeen,118
+Seaking,119
+Staryu,120
+Starmie,121
+MrMime,122
+MrMime form:galarian,122.01
+Scyther,123
+Jynx,124
+Electabuzz,125
+Magmar,126
+Pinsir,127
+Pinsir form:mega,127.01
+Tauros,128
+Tauros form:paldean_combat,128.01
+Tauros form:paldean_blaze,128.02
+Tauros form:paldean_aqua,128.03
+Magikarp,129
+Gyarados,130
+Gyarados form:mega,130.01
+Lapras,131
+Lapras form:gmax,131.01
+Ditto,132
+Eevee,133
+Eevee form:gmax,133.01
+Vaporeon,134
+Jolteon,135
+Flareon,136
+Porygon,137
+Omanyte,138
+Omastar,139
+Kabuto,140
+Kabutops,141
+Aerodactyl,142
+Aerodactyl form:mega,142.01
+Snorlax,143
+Snorlax form:gmax,143.01
+Articuno,144
+Articuno form:galarian,144.01
+Zapdos,145
+Zapdos form:galarian,145.01
+Moltres,146
+Moltres form:galarian,146.01
+Dratini,147
+Dragonair,148
+Dragonite,149
+Dragonite form:creator,149.01
+Mewtwo,150
+Mewtwo form:megax,150.01
+Mewtwo form:megay,150.02
+Mew,151
+Chikorita,152
+Bayleef,153
+Meganium,154
+Cyndaquil,155
+Quilava,156
+Typhlosion,157
+Typhlosion form:hisuian,157.01
+Totodile,158
+Croconaw,159
+Feraligatr,160
+Sentret,161
+Furret,162
+Hoothoot,163
+Noctowl,164
+Ledyba,165
+Ledian,166
+Spinarak,167
+Ariados,168
+Crobat,169
+Chinchou,170
+Lanturn,171
+Pichu,172
+Pichu form:spiky,172.01
+Cleffa,173
+Igglybuff,174
+Togepi,175
+Togetic,176
+Natu,177
+Xatu,178
+Mareep,179
+Mareep form:shorn,179.01
+Flaaffy,180
+Ampharos,181
+Ampharos form:mega,181.01
+Bellossom,182
+Marill,183
+Azumarill,184
+Sudowoodo,185
+Politoed,186
+Hoppip,187
+Skiploom,188
+Jumpluff,189
+Aipom,190
+Sunkern,191
+Sunflora,192
+Yanma,193
+Wooper,194
+Wooper form:paldean,194.01
+Quagsire,195
+Espeon,196
+Umbreon,197
+Murkrow,198
+Slowking,199
+Slowking form:galarian,199.01
+Misdreavus,200
+Unown form:a,201
+Unown form:b,201.01
+Unown form:c,201.02
+Unown form:d,201.03
+Unown form:e,201.04
+Unown form:f,201.05
+Unown form:g,201.06
+Unown form:h,201.07
+Unown form:i,201.08
+Unown form:j,201.09
+Unown form:k,201.10
+Unown form:l,201.11
+Unown form:m,201.12
+Unown form:n,201.13
+Unown form:o,201.14
+Unown form:p,201.15
+Unown form:q,201.16
+Unown form:r,201.17
+Unown form:s,201.18
+Unown form:t,201.19
+Unown form:u,201.20
+Unown form:v,201.21
+Unown form:w,201.22
+Unown form:x,201.23
+Unown form:y,201.24
+Unown form:z,201.25
+Unown form:question,201.26
+Unown form:exclamation,201.27
+Wobbuffet,202
+Girafarig,203
+Pineco,204
+Forretress,205
+Dunsparce,206
+Gligar,207
+Steelix,208
+Steelix form:mega,208.01
+Snubbull,209
+Granbull,210
+Qwilfish,211
+Qwilfish form:hisuian,211.01
+Scizor,212
+Scizor form:mega,212.01
+Shuckle,213
+Heracross,214
+Heracross form:mega,214.01
+Sneasel,215
+Sneasel form:hisuian,215.01
+Teddiursa,216
+Ursaring,217
+Slugma,218
+Magcargo,219
+Swinub,220
+Piloswine,221
+Corsola,222
+Corsola form:galarian,222.01
+Remoraid,223
+Octillery,224
+Delibird,225
+Mantine,226
+Skarmory,227
+Houndour,228
+Houndoom,229
+Houndoom form:mega,229.01
+Kingdra,230
+Phanpy,231
+Donphan,232
+Porygon2,233
+Stantler,234
+Smeargle,235
+Tyrogue,236
+Hitmontop,237
+Smoochum,238
+Elekid,239
+Magby,240
+Miltank,241
+Blissey,242
+Raikou,243
+Entei,244
+Suicune,245
+Larvitar,246
+Pupitar,247
+Tyranitar,248
+Tyranitar form:mega,248.01
+Lugia,249
+Ho-Oh,250
+Celebi,251
+Treecko,252
+Grovyle,253
+Sceptile,254
+Sceptile form:mega,254.01
+Torchic,255
+Combusken,256
+Blaziken,257
+Blaziken form:mega,257.01
+Mudkip,258
+Marshtomp,259
+Swampert,260
+Swampert form:mega,260.01
+Poochyena,261
+Mightyena,262
+Zigzagoon,263
+Zigzagoon form:galarian,263.01
+Linoone,264
+Linoone form:galarian,264.01
+Wurmple,265
+Silcoon,266
+Beautifly,267
+Cascoon,268
+Dustox,269
+Lotad,270
+Lombre,271
+Ludicolo,272
+Seedot,273
+Nuzleaf,274
+Shiftry,275
+Taillow,276
+Swellow,277
+Wingull,278
+Pelipper,279
+Ralts,280
+Kirlia,281
+Gardevoir,282
+Gardevoir form:mega,282.01
+Surskit,283
+Masquerain,284
+Shroomish,285
+Breloom,286
+Slakoth,287
+Vigoroth,288
+Slaking,289
+Nincada,290
+Ninjask,291
+Shedinja,292
+Whismur,293
+Loudred,294
+Exploud,295
+Makuhita,296
+Hariyama,297
+Azurill,298
+Nosepass,299
+Skitty,300
+Delcatty,301
+Sableye,302
+Sableye form:mega,302.01
+Mawile,303
+Mawile form:mega,303.01
+Aron,304
+Lairon,305
+Aggron,306
+Aggron form:mega,306.01
+Meditite,307
+Medicham,308
+Medicham form:mega,308.01
+Electrike,309
+Manectric,310
+Manectric form:mega,310.01
+Plusle,311
+Minun,312
+Volbeat,313
+Illumise,314
+Roselia,315
+Gulpin,316
+Swalot,317
+Carvanha,318
+Sharpedo,319
+Sharpedo form:mega,319.01
+Wailmer,320
+Wailord,321
+Numel,322
+Camerupt,323
+Camerupt form:mega,323.01
+Torkoal,324
+Spoink,325
+Grumpig,326
+Spinda,327
+Trapinch,328
+Vibrava,329
+Flygon,330
+Cacnea,331
+Cacturne,332
+Swablu,333
+Altaria,334
+Altaria form:mega,334.01
+Zangoose,335
+Seviper,336
+Lunatone form:gibbous,337
+Lunatone form:quarter,337.01
+Lunatone form:full,337.02
+Lunatone form:new_moon,337.03
+Lunatone form:crescent,337.04
+Solrock,338
+Barboach,339
+Whiscash,340
+Corphish,341
+Crawdaunt,342
+Baltoy,343
+Claydol,344
+Lileep,345
+Cradily,346
+Anorith,347
+Armaldo,348
+Feebas,349
+Milotic,350
+Castform,351
+Castform form:ice,351.01
+Castform form:rain,351.02
+Castform form:sun,351.03
+Kecleon,352
+Shuppet,353
+Banette,354
+Banette form:mega,354.01
+Duskull,355
+Dusclops,356
+Tropius,357
+Chimecho,358
+Absol,359
+Absol form:mega,359.01
+Wynaut,360
+Snorunt,361
+Glalie,362
+Glalie form:mega,362.01
+Spheal,363
+Sealeo,364
+Walrein,365
+Clamperl,366
+Huntail,367
+Gorebyss,368
+Relicanth,369
+Luvdisc,370
+Bagon,371
+Shelgon,372
+Salamence,373
+Salamence form:mega,373.01
+Beldum,374
+Metang,375
+Metagross,376
+Metagross form:mega,376.01
+Regirock,377
+Regice,378
+Registeel,379
+Latias,380
+Latias form:mega,380.01
+Latios,381
+Latios form:mega,381.01
+Kyogre,382
+Kyogre form:primal,382.01
+Groudon,383
+Groudon form:primal,383.01
+Rayquaza,384
+Rayquaza form:mega,384.01
+Jirachi,385
+Deoxys,386
+Deoxys form:attack,386.01
+Deoxys form:defense,386.02
+Deoxys form:speed,386.03
+Deoxys form:sus,386.04
+Turtwig,387
+Grotle,388
+Torterra,389
+Chimchar,390
+Monferno,391
+Infernape,392
+Piplup,393
+Prinplup,394
+Empoleon,395
+Starly,396
+Staravia,397
+Staraptor,398
+Bidoof,399
+Bidoof form:sirdoofusiii,399.01
+Bibarel,400
+Kricketot,401
+Kricketune,402
+Shinx,403
+Luxio,404
+Luxray,405
+Budew,406
+Roserade,407
+Cranidos,408
+Rampardos,409
+Shieldon,410
+Bastiodon,411
+Burmy form:plant,412
+Burmy form:sandy,412.01
+Burmy form:trash,412.02
+Wormadam form:plant,413
+Wormadam form:sandy,413.01
+Wormadam form:trash,413.02
+Mothim,414
+Combee,415
+Vespiquen,416
+Pachirisu,417
+Buizel,418
+Floatzel,419
+Cherubi,420
+Cherrim form:overcast,421
+Cherrim form:sunshine,421.01
+Shellos form:east,422
+Shellos form:west,422.01
+Gastrodon form:east,423
+Gastrodon form:west,423.01
+Ambipom,424
+Drifloon,425
+Drifblim,426
+Buneary,427
+Lopunny,428
+Lopunny form:mega,428.01
+Mismagius,429
+Honchkrow,430
+Glameow,431
+Purugly,432
+Chingling,433
+Stunky,434
+Skuntank,435
+Bronzor,436
+Bronzong,437
+Bonsly,438
+MimeJr,439
+Happiny,440
+Chatot,441
+Spiritomb,442
+Gible,443
+Gabite,444
+Garchomp,445
+Garchomp form:mega,445.01
+Munchlax,446
+Riolu,447
+Lucario,448
+Lucario form:mega,448.01
+Hippopotas,449
+Hippowdon,450
+Skorupi,451
+Drapion,452
+Croagunk,453
+Toxicroak,454
+Carnivine,455
+Finneon,456
+Lumineon,457
+Mantyke,458
+Snover,459
+Abomasnow,460
+Abomasnow form:mega,460.01
+Weavile,461
+Magnezone,462
+Lickilicky,463
+Rhyperior,464
+Tangrowth,465
+Electivire,466
+Magmortar,467
+Togekiss,468
+Yanmega,469
+Leafeon,470
+Glaceon,471
+Gliscor,472
+Mamoswine,473
+Porygon-Z,474
+Gallade,475
+Gallade form:mega,475.01
+Probopass,476
+Dusknoir,477
+Froslass,478
+Rotom,479
+Rotom form:heat,479.01
+Rotom form:wash,479.02
+Rotom form:frost,479.03
+Rotom form:fan,479.04
+Rotom form:mow,479.05
+Uxie,480
+Mesprit,481
+Azelf,482
+Dialga,483
+Dialga form:origin,483.01
+Palkia,484
+Palkia form:origin,484.01
+Heatran,485
+Regigigas,486
+Giratina form:altered,487
+Giratina form:origin,487.01
+Cresselia,488
+Phione,489
+Manaphy,490
+Darkrai,491
+Shaymin form:land,492
+Shaymin form:sky,492.01
+Arceus,493
+Arceus form:grass,493.01
+Arceus form:fire,493.02
+Arceus form:water,493.03
+Arceus form:flying,493.04
+Arceus form:bug,493.05
+Arceus form:poison,493.06
+Arceus form:electric,493.07
+Arceus form:psychic,493.08
+Arceus form:rock,493.09
+Arceus form:ground,493.10
+Arceus form:dark,493.11
+Arceus form:ghost,493.12
+Arceus form:steel,493.13
+Arceus form:fighting,493.14
+Arceus form:ice,493.15
+Arceus form:dragon,493.16
+Arceus form:fairy,493.17
+Victini,494
+Snivy,495
+Servine,496
+Serperior,497
+Tepig,498
+Pignite,499
+Emboar,500
+Oshawott,501
+Dewott,502
+Samurott,503
+Samurott form:hisuian,503.01
+Patrat,504
+Watchog,505
+Lillipup,506
+Herdier,507
+Stoutland,508
+Purrloin,509
+Liepard,510
+Pansage,511
+Simisage,512
+Pansear,513
+Simisear,514
+Panpour,515
+Simipour,516
+Munna,517
+Musharna,518
+Pidove,519
+Tranquill,520
+Unfezant,521
+Blitzle,522
+Zebstrika,523
+Roggenrola,524
+Boldore,525
+Gigalith,526
+Woobat,527
+Swoobat,528
+Drilbur,529
+Excadrill,530
+Audino,531
+Audino form:mega,531.01
+Timburr,532
+Gurdurr,533
+Conkeldurr,534
+Tympole,535
+Palpitoad,536
+Seismitoad,537
+Throh,538
+Sawk,539
+Sewaddle,540
+Swadloon,541
+Leavanny,542
+Venipede,543
+Whirlipede,544
+Scolipede,545
+Cottonee,546
+Whimsicott,547
+Petilil,548
+Lilligant,549
+Lilligant form:hisuian,549.01
+Basculin form:red,550
+Basculin form:blue,550.01
+Basculin form:white,550.02
+Sandile,551
+Krokorok,552
+Krookodile,553
+Darumaka,554
+Darumaka form:galarian,554.01
+Darmanitan,555
+Darmanitan form:zen,555.01
+Darmanitan form:galarian,555.02
+Darmanitan form:galarian_zen,555.03
+Maractus,556
+Dwebble,557
+Crustle,558
+Scraggy,559
+Scrafty,560
+Sigilyph,561
+Yamask,562
+Yamask form:galarian,562.01
+Cofagrigus,563
+Tirtouga,564
+Carracosta,565
+Archen,566
+Archeops,567
+Trubbish,568
+Garbodor,569
+Garbodor form:gmax,569.01
+Zorua,570
+Zorua form:hisuian,570.01
+Zoroark,571
+Zoroark form:hisuian,571.01
+Minccino,572
+Cinccino,573
+Gothita,574
+Gothorita,575
+Gothitelle,576
+Solosis,577
+Duosion,578
+Reuniclus,579
+Ducklett,580
+Swanna,581
+Vanillite,582
+Vanillish,583
+Vanilluxe,584
+Deerling form:spring,585
+Deerling form:summer,585.01
+Deerling form:autumn,585.02
+Deerling form:winter,585.03
+Sawsbuck form:spring,586
+Sawsbuck form:summer,586.01
+Sawsbuck form:autumn,586.02
+Sawsbuck form:winter,586.03
+Emolga,587
+Karrablast,588
+Escavalier,589
+Foongus,590
+Amoonguss,591
+Frillish,592
+Jellicent,593
+Alomomola,594
+Joltik,595
+Galvantula,596
+Ferroseed,597
+Ferrothorn,598
+Klink,599
+Klang,600
+Klinklang,601
+Tynamo,602
+Eelektrik,603
+Eelektross,604
+Elgyem,605
+Beheeyem,606
+Litwick,607
+Lampent,608
+Chandelure,609
+Axew,610
+Fraxure,611
+Haxorus,612
+Cubchoo,613
+Beartic,614
+Cryogonal,615
+Shelmet,616
+Accelgor,617
+Stunfisk,618
+Stunfisk form:galarian,618.01
+Mienfoo,619
+Mienshao,620
+Druddigon,621
+Golett,622
+Golurk,623
+Pawniard,624
+Bisharp,625
+Bouffalant,626
+Rufflet,627
+Braviary,628
+Braviary form:hisuian,628.01
+Vullaby,629
+Mandibuzz,630
+Heatmor,631
+Durant,632
+Deino,633
+Zweilous,634
+Hydreigon,635
+Larvesta,636
+Volcarona,637
+Cobalion,638
+Terrakion,639
+Virizion,640
+Tornadus form:incarnate,641
+Tornadus form:therian,641.01
+Thundurus form:incarnate,642
+Thundurus form:therian,642.01
+Reshiram,643
+Zekrom,644
+Landorus form:incarnate,645
+Landorus form:therian,645.01
+Kyurem,646
+Kyurem form:black,646.01
+Kyurem form:white,646.02
+Keldeo form:ordinary,647
+Keldeo form:resolute,647.01
+Meloetta form:aria,648
+Meloetta form:pirouette,648.01
+Genesect,649
+Genesect form:burn,649.01
+Genesect form:chill,649.02
+Genesect form:douse,649.03
+Genesect form:shock,649.04
+Chespin,650
+Quilladin,651
+Chesnaught,652
+Fennekin,653
+Braixen,654
+Delphox,655
+Froakie,656
+Frogadier,657
+Greninja,658
+Greninja form:battle_bond,658.01
+Greninja form:ash,658.02
+Bunnelby,659
+Diggersby,660
+Fletchling,661
+Fletchinder,662
+Talonflame,663
+Scatterbug,664
+Spewpa,665
+Vivillon,666
+Litleo,667
+Pyroar,668
+Flabebe,669
+Floette,670
+Floette form:az,670.01
+Florges,671
+Skiddo,672
+Gogoat,673
+Pancham,674
+Pangoro,675
+Furfrou,676
+Espurr,677
+Meowstic,678
+Honedge,679
+Doublade,680
+Aegislash form:shield,681
+Aegislash form:blade,681.01
+Spritzee,682
+Aromatisse,683
+Swirlix,684
+Slurpuff,685
+Inkay,686
+Malamar,687
+Binacle,688
+Barbaracle,689
+Skrelp,690
+Dragalge,691
+Clauncher,692
+Clawitzer,693
+Helioptile,694
+Heliolisk,695
+Tyrunt,696
+Tyrantrum,697
+Amaura,698
+Aurorus,699
+Sylveon,700
+Hawlucha,701
+Dedenne,702
+Carbink,703
+Goomy,704
+Sliggoo,705
+Sliggoo form:hisuian,705.01
+Goodra,706
+Goodra form:hisuian,706.01
+Klefki,707
+Phantump,708
+Trevenant,709
+Pumpkaboo,710
+Gourgeist,711
+Bergmite,712
+Avalugg,713
+Avalugg form:hisuian,713.01
+Noibat,714
+Noivern,715
+Xerneas form:neutral,716
+Xerneas form:active,716.01
+Yveltal,717
+Zygarde form:fifty_percent,718
+Zygarde form:ten_percent,718.01
+Zygarde form:complete,718.02
+Diancie,719
+Diancie form:mega,719.01
+Hoopa form:confined,720
+Hoopa form:unbound,720.01
+Volcanion,721
+Rowlet,722
+Dartrix,723
+Decidueye,724
+Decidueye form:hisuian,724.01
+Litten,725
+Torracat,726
+Incineroar,727
+Popplio,728
+Brionne,729
+Primarina,730
+Pikipek,731
+Trumbeak,732
+Toucannon,733
+Yungoos,734
+Gumshoos,735
+Grubbin,736
+Charjabug,737
+Vikavolt,738
+Crabrawler,739
+Crabominable,740
+Oricorio form:baile,741
+Oricorio form:pompom,741.01
+Oricorio form:pau,741.02
+Oricorio form:sensu,741.03
+Cutiefly,742
+Ribombee,743
+Rockruff,744
+Lycanroc form:midday,745
+Lycanroc form:midnight,745.01
+Lycanroc form:dusk,745.02
+Wishiwashi form:solo,746
+Wishiwashi form:school,746.01
+Mareanie,747
+Toxapex,748
+Mudbray,749
+Mudsdale,750
+Dewpider,751
+Araquanid,752
+Fomantis,753
+Lurantis,754
+Morelull,755
+Shiinotic,756
+Salandit,757
+Salazzle,758
+Stufful,759
+Bewear,760
+Bounsweet,761
+Steenee,762
+Tsareena,763
+Comfey,764
+Oranguru,765
+Passimian,766
+Wimpod,767
+Golisopod,768
+Sandygast,769
+Palossand,770
+Pyukumuku,771
+TypeNull,772
+Silvally,773
+Silvally form:grass,773.01
+Silvally form:fire,773.02
+Silvally form:water,773.03
+Silvally form:flying,773.04
+Silvally form:bug,773.05
+Silvally form:poison,773.06
+Silvally form:electric,773.07
+Silvally form:psychic,773.08
+Silvally form:rock,773.09
+Silvally form:ground,773.10
+Silvally form:dark,773.11
+Silvally form:ghost,773.12
+Silvally form:steel,773.13
+Silvally form:fighting,773.14
+Silvally form:ice,773.15
+Silvally form:dragon,773.16
+Silvally form:fairy,773.17
+Minior form:meteor,774
+Minior form:core,774.01
+Komala,775
+Turtonator,776
+Togedemaru,777
+Mimikyu form:disguised,778
+Mimikyu form:busted,778.01
+Bruxish,779
+Drampa,780
+Dhelmise,781
+Jangmo-o,782
+Hakamo-o,783
+Kommo-o,784
+TapuKoko,785
+TapuLele,786
+TapuBulu,787
+TapuFini,788
+Cosmog,789
+Cosmoem,790
+Solgaleo,791
+Solgaleo form:radiantsun,791.01
+Lunala,792
+Lunala form:fullmoon,792.01
+Nihilego,793
+Buzzwole,794
+Pheromosa,795
+Xurkitree,796
+Celesteela,797
+Kartana,798
+Guzzlord,799
+Necrozma,800
+Necrozma form:dusk,800.01
+Necrozma form:dawn,800.02
+Necrozma form:ultra,800.03
+Magearna,801
+Magearna form:original_color,801.01
+Marshadow,802
+Marshadow form:zenith,802.01
+Poipole,803
+Naganadel,804
+Stakataka,805
+Blacephalon,806
+Zeraora,807
+Meltan,808
+Melmetal,809
+Melmetal form:gmax,809.01
+Grookey,810
+Thwackey,811
+Rillaboom,812
+Rillaboom form:gmax,812.01
+Scorbunny,813
+Raboot,814
+Cinderace,815
+Cinderace form:gmax,815.01
+Sobble,816
+Drizzile,817
+Inteleon,818
+Inteleon form:gmax,818.01
+Skwovet,819
+Greedent,820
+Rookidee,821
+Corvisquire,822
+Corviknight,823
+Corviknight form:gmax,823.01
+Blipbug,824
+Dottler,825
+Orbeetle,826
+Orbeetle form:gmax,826.01
+Nickit,827
+Thievul,828
+Gossifleur,829
+Eldegoss,830
+Wooloo,831
+Wooloo form:shorn,831.01
+Dubwool,832
+Dubwool form:shorn,832.01
+Chewtle,833
+Drednaw,834
+Drednaw form:gmax,834.01
+Yamper,835
+Boltund,836
+Rolycoly,837
+Carkol,838
+Coalossal,839
+Coalossal form:gmax,839.01
+Applin,840
+Flapple,841
+Flapple form:gmax,841.01
+Appletun,842
+Appletun form:gmax,842.01
+Silicobra,843
+Sandaconda,844
+Sandaconda form:gmax,844.01
+Cramorant,845
+Cramorant form:gulping,845.01
+Cramorant form:gorging,845.02
+Arrokuda,846
+Barraskewda,847
+Toxel,848
+Toxtricity form:amped,849
+Toxtricity form:lowkey,849.01
+Toxtricity form:gmax,849.02
+Sizzlipede,850
+Centiskorch,851
+Centiskorch form:gmax,851.01
+Clobbopus,852
+Grapploct,853
+Sinistea form:phony,854
+Sinistea form:antique,854.01
+Polteageist form:phony,855
+Polteageist form:antique,855.01
+Hatenna,856
+Hattrem,857
+Hatterene,858
+Hatterene form:gmax,858.01
+Impidimp,859
+Morgrem,860
+Grimmsnarl,861
+Grimmsnarl form:gmax,861.01
+Obstagoon,862
+Perrserker,863
+Cursola,864
+Sirfetchd,865
+MrRime,866
+Runerigus,867
+Milcery,868
+Alcremie,869
+Alcremie form:gmax,869.01
+Falinks,870
+Pincurchin,871
+Snom,872
+Frosmoth,873
+Stonjourner,874
+Eiscue form:ice_face,875
+Eiscue form:noice_face,875.01
+Indeedee form:male,876
+Indeedee form:female,876.01
+Morpeko form:fullbelly,877
+Morpeko form:hangry,877.01
+Cufant,878
+Copperajah,879
+Copperajah form:gmax,879.01
+Dracozolt,880
+Arctozolt,881
+Dracovish,882
+Arctovish,883
+Duraludon,884
+Duraludon form:gmax,884.01
+Dreepy,885
+Drakloak,886
+Dragapult,887
+Zacian form:hero,888
+Zacian form:crowned,888.01
+Zamazenta form:hero,889
+Zamazenta form:crowned,889.01
+Eternatus form:ordinary,890
+Eternatus form:eternamax,890.01
+Kubfu,891
+Urshifu form:singlestrike,892
+Urshifu form:rapidstrike,892.01
+Urshifu form:gmaxss,892.02
+Urshifu form:gmaxrs,892.03
+Zarude,893
+Regieleki,894
+Regidrago,895
+Glastrier,896
+Spectrier,897
+Calyrex,898
+Calyrex form:icerider,898.01
+Calyrex form:shadowrider,898.02
+Wyrdeer,899
+Kleavor,900
+Ursaluna,901
+Ursaluna form:bloodmoon,901.01
+Basculegion form:male,902
+Basculegion form:female,902.01
+Sneasler,903
+Overqwil,904
+Enamorus form:incarnate,905
+Enamorus form:therian,905.01
+Sprigatito,906
+Floragato,907
+Meowscarada,908
+Fuecoco,909
+Crocalor,910
+Skeledirge,911
+Quaxly,912
+Quaxwell,913
+Quaquaval,914
+Lechonk,915
+Oinkologne form:male,916
+Oinkologne form:female,916.01
+Tarountula,917
+Spidops,918
+Nymble,919
+Lokix,920
+Pawmi,921
+Pawmo,922
+Pawmot,923
+Tandemaus,924
+Maushold form:family_four,925
+Maushold form:family_three,925.01
+Fidough,926
+Dachsbun,927
+Smoliv,928
+Dolliv,929
+Arboliva,930
+Squawkabilly form:green,931
+Squawkabilly form:blue,931.01
+Squawkabilly form:yellow,931.02
+Squawkabilly form:white,931.03
+Nacli,932
+Naclstack,933
+Garganacl,934
+Charcadet,935
+Armarouge,936
+Ceruledge,937
+Tadbulb,938
+Bellibolt,939
+Wattrel,940
+Kilowattrel,941
+Maschiff,942
+Mabosstiff,943
+Shroodle,944
+Grafaiai,945
+Bramblin,946
+Brambleghast,947
+Toedscool,948
+Toedscruel,949
+Klawf,950
+Capsakid,951
+Scovillain,952
+Rellor,953
+Rabsca,954
+Flittle,955
+Espathra,956
+Tinkatink,957
+Tinkatuff,958
+Tinkaton,959
+Wiglett,960
+Wugtrio,961
+Bombirdier,962
+Finizen,963
+Palafin form:zero,964
+Palafin form:hero,964.01
+Varoom,965
+Revavroom,966
+Cyclizar,967
+Orthworm,968
+Glimmet,969
+Glimmora,970
+Greavard,971
+Houndstone,972
+Flamigo,973
+Cetoddle,974
+Cetitan,975
+Veluza,976
+Dondozo,977
+Tatsugiri form:curly,978
+Tatsugiri form:droopy,978.01
+Tatsugiri form:stretchy,978.02
+Annihilape,979
+Clodsire,980
+Farigiraf,981
+Dudunsparce form:two_segment,982
+Dudunsparce form:three_segment,982.01
+Kingambit,983
+GreatTusk,984
+ScreamTail,985
+BruteBonnet,986
+FlutterMane,987
+SlitherWing,988
+SandyShocks,989
+IronTreads,990
+IronBundle,991
+IronHands,992
+IronJugulis,993
+IronMoth,994
+IronThorns,995
+Frigibax,996
+Arctibax,997
+Baxcalibur,998
+Gimmighoul form:chest,999
+Gimmighoul form:roaming,999.01
+Gholdengo,1000
+Wo-Chien,1001
+Chien-Pao,1002
+Ting-Lu,1003
+Chi-Yu,1004
+RoaringMoon,1005
+IronValiant,1006
+Koraidon,1007
+Koraidon form:bike,1007.01
+Miraidon,1008
+Miraidon form:bike,1008.01
+WalkingWake,1009
+IronLeaves,1010
+Dipplin,1011
+Poltchageist form:counterfeit,1012
+Poltchageist form:artisan,1012.01
+Sinistcha form:unremarkable,1013
+Sinistcha form:masterpiece,1013.01
+Okidogi,1014
+Munkidori,1015
+Fezandipiti,1016
+Ogerpon form:teal,1017
+Ogerpon form:wellspring,1017.01
+Ogerpon form:hearthflame,1017.02
+Ogerpon form:cornerstone,1017.03

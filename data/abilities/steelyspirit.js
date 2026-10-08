@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:steelyspirit"]={"description":"对战中\r\n拥有该特性的宝可梦在场时，自身和场上全部同伴宝可梦使用钢属性招式威力×1.5。\r\n一方场上存在多只该特性的宝可梦时，效果累积。","holders":[[863,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SteelySpirit"}};

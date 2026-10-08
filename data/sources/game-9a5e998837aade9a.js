@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9a5e998837aade9a"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:pufferfish"],"replacement_logic":"simple","specs":["qwilfish","qwilfish form:hisuian","overqwil"]}};

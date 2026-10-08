@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:28c9bdde3a01b156"]={"json":{"pokemon":"Froslass","items":[{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":1.0},{"item":"pixelmon:blue_ice","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dawn_stone","min":1,"max":1,"chance":0.1}]}};

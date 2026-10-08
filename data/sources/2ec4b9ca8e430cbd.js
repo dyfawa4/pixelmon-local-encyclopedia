@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2ec4b9ca8e430cbd"]={"text":"Counter,Charmander,Charmeleon,Charizard,Treecko,Grovyle,Sceptile,Scraggy,Scrafty,Axew,Fraxure,Sliggoo form:hisuian,Goodra form:hisuian,Kommo-o\r\nLife Dew,Milotic,Sliggoo form:hisuian,Goodra form:hisuian\r\n"};

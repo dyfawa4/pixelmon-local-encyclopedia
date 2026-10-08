@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4671018285f5bcbe"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/light_gray"},{"tag":"pixelmon:umbrellas"}],"result":{"item":"pixelmon:light_gray_umbrella","count":1}}};

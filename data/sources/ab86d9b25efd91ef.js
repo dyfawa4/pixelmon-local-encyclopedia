@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ab86d9b25efd91ef"]={"json":{"Evolutions":[{"from":"Capsakid","item":{"itemID":"pixelmon:fire_stone","additionalProperties":{}},"to":"Scovillain","conditions":[],"evoType":"interact","moves":["Flamethrower","Spicy Extract"],"additionalProperties":{}}]}};

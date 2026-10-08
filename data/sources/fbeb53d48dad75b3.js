@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fbeb53d48dad75b3"]={"json":{"id":"Espathra","spawnInfos":[{"spec":"species:Espathra","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["savannas","arid","pixelmon:ultra_desert"]},"rarity":10.0}]}};

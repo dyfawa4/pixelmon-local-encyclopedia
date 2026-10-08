@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:41e013a20e8a69b5"]={"json":{"Evolutions":[{"from":"Ferroseed","level":40,"to":"Ferrothorn","conditions":[],"evoType":"leveling","moves":["Power Whip"],"additionalProperties":{}}]}};

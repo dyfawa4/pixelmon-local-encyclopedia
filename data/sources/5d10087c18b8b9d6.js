@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d10087c18b8b9d6"]={"json":{"Name":"NaturalCure","Description":"回到同行队伍后，异常状态就会被治愈。","Normal":["Chansey","Staryu","Starmie","Corsola","Blissey","Celebi","Roselia","Swablu","Altaria","Budew","Roserade","Happiny","Shaymin form:land","Phantump","Trevenant","Pawmi","Pawmo","Pawmot"],"Hidden":["Comfey"]}};

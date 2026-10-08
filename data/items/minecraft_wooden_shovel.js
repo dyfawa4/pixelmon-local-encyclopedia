@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_wooden_shovel"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["X","#","#"],"key":{"#":{"item":"minecraft:stick"},"X":{"tag":"minecraft:planks"}},"result":{"item":"minecraft:wooden_shovel"},"source":"data/minecraft/recipes/wooden_shovel.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

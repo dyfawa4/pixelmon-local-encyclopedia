@@ -1,0 +1,9 @@
+Acid Spray,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Gulpin,Swalot,Eelektrik,Eelektross
+Curse,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Slugma,Magcargo,Gulpin,Swalot,Shuppet,Banette,Duskull,Dusclops,Chimecho,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Phantump,Trevenant,Sandygast,Palossand,Mimikyu form:disguised,Polteageist form:phony,Polteageist form:antique,Runerigus,Pincurchin,Dreepy,Drakloak,Dragapult
+Haze,Grimer,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Duskull,Dusclops,Drifloon,Drifblim,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Trevenant,Runerigus
+Mean Look,Grimer,Grimer form:alolan,Muk,Gastly,Haunter,Gengar,Misdreavus,Ralts,Kirlia,Duskull,Dusclops,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Runerigus
+Shadow Punch,Grimer,Muk,Haunter,Gengar,Dusclops,Dusknoir
+Shadow Sneak,Grimer,Grimer form:alolan,Muk,Misdreavus,Ralts,Kirlia,Shuppet,Banette,Duskull,Dusclops,Mismagius,Spiritomb,Dusknoir,Pumpkaboo,Gourgeist,Mimikyu form:disguised
+Spit Up,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Stockpile,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Swallow,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim

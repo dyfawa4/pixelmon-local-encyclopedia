@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e3ab1ecc9e6b0fa9"]={"json":{"pokemon":"Serperior","items":[{"item":"minecraft:oak_leaves","min":1,"max":3,"chance":1.0},{"item":"minecraft:bone_meal","min":1,"max":2,"chance":0.5},{"item":"minecraft:twisting_vines","min":1,"max":2,"chance":0.3},{"item":"pixelmon:shed_shell","min":1,"max":2,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f1af8f9406bb37fe"]={"json":{"Name":"IceFace","Description":"头部的冰会代替自己承受物理攻击，但是样子会改变。下冰雹时，冰会恢复原状。","Normal":["Eiscue form:ice_face"],"Hidden":[]}};

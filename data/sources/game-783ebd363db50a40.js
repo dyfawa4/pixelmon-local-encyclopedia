@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-783ebd363db50a40"]={"json":{"id":"Aurorus","spawnInfos":[{"spec":"species:Aurorus","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":5.0}]}};

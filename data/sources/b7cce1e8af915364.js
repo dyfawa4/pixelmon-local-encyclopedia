@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7cce1e8af915364"]={"json":{"Name":"MagnetPull","Description":"用磁力吸住钢属性的宝可梦，使其无法逃走。","Normal":["Geodude form:alolan","Graveler form:alolan","Golem form:alolan","Magnemite","Magneton","Nosepass","Magnezone","Probopass","Meltan"],"Hidden":[]}};

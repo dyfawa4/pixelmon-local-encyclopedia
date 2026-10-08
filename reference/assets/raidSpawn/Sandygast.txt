@@ -1,0 +1,3 @@
+2,3=beaches
+2,3=freezingbeaches
+2,3=stonybeaches

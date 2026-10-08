@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dc29cfa3532b3988"]={"json":{"Evolutions":[{"from":"Vulpix form:alolan","item":{"itemID":"pixelmon:ice_stone","additionalProperties":{}},"to":"Ninetales form:alolan","conditions":[],"evoType":"interact","moves":["Dazzling Gleam"],"additionalProperties":{}}]}};

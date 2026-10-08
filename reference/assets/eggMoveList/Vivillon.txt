@@ -1,0 +1,3 @@
+Poison Powder,Butterfree,Paras,Parasect,Venonat,Venomoth,Dustox,Mothim,Scatterbug,Spewpa,Vivillon
+Rage Powder,Butterfree,Paras,Parasect,Venonat,Venomoth,Spinarak,Ariados,Volcarona,Scatterbug,Spewpa
+Stun Spore,Butterfree,Paras,Parasect,Venonat,Venomoth,Beautifly,Masquerain,Scatterbug,Spewpa,Vivillon,Cutiefly,Ribombee,Frosmoth

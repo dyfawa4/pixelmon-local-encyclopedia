@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:healer"]={"description":"对战中\r\n在双打和三打对战中，每回合结束有30%的机率治愈一名同伴的异常状态。","holders":[[113,"",true],[182,"",true],[242,"",true],[531,"",false],[531,"mega",false],[594,"",false],[682,"",false],[683,"",false],[856,"",false],[857,"",false],[858,"",false],[858,"gmax",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Healer"}};

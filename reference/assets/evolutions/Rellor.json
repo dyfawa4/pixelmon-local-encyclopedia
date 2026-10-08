@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Rellor","to":"Rabsca","conditions":[{"evoConditionType":"blocksWalkedOutsideBall","blocksToWalk":1000,"additionalProperties":{}}],"evoType":"leveling","moves":["Revival Blessing"],"additionalProperties":{}}]}

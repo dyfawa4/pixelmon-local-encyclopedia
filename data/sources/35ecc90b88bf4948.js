@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:35ecc90b88bf4948"]={"json":{"id":"Keldeo","spawnInfos":[{"spec":"species:Keldeo level:50","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:river","lakes"]},"rarity":0.4}]}};

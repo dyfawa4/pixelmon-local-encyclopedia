@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5d38dd1dacf4ced4"]={"json":{"Evolutions":[{"from":"Bergmite","level":37,"to":"Avalugg form:hisuian","conditions":[{"evoConditionType":"biome","biomes":["minecraft:snowy_taiga_hills"],"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dcdd10fdee46de3f"]={"text":"挖掘等级和金制工具一样。\r\n右键可以给予玩家五分钟的生命提升效果。"};

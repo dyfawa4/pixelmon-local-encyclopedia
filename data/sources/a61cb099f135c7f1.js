@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a61cb099f135c7f1"]={"json":{"Evolutions":[{"from":"Flittle","level":35,"to":"Espathra","conditions":[],"evoType":"leveling","moves":["Lumina Crash"],"additionalProperties":{}}]}};

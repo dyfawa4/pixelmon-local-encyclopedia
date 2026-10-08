@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:53a36c07c759db76"]={"json":{"id":"SandyShocks","spawnInfos":[{"spec":"species:SandyShocks","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:booster_energy","percentChance":5}],"condition":{"stringBiomes":["minecraft:small_end_islands"]},"rarity":5.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-91b2289ff715021b"]={"json":{"id":"Shinx","spawnInfos":[{"spec":"species:Shinx","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":170.0}]}};

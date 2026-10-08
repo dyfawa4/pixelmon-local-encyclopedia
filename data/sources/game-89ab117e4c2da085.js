@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-89ab117e4c2da085"]={"json":{"id":"Furret","spawnInfos":[{"spec":"species:Furret","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":50,"typeID":"pokemon","condition":{"stringBiomes":["plains","minecraft:snowy_tundra","biomesoplenty:tundra","biomesoplenty:tundra_basin","biomesoplenty:tundra_bog"]},"rarity":40.0}]}};

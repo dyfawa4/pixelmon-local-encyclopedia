@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-af5caf9d898c8b36"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:skeleton_horse"],"replacement_logic":"simple","specs":["rapidash","ponyta","mudsdale","mudsbray"]}};

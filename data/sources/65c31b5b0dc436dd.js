@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:65c31b5b0dc436dd"]={"json":{"id":"Mega Pinsir","spawnInfos":[{"spec":"species:Pinsir","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["DUSK","NIGHT"],"stringBiomes":["jungles"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

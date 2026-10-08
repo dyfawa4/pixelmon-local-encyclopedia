@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:25a23866848fc5da"]={"json":{"Evolutions":[{"from":"Yanma","to":"Yanmega","conditions":[{"evoConditionType":"move","attackName":"Ancient Power","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

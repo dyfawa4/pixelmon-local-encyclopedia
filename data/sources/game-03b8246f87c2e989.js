@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-03b8246f87c2e989"]={"json":{"replace":false,"values":["pixelmon:poke_sand_corner1","pixelmon:poke_sand_corner2","pixelmon:poke_sand_corner3","pixelmon:poke_sand_corner4","pixelmon:poke_sand_side1","pixelmon:poke_sand_side2","pixelmon:poke_sand_side3","pixelmon:poke_sand_side4","pixelmon:poke_sand"]}};

@@ -1,0 +1,8 @@
+3,4=freezingbeaches
+3,4=freezingforests
+3,4=freezingmountains
+3,4=freezingocean
+3,4=freezingplains
+3,4=frozenwater
+3,4=otherfreezing
+3,4=shatteredglacier

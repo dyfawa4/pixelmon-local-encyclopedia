@@ -1,0 +1,21 @@
+After You,Clefairy,Clefable,Togetic,Togekiss,Audino,Flabebe,Floette,Floette form:az,Florges,Carbink,Cutiefly,Ribombee,Togedemaru,Hatenna,Hattrem,Indeedee form:male
+Charm,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Marill,Azumarill,Hoppip,Skiploom,Jumpluff,Snubbull,Granbull,Blissey,Shroomish,Breloom,Skitty,Plusle,Minun,Pachirisu,Togekiss,Froslass,Phione,Manaphy,Cottonee,Whimsicott,Flabebe,Floette,Florges,Spritzee,Aromatisse,Swirlix,Slurpuff,Dedenne,Carbink,Cutiefly,Ribombee,Hatenna,Hattrem,Hatterene,Milcery,Alcremie,Indeedee form:female,Tandemaus,Maushold form:family_four,Maushold form:family_three
+Copycat,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Skitty,Plusle,Minun,Flabebe,Floette,Tandemaus,Maushold form:family_four,Maushold form:family_three
+Cosmic Power,Clefairy,Clefable
+Defense Curl,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Marill,Azumarill,Hoppip,Skiploom,Jumpluff,Snubbull,Granbull,Blissey,Skitty,Delcatty,Plusle,Minun,Castform,Glalie,Pachirisu,Togekiss,Togedemaru
+Disarming Voice,Raichu,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Marill,Azumarill,Blissey,Skitty,Phione,Manaphy,Audino,Flabebe,Floette,Florges,Aromatisse,Hatenna,Hattrem,Hatterene,Alcremie,Indeedee form:male,Indeedee form:female
+Encore,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Togetic,Marill,Azumarill,Hoppip,Skiploom,Jumpluff,Snubbull,Granbull,Plusle,Minun,Pachirisu,Togekiss,Audino,Cottonee,Whimsicott,Spritzee,Aromatisse,Togedemaru,Alcremie,Indeedee form:male,Tandemaus,Maushold form:family_four,Maushold form:family_three,Tinkatink,Tinkatuff,Tinkaton
+Follow Me,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Togetic,Pachirisu,Togekiss,Indeedee form:female,Maushold form:family_four,Maushold form:family_three
+Gravity,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Audino,Carbink,Togedemaru,Hatterene,Indeedee form:male,Indeedee form:female
+Growl,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Clefairy,Clefable,Chansey,Togetic,Hoppip,Skiploom,Jumpluff,Snubbull,Granbull,Blissey,Skitty,Mawile,Plusle,Minun,Pachirisu,Togekiss,Audino
+Heal Pulse,Clefairy,Clefable,Chansey,Blissey,Audino,Aromatisse,Hatenna,Hattrem,Hatterene,Indeedee form:female
+Healing Wish,Clefairy,Clefable,Chansey,Blissey,Hatenna,Hattrem,Hatterene,Indeedee form:male,Indeedee form:female
+Moonlight,Clefairy,Clefable
+Pound,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Blissey,Togekiss,Audino,Tandemaus,Maushold form:family_four,Maushold form:family_three
+Present,Raichu form:alolan,Clefairy,Clefable,Chansey,Snubbull,Granbull,Blissey,Audino
+Sing,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Blissey,Skitty,Delcatty,Mawile,Plusle,Minun,Snorunt,Glalie,Froslass
+Splash,Clefairy,Clefable,Hoppip,Skiploom,Jumpluff
+Stored Power,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Blissey,Togekiss,Manaphy,Flabebe,Floette,Florges,Ribombee,Hatenna,Hattrem,Hatterene,Milcery,Alcremie,Indeedee form:male,Indeedee form:female
+Sweet Kiss,Pikachu,Pikachu form:belle,Pikachu form:cosplay,Pikachu form:phd,Pikachu form:popstar,Pikachu form:rockstar,Pikachu form:libre,Raichu,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Blissey,Delcatty,Plusle,Minun,Roselia,Roserade,Pachirisu,Togekiss,Spritzee,Aromatisse,Milcery,Alcremie,Tinkatink,Tinkatuff,Tinkaton
+Tickle,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Cottonee,Whimsicott
+Wish,Raichu form:alolan,Clefairy,Clefable,Chansey,Togetic,Blissey,Plusle,Minun,Togekiss,Flabebe,Floette,Floette form:az,Florges,Swirlix,Slurpuff

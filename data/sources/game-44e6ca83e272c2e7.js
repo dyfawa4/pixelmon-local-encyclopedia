@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-44e6ca83e272c2e7"]={"json":{"id":"Croconaw","spawnInfos":[{"spec":"species:Croconaw","stringLocationTypes":["Land"],"minLevel":18,"maxLevel":30,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":1.0}]}};

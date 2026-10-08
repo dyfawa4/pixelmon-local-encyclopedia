@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bdcf73c0f61b605e"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather5.png"}],"names":[{"name":"涅茲"}],"chat":[{"lines":[{"text":"歡迎來到烽火道館。"},{"text":"我們的道館館主正在泡溫泉！"}]}]}};

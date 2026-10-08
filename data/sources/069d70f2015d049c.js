@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:069d70f2015d049c"]={"json":{"pokemon":"Palkia","items":[{"item":"pixelmon:orb","min":1,"max":1,"chance":1.0},{"item":"minecraft:netherite_scrap","min":1,"max":3,"chance":0.5},{"item":"pixelmon:water_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:lustrous_orb","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:47cb2cdbe4b58f1c"]={"json":{"pokemon":"Popplio","items":[{"item":"minecraft:tropical_fish","min":1,"max":2,"chance":1.0},{"item":"pixelmon:shoal_shell","min":1,"max":1,"chance":0.5}]}};

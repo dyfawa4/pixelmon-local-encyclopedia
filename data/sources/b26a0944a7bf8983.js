@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b26a0944a7bf8983"]={"json":{"Evolutions":[{"from":"Voltorb form:hisuian","item":{"itemID":"pixelmon:leaf_stone","additionalProperties":{}},"to":"Electrode form:hisuian","conditions":[],"evoType":"interact","moves":[],"additionalProperties":{}}]}};

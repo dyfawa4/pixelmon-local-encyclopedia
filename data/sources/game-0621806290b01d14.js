@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0621806290b01d14"]={"json":{"type_id":"simple","id":"battle_tree_master","suffix":"ribbon.battle_tree_master.title","translation_key":"ribbon.battle_tree_master","description":"ribbon.battle_tree_master.description","icon":"pixelmon:textures/gui/ribbons/battle_tree_master.png"}};

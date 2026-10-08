@@ -1,0 +1,6 @@
+3,4,5=birches
+3,4,5=forests
+3,4,5=plains
+3,4,5=redwoods
+3,4,5=roofed
+3,4,5=taigas

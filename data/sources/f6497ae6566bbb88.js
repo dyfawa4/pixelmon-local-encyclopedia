@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f6497ae6566bbb88"]={"json":{"pokemon":"Veluza","items":[{"item":"minecraft:tropical_fish","min":2,"max":3,"chance":1.0},{"item":"minecraft:ender_eye","min":1,"max":3,"chance":0.5},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f473cd02b2e8f87"]={"json":{"pokemon":"Grafaiai","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"pixelmon:rowap_berry","min":1,"max":2,"chance":0.5},{"item":"minecraft:cyan_dye","min":1,"max":2,"chance":0.3},{"item":"minecraft:purple_dye","min":1,"max":1,"chance":0.1}]}};

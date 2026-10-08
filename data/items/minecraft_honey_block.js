@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_honey_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["SS","SS"],"key":{"S":{"item":"minecraft:honey_bottle"}},"result":{"item":"minecraft:honey_block"},"source":"data/minecraft/recipes/honey_block.json"}],"appRecipe":{},"usedIn":["minecraft:honey_bottle"],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,2 @@
+1,2=redwoods
+1,2=taigas

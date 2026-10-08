@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c9e285d0e64a05ac"]={"json":{"pokemon":"Noctowl","items":[{"item":"minecraft:feather","min":1,"max":3,"chance":1.0},{"item":"minecraft:bone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:genius_feather","min":1,"max":1,"chance":0.3},{"item":"pixelmon:flying_gem","min":1,"max":1,"chance":0.1}]}};

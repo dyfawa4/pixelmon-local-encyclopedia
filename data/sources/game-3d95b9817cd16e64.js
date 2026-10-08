@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3d95b9817cd16e64"]={"json":{"id":"Sunflora","spawnInfos":[{"spec":"species:Sunflora","stringLocationTypes":["Land","Sweet Scent"],"minLevel":10,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"weathers":["CLEAR"],"stringBiomes":["flowery"]},"rarity":0.5}]}};

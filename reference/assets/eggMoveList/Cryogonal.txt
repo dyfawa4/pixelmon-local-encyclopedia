@@ -1,0 +1,3 @@
+Aurora Veil,Froslass,Cryogonal,Avalugg form:hisuian
+Explosion,Geodude,Geodude form:alolan,Graveler,Graveler form:alolan,Golem,Golem form:alolan,Magnemite,Magneton,Onix,Voltorb,Voltorb form:hisuian,Electrode,Electrode form:hisuian,Sudowoodo,Steelix,Nosepass,Lunatone form:gibbous,Lunatone form:quarter,Lunatone form:full,Lunatone form:new_moon,Lunatone form:crescent,Solrock,Baltoy,Claydol,Glalie,Metang,Metagross,Bronzong,Magnezone,Probopass,Roggenrola,Boldore,Gigalith,Trubbish,Garbodor,Vanillite,Vanillish,Vanilluxe,Ferroseed,Ferrothorn,Cryogonal,Carbink,Minior form:meteor,Minior form:core,Garganacl
+Frost Breath,Snorunt,Glalie,Froslass,Vanillite,Vanillish,Vanilluxe,Cryogonal,Bergmite,Avalugg

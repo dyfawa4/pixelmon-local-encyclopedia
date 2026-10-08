@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ad810103a0001e6e"]={"json":{"id":"Mega Camerupt","spawnInfos":[{"spec":"species:Camerupt","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["arid","minecraft:badlands","biomesoplenty:volcanic_plains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5e10d11839ba1424"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:magma_cube"],"replacement_logic":"simple","specs":["slugma","magcargo"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7039a35bbaa6fe9c"]={"json":{"id":"Lechonk","spawnInfos":[{"spec":"species:Lechonk","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":17,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains"]},"rarity":200.0}]}};

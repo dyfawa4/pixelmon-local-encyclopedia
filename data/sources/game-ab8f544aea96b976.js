@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ab8f544aea96b976"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:dusty_ruins_wall"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

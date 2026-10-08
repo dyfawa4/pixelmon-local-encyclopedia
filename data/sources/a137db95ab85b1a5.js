@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a137db95ab85b1a5"]={"json":{"id":"Yanma","spawnInfos":[{"spec":"species:Yanma","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":25,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:wide_lens","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["swamps","jungles","lakes","minecraft:river"]},"rarity":130.0}]}};

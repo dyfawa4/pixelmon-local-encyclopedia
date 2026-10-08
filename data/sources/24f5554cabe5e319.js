@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:24f5554cabe5e319"]={"json":{"id":"Mega Aerodactyl","spawnInfos":[{"spec":"species:Aerodactyl","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

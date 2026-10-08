@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_melon_slice"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["minecraft:glistering_melon_slice","minecraft:melon","minecraft:melon_seeds"],"drops":[],"referenceDrop":{},"special":""};

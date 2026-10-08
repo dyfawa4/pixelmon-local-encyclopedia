@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9d5f514b3722de14"]={"json":{"pokemon":"Malamar","items":[{"item":"minecraft:ink_sac","min":1,"max":3,"chance":1.0},{"item":"minecraft:ender_pearl","min":1,"max":3,"chance":0.5},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.1}]}};

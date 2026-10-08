@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b751ec79ae40d939"]={"json":{"type_id":"simple","id":"smart_hyper","suffix":"ribbon.smart_hyper.title","translation_key":"ribbon.smart_hyper","description":"ribbon.smart_hyper.description","icon":"pixelmon:textures/gui/ribbons/smart_hyper.png"}};

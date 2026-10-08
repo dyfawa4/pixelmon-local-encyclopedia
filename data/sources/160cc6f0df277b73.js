@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:160cc6f0df277b73"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" # ","# #"," # "],"key":{"#":{"type":"forge:nbt","item":"pixelmon:poke_ball","nbt":{"PokeBallID":"cherish_ball"}}},"result":{"item":"pixelmon:poke_gift","count":4}}};

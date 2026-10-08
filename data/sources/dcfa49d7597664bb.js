@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dcfa49d7597664bb"]={"json":{"pokemon":"Trapinch","items":[{"item":"minecraft:sand","min":1,"max":2,"chance":1.0},{"item":"minecraft:sandstone","min":1,"max":1,"chance":0.5}]}};

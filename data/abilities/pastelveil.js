@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:pastelveil"]={"description":"对战中\r\n拥有此特性的宝可梦不仅能使自己及同伴免疫中毒状态，在对战中出场时，还能回复我方的中毒状态。","holders":[[77,"galarian",false],[78,"galarian",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PastelVeil"}};

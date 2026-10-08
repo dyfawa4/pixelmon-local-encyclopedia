@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-56756ed6dc02bd65"]={"json":{"id":"Makuhita","spawnInfos":[{"spec":"species:Makuhita","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:black_belt","percentChance":5}],"condition":{"times":["AFTERNOON"],"stringBiomes":["mountainous forests"]},"rarity":130.0}]}};

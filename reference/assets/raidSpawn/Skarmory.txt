@@ -1,0 +1,5 @@
+3,4=badlands
+3,4=mountainous
+3,4=savannas
+3,4=tundra
+3,4=ultracrater

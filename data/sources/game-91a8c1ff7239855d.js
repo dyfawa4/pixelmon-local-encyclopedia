@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-91a8c1ff7239855d"]={"json":{"id":"Nincada","spawnInfos":[{"spec":"species:Nincada","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":18,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:soft_sand","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["taigas","redwoods"]},"rarity":130.0}]}};

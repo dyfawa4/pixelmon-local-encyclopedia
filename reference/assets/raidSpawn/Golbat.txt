@@ -1,0 +1,12 @@
+3,4=birches
+3,4=evil
+3,4=flowery
+3,4=forests
+3,4=jungles
+3,4=mountainousforests
+3,4=mountainous
+3,4=plains
+3,4=redwoods
+3,4=roofed
+3,4=swamps
+3,4=taigas

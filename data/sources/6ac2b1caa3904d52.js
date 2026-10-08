@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6ac2b1caa3904d52"]={"json":{"Evolutions":[{"from":"Chespin","level":16,"to":"Quilladin","conditions":[],"evoType":"leveling","moves":["Needle Arm"],"additionalProperties":{}},{"from":"Quilladin","level":36,"to":"Chesnaught","conditions":[],"evoType":"leveling","moves":["Spiky Shield"],"additionalProperties":{}}]}};

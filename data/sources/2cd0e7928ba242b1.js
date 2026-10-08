@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2cd0e7928ba242b1"]={"json":{"rewards":{"recipes":["pixelmon:incense_burner"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:incense_burner"}},"has_coal":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"minecraft:coal"}]}}},"requirements":[["has_the_recipe","has_coal"]]}};

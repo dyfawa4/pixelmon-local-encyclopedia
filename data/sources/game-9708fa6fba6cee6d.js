@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9708fa6fba6cee6d"]={"json":{"id":"Machop","spawnInfos":[{"spec":"species:Machop","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":28,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:focus_band","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["mountainous"],"maxY":80},"rarity":250.0}]}};

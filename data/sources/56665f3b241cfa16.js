@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:56665f3b241cfa16"]={"json":{"pokemon":"Seviper","items":[{"item":"minecraft:bone_meal","min":1,"max":3,"chance":1.0},{"item":"pixelmon:poison_gem","min":1,"max":1,"chance":0.5},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.1}]}};

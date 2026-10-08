@@ -1,0 +1,4 @@
+2,3=burntforest
+2,3=forests
+2,3=roofed
+2,3=swamps

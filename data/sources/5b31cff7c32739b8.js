@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5b31cff7c32739b8"]={"json":{"id":"Darkrai","spawnInfos":[{"spec":"species:Darkrai level:70","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:dark_forest_hills"],"moonPhase":4},"rarity":0.3}]}};

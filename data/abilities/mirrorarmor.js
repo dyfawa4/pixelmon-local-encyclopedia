@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:mirrorarmor"]={"description":"对战中\r\n该特性的宝可梦受到对方的能力下降的招式或特性时，能将这些效果反弹到使用该招式或触发该特性的宝可梦。包括黏黏网的效果。\r\n例如：风速狗触发了威吓，使钢铠鸦的攻击下降1级。此时镜甲效果的反弹目标仅是风速狗，不会触发威吓的所有目标降低攻击效果。","holders":[[823,"",true],[823,"gmax",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MirrorArmor"}};

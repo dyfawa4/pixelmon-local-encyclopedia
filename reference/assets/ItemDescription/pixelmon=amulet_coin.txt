@@ -1,0 +1,4 @@
+携带该道具的宝可梦如果参与了对战，对战结束后获得的零花钱加倍。
+能和欢乐时光叠加。
+不能和||itemButton=pixelmon:luck_incense||叠加。
+||itemButton=pixelmon:amulet_coin||不受笨拙特性影响。携带该道具的宝可梦濒死或宝可梦处于拍落状态，该道具依然生效。

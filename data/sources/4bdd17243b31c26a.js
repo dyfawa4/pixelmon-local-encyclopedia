@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4bdd17243b31c26a"]={"json":{"attack":"得到Z力量的谜拟丘将全力进行乱揍攻击。","description":"亲密无间大乱揍会造成伤害。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

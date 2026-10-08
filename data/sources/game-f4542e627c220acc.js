@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f4542e627c220acc"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:ravager"],"replacement_logic":"simple","specs":["tauros","bouffalant"]}};

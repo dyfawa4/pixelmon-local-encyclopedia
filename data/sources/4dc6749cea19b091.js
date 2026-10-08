@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4dc6749cea19b091"]={"json":{"id":"Pawmi","spawnInfos":[{"spec":"species:Pawmi","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":18,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["redwoods","taigas"]},"rarity":150.0}]}};

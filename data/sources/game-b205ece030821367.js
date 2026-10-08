@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b205ece030821367"]={"json":{"id":"Golett Caverock","spawnInfos":[{"spec":"species:Golett","stringLocationTypes":["Cave Rock"],"minLevel":10,"maxLevel":43,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:light_clay","percentChance":5}],"condition":{"stringBiomes":["arid"]},"rarity":6.0}]}};

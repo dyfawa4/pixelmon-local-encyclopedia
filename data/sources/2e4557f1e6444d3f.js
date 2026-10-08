@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2e4557f1e6444d3f"]={"text":"将||Tornadus form:incarnate||、||Thundurus form:incarnate||、||Landorus form:incarnate||、||Enamorus form:incarnate||切换为||Tornadus form:therian||、||Thundurus form:therian||、||Landorus form:therian||、||Enamorus form:therian||或切换回来。"};

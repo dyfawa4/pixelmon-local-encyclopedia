@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6aa8d79b35c58d3a"]={"json":{"pokemon":"Masquerain","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:fermented_spider_eye","min":1,"max":2,"chance":0.5},{"item":"pixelmon:silver_powder","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8e6e79dc64dddb6f"]={"json":{"pokemon":"Altaria","items":[{"item":"minecraft:feather","min":2,"max":5,"chance":1.0},{"item":"minecraft:white-wool","min":1,"max":3,"chance":0.5},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.1}]}};

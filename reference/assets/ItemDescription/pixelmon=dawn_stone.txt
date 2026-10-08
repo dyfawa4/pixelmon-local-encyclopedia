@@ -1,0 +1,2 @@
+对||pokemonButton=Kirlia||♂使用，使其进化为||pokemonButton=Gallade||。
+对||pokemonButton=Snorunt||♀使用，使其进化为||pokemonButton=Froslass||。

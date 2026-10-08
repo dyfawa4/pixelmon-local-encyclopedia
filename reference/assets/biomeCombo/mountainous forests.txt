@@ -1,0 +1,9 @@
+minecraft:wooded_mountains
+minecraft:modified_gravelly_mountains
+biomesoplenty:fir_clearing
+biomesoplenty:jade_cliffs
+byg:alpine_foothills
+byg:bluff_peaks
+byg:bluff_steeps
+byg:dover_mountains
+byg:redwood_mountains

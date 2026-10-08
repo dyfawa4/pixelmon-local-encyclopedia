@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e35ba7d73cffa412"]={"json":{"id":"Slakoth","spawnInfos":[{"spec":"species:Slakoth","stringLocationTypes":["Land","Headbutt"],"minLevel":5,"maxLevel":10,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["jungles"]},"rarity":90.0}]}};

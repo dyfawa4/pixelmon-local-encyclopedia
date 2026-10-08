@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4bef05df34e6e77c"]={"json":{"id":"Tsareena","spawnInfos":[{"spec":"species:Tsareena","stringLocationTypes":["Land","Sweet Scent"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:grassy_seed","percentChance":50}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["birches","flowery"]},"rarity":0.5}]}};

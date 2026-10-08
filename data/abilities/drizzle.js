@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:drizzle"]={"description":"对战中\r\n当该宝可梦登场时，天气转为下雨并持续5回合。\r\n\r\n在携带了道具潮湿岩石的情况下，下雨会持续8回合。\r\n在大雨、大日照和乱流天气下，特性发动失败。\r\n如果有多只拥有可更换天气特性的宝可梦同时登场，那么将会按照宝可梦的速度依次发动特性改变天气，后者覆盖前者。发动失败的情况下除外。","holders":[[186,"",true],[279,"",false],[382,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Drizzle"}};

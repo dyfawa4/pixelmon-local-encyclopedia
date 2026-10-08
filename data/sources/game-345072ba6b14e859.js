@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-345072ba6b14e859"]={"json":{"id":"Spritzee","spawnInfos":[{"spec":"species:Spritzee","stringLocationTypes":["Land","Sweet Scent"],"minLevel":22,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:sachet","percentChance":5}],"condition":{"times":["DAWN","DAY"],"stringBiomes":["birches","mushroom","magical"]},"rarity":90.0}]}};

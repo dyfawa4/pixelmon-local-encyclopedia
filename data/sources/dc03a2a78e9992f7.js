@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dc03a2a78e9992f7"]={"json":{"type":"minecraft:crafting_shaped","pattern":["s","i"],"key":{"s":{"item":"minecraft:oak_stairs"},"i":{"item":"minecraft:iron_bars"}},"result":{"item":"pixelmon:bench","count":1}}};

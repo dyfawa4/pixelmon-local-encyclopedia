@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1e37614ce3171290"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:ruby_azelf"},{"item":"pixelmon:ruby_mesprit"},{"item":"pixelmon:ruby_uxie"}],"result":{"item":"pixelmon:red_chain"}}};

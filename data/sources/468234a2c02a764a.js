@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:468234a2c02a764a"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:drowned"],"replacement_logic":"simple","specs":["dhelmise","basculin","binacle","barbaracle","mareanie","toxapex"]}};

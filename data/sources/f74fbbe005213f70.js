@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f74fbbe005213f70"]={"json":{"type":"minecraft:crafting_shaped","pattern":["ARA","AAA"],"key":{"A":{"tag":"forge:ingots/aluminium"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:fossil_machine_top","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b8f91ce1b1c6f686"]={"json":{"pokemon":"Clefable","items":[{"item":"minecraft:sugar_cane","min":1,"max":3,"chance":1.0},{"item":"minecraft:sugar","min":1,"max":2,"chance":0.5},{"item":"pixelmon:metronome","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8cf007febc0f0576"]={"json":{"pokemon":"Aggron","items":[{"item":"minecraft:iron_ingot","min":2,"max":4,"chance":1.0},{"item":"minecraft:polished_diorite","min":1,"max":2,"chance":0.5},{"item":"pixelmon:silver_ore","min":1,"max":2,"chance":0.3},{"item":"pixelmon:lagging_tail","min":1,"max":1,"chance":0.1}]}};

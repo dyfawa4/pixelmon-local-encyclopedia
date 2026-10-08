@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f4c3a58f53291df9"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_gingko_pressure_plate"}],"conditions":[]}]}};

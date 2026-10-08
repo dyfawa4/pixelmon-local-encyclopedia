@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9bae4a821bfb0337"]={"json":{"pokemon":"Muk form:base","items":[{"item":"minecraft:slime_ball","min":1,"max":3,"chance":1.0},{"item":"minecraft:slime_block","min":1,"max":2,"chance":0.5},{"item":"pixelmon:toxic_orb","min":1,"max":1,"chance":0.1}]}};

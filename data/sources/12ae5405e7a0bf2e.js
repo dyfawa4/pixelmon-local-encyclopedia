@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:12ae5405e7a0bf2e"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"firebreather1.png"}],"names":[{"name":"Mangiafuoco"}],"chat":[{"opening":"Sei un po' troppo rosso! E' per il calore o perché sei nervoso?","win":"Fatti affumicare per bene, ragazzo!","lose":"Mi hai scottato!"}]}};

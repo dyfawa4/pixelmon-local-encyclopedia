@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8c8c6c07995d829a"]={"json":{"pokemon":"Minior","items":[{"item":"minecraft:end_stone","min":1,"max":2,"chance":1.0},{"item":"pixelmon:shiny_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:stardust","min":1,"max":1,"chance":0.3},{"item":"pixelmon:comet_shard","min":1,"max":1,"chance":0.1}]}};

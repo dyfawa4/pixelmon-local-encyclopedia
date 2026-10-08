@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e0e4cccae61d9e5e"]={"text":"对空着的极巨巢穴使用后，会随机刷新一场能在此地形生成的极巨团体战。"};

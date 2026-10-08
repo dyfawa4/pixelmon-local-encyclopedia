@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:da01c7626c0b05b6"]={"json":{"pokemon":"Terrakion","items":[{"item":"minecraft:stone_sword","min":1,"max":1,"chance":1.0},{"item":"minecraft:granite","min":1,"max":4,"chance":0.5},{"item":"pixelmon:rock_gem","min":1,"max":1,"chance":0.1}]}};

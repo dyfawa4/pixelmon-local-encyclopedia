@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-5a98286da57748ec"]={"json":{"id":"Mega Beedrill","spawnInfos":[{"spec":"species:Beedrill","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["all forests","flowery","byg:crag_gardens"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

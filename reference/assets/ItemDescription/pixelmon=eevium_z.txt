@@ -1,0 +1,1 @@
+||pokemonButton=Eevee||携带后，可以把||moveButton=Last Resort||转化成特殊的Z招式：||moveButton=Extreme Evoboost||。

@@ -1,0 +1,3 @@
+2,3=magical
+2,3=taigas
+3,4=ultraforest

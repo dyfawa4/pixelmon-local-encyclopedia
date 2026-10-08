@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:976edeabd6bb6521"]={"text":"pixelmon:old_rod=46.15%=1-1\r\npixelmon:good_rod=30.77%=1-1\r\npixelmon:water_gem=48.90%=1-2\r\npixelmon:ice_gem=34.93%=1-2\r\nminecraft:cod=46.21%=1-3\r\nminecraft:salmon=26.29%=1-3\r\nminecraft:water_bucket=26.29%=1-3\r\nminecraft:barrel=26.29%=1-3\r\nminecraft:spider_eye=61.18%=1-3\r\nminecraft:coal=46.21%=1-3\r\n"};

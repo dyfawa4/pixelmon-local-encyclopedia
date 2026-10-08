@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ff236929ce8a641c"]={"json":{"Evolutions":[{"from":"Slugma","level":38,"to":"Magcargo","conditions":[],"evoType":"leveling","moves":["Shell Smash"],"additionalProperties":{}}]}};

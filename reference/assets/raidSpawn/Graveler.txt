@@ -1,0 +1,6 @@
+3,4=badlands
+3,4=deserts
+3,4=mountainous
+3,4=ultracrater
+3,4=ultradesert
+3,4=volcano

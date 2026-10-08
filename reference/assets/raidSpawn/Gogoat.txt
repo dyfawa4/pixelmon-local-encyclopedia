@@ -1,0 +1,5 @@
+3,4=freezingforests
+3,4=freezingplains
+3,4=hills
+3,4=mountainousforests
+3,4=tundra

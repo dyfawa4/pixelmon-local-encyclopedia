@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cf65f923b2531dc2"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"minecraft:fences"},{"tag":"forge:dyes/white"}],"result":{"item":"pixelmon:picket_fence","count":1}}};

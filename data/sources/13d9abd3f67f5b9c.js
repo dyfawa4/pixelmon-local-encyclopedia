@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13d9abd3f67f5b9c"]={"json":{"replace":false,"values":["pixelmon:ultra_desert_sandstone_wall","pixelmon:ultra_space_stone_wall","pixelmon:ultra_space_cobblestone_wall","pixelmon:polished_ultra_space_stone_wall"]}};

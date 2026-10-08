@@ -1,0 +1,2 @@
+1,2=freezingmountains
+1,2=mountainous

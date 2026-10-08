@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:77eb028da2356e02"]={"json":{"id":"Machamp","spawnInfos":[{"spec":"species:Machamp","stringLocationTypes":["Land"],"minLevel":45,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:black_belt","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_plant"]},"rarity":5.0}]}};

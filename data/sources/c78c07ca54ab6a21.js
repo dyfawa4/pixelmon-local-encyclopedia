@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c78c07ca54ab6a21"]={"json":{"pokemon":"Kirlia","items":[{"item":"minecraft:ender_pearl","min":1,"max":2,"chance":1.0},{"item":"pixelmon:dawn_stone_shard","min":1,"max":1,"chance":0.5},{"item":"minecraft:ender_eye","min":1,"max":1,"chance":0.1}]}};

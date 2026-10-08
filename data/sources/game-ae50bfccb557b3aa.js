@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ae50bfccb557b3aa"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/lime"},{"tag":"pixelmon:armchairs"}],"result":{"item":"pixelmon:lime_armchair","count":1}}};

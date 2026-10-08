@@ -1,0 +1,2 @@
+捕获率x1。
+通过||itemButton=pixelmon:heal_ball||捕获的宝可梦在被捕获时恢复全部的HP与异常状态。

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f898ca52f1ef278f"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"psychic.png"}],"names":[{"name":"Mind Reader"}],"chat":[{"opening":"I foresee a victory soon...","win":"The aforementioned victory was my own!","lose":"It seems it is you who is victorious..."}]}};

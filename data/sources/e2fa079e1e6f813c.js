@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e2fa079e1e6f813c"]={"json":{"id":"Cascoon","spawnInfos":[{"spec":"species:Cascoon","stringLocationTypes":["Land","Headbutt","Sweet Scent"],"minLevel":6,"maxLevel":11,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["all forests"]},"rarity":40.0}]}};

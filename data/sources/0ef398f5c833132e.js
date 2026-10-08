@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0ef398f5c833132e"]={"json":{"Evolutions":[{"from":"Glimmet","level":35,"to":"Glimmora","conditions":[],"evoType":"leveling","moves":["Mortal Spin"],"additionalProperties":{}}]}};

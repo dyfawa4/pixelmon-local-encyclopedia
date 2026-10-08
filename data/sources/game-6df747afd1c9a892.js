@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6df747afd1c9a892"]={"json":{"id":"Spritzee Grass","spawnInfos":[{"spec":"species:Spritzee","stringLocationTypes":["Grass"],"minLevel":22,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:sachet","percentChance":5}],"condition":{"times":["DAWN","DAY"],"stringBiomes":["birches","mushroom","magical"]},"rarity":90.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:05e6fc422bccd953"]={"json":{"pokemon":"Slugma","items":[{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":1.0},{"item":"minecraft:magma_cream","min":1,"max":1,"chance":0.5},{"item":"minecraft:magma_block","min":1,"max":1,"chance":0.1}]}};

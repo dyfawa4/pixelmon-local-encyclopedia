@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eec22b96ea14d77c"]={"json":{"Name":"Dancer","Description":"有谁使出跳舞招式时，自己也能就这么接着使出跳舞招式。","Normal":["Oricorio form:baile","Oricorio form:pompom","Oricorio form:pau","Oricorio form:sensu"],"Hidden":[]}};

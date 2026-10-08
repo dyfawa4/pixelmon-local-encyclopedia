@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2e1bc520be146b1c"]={"json":{"pokemon":"Solrock","items":[{"item":"minecraft:red_sandstone","min":1,"max":2,"chance":1.0},{"item":"pixelmon:sun_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:rock_incense","min":1,"max":1,"chance":0.1}]}};

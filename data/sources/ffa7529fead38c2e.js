@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ffa7529fead38c2e"]={"json":{"id":"Hitmontop","spawnInfos":[{"spec":"species:Hitmontop","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","condition":{"times":["AFTERNOON","DUSK"],"stringBiomes":["mountainous"]},"rarity":6.0}]}};

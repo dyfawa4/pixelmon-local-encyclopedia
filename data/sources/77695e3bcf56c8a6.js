@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:77695e3bcf56c8a6"]={"json":{"pokemon":"Venusaur","items":[{"item":"minecraft:vine","min":3,"max":4,"chance":1.0},{"item":"minecraft:twisting_vines","min":1,"max":2,"chance":0.5},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:big_root","min":1,"max":2,"chance":0.1}]}};

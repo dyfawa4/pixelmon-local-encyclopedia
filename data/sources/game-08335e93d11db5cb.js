@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-08335e93d11db5cb"]={"json":{"id":"Sneasel Sweet Scent","spawnInfos":[{"spec":"species:Sneasel","stringLocationTypes":["Sweet Scent"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:quick_claw","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["freezing forests"]},"rarity":50.0}]}};

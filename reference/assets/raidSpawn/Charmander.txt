@@ -1,0 +1,3 @@
+1,2=badlands
+1,2=mountainous
+1,2=volcano

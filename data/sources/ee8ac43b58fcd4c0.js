@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ee8ac43b58fcd4c0"]={"json":{"Evolutions":[{"from":"Darumaka form:galarian","item":{"itemID":"pixelmon:ice_stone","additionalProperties":{}},"to":"Darmanitan form:galarian","conditions":[],"evoType":"interact","moves":["Icicle Crash"],"additionalProperties":{}}]}};

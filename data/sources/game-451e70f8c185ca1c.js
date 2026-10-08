@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-451e70f8c185ca1c"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather2.png"}],"names":[{"name":"涅茲"}],"chat":[{"lines":[{"text":"歡迎來到地獄道館。"},{"text":"要挑戰館主 前需要橫跨一條熔岩河！"},{"text":"小心不要掉進熔岩河裡，突破這個熾熱的不歸路吧！"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d68c2cbba9d6a1a"]={"json":{"Name":"FriendGuard","Description":"可以减少我方的伤害。","Normal":["Maushold form:family_four","Maushold form:family_three"],"Hidden":["Clefairy","Jigglypuff","Cleffa","Igglybuff","Happiny","Scatterbug","Spewpa","Vivillon"]}};

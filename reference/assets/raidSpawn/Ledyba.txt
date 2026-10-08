@@ -1,0 +1,4 @@
+1,2=birches
+1,2=flowery
+1,2=forests
+1,2=magical

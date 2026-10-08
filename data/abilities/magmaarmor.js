@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:magmaarmor"]={"description":"对战中\r\n该特性的宝可梦不会陷入冰冻状态。\r\n\r\n对战外\r\n当该特性的宝可梦在队伍时，队伍中蛋孵化的速度提高为原来的2倍。\r\n\r\n此效果不会与自身、火焰之躯或蒸汽机叠加，但是它会与释出之力、O力量、蛋蛋力或孵蛋碰碰叠加。","holders":[[218,"",false],[219,"",false],[323,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MagmaArmor"}};

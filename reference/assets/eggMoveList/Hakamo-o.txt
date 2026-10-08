@@ -1,0 +1,3 @@
+Counter,Charmander,Charmeleon,Charizard,Treecko,Grovyle,Sceptile,Scraggy,Scrafty,Axew,Fraxure,Sliggoo form:hisuian,Goodra form:hisuian,Kommo-o
+Dragon Breath,Charmander,Charmeleon,Charizard,Horsea,Seadra,Gyarados,Dratini,Dragonair,Dragonite,Dragonite form:creator,Kingdra,Grovyle,Sceptile,Vibrava,Flygon,Swablu,Altaria,Bagon,Shelgon,Salamence,Gible,Gabite,Garchomp,Deino,Zweilous,Hydreigon,Goomy,Sliggoo,Sliggoo form:hisuian,Goodra,Goodra form:hisuian,Drampa,Kommo-o,Flapple,Dragapult,Frigibax,Arctibax,Baxcalibur,Dipplin
+Focus Punch,Charmander,Charmeleon,Charizard,Dragonite,Dragonite form:creator,Treecko,Grovyle,Sceptile,Scraggy,Scrafty,Goodra,Jangmo-o,Hakamo-o,Kommo-o

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd84dc4206940004"]={"json":{"pokemon":"Oricorio form:pau","items":[{"item":"minecraft:feather","min":1,"max":2,"chance":1.0},{"item":"minecraft:pink_tulip","min":1,"max":3,"chance":0.5}]}};

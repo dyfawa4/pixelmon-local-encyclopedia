@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f1f5ee573c19d233"]={"json":{"Evolutions":[{"from":"Rolycoly","level":18,"to":"Carkol","conditions":[],"evoType":"leveling","moves":["Flame Charge"],"additionalProperties":{}},{"from":"Carkol","level":34,"to":"Coalossal","conditions":[],"evoType":"leveling","moves":["Tar Shot"],"additionalProperties":{}}]}};

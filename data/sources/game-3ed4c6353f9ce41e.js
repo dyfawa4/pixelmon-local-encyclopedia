@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3ed4c6353f9ce41e"]={"json":{"id":"Delcatty","spawnInfos":[{"spec":"species:Delcatty","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["flowery","forests","birches"]},"rarity":0.5}]}};

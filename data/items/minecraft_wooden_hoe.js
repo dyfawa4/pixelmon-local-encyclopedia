@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_wooden_hoe"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XX"," #"," #"],"key":{"#":{"item":"minecraft:stick"},"X":{"tag":"minecraft:planks"}},"result":{"item":"minecraft:wooden_hoe"},"source":"data/minecraft/recipes/wooden_hoe.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

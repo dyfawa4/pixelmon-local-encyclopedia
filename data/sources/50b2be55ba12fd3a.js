@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:50b2be55ba12fd3a"]={"json":{"pokemon":"Toxapex","items":[{"item":"minecraft:pufferfish","min":1,"max":3,"chance":1.0},{"item":"minecraft:horn_coral","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poison_barb","min":1,"max":1,"chance":0.3},{"item":"pixelmon:black_sludge","min":1,"max":1,"chance":0.1}]}};

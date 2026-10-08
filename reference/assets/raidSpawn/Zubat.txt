@@ -1,0 +1,12 @@
+1,2=birches
+1,2=evil
+1,2=flowery
+1,2=forests
+1,2=jungles
+1,2=mountainousforests
+1,2=mountainous
+1,2=plains
+1,2=redwoods
+1,2=roofed
+1,2=swamps
+1,2=taigas

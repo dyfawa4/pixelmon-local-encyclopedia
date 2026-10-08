@@ -1,0 +1,2 @@
+捕捉||pokemonButton=Pidgey||、||pokemonButton=Rattata||、||pokemonButton=Gastly||、||pokemonButton=Zubat||、||pokemonButton=Mankey||、||pokemonButton=Yanma||、||pokemonButton=Hoothoot||、||pokemonButton=Sentret||、||pokemonButton=Zigzagoon||、||pokemonButton=Gulpin||、||pokemonButton=Whismur||、||pokemonButton=Taillow||、||pokemonButton=Remoraid||、||pokemonButton=Starly||、||pokemonButton=Meltan||后其有几率变成||pokemonButton=Ditto||
+或者请见||itemButton=pixelmon:cloning_machine||

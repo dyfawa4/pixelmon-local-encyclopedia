@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e0aea27cd169a302"]={"text":"拿着被充满的||itemButton=pixelmon:tres_orb||对着其中的||itemButton=pixelmon:moltres_shrine||使用可以召唤一只||pokemonButton=Moltres||并与其进行战斗。之后其中的||itemButton=pixelmon:moltres_shrine||将不再能使用。"};

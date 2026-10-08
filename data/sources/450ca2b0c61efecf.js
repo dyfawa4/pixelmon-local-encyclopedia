@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:450ca2b0c61efecf"]={"json":{"id":"Grafaiai","spawnInfos":[{"spec":"species:Grafaiai","stringLocationTypes":["Tree Top","Headbutt"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":50.0}]}};

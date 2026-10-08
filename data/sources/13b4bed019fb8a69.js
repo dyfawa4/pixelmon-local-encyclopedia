@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13b4bed019fb8a69"]={"json":{"pokemon":"Seel","items":[{"item":"minecraft:cod","min":1,"max":1,"chance":1.0},{"item":"minecraft:ice","min":1,"max":1,"chance":0.5},{"item":"minecraft:prismarine_crystals","min":1,"max":1,"chance":0.1}]}};

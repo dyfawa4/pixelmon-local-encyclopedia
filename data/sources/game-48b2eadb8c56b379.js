@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-48b2eadb8c56b379"]={"json":{"id":"Hypno","spawnInfos":[{"spec":"species:Hypno","stringLocationTypes":["Land"],"minLevel":26,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["taigas","swamps","lakes"]},"rarity":5.0}]}};

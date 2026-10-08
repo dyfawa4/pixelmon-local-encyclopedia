@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d274b0ae936a652c"]={"json":{"id":"Dunsparce Sweet Scent","spawnInfos":[{"spec":"species:Dunsparce","stringLocationTypes":["Sweet Scent"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["arid"]},"rarity":100.0}]}};

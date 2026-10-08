@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:da972562ab697d3c"]={"json":{"skins":[{"filename":"guzma.png"}],"names":[{"name":"Guzma"}],"chat":[{"lines":[{"text":"I'm the Team Skull boss, and I've never been scared of nothing or nobody."},{"text":"Heck, I make people scared of ME!"}]},{"lines":[{"text":"Hey kid, trying to pick a fight with Guzma?"},{"text":"That's what I thought, numskull!"}]}]}};

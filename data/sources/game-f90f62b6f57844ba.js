@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f90f62b6f57844ba"]={"json":{"id":"Mawile Caverock","spawnInfos":[{"spec":"species:Mawile","stringLocationTypes":["Cave Rock"],"minLevel":33,"maxLevel":46,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:iron_ball","percentChance":5}],"condition":{"stringBiomes":["mountainous"]},"rarity":6.0}]}};

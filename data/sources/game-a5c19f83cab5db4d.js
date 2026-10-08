@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a5c19f83cab5db4d"]={"json":{"type":"minecraft:crafting_shaped","group":"sign","pattern":["###","###"," X "],"key":{"#":{"item":"pixelmon:ultra_gingko_planks"},"X":{"item":"minecraft:stick"}},"result":{"item":"pixelmon:ultra_gingko_sign","count":3}}};

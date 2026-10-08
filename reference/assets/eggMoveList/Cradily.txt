@@ -1,0 +1,9 @@
+Barrier,Tentacool,Tentacruel,Shellder,Cloyster,Corsola,Lileep,Cradily
+Curse,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Tirtouga,Carracosta,Cursola
+Endure,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Corphish,Crawdaunt,Lileep,Cradily,Anorith,Armaldo,Skorupi,Drapion,Tirtouga,Carracosta,Archen,Archeops,Binacle,Barbaracle,Clauncher,Clawitzer,Crabrawler,Crabominable,Wimpod,Golisopod,Cursola,Klawf,Wiglett,Wugtrio
+Mega Drain,Tentacool,Tentacruel,Lileep,Cradily
+Mirror Coat,Corsola,Corsola form:galarian,Cursola
+Recover,Staryu,Starmie,Corsola
+Stealth Rock,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Lileep,Cradily,Anorith,Armaldo,Tirtouga,Carracosta,Archen,Archeops,Binacle,Barbaracle,Cursola,Klawf
+Tickle,Krabby,Kingler,Binacle,Barbaracle
+Wring Out,Tentacool,Tentacruel,Omanyte,Omastar,Kabuto,Kabutops,Lileep,Cradily

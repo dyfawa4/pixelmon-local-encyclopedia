@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:86f09e2c38e45a82"]={"json":{"Name":"ShadowTag","Description":"踩住对手的影子使其无法逃走或替换。","Normal":["Gengar form:mega","Wobbuffet","Wynaut"],"Hidden":["Gothita","Gothorita","Gothitelle"]}};

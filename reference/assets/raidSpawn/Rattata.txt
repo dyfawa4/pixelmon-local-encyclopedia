@@ -1,0 +1,4 @@
+1,2=evil
+1,2=forests
+1,2=plains
+1,2=roofed

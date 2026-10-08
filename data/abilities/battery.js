@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:battery"]={"description":"对战中\r\n该特性的宝可梦在场时，场上全部同伴宝可梦的特殊招式威力提升为原本的1.3倍。","holders":[[737,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Battery"}};

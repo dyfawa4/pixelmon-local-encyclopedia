@@ -1,0 +1,10 @@
+携带该道具的宝可梦会被原来对自身的属性相性没有效果的招式，变为有效果：
+以下情况属性相性改为1x，另一属性参与计算：
+携带||itemButton=pixelmon:ring_target||的恶属性宝可梦可以被超能力属性招式命中；
+携带||itemButton=pixelmon:ring_target||的钢属性宝可梦可以被毒属性招式命中；
+携带||itemButton=pixelmon:ring_target||的幽灵属性宝可梦可以被格斗属性及一般属性招式命中；
+携带||itemButton=pixelmon:ring_target||的一般属性宝可梦可以被幽灵属性招式命中；
+携带||itemButton=pixelmon:ring_target||的地面属性宝可梦可以被电属性招式命中；
+携带||itemButton=pixelmon:ring_target||的妖精属性宝可梦可以被龙属性招式命中；
+携带||itemButton=pixelmon:ring_target||的飞行属性宝可梦可以被地面属性招式命中，但不会被视为地面上的宝可梦（与携带||itemButton=pixelmon:iron_ball||的情况不同）。
+因部分特性而不受特定属性招式影响的宝可梦，依然不会被该属性的招式命中。

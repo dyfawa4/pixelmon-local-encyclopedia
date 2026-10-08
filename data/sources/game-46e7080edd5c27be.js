@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-46e7080edd5c27be"]={"json":{"display":{"icon":{"item":"pixelmon:shiny_stone"},"title":{"translate":"advancements.shiny_spec.title"},"description":{"translate":"advancements.shiny_spec.description"},"hidden":true},"parent":"pixelmon:specs/spec_trigger","criteria":{"shiny_spec_trigger":{"trigger":"pixelmon:spec_trigger","conditions":{"spec":"s"}}}}};

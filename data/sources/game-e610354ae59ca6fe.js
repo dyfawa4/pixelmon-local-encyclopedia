@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e610354ae59ca6fe"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_deep_crying_crystal"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

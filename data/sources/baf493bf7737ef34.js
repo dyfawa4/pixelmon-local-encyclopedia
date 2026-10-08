@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:baf493bf7737ef34"]={"json":{"Evolutions":[{"from":"Cyndaquil","level":14,"to":"Quilava","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Quilava","level":36,"to":"Typhlosion","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3d8c8d2ccd264cb8"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GCO"],"key":{"G":{"item":"pixelmon:green_tank"},"O":{"item":"pixelmon:orange_tank"},"C":{"item":"pixelmon:cloner_cord"}},"result":{"item":"pixelmon:cloning_machine","count":1}}};

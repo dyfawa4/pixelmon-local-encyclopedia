@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dd1332d55b4337dc"]={"json":{"pokemon":"Incineroar","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:blaze_powder","min":1,"max":3,"chance":0.5},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:incinium_z","min":1,"max":1,"chance":0.1}]}};

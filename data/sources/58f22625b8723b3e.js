@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:58f22625b8723b3e"]={"json":{"attack":"用大量的小灵体向对手发起攻击。","description":"攻击目标造成伤害。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":["Calyrex form:shadowrider"],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

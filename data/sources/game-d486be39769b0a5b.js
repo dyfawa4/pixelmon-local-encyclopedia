@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d486be39769b0a5b"]={"json":{"id":"Mega Gardevoir","spawnInfos":[{"spec":"species:Gardevoir","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

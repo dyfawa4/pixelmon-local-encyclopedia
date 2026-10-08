@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:chillingneigh"]={"description":"对战中\r\n该特性的宝可梦打败任意一方的一只宝可梦后，自身攻击提升1级。","holders":[[896,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ChillingNeigh"}};

@@ -1,0 +1,7 @@
+5=freezingbeaches
+5=freezingforests
+5=freezingmountains
+5=freezingplains
+5=frozenwater
+5=otherfreezing
+5=shatteredglacier

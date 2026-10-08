@@ -1,0 +1,12 @@
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:shattered_savanna
+minecraft:shattered_savanna_plateau
+biomesoplenty:lush_savanna
+byg:araucaria_savanna
+byg:araucaria_forest
+byg:baobab_savanna
+byg:sierra_valley
+byg:sierra_range
+terraforged:savanna_scrub
+terraforged:shattered_savanna_scrub

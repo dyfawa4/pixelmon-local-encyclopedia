@@ -1,0 +1,11 @@
+minecraft:badlands
+minecraft:badlands_plateau
+minecraft:wooded_badlands_plateau
+minecraft:eroded_badlands
+minecraft:modified_badlands_plateau
+minecraft:modified_wooded_badlands_plateau
+byg:red_rock_mountains
+byg:red_rock_lowlands
+byg:red_rock_highlands
+byg:wooded_red_rock_mountains
+terraforged:bryce

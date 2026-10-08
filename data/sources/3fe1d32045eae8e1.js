@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3fe1d32045eae8e1"]={"json":{"Evolutions":[{"from":"Drifloon","level":28,"to":"Drifblim","conditions":[],"evoType":"leveling","moves":["Phantom Force"],"additionalProperties":{}}]}};

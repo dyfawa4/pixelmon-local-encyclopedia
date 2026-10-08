@@ -1,0 +1,7 @@
+Confuse Ray,Psyduck,Golduck,Lapras,Feebas,Milotic,Tadbulb,Bellibolt,Dreepy,Drakloak,Dragapult
+Dragon Breath,Horsea,Seadra,Lapras,Dratini,Dragonair,Dragonite,Dragonite form:creator,Kingdra,Charmander,Charmeleon,Charizard,Gyarados,Grovyle,Sceptile,Vibrava,Flygon,Swablu,Altaria,Bagon,Shelgon,Salamence,Gible,Gabite,Garchomp,Deino,Zweilous,Hydreigon,Goomy,Sliggoo,Sliggoo form:hisuian,Goodra,Goodra form:hisuian,Drampa,Kommo-o,Flapple,Dragapult,Frigibax,Arctibax,Baxcalibur,Dipplin
+Haze,Squirtle,Wartortle,Blastoise,Psyduck,Golduck,Poliwag,Poliwhirl,Poliwrath,Slowbro form:galarian,Seel,Dewgong,Lapras,Dratini,Dragonair,Dragonite,Dragonite form:creator,Politoed,Wooper,Wooper form:paldean,Quagsire,Delibird,Surskit,Masquerain,Feebas,Milotic,Piplup,Prinplup,Empoleon,Phione,Manaphy,Greninja,Greninja form:battle_bond,Skrelp,Dragalge,Primarina,Mareanie,Toxapex,Sobble,Drizzile,Inteleon,Clodsire,Ekans,Arbok,Swablu,Altaria,Seviper
+Hypnosis,Poliwag,Poliwhirl,Poliwrath,Politoed,Inkay,Malamar
+Mirror Coat,Squirtle,Wartortle,Blastoise,Corsola,Corsola form:galarian,Marshtomp,Swampert,Alomomola,Dewpider,Araquanid,Cursola
+Mist,Squirtle,Wartortle,Blastoise,Poliwag,Poliwhirl,Poliwrath,Lapras,Dragonair,Politoed,Wooper,Quagsire,Lotad,Lombre,Ludicolo,Wingull,Pelipper,Surskit,Piplup,Prinplup,Empoleon,Alomomola,Eiscue form:ice_face,Clodsire,Swablu,Altaria
+Tickle,Lotad,Lombre,Ludicolo,Alomomola

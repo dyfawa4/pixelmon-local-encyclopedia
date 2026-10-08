@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7d691506aaaee974"]={"text":"是奖励箱的一种，外观为||itemButton=pixelmon:poke_ball||的样子。生存模式下一般手段无法将其破坏。\r\n自然生成的||itemButton=pixelmon:poke_chest||可以通过右键打开来获得其装在里面的物品，被打开的||itemButton=pixelmon:poke_chest||会直接消失。"};

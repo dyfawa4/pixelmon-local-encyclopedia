@@ -1,0 +1,15 @@
+minecraft:iron_nugget=9.72%=1-5
+minecraft:fern=18.58%=1-1
+minecraft:large_fern=18.58%=1-1
+minecraft:potato=65.56%=1-7
+minecraft:sweet_berries=40.59%=1-7
+minecraft:bread=65.56%=1-4
+minecraft:pumpkin_seeds=40.59%=1-5
+minecraft:pumpkin_pie=9.72%=1-1
+minecraft:emerald=18.58%=1-4
+minecraft:spruce_sapling=40.59%=1-5
+minecraft:spruce_sign=9.72%=1-1
+minecraft:spruce_log=65.56%=1-5
+pixelmon:skitty_smoothie=20.00%=1-2
+pixelmon:old_gateau=20.00%=1-2
+pixelmon:special/random_berry=12.50%=2-3

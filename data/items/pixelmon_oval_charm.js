@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_oval_charm"]={"description":"右键可以获得圆形护符(附加装备)，开启后会使玩家的培育屋生蛋时间变为原来的1/2。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"集齐任意一个世代的宝可梦图鉴即可获得","ball":{}};

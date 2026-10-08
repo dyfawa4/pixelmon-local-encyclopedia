@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f274ca5963ce577f"]={"json":{"pokemon":"Helioptile","items":[{"item":"minecraft:sand","min":1,"max":2,"chance":1.0},{"item":"minecraft:glowstone_dust","min":1,"max":1,"chance":0.5},{"item":"pixelmon:thunder_stone_shard","min":1,"max":1,"chance":0.1}]}};

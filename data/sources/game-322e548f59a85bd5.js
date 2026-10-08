@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-322e548f59a85bd5"]={"json":{"id":"Thievul","spawnInfos":[{"spec":"species:Thievul","stringLocationTypes":["Land"],"minLevel":18,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAWN","DAY"],"stringBiomes":["forests","roofed","taigas","biomesoplenty:burnt_forest"]},"rarity":5.0}]}};

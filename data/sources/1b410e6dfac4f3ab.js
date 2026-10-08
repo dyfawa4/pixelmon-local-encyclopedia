@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1b410e6dfac4f3ab"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"耶泰伊"}],"chat":[{"lines":[{"text":"歡迎來到泳競選手的據點。"},{"text":"我們的道館館主喜歡用強大的水流來洗退對手！"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d38a2fefe174af56"]={"json":{"Evolutions":[{"from":"Toxel","level":30,"to":"Toxtricity form:lowkey","conditions":[{"evoConditionType":"nature","natures":["LONELY","BOLD","RELAXED","TIMID","SERIOUS","MODEST","MILD","QUIET","BASHFUL","CALM","GENTLE","CAREFUL"],"additionalProperties":{}}],"evoType":"leveling","moves":["Spark"],"additionalProperties":{}}]}};

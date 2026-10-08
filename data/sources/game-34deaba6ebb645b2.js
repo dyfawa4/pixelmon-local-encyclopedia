@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-34deaba6ebb645b2"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:panda"],"replacement_logic":"simple","specs":["pancham","pangoro"]}};

@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Rowlet","level":17,"to":"Dartrix","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Dartrix","level":36,"to":"Decidueye form:hisuian","conditions":[{"time":"DAWN","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Triple Arrows"],"additionalProperties":{}}]}

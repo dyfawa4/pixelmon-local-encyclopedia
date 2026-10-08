@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3da2e20d24d991e1"]={"json":{"pokemon":"Swanna","items":[{"item":"minecraft:feather","min":1,"max":3,"chance":1.0},{"item":"minecraft:egg","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fresh_water","min":1,"max":1,"chance":0.3},{"item":"pixelmon:swift_feather","min":1,"max":1,"chance":0.1}]}};

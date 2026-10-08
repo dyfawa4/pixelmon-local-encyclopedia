@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0d529d777d657408"]={"json":{"pokemon":"Yamask form:galarian","items":[{"item":"minecraft:chiseled_sandstone","min":1,"max":2,"chance":1.0},{"item":"minecraft:soul_sand","min":1,"max":1,"chance":0.5}]}};

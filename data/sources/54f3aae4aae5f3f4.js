@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:54f3aae4aae5f3f4"]={"json":{"Evolutions":[{"from":"Lechonk","level":18,"to":"Oinkologne form:male","conditions":[{"evoConditionType":"gender","genders":["MALE"],"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

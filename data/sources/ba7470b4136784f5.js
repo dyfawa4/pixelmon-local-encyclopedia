@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ba7470b4136784f5"]={"text":"Curse,Goldeen,Seaking,Gyarados,Chinchou,Lanturn,Qwilfish,Qwilfish form:hisuian,Remoraid,Octillery,Whiscash,Overqwil,Dondozo\r\nFissure,Barboach,Whiscash\r\nThrash,Gyarados,Whiscash,Basculin form:red,Basculin form:blue,Basculegion form:male,Basculegion form:female\r\nYawn,Relicanth\r\n"};

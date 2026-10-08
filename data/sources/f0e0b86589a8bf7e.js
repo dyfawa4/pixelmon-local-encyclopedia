@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f0e0b86589a8bf7e"]={"json":{"Evolutions":[{"from":"Larvesta","level":59,"to":"Volcarona","conditions":[],"evoType":"leveling","moves":["Quiver Dance"],"additionalProperties":{}}]}};

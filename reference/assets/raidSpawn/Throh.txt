@@ -1,0 +1,2 @@
+3,4=savannas
+4,5=ultraforest

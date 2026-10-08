@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2cd9ee0541e790c3"]={"json":{"id":"Binacle","spawnInfos":[{"spec":"species:Binacle","stringLocationTypes":["Land","Seafloor","Rock Smash"],"minLevel":22,"maxLevel":38,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["beaches","pixelmon:ultra_deep_sea"]},"rarity":130.0}]}};

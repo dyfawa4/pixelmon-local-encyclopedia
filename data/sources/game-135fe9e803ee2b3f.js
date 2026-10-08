@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-135fe9e803ee2b3f"]={"json":{"id":"Grumpig","spawnInfos":[{"spec":"species:Grumpig","stringLocationTypes":["Land"],"minLevel":35,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["mountainous forests"]},"rarity":6.0}]}};

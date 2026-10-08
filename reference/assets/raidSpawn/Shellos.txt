@@ -1,0 +1,4 @@
+1,2,3=beaches
+1,2,3=lukewarmocean
+1,2,3=stonybeaches
+1,2,3=warmocean

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e0affd5707d3407a"]={"json":{"id":"Bounsweet","spawnInfos":[{"spec":"species:Bounsweet","stringLocationTypes":["Land","Headbutt","Sweet Scent"],"minLevel":5,"maxLevel":17,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:grassy_seed","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["birches","flowery"]},"rarity":130.0}]}};

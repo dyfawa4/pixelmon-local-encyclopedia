@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:576db3a04b13aaa3"]={"json":{"id":"Calyrex","spawnInfos":[{"spec":"species:Calyrex level:70","stringLocationTypes":["Land"],"tags":["legendary"],"heldItems":[{"itemID":"pixelmon:reins_of_unity","percentChance":100}],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["freezing forests"]},"rarity":2.0}]}};

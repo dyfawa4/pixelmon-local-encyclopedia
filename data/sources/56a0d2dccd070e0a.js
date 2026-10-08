@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:56a0d2dccd070e0a"]={"json":{"id":"Duraludon","spawnInfos":[{"spec":"species:Duraludon","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":75,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mountainous"]},"rarity":0.1}]}};

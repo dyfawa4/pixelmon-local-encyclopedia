@@ -1,0 +1,5 @@
+Bind,Tentacool,Tentacruel,Omanyte,Omastar
+Curse,Tentacool,Tentacruel,Shellder,Cloyster,Krabby,Kingler,Staryu,Starmie,Omanyte,Omastar,Kabuto,Kabutops,Corsola,Corsola form:galarian,Tirtouga,Carracosta,Cursola
+Mirror Coat,Corsola,Corsola form:galarian,Cursola
+Recover,Staryu,Starmie,Corsola
+Tickle,Krabby,Kingler,Binacle,Barbaracle

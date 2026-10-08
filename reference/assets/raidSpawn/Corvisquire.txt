@@ -1,0 +1,6 @@
+2,3=burntforest
+2,3=mountainousforests
+2,3=mountainous
+2,3=redwoods
+2,3=swamps
+3,4=ultracrater

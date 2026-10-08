@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f58a05fab6e35145"]={"json":{"pokemon":"Wooper form:base","items":[{"item":"minecraft:clay_ball","min":1,"max":1,"chance":1.0},{"item":"minecraft:sand","min":1,"max":2,"chance":0.5}]}};

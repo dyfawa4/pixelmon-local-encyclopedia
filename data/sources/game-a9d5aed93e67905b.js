@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a9d5aed93e67905b"]={"json":{"id":"Zeraora","spawnInfos":[{"spec":"species:Zeraora level:50","stringLocationTypes":["Land"],"tags":["legendary","mythical"],"interval":"legendary","typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["minecraft:savanna_plateau"]},"rarity":0.1}]}};

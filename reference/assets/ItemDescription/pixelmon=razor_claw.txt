@@ -1,0 +1,6 @@
+||bigFont=对战中||
+携带该道具的宝可梦击中要害率提高1级。
+
+||bigFont=对战外||
+||pokemonButton=Sneasel||携带该道具夜晚等级提升进化为||pokemonButton=Weavile||。
+||pokemonButton=Sneasel form:hisuian||携带该道具白天等级提升进化为||pokemonButton=Sneasler||。

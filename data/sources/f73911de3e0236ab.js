@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f73911de3e0236ab"]={"json":{"pokemon":"Unown form:w","items":[{"item":"minecraft:end_stone","min":1,"max":2,"chance":1.0},{"item":"minecraft:ender_pearl","min":1,"max":1,"chance":0.5},{"item":"pixelmon:unown_block_w","min":1,"max":1,"chance":0.1}]}};

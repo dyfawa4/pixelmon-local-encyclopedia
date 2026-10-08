@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ruby_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:ruby_ore"},"result":"pixelmon:ruby","experience":0.7,"cookingtime":100},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

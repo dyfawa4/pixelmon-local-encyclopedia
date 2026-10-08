@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6075a81b89575204"]={"json":{"pokemon":"Buzzwole","items":[{"item":"minecraft:string","min":3,"max":6,"chance":1.0},{"item":"pixelmon:beast_ball","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fighting_gem","min":1,"max":1,"chance":0.1}]}};

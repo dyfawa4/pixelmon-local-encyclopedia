@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:32a9a240bad899cd"]={"json":{"Name":"SuctionCups","Description":"用吸盘牢牢贴在地面上，让替换宝可梦的招式和道具无效。","Normal":["Octillery","Lileep","Cradily","Inkay","Malamar"],"Hidden":[]}};

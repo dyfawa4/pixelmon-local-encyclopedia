@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a144466d26bea666"]={"text":"携带该道具的宝可梦在每个回合结束时，如果没有处于异常状态，则进入灼伤状态。\r\n对于水幕特性的宝可梦无效。\r\n||itemButton=pixelmon:flame_orb||的效果在湿润之躯、蜕皮、高友好度自愈异常状态的效果发动之后发动。\r\n由于||itemButton=pixelmon:flame_orb||的效果在灼伤损失血量的效果之后发动，所以因||itemButton=pixelmon:flame_orb||陷入灼伤的当回合不会损失血量。"};

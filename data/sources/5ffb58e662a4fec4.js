@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5ffb58e662a4fec4"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"pokemaniacgirl2.png"}],"names":[{"name":"女性怪獸狂"}],"chat":[{"opening":"你的樂趣就是不斷地在這裡被我打敗嗎？","win":"我在我的自然棲息地是無敵的。","lose":"不可能！"}]}};

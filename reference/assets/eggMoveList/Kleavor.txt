@@ -1,0 +1,5 @@
+Counter,Pineco,Forretress,Gligar,Heracross,Volbeat,Illumise,Gliscor,Kleavor,Tarountula,Spidops
+Defog,Butterfree,Beedrill,Venomoth,Ledian,Yanma,Gligar,Beautifly,Dustox,Masquerain,Ninjask,Volbeat,Illumise,Vibrava,Flygon,Mothim,Vespiquen,Yanmega,Gliscor,Volcarona,Vivillon,Cutiefly,Ribombee,Frosmoth,Kleavor
+Feint,Yanma,Gligar,Heracross,Vibrava,Flygon,Yanmega,Gliscor,Kleavor,Tarountula,Spidops,Nymble,Lokix
+Night Slash,Spinarak,Ariados,Gligar,Heracross,Kricketune,Skorupi,Drapion,Yanmega,Gliscor,Kleavor
+Quick Guard,Escavalier,Kleavor

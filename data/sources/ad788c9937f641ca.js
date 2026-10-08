@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ad788c9937f641ca"]={"json":{"pokemon":"Articuno form:galarian","items":[{"item":"pixelmon:bright_powder","min":1,"max":3,"chance":1.0},{"item":"pixelmon:psychic_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:sharp_beak","min":1,"max":1,"chance":0.1}]}};

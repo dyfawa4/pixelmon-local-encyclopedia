@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-976d01532ddf5c2b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["ABA"],"key":{"A":{"item":"pixelmon:cooked_green_apricorn"},"B":{"item":"pixelmon:cooked_black_apricorn"}},"result":{"item":"pixelmon:poke_ball_lid","count":1,"nbt":{"PokeBallID":"dusk_ball"}}}};

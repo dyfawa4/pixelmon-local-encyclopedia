@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6bd819e3a1ce3c14"]={"json":{"type_id":"simple","id":"country","suffix":"ribbon.country.title","translation_key":"ribbon.country","description":"ribbon.country.description","icon":"pixelmon:textures/gui/ribbons/country.png"}};

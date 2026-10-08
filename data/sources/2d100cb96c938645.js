@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2d100cb96c938645"]={"text":"携带该道具的宝可梦受到水属性招式伤害时，提升1级特攻。\r\n如果携带者已经特攻能力变化为+6，该道具不会触发。\r\n特性为引水、储水或干燥皮肤的宝可梦携带该道具不会产生效果。\r\n如果有多只宝可梦携带||itemButton=pixelmon:luminous_moss||和||itemButton=pixelmon:absorb_bulb||并受到水属性招式伤害时，则触发共生特性之前，触发||itemButton=pixelmon:luminous_moss||和||itemButton=pixelmon:absorb_bulb||。"};

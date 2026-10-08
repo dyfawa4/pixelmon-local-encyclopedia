@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:defeatist"]={"description":"对战中\r\n该特性的宝可梦ＨＰ不足1⁄2时，攻击与特攻降为1⁄2。","holders":[[566,"",false],[567,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Defeatist"}};

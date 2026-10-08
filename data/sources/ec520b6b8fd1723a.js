@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ec520b6b8fd1723a"]={"json":{"pokemon":"Cofagrigus","items":[{"item":"minecraft:gold_ingot","min":1,"max":3,"chance":1.0},{"item":"minecraft:soul_sand","min":1,"max":2,"chance":0.5},{"item":"minecraft:phantom_membrane","min":1,"max":1,"chance":0.3},{"item":"minecraft:gold_block","min":1,"max":1,"chance":0.1}]}};

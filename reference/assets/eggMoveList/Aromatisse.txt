@@ -1,0 +1,3 @@
+After You,Clefairy,Clefable,Togetic,Togekiss,Audino,Flabebe,Floette,Floette form:az,Florges,Carbink,Cutiefly,Ribombee,Togedemaru,Hatenna,Hattrem,Indeedee form:male
+Disable,Jigglypuff,Wigglytuff
+Wish,Raichu form:alolan,Clefairy,Clefable,Chansey,Togetic,Blissey,Plusle,Minun,Togekiss,Flabebe,Floette,Floette form:az,Florges,Swirlix,Slurpuff

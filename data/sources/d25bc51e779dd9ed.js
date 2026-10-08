@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d25bc51e779dd9ed"]={"json":{"pokemon":"Ambipom","items":[{"item":"minecraft:leather","min":1,"max":3,"chance":1.0},{"item":"pixelmon:nanab_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:mago_berry","min":1,"max":2,"chance":0.3},{"item":"pixelmon:fluffy_tail","min":1,"max":2,"chance":0.1}]}};

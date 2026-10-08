@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-0366f0492f2e12a5"]={"json":{"id":"Zangoose Grass","spawnInfos":[{"spec":"species:Zangoose","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":65,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:quick_claw","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["plains","minecraft:river","lakes"]},"rarity":30.0}]}};

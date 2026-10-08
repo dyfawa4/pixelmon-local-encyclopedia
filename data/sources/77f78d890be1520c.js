@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:77f78d890be1520c"]={"json":{"npctype":"chat","skins":[{"filename":"blacksmith.png"}],"names":[{"name":"Ilfred"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Roccia."},{"text":"Il nostro Capopalestra ti farà cadere!"},{"text":"Quando pensi di aver vinto, la lotta è appena iniziata."}]}]}};

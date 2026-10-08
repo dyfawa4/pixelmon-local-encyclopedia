@@ -1,0 +1,2 @@
+1,2=flowery
+1,2=plains

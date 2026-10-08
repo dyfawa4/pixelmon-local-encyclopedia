@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b5b35f5203a99c46"]={"json":{"description":"攻击目标造成伤害。\n魔法暴冲有30%的几率使目标陷入混乱状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

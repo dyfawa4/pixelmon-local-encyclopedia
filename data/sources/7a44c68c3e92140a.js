@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7a44c68c3e92140a"]={"json":{"Evolutions":[{"from":"Trapinch","level":35,"to":"Vibrava","conditions":[],"evoType":"leveling","moves":["Dragon Breath"],"additionalProperties":{}},{"from":"Vibrava","level":45,"to":"Flygon","conditions":[],"evoType":"leveling","moves":["Dragon Claw"],"additionalProperties":{}}]}};

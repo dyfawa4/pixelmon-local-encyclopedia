@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fa1b55fe07b5f168"]={"json":{"pokemon":"Phantump","items":[{"item":"minecraft:stick","min":1,"max":2,"chance":1.0},{"item":"minecraft:dark_oak_log","min":1,"max":1,"chance":0.5},{"item":"minecraft:crimson_roots","min":1,"max":1,"chance":0.1}]}};

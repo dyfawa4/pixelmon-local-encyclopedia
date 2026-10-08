@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b9455647444d1c91"]={"json":{"id":"Ribombee","spawnInfos":[{"spec":"species:Ribombee","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":45,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["flowery"]},"rarity":6.0}]}};

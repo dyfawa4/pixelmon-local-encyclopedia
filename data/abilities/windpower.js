@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:windpower"]={"description":"对战中\r\n受到风的招式攻击或己方使用顺风时，会进入充电状态。","holders":[[940,"",false],[941,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.WindPower"}};

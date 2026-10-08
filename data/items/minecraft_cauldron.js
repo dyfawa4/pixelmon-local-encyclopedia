@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_cauldron"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["# #","# #","###"],"key":{"#":{"item":"minecraft:iron_ingot"}},"result":{"item":"minecraft:cauldron"},"source":"data/minecraft/recipes/cauldron.json"}],"appRecipe":{},"usedIn":["pixelmon:cooking_pot"],"drops":[],"referenceDrop":{},"special":""};

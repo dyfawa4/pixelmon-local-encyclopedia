@@ -1,0 +1,1 @@
+||pokemonButton=Kommo-o||携带后，可以把||moveButton=Clanging Scales||转化成特殊的Z招式：||moveButton=Clangorous Soulblaze||。

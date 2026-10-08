@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6801eac454984b9a"]={"json":{"name":"pixelmon:tower_water/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:towers/tower_water","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

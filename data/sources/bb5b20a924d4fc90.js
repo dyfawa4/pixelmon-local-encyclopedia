@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bb5b20a924d4fc90"]={"json":{"id":"Maractus Grass","spawnInfos":[{"spec":"species:Maractus","stringLocationTypes":["Grass"],"minLevel":14,"maxLevel":28,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:miracle_seed","percentChance":5}],"condition":{"times":["DAWN","DAY"],"stringBiomes":["arid","minecraft:badlands"]},"rarity":40.0}]}};

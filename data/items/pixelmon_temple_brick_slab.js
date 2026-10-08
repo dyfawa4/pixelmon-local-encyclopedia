@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_temple_brick_slab"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XXX"],"key":{"X":{"item":"pixelmon:temple_brick"}},"result":{"item":"pixelmon:temple_brick_slab","count":6},"source":"data/pixelmon/recipes/decor/temple/temple_brick_slab.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

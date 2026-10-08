@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c6a8792b08ae3aeb"]={"json":{"Evolutions":[{"from":"Shroodle","level":28,"to":"Grafaiai","conditions":[],"evoType":"leveling","moves":["Doodle"],"additionalProperties":{}}]}};

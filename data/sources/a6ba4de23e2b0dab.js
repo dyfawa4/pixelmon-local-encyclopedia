@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a6ba4de23e2b0dab"]={"json":{"pokemon":"Rampardos","items":[{"item":"minecraft:andesite","min":1,"max":3,"chance":1.0},{"item":"minecraft:diorite","min":1,"max":3,"chance":0.5},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":3,"chance":0.3},{"item":"pixelmon:rocky_helmet","min":1,"max":1,"chance":0.1}]}};

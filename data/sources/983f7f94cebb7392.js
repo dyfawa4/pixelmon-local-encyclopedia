@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:983f7f94cebb7392"]={"json":{"Evolutions":[{"from":"Lickitung","to":"Lickilicky","conditions":[{"evoConditionType":"move","attackName":"Rollout","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

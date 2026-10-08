@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:53964974911e2fee"]={"json":{"Evolutions":[{"from":"Bagon","level":30,"to":"Shelgon","conditions":[],"evoType":"leveling","moves":["Protect"],"additionalProperties":{}},{"from":"Shelgon","level":50,"to":"Salamence","conditions":[],"evoType":"leveling","moves":["Fly"],"additionalProperties":{}}]}};

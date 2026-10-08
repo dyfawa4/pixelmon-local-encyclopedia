@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2e2953a1ab810f49"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" P ","PDP"],"key":{"P":{"item":"pixelmon:aluminium_ingot"},"D":{"tag":"forge:dyes/light_gray"}},"result":{"item":"pixelmon:light_gray_gym_sign","count":1}}};

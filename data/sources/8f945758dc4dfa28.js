@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8f945758dc4dfa28"]={"json":{"pokemon":"Raichu form:base","items":[{"item":"minecraft:glowstone_dust","min":1,"max":3,"chance":1.0},{"item":"minecraft:redstone","min":1,"max":2,"chance":0.5},{"item":"pixelmon:thunder_stone_shard","min":1,"max":2,"chance":0.3},{"item":"pixelmon:aloraichium_z","min":1,"max":1,"chance":0.1}]}};

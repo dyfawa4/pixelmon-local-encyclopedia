@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_tree"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["L","L","S"],"key":{"L":{"tag":"minecraft:leaves"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:tree","count":1},"source":"data/pixelmon/recipes/decor/terrain/tree.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

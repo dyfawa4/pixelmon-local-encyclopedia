@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0ff01f718df606d4"]={"json":{"Name":"LeafGuard","Description":"晴朗天气时，不会变为异常状态。","Normal":["Tangela","Hoppip","Skiploom","Jumpluff","Tangrowth","Leafeon","Swadloon","Fomantis","Lurantis","Bounsweet","Steenee","Tsareena","Zarude"],"Hidden":["Chikorita","Bayleef","Meganium","Roselia","Budew","Petilil","Lilligant","Lilligant form:hisuian"]}};

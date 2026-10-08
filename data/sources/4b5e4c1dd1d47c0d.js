@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4b5e4c1dd1d47c0d"]={"json":{"pokemon":"Darmanitan form:galarian","items":[{"item":"minecraft:snowball","min":1,"max":3,"chance":1.0},{"item":"minecraft:ice","min":1,"max":2,"chance":0.5},{"item":"pixelmon:snowball","min":1,"max":2,"chance":0.3},{"item":"pixelmon:ice_stone","min":1,"max":1,"chance":0.1}]}};

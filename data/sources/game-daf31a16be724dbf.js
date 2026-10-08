@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-daf31a16be724dbf"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_slab","pattern":["###"],"key":{"#":{"item":"pixelmon:ultra_elm_planks"}},"result":{"item":"pixelmon:ultra_elm_slab","count":6}}};

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pixelmon:leaden_ball_lid"
+        },
+        {
+            "item": "minecraft:stone_button"
+        },
+        {
+            "item": "pixelmon:wooden_base"
+        }
+    ],
+    "result": {
+        "item": "pixelmon:leaden_ball",
+        "count": 1
+    }
+}

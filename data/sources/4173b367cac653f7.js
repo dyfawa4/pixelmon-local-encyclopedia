@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4173b367cac653f7"]={"json":{"type":"pixelmon:crafting_shaped","pattern":["   ","   "," X "],"key":{"X":{"tag":"pixelmon:poke_sand"}},"result":{"item":"pixelmon:poke_sand_side2","count":1}}};

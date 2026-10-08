@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1203baef286f4083"]={"json":{"pokemon":"Minccino","items":[{"item":"minecraft:rabbit_hide","min":1,"max":2,"chance":1.0},{"item":"minecraft:rabbit","min":1,"max":1,"chance":0.5},{"item":"pixelmon:pokemail_reply","min":1,"max":1,"chance":0.1},{"item":"pixelmon:loaded_dice","min":1,"max":1,"chance":0.1}]}};

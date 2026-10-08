@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6224a16d3ab36e46"]={"json":{"type_id":"simple","id":"kanto_champion","suffix":"ribbon.kanto_champion.title","translation_key":"ribbon.kanto_champion","description":"ribbon.kanto_champion.description","icon":"pixelmon:textures/gui/ribbons/kanto_champion.png"}};

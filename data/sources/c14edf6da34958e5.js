@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c14edf6da34958e5"]={"json":{"Evolutions":[{"from":"Eevee","to":"Umbreon","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Snarl"],"additionalProperties":{}}]}};

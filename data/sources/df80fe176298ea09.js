@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:df80fe176298ea09"]={"json":{"Evolutions":[{"from":"Linoone form:galarian","level":35,"to":"Obstagoon","conditions":[{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Obstruct"],"additionalProperties":{}}]}};

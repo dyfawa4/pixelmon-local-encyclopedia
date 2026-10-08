@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5b6056087562c9a4"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"waterleader2.png"}],"names":[{"name":"Tide"}],"chat":[{"opening":"Der Fluss der Zeit hat dich hierher geschickt, und der Wasserfluss wird dich zurückwerfen!","win":"Wasser übersteht alles, auch dich!","lose":"Der Fluss der Zeit hat mich aufgeholt, so scheint es..."}]}};

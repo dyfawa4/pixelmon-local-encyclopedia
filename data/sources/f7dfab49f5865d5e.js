@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f7dfab49f5865d5e"]={"json":{"id":"Tutors","spawnInfos":[{"name":"TransferTutor","stringLocationTypes":["Land"],"condition":{"stringBiomes":["plains","minecraft:snowy_tundra","mountainous"]},"rarityMultipliers":[{"multiplier":0.5,"condition":{"stringBiomes":["minecraft:snowy_tundra"]}}],"typeID":"npc","rarity":5.0}]}};

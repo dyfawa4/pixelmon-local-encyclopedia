@@ -1,0 +1,903 @@
+Absorb:吸取
+Acid:溶解液
+Acid Armor:溶化
+Agility:高速移动
+Amnesia:瞬间失忆
+Aurora Beam:极光束
+Barrage:投球
+Barrier:屏障
+Bide:忍耐
+Bind:绑紧
+Bite:咬住
+Blizzard:暴风雪
+Body Slam:泰山压顶
+Bone Club:骨棒
+Bonemerang:骨头回力镖
+Bubble:泡沫
+Bubble Beam:泡沫光线
+Burning Jealousy:妒火
+Clamp:贝壳夹击
+Coaching:指导
+Comet Punch:连续拳
+Confuse Ray:奇异之光
+Confusion:念力
+Constrict:缠绕
+Conversion:纹理
+Corrosive Gas:腐蚀气体
+Counter:双倍奉还
+Crabhammer:蟹钳锤
+Cut:居合斩
+Defense Curl:变圆
+Dig:挖洞
+Disable:定身法
+Dizzy Punch:迷昏拳
+Double Kick:二连踢
+Double Slap:连环巴掌
+Double Team:影子分身
+Double-Edge:舍身冲撞
+Dragon Energy:巨龙威能
+Dragon Rage:龙之怒
+Dream Eater:食梦
+Drill Peck:啄钻
+Earthquake:地震
+Egg Bomb:炸蛋
+Ember:火花
+Expanding Force:广域战力
+Explosion:大爆炸
+Fire Blast:大字爆炎
+Fire Punch:火焰拳
+Fire Spin:火焰旋涡
+Fissure:地裂
+Flamethrower:喷射火焰
+Flash:闪光
+Fly:飞翔
+Focus Energy:聚气
+Freezing Glare:冰冷视线
+Fury Attack:乱击
+Fury Swipes:乱抓
+Glare:大蛇瞪眼
+Growl:叫声
+Growth:生长
+Guillotine:断头钳
+Gust:起风
+Harden:变硬
+Haze:黑雾
+Headbutt:头锤
+High Jump Kick:飞膝踢
+Horn Attack:角撞
+Horn Drill:角钻
+Hydro Pump:水炮
+Hyper Beam:破坏光线
+Hyper Fang:必杀门牙
+Hypnosis:催眠术
+Ice Beam:冰冻光束
+Ice Punch:冰冻拳
+Jump Kick:飞踢
+Karate Chop:空手劈
+Kinesis:折弯汤匙
+Leech Life:吸血
+Leech Seed:寄生种子
+Leer:瞪眼
+Lick:舌舔
+Light Screen:光墙
+Lovely Kiss:恶魔之吻
+Low Kick:踢倒
+Meditate:瑜伽姿势
+Mega Drain:超级吸取
+Mega Kick:百万吨重踢
+Mega Punch:百万吨重拳
+Meteor Beam:流星光束
+Metronome:挥指
+Mimic:模仿
+Minimize:变小
+Mirror Move:鹦鹉学舌
+Mist:白雾
+Night Shade:黑夜魔影
+Pay Day:聚宝功
+Peck:啄
+Petal Dance:花瓣舞
+Pin Missile:飞弹针
+Poison Gas:毒瓦斯
+Poison Powder:毒粉
+Poison Sting:毒针
+Pound:拍击
+Psybeam:幻象光线
+Psychic:精神强念
+Psywave:精神波
+Pyro Ball:火焰球
+Quick Attack:电光一闪
+Rage:愤怒
+Razor Leaf:飞叶快刀
+Razor Wind:旋风刀
+Recover:自我再生
+Reflect:反射壁
+Rest:睡觉
+Revelation Dance:觉醒之舞
+Rising Voltage:电力上升
+Roar:吼叫
+Rock Slide:岩崩
+Rock Throw:落石
+Rolling Kick:回旋踢
+Sand Attack:泼沙
+Scorching Sands:热沙大地
+Scratch:抓
+Screech:刺耳声
+Seismic Toss:地球上投
+Self-Destruct:自爆
+Sharpen:棱角化
+Sing:唱歌
+Skull Bash:火箭头锤
+Sky Attack:神鸟猛击
+Slam:摔打
+Slash:劈开
+Sleep Powder:催眠粉
+Sludge:污泥攻击
+Smog:浊雾
+Smokescreen:烟幕
+Soft-Boiled:生蛋
+Solar Beam:日光束
+Sonic Boom:音爆
+Spike Cannon:尖刺加农炮
+Splash:跃起
+Spore:蘑菇孢子
+Stomp:踩踏
+Strength:怪力
+String Shot:吐丝
+Struggle:挣扎
+Stun Spore:麻痹粉
+Submission:地狱翻滚
+Substitute:替身
+Super Fang:愤怒门牙
+Supersonic:超音波
+Surf:冲浪
+Surging Strikes:水流连打
+Swift:高速星星
+Swords Dance:剑舞
+Tackle:撞击
+Tail Whip:摇尾巴
+Take Down:猛撞
+Teleport:瞬间移动
+Terrain Pulse:大地波动
+Thrash:大闹一番
+Thunder:打雷
+Thunder Punch:雷电拳
+Thunder Shock:电击
+Thunder Wave:电磁波
+Thunderbolt:十万伏特
+Thunderous Kick:雷鸣蹴击
+Toxic:剧毒
+Transform:变身
+Tri Attack:三重攻击
+Twineedle:双针
+Vise Grip:夹住
+Vine Whip:藤鞭
+Water Gun:水枪
+Waterfall:攀瀑
+Whirlwind:吹飞
+Wicked Blow:暗冥强击
+Wing Attack:翅膀攻击
+Withdraw:缩入壳中
+Wrap:紧束
+Aeroblast:气旋攻击
+Ancient Power:原始之力
+Ancient Lunar Blessing:新月祈祷（洗翠）
+Ancient Mud Bomb:泥巴炸弹（洗翠）
+Ancient Mud-Slap:掷泥（洗翠）
+Ancient Octazooka:章鱼桶炮（洗翠）
+Ancient Shadow Force:暗影潜袭（洗翠）
+Ancient Shelter:闭关（洗翠）
+Attract:迷人
+Baton Pass:接棒
+Beat Up:围攻
+Belly Drum:腹鼓
+Bone Rush:骨棒乱打
+Charm:撒娇
+Conversion 2:纹理2
+Cotton Spore:棉孢子
+Cross Chop:十字劈
+Crunch:咬碎
+Curse:诅咒
+Destiny Bond:同命
+Detect:看穿
+Dragon Breath:龙息
+Dynamic Punch:爆裂拳
+Encore:再来一次
+Endure:挺住
+Extreme Speed:神速
+False Swipe:点到为止
+Feint Attack:出奇一击
+Flail:抓狂
+Flame Wheel:火焰轮
+Foresight:识破
+Frustration:迁怒
+Fury Cutter:连斩
+Future Sight:预知未来
+Giga Drain:终极吸取
+Heal Bell:治愈铃声
+Hidden Power:觉醒力量
+Icy Wind:冰冻之风
+Iron Tail:铁尾
+Lock-On:锁定
+Mach Punch:音速拳
+Magnitude:震级
+Mean Look:黑色目光
+Megahorn:超级角击
+Metal Claw:金属爪
+Milk Drink:喝牛奶
+Mind Reader:心之眼
+Mirror Coat:镜面反射
+Moonlight:月光
+Morning Sun:晨光
+Mud-Slap:掷泥
+Nightmare:恶梦
+Octazooka:章鱼桶炮
+Octolock:蛸固
+Outrage:逆鳞
+Pain Split:分担痛楚
+Perish Song:灭亡之歌
+Powder Snow:细雪
+Present:礼物
+Protect:守住
+Psych Up:自我暗示
+Pursuit:追打
+Rain Dance:求雨
+Rapid Spin:高速旋转
+Return:报恩
+Reversal:起死回生
+Rock Smash:碎岩
+Rollout:滚动
+Sacred Fire:神圣之火
+Safeguard:神秘守护
+Sandstorm:沙暴
+Scary Face:鬼面
+Shadow Ball:暗影球
+Sketch:写生
+Sleep Talk:梦话
+Sludge Bomb:污泥炸弹
+Snore:打鼾
+Spark:电光
+Spider Web:蛛网
+Spikes:撒菱
+Spite:怨恨
+Steel Wing:钢翼
+Sunny Day:大晴天
+Swagger:虚张声势
+Sweet Kiss:天使之吻
+Sweet Scent:甜甜香气
+Synthesis:光合作用
+Thief:小偷
+Triple Kick:三连踢
+Twister:龙卷风
+Vital Throw:借力摔
+Whirlpool:潮旋
+Zap Cannon:电磁炮
+Aerial Ace:燕返
+Air Cutter:空气利刃
+Arm Thrust:猛推
+Aromatherapy:芳香治疗
+Assist:借助
+Astonish:惊吓
+Astral Barrage:星碎
+Blast Burn:爆炸烈焰
+Blaze Kick:火焰踢
+Block:挡路
+Bounce:弹跳
+Brick Break:劈瓦
+Bulk Up:健美
+Bullet Seed:种子机关枪
+Calm Mind:冥想
+Camouflage:保护色
+Charge:充电
+Cosmic Power:宇宙力量
+Covet:渴望
+Crush Claw:撕裂爪
+Dive:潜水
+Doom Desire:破灭之愿
+Dragon Claw:龙爪
+Dragon Dance:龙之舞
+Endeavor:蛮干
+Eruption:喷火
+Extrasensory:神通力
+Facade:硬撑
+Fake Out:击掌奇袭
+Fake Tears:假哭
+Feather Dance:羽毛舞
+Flatter:吹捧
+Focus Punch:真气拳
+Follow Me:看我嘛
+Frenzy Plant:疯狂植物
+Grass Whistle:草笛
+Grudge:怨念
+Hail:冰雹
+Heat Wave:热风
+Helping Hand:帮助
+Howl:长嚎
+Hydro Cannon:加农水炮
+Hyper Voice:巨声
+Ice Ball:冰球
+Icicle Spear:冰锥
+Imprison:封印
+Ingrain:扎根
+Iron Defense:铁壁
+Knock Off:拍落
+Leaf Blade:叶刃
+Luster Purge:洁净光芒
+Magic Coat:魔法反射
+Magical Leaf:魔法叶
+Memento:临别礼物
+Metal Sound:金属音
+Meteor Mash:彗星拳
+Mist Ball:薄雾球
+Mud Shot:泥巴射击
+Mud Sport:玩泥巴
+Muddy Water:浊流
+Nature Power:自然之力
+Needle Arm:尖刺臂
+Odor Sleuth:气味侦测
+Overheat:过热
+Poison Fang:剧毒牙
+Poison Tail:毒尾
+Psycho Boost:精神突进
+Recycle:回收利用
+Refresh:焕然一新
+Revenge:报复
+Rock Blast:岩石爆击
+Rock Tomb:岩石封锁
+Role Play:扮演
+Sand Tomb:流沙地狱
+Secret Power:秘密之力
+Shadow Punch:暗影拳
+Sheer Cold:绝对零度
+Shock Wave:电击波
+Signal Beam:信号光束
+Silver Wind:银色旋风
+Skill Swap:特性互换
+Skitter Smack:爬击
+Sky Uppercut:冲天拳
+Slack Off:偷懒
+Smelling Salts:清醒
+Snatch:抢夺
+Spit Up:喷出
+Stockpile:蓄力
+Superpower:蛮力
+Swallow:吞下
+Tail Glow:萤火
+Taunt:挑衅
+Teeter Dance:摇晃舞
+Tickle:挠痒
+Torment:无理取闹
+Trick:戏法
+Uproar:吵闹
+Volt Tackle:伏特攻击
+Water Pulse:水之波动
+Water Sport:玩水
+Water Spout:喷水
+Weather Ball:气象球
+Will-O-Wisp:鬼火
+Wish:祈愿
+Yawn:哈欠
+Acupressure:点穴
+Air Slash:空气斩
+Aqua Ring:水流环
+Aqua Tail:水流尾
+Assurance:恶意追击
+Attack Order:攻击指令
+Aura Sphere:波导弹
+Avalanche:雪崩
+Brave Bird:勇鸟猛攻
+Brine:盐水
+Bug Bite:虫咬
+Bug Buzz:虫鸣
+Bullet Punch:子弹拳
+Captivate:诱惑
+Charge Beam:充电光束
+Chatter:喋喋不休
+Close Combat:近身战
+Copycat:仿效
+Cross Poison:十字毒刃
+Crush Grip:捏碎
+Dark Pulse:恶之波动
+Dark Void:暗黑洞
+Defend Order:防御指令
+Defog:清除浓雾
+Discharge:放电
+Double Iron Bash:钢拳双击
+Double Hit:二连击
+Draco Meteor:流星群
+Dragon Pulse:龙之波动
+Dragon Rush:龙之俯冲
+Drain Punch:吸取拳
+Earth Power:大地之力
+Embargo:查封
+Energy Ball:能量球
+Feint:佯攻
+Fire Fang:火焰牙
+Flare Blitz:闪焰冲锋
+Flash Cannon:加农光炮
+Fling:投掷
+Flip Turn:快速折返
+Focus Blast:真气弹
+Force Palm:发劲
+Gastro Acid:胃液
+Giga Impact:终极冲击
+Grass Knot:打草结
+Gravity:重力
+Guard Swap:防守互换
+Gunk Shot:垃圾射击
+Gyro Ball:陀螺球
+Hammer Arm:臂锤
+Head Smash:双刃头锤
+Heal Block:回复封锁
+Heal Order:回复指令
+Healing Wish:治愈之愿
+Heart Swap:心灵互换
+Ice Fang:冰冻牙
+Ice Shard:冰砾
+Iron Head:铁头
+Judgment:制裁光砾
+Jungle Healing:丛林治疗
+Last Resort:珍藏
+Lava Plume:喷烟
+Leaf Storm:飞叶风暴
+Lucky Chant:幸运咒语
+Lunar Dance:新月舞
+Magma Storm:熔岩风暴
+Magnet Bomb:磁铁炸弹
+Magnet Rise:电磁飘浮
+Me First:抢先一步
+Metal Burst:金属爆炸
+Miracle Eye:奇迹之眼
+Mirror Shot:镜光射击
+Mud Bomb:泥巴炸弹
+Nasty Plot:诡计
+Natural Gift:自然之恩
+Night Slash:暗袭要害
+Ominous Wind:奇异之风
+Payback:以牙还牙
+Pluck:啄食
+Poison Jab:毒击
+Power Gem:力量宝石
+Power Swap:力量互换
+Power Trick:力量戏法
+Power Whip:强力鞭打
+Psycho Cut:精神利刃
+Psycho Shift:精神转移
+Punishment:惩罚
+Roar of Time:时光咆哮
+Rock Climb:攀岩
+Rock Polish:岩石打磨
+Rock Wrecker:岩石炮
+Roost:羽栖
+Seed Bomb:种子炸弹
+Seed Flare:种子闪光
+Shadow Claw:暗影爪
+Shadow Force:暗影潜袭
+Shadow Sneak:影子偷袭
+Spacial Rend:亚空裂斩
+Stealth Rock:隐形岩
+Stone Edge:尖石攻击
+Sucker Punch:突袭
+Switcheroo:掉包
+Tailwind:顺风
+Thunder Cage:雷电囚笼
+Thunder Fang:雷电牙
+Toxic Spikes:毒菱
+Trick Room:戏法空间
+Trump Card:王牌
+U-turn:急速折返
+Vacuum Wave:真空波
+Wake-Up Slap:唤醒巴掌
+Wood Hammer:木槌
+Worry Seed:烦恼种子
+Wring Out:绞紧
+X-Scissor:十字剪
+Zen Headbutt:意念头锤
+Acid Spray:酸液炸弹
+Acrobatics:杂技
+After You:您先请
+Ally Switch:交换场地
+Autotomize:身体轻量化
+Bestow:传递礼物
+Blue Flare:青焰
+Bolt Strike:雷击
+Bulldoze:重踏
+Chip Away:逐步击破
+Circle Throw:巴投
+Clear Smog:清除之烟
+Coil:盘蜷
+Cotton Guard:棉花防守
+Dragon Tail:龙尾
+Drill Run:直冲钻
+Dual Chop:二连劈
+Echoed Voice:回声
+Electro Ball:电球
+Electroweb:电网
+Entrainment:找伙伴
+Fiery Dance:火之舞
+Fiery Wrath:怒火中烧
+Final Gambit:搏命
+Fire Pledge:火之誓约
+Flame Burst:烈焰溅射
+Flame Charge:蓄能焰袭
+Foul Play:欺诈
+Freeze Shock:冰冻伏特
+Frost Breath:冰息
+Fusion Bolt:交错闪电
+Fusion Flare:交错火焰
+Gear Grind:齿轮飞盘
+Glaciate:冰封世界
+Glacial Lance:雪矛
+Grass Pledge:草之誓约
+Guard Split:防守平分
+Head Charge:爆炸头突击
+Heal Pulse:治愈波动
+Heart Stamp:爱心印章
+Heat Crash:高温重压
+Heavy Slam:重磅冲撞
+Hex:祸不单行
+Hone Claws:磨爪
+Horn Leech:木角
+Hurricane:暴风
+Ice Burn:极寒冷焰
+Icicle Crash:冰柱坠击
+Incinerate:烧尽
+Inferno:炼狱
+Leaf Tornado:青草搅拌器
+Low Sweep:下盘踢
+Magic Room:魔法空间
+Night Daze:暗黑爆破
+Power Split:力量平分
+Psyshock:精神冲击
+Psystrike:精神击破
+Quash:延后
+Quick Guard:快速防守
+Quiver Dance:蝶舞
+Rage Powder:愤怒粉
+Razor Shell:贝壳刃
+Reflect Type:镜面属性
+Relic Song:古老之歌
+Retaliate:报仇
+Round:轮唱
+Sacred Sword:圣剑
+Scald:热水
+Scale Shot:鳞射
+Searing Shot:火焰弹
+Secret Sword:神秘之剑
+Shell Smash:破壳
+Shift Gear:换挡
+Simple Beam:单纯光束
+Sky Drop:自由落体
+Sludge Wave:污泥波
+Smack Down:击落
+Snarl:大声咆哮
+Soak:浸水
+Steamroller:疯狂滚压
+Steel Roller:铁滚轮
+Stored Power:辅助力量
+Storm Throw:山岚摔
+Struggle Bug:虫之抵抗
+Synchronoise:同步干扰
+Tail Slap:扫尾拍打
+Techno Blast:高科技光炮
+Telekinesis:意念移物
+V-Create:V热焰
+Venoshock:毒液冲击
+Volt Switch:伏特替换
+Water Pledge:水之誓约
+Wide Guard:广域防守
+Wild Charge:疯狂伏特
+Wonder Room:奇妙空间
+Work Up:自我激励
+Aromatic Mist:芳香薄雾
+Baby-Doll Eyes:圆瞳
+Belch:打嗝
+Boomburst:爆音波
+Celebrate:庆祝
+Confide:密语
+Crafty Shield:戏法防守
+Dazzling Gleam:魔法闪耀
+Diamond Storm:钻石风暴
+Disarming Voice:魅惑之声
+Dragon Ascent:画龙点睛
+Draining Kiss:吸取之吻
+Eerie Impulse:怪异电波
+Eerie Spell:诡异咒语
+Electric Terrain:电气场地
+Electrify:输电
+Fairy Lock:妖精之锁
+Fairy Wind:妖精之风
+Fell Stinger:致命针刺
+Flower Shield:鲜花防守
+Flying Press:飞身重压
+Forest's Curse:森林诅咒
+Freeze-Dry:冷冻干燥
+Geomancy:大地掌控
+Grassy Terrain:青草场地
+Happy Hour:欢乐时光
+Hold Back:手下留情
+Hold Hands:牵手
+Hyperspace Fury:异次元猛攻
+Hyperspace Hole:异次元洞
+Infestation:死缠烂打
+Ion Deluge:等离子浴
+King's Shield:王者盾牌
+Land's Wrath:大地神力
+Lash Out:泄愤
+Light of Ruin:破灭之光
+Magnetic Flux:磁场操控
+Mat Block:掀榻榻米
+Misty Explosion:薄雾炸裂
+Misty Terrain:薄雾场地
+Moonblast:月亮之力
+Mystical Fire:魔法火焰
+Noble Roar:战吼
+Nuzzle:蹭蹭脸颊
+Oblivion Wing:死亡之翼
+Origin Pulse:根源波动
+Parabolic Charge:抛物面充电
+Parting Shot:抛下狠话
+Petal Blizzard:落英缤纷
+Phantom Force:潜灵奇袭
+Play Nice:和睦相处
+Play Rough:嬉闹
+Powder:粉尘
+Power-Up Punch:增强拳
+Precipice Blades:断崖之剑
+Rototiller:耕地
+Spiky Shield:尖刺防守
+Steam Eruption:蒸汽爆炸
+Sticky Web:黏黏网
+Thousand Arrows:千箭齐发
+Thousand Waves:千波激荡
+Topsy-Turvy:颠倒
+Trick-or-Treat:万圣夜
+Venom Drench:毒液陷阱
+Water Shuriken:飞水手里剑
+Accelerock:冲岩
+Anchor Shot:掷锚
+Aurora Veil:极光幕
+Baneful Bunker:碉堡
+Beak Blast:鸟嘴加农炮
+Brutal Swing:狂舞挥打
+Burn Up:燃尽
+Clanging Scales:鳞片噪音
+Core Enforcer:核心惩罚者
+Darkest Lariat:DD金勾臂
+Dragon Hammer:龙锤
+Fire Lash:火焰鞭
+First Impression:迎头一击
+Fleur Cannon:花朵加农炮
+Floral Healing:花疗
+Gear Up:辅助齿轮
+High Horsepower:十万马力
+Ice Hammer:冰锤
+Instruct:号令
+Laser Focus:磨砺
+Leafage:树叶
+Liquidation:水流裂破
+Lunge:猛扑
+Mind Blown:惊爆大头
+Moongeist Beam:暗影之光
+Multi-Attack:多属性攻击
+Nature's Madness:自然之怒
+Photon Geyser:光子喷涌
+Plasma Fists:等离子闪电拳
+Pollen Puff:花粉团
+Poltergeist:灵骚
+Power Trip:嚣张
+Prismatic Laser:棱镜镭射
+Psychic Fangs:精神之牙
+Psychic Terrain:精神场地
+Purify:净化
+Shadow Bone:暗影之骨
+Shell Side Arm:臂贝武器
+Shell Trap:陷阱甲壳
+Dual Wingbeat:双翼
+Grassy Glide:青草滑梯
+Shore Up:集沙
+Smart Strike:修长之角
+Solar Blade:日光刃
+Sparkling Aria:泡影的咏叹调
+Spectral Thief:暗影偷盗
+Triple Axel:三旋击
+Speed Swap:速度互换
+Spirit Shackle:缝影
+Spotlight:聚光灯
+Stomping Tantrum:跺脚
+Strength Sap:吸取力量
+Sunsteel Strike:流星闪冲
+Tearful Look:泪眼汪汪
+Teatime:茶会
+Throat Chop:地狱突刺
+Toxic Thread:毒丝
+Trop Kick:热带踢
+Zing Zap:麻麻刺刺
+Apple Acid:苹果酸
+Aura Wheel:气场轮
+Behemoth Bash:巨兽弹
+Behemoth Blade:巨兽斩
+Body Press:扑击
+Bolt Beak:电喙
+Branch Poke:木枝突刺
+Breaking Swipe:广域破坏
+Clangorous Soul:魂舞烈音爆
+Court Change:换场
+Decorate:装饰
+Dragon Darts:龙箭
+Drum Beating:鼓击
+Dynamax Cannon:极巨炮
+Eternabeam:无极光束
+False Surrender:假跪真撞
+Fishious Rend:鳃咬
+Grav Apple:万有引力
+Jaw Lock:紧咬不放
+Life Dew:生命水滴
+Magic Powder:魔法粉
+Meteor Assault:流星突击
+No Retreat:背水一战
+Obstruct:拦堵
+Snap Trap:捕兽夹
+Snipe Shot:狙击
+Stuff Cheeks:大快朵颐
+Tar Shot:沥青射击
+Overdrive:破音
+Spirit Break:灵魂冲击
+Strange Steam:神奇蒸汽
+Steel Beam:铁蹄光线
+Stone Axe:岩斧
+Ceaseless Edge:秘剑・千重涛
+Wildbolt Storm:鸣雷风暴
+Springtide Storm:阳春风暴
+Triple Arrows:三连箭
+Raging Fury:大愤慨
+Bleakwind Storm:枯叶风暴
+Bitter Malice:冤冤相报
+Infernal Parade:群魔乱舞
+Chloroblast:叶绿爆震
+Sandsear Storm:热沙风暴
+Mountain Gale:冰山风
+Power Shift:力量转换
+Barb Barrage:毒千针
+Psyshield Bash:屏障猛攻
+Shelter:闭关
+Wave Crash:波动冲
+Dire Claw:克命爪
+Esper Wing:气场之翼
+Headlong Rush:突飞猛扑
+Lunar Blessing:新月祈祷
+Mystical Power:神秘之力
+Take Heart:勇气填充
+Victory Dance:胜利之舞
+Breakneck Blitz:究极无敌大冲撞
+All-Out Pummeling:全力无双激烈拳
+Supersonic Skystrike:极速俯冲轰烈撞
+Acid Downpour:强酸剧毒灭绝雨
+Tectonic Rage:地隆啸天大终结
+Continental Crush:毁天灭地巨岩坠
+Savage Spin-Out:绝对捕食回旋斩
+Never-Ending Nightmare:无尽暗夜之诱惑
+Corkscrew Crash:超绝螺旋连击
+Inferno Overdrive:超强极限爆焰弹
+Hydro Vortex:超级水流大漩涡
+Bloom Doom:绚烂缤纷花怒放
+Gigavolt Havoc:终极伏特狂雷闪
+Shattered Psyche:至高精神破坏波
+Subzero Slammer:激狂大地万里冰
+Devastating Drake:究极巨龙震天地
+Black Hole Eclipse:黑洞吞噬万物灭
+Twinkle Tackle:可爱星星飞天撞
+Catastropika:皮卡皮卡必杀击
+10,000,000 Volt Thunderbolt:千万伏特
+Stoked Sparksurfer:驾雷驭电戏冲浪
+Extreme Evoboost:九彩升华齐聚顶
+Pulverizing Pancake:认真起来大爆击
+Genesis Supernova:起源超新星大爆炸
+Sinister Arrow Raid:遮天蔽日暗影箭
+Malicious Moonsault:极恶飞跃粉碎击
+Oceanic Operetta:海神庄严交响乐
+Splintered Stormshards:狼啸石牙飓风暴
+Let's Snuggle Forever:亲密无间大乱揍
+Clangorous Soulblaze:炽魂热舞烈音爆
+Guardian of Alola:巨人卫士·阿罗拉
+Searing Sunraze Smash:日光回旋下苍穹
+Menacing Moonraze Maelstrom:月华飞溅落灵霄
+Light That Burns the Sky:焚天灭世炽光爆
+Soul-Stealing 7-Star Strike:七星夺魂腿
+Armor Cannon:铠农炮
+Axe Kick:下压踢
+Aqua Cutter:水波刀
+Aqua Jet:水流喷射
+Aqua Step:流水旋舞
+Bitter Blade:悔念剑
+Chilling Water:泼冷水
+Chilly Reception:冷笑话
+Collision Course:全开猛撞
+Comeuppance:复仇
+Doodle:描绘
+Double Shock:电光双击
+Electro Drift:闪电猛冲
+Fillet Away:甩肉
+Flower Trick:千变万花
+Gigaton Hammer:巨力锤
+Glaive Rush:巨剑突击
+Hydro Steam:水蒸气
+Hyper Drill:强力钻
+Ice Spinner:冰旋
+Jet Punch:喷射拳
+Kowtow Cleave:仆斩
+Last Respects:扫墓
+Lumina Crash:琉光冲激
+Make It Rain:淘金潮
+Mortal Spin:晶光转转
+Order Up:上菜
+Population Bomb:鼠数儿
+Pounce:虫扑
+Psyblade:精神剑
+Rage Fist:愤怒之拳
+Raging Bull:怒牛
+Revival Blessing:复生祈祷
+Ruination:大灾难
+Salt Cure:盐腌
+Shed Tail:断尾
+Silk Trap:线阱
+Snowscape:雪景
+Spicy Extract:辣椒精华
+Spin Out:疾速转轮
+Tera Blast:太晶爆发
+Tidy Up:大扫除
+Torch Song:闪焰高歌
+Trailblaze:起草
+Triple Dive:三连钻
+Twin Beam:双光束
+Max Flare:极巨火爆
+Max Flutterby:极巨虫蛊
+Max Lightning:极巨闪电
+Max Strike:极巨攻击
+Max Knuckle:极巨拳斗
+Max Phantasm:极巨幽魂
+Max Hailstorm:极巨寒冰
+Max Ooze:极巨酸毒
+Max Geyser:极巨水流
+Max Airstream:极巨飞冲
+Max Starfall:极巨妖精
+Max Wyrmwind:极巨龙骑
+Max Mindstorm:极巨超能
+Max Rockfall:极巨岩石
+Max Quake:极巨大地
+Max Darkness:极巨恶霸
+Max Overgrowth:极巨草原
+Max Steelspike:极巨钢铁
+Max Guard:极巨防壁
+G-Max Vine Lash:超极巨灰飞鞭灭
+G-Max Wildfire:超极巨地狱灭焰
+G-Max Cannonade:超极巨水炮轰灭
+G-Max Befuddle:超极巨蝶影蛊惑
+G-Max Volt Crash:超极巨万雷轰顶
+G-Max Gold Rush:超极巨特大金币
+G-Max Chi Strike:超极巨会心一击
+G-Max Terror:超极巨幻影幽魂
+G-Max Foam Burst:超极巨激漩泡涡
+G-Max Resonance:超极巨极光旋律
+G-Max Cuddle:超极巨热情拥抱
+G-Max Replenish:超极巨资源再生
+G-Max Malodor:超极巨臭气冲天
+G-Max Meltdown:超极巨液金熔击
+G-Max Drum Solo:超极巨狂擂乱打
+G-Max Fireball:超极巨破阵火球
+G-Max Hydrosnipe:超极巨狙击神射
+G-Max Wind Rage:超极巨旋风袭卷
+G-Max Gravitas:超极巨天道七星
+G-Max Stonesurge:超极巨岩阵以待
+G-Max Volcalith:超极巨炎石喷发
+G-Max Tartness:超极巨酸不溜丢
+G-Max Sweetness:超极巨琼浆玉液
+G-Max Sandblast:超极巨沙尘漫天
+G-Max Stun Shock:超极巨异毒电场
+G-Max Centiferno:超极巨百火焚野
+G-Max Smite:超极巨天谴雷诛
+G-Max Snooze:超极巨睡魔降临
+G-Max Finale:超极巨幸福圆满
+G-Max Steelsurge:超极巨钢铁阵法
+G-Max Depletion:超极巨劣化衰变
+G-Max One Blow:超极巨夺命一击
+G-Max Rapid Flow:超极巨流水连击

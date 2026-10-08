@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-50a34fbceb1f9323"]={"json":{"id":"Chikorita","spawnInfos":[{"spec":"species:Chikorita","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":16,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains","flowery"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["CLEAR"]}}],"rarity":10.0}]}};

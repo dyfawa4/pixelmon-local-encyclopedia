@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-aa41f08462af8fa4"]={"json":{"id":"Ducklett","spawnInfos":[{"spec":"species:Ducklett","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":34,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:river","swamps","lakes"]},"rarity":130.0}]}};

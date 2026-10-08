@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7b37bfd72687aeff"]={"json":{"pokemon":"Dusknoir","items":[{"item":"minecraft:ghast_tear","min":2,"max":4,"chance":1.0},{"item":"minecraft:phantom_membrane","min":1,"max":2,"chance":0.5},{"item":"pixelmon:soul_lantern","min":1,"max":2,"chance":0.3},{"item":"pixelmon:reaper_cloth","min":1,"max":1,"chance":0.1}]}};

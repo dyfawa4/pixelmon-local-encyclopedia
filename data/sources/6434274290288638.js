@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6434274290288638"]={"json":{"rewards":{"recipes":["pixelmon:rare_soda"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:rare_soda"}},"has_soda":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"pixelmon:soda_pop"}]}}},"requirements":[["has_the_recipe","has_soda"]]}};

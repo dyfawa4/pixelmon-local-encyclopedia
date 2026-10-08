@@ -1,0 +1,5 @@
+Cotton Spore,Hoppip,Skiploom,Jumpluff,Cottonee,Whimsicott,Swirlix,Slurpuff,Cacnea,Cacturne,Maractus,Eldegoss
+Extrasensory,Exeggcute,Exeggutor,Exeggutor form:alolan,Nuzleaf,Shiftry
+Life Dew,Clefairy,Clefable,Chansey,Togetic,Blissey,Togekiss,Audino,Hatenna,Hattrem,Hatterene
+Razor Leaf,Cottonee,Whimsicott,Flabebe,Floette,Floette form:az,Bulbasaur,Ivysaur,Venusaur,Oddish,Gloom,Vileplume,Bellsprout,Weepinbell,Victreebel,Chikorita,Bayleef,Meganium,Bellossom,Sunkern,Sunflora,Lotad,Lombre,Ludicolo,Nuzleaf,Shiftry,Tropius,Turtwig,Grotle,Torterra,Snover,Abomasnow,Fomantis,Lurantis,Bounsweet,Steenee,Tsareena,Grookey,Thwackey,Rillaboom,Gossifleur,Eldegoss,Smoliv,Dolliv,Arboliva,Capsakid,Scovillain
+Sleep Powder,Hoppip,Skiploom,Jumpluff,Bulbasaur,Ivysaur,Venusaur,Oddish,Gloom,Vileplume,Bellsprout,Weepinbell,Victreebel,Exeggutor form:alolan,Tangela,Bellossom,Tangrowth,Petilil,Lilligant,Lilligant form:hisuian,Morelull,Shiinotic

@@ -1,0 +1,6 @@
+Ancient Power,Slugma,Magcargo,Shellos form:east,Shellos form:west,Gastrodon form:east,Gastrodon form:west
+Curse,Grimer,Grimer form:alolan,Muk,Muk form:alolan,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Slugma,Magcargo,Gulpin,Swalot,Shuppet,Banette,Duskull,Dusclops,Chimecho,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Litwick,Lampent,Chandelure,Phantump,Trevenant,Sandygast,Palossand,Mimikyu form:disguised,Polteageist form:phony,Polteageist form:antique,Runerigus,Pincurchin,Dreepy,Drakloak,Dragapult
+Destiny Bond,Gastly,Haunter,Gengar,Koffing,Weezing,Weezing form:galarian,Misdreavus,Wobbuffet,Ralts,Kirlia,Gulpin,Swalot,Shuppet,Banette,Duskull,Dusclops,Drifloon,Drifblim,Mismagius,Spiritomb,Dusknoir,Yamask,Yamask form:galarian,Cofagrigus,Frillish,Jellicent,Phantump,Trevenant,Mimikyu form:disguised,Runerigus
+Spit Up,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Stockpile,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim
+Swallow,Grimer,Grimer form:alolan,Muk,Koffing,Weezing,Slugma,Magcargo,Gulpin,Swalot,Drifloon,Drifblim

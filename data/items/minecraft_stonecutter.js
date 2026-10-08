@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_stonecutter"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":[" I ","###"],"key":{"I":{"item":"minecraft:iron_ingot"},"#":{"item":"minecraft:stone"}},"result":{"item":"minecraft:stonecutter"},"source":"data/minecraft/recipes/stonecutter.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

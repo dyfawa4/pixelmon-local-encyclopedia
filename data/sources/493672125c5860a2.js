@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:493672125c5860a2"]={"json":{"pokemon":"Persian form:alolan","items":[{"item":"minecraft:gold_nugget","min":1,"max":3,"chance":1.0},{"item":"pixelmon:sapphire","min":1,"max":1,"chance":0.5},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.1}]}};

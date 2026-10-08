@@ -1,0 +1,3 @@
+3,4,5=freezingforests
+3,4,5=hills
+3,4,5=ultracrater

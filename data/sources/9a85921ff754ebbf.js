@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9a85921ff754ebbf"]={"json":{"Name":"Adaptability","Description":"与自身同属性的招式威力会提高。","Normal":["Beedrill form:mega","Eevee","Lucario form:mega","Porygon-Z","Basculin form:red","Basculin form:blue","Basculin form:white","Basculegion form:male","Basculegion form:female"],"Hidden":["Corphish","Crawdaunt","Feebas","Skrelp","Dragalge","Yungoos","Gumshoos"]}};

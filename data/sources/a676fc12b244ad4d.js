@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a676fc12b244ad4d"]={"json":{"pokemon":"Golisopod","items":[{"item":"minecraft:string","min":2,"max":4,"chance":1.0},{"item":"minecraft:prismarine_shard","min":1,"max":3,"chance":0.5},{"item":"minecraft:shulker_shell","min":1,"max":2,"chance":0.3},{"item":"pixelmon:shed_shell","min":1,"max":1,"chance":0.1}]}};

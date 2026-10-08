@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:819dda5a6bbaa64e"]={"json":{"type":"minecraft:crafting_shaped","pattern":["l  ","agd","aaa"],"key":{"l":{"item":"minecraft:redstone_lamp"},"a":{"item":"pixelmon:aluminium_ingot"},"g":{"item":"minecraft:gold_nugget"},"d":{"item":"minecraft:lime_dye"}},"result":{"item":"pixelmon:lime_cash_register","count":1}}};

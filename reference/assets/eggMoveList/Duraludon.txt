@@ -1,0 +1,3 @@
+Mirror Coat,Voltorb,Electrode,Magnezone,Vanillite,Vanillish,Vanilluxe,Avalugg form:hisuian
+Night Slash,Cryogonal,Honedge,Doublade,Aegislash form:shield,Grovyle,Sceptile,Seviper,Axew,Fraxure
+Slash,Shedinja,Dwebble,Crustle,Cryogonal,Honedge,Doublade,Aegislash form:shield,Charmander,Charmeleon,Charizard,Grovyle,Sceptile,Gible,Gabite,Garchomp,Axew,Fraxure,Haxorus,Druddigon

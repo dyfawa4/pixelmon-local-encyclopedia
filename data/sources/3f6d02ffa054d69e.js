@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3f6d02ffa054d69e"]={"json":{"pokemon":"Deoxys","items":[{"item":"minecraft:ender_pearl","min":3,"max":5,"chance":1.0},{"item":"minecraft:ender_eye","min":1,"max":2,"chance":0.5},{"item":"pixelmon:psychic_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:life_orb","min":1,"max":1,"chance":0.1}]}};

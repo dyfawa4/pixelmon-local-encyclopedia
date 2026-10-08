@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d2a20b8e2a0e31a4"]={"text":"3,4=freezingbeaches\r\n3,4=freezingforests\r\n3,4=freezingmountains\r\n3,4=freezingocean\r\n3,4=freezingplains\r\n3,4=frozenwater\r\n3,4=otherfreezing\r\n3,4=shatteredglacier\r\n"};

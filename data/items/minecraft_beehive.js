@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_beehive"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["PPP","HHH","PPP"],"key":{"P":{"tag":"minecraft:planks"},"H":{"item":"minecraft:honeycomb"}},"result":{"item":"minecraft:beehive"},"source":"data/minecraft/recipes/beehive.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

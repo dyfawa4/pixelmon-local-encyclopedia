@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d84e07aad34c263c"]={"json":{"Name":"BattleArmour","Description":"被坚硬的甲壳守护着，不会被对手的攻击击中要害。","Normal":["Kabuto","Kabutops","Anorith","Armaldo","Skorupi","Drapion","TypeNull","Perrserker","Falinks"],"Hidden":["Cubone","Marowak"]}};

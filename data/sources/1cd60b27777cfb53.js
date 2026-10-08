@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1cd60b27777cfb53"]={"json":{"Evolutions":[{"from":"Swablu","level":35,"to":"Altaria","conditions":[],"evoType":"leveling","moves":["Dragon Pulse"],"additionalProperties":{}}]}};

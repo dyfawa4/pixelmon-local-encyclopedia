@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0affa2f6c8a0f181"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","conditions":[{"condition":"minecraft:block_state_property","block":"pixelmon:ultra_gingko_door","properties":{"half":"lower"}}],"name":"pixelmon:ultra_gingko_door"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-be8e51b7bc73fbe9"]={"json":{"id":"Dachsbun","spawnInfos":[{"spec":"species:Dachsbun","stringLocationTypes":["Land"],"minLevel":26,"maxLevel":45,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["plains"]},"rarity":20.0}]}};

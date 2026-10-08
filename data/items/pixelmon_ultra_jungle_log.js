@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ultra_jungle_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:ultra_jungle_planks","pixelmon:ultra_jungle_wood"],"drops":[],"referenceDrop":{},"special":""};

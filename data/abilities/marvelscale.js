@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:marvelscale"]={"description":"对战中\r\n异常状态时防御上升为原来1.5倍。","holders":[[147,"",true],[148,"",true],[350,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MarvelScale"}};

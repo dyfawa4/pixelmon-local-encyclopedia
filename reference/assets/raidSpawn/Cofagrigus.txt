@@ -1,0 +1,4 @@
+4,5=deserts
+4,5=nether
+4,5=subzerohypogeal
+4=ultradesert

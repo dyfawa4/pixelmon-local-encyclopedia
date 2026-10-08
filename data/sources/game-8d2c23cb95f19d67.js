@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8d2c23cb95f19d67"]={"json":{"name":"pixelmon:grotto_badlands/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:grotto/grotto_badlands","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":7,"y_hack":0,"keep_liquids":true}}]}};

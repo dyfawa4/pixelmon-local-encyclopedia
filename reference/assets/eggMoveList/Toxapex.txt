@@ -1,0 +1,5 @@
+Haze,Squirtle,Wartortle,Blastoise,Psyduck,Golduck,Poliwag,Poliwhirl,Poliwrath,Slowbro form:galarian,Seel,Dewgong,Lapras,Dratini,Dragonair,Dragonite,Dragonite form:creator,Politoed,Wooper,Wooper form:paldean,Quagsire,Delibird,Surskit,Masquerain,Feebas,Milotic,Piplup,Prinplup,Empoleon,Phione,Manaphy,Greninja,Greninja form:battle_bond,Skrelp,Dragalge,Primarina,Mareanie,Toxapex,Sobble,Drizzile,Inteleon,Clodsire
+Infestation,Wooper,Quagsire,Surskit,Masquerain,Huntail,Gorebyss,Shellos form:east,Shellos form:west,Gastrodon form:east,Gastrodon form:west,Tympole,Palpitoad,Seismitoad,Stunfisk,Mareanie,Toxapex,Dewpider,Araquanid
+Spit Up,Seel,Dewgong,Wooper,Quagsire,Pelipper,Cramorant,Clodsire
+Stockpile,Seel,Dewgong,Wooper,Quagsire,Pelipper,Cramorant,Clodsire
+Swallow,Seel,Dewgong,Wooper,Quagsire,Pelipper,Cramorant,Clodsire

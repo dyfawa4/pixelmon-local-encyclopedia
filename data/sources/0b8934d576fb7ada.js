@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0b8934d576fb7ada"]={"json":{"id":"Dedenne Grass","spawnInfos":[{"spec":"species:Dedenne","stringLocationTypes":["Grass"],"minLevel":12,"maxLevel":23,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["redwoods"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["STORM"]}}],"rarity":130.0}]}};

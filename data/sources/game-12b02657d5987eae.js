@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-12b02657d5987eae"]={"json":{"id":"Mega Charizard","spawnInfos":[{"spec":"species:Charizard","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","minecraft:eroded_badlands","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

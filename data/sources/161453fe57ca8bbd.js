@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:161453fe57ca8bbd"]={"json":{"id":"Torchic","spawnInfos":[{"spec":"species:Torchic","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas"]},"rarity":10.0}]}};

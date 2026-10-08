@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8d0f697257f64880"]={"json":{"Evolutions":[{"from":"Chikorita","level":16,"to":"Bayleef","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Bayleef","level":32,"to":"Meganium","conditions":[],"evoType":"leveling","moves":["Petal Dance"],"additionalProperties":{}}]}};

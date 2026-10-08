@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:airlock"]={"description":"对战中\r\n拥有该特性的宝可梦在场时，任何天气造成的影响无效。天气并不会消失。","holders":[[384,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.AirLock"}};

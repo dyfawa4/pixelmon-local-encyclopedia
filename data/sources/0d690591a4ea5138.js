@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0d690591a4ea5138"]={"json":{"pokemon":"Maushold","items":[{"item":"minecraft:leather","min":1,"max":2,"chance":1.0},{"item":"pixelmon:curry_cheese","min":1,"max":2,"chance":0.5},{"item":"pixelmon:normal_gem","min":1,"max":1,"chance":0.1}]}};

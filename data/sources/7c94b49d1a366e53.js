@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7c94b49d1a366e53"]={"json":{"id":"Meganium","spawnInfos":[{"spec":"species:Meganium","stringLocationTypes":["Land"],"minLevel":32,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["plains","flowery"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["CLEAR"]}}],"rarity":1.0}]}};

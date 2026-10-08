@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:perishbody"]={"description":"对战中\r\n该特性的宝可梦受到接触类招式攻击时，会令双方陷入终焉之歌状态。3回合后，处于终焉之歌状态的宝可梦会陷入濒死状态。替换后效果消失。","holders":[[864,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.PerishBody"}};

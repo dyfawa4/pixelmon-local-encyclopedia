@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cc2146157f3441e4"]={"json":{"Name":"Moxie","Description":"如果打倒对手，就会充满自信，攻击会提高。","Normal":["Sandile","Krokorok","Krookodile","Scraggy","Scrafty"],"Hidden":["Pinsir","Gyarados","Heracross","Mightyena","Salamence","Honchkrow","Litleo","Pyroar","Quaxly","Quaxwell","Quaquaval"]}};

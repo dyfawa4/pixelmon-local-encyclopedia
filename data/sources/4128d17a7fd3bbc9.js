@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4128d17a7fd3bbc9"]={"json":{"type":"minecraft:crafting_shaped","pattern":["DED","ESE","DED"],"key":{"D":{"item":"pixelmon:ultra_deep_stone"},"E":{"item":"minecraft:emerald"},"S":{"item":"pixelmon:sun_stone"}},"result":{"item":"pixelmon:zygarde_cube","count":1}}};

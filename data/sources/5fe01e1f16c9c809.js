@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5fe01e1f16c9c809"]={"json":{"Name":"SandRush","Description":"沙暴天气时，速度会提高。","Normal":["Herdier","Stoutland","Drilbur","Excadrill","Lycanroc form:midday","Houndstone"],"Hidden":["Sandshrew","Sandslash","Dracozolt","Dracovish"]}};

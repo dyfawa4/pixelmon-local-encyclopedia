@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2a99113a65a39f59"]={"json":{"id":"Tarountula","spawnInfos":[{"spec":"species:Tarountula","stringLocationTypes":["Land","Tree Top"],"minLevel":6,"maxLevel":12,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["all forests"]},"rarity":100.0}]}};

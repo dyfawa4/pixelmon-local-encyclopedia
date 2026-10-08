@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:59f2fa30d4bde402"]={"json":{"id":"Buneary","spawnInfos":[{"spec":"species:Buneary","stringLocationTypes":["Land"],"minLevel":7,"maxLevel":17,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["freezing forests"]},"rarity":130.0}]}};

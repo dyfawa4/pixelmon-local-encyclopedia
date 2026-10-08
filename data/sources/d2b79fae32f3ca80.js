@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d2b79fae32f3ca80"]={"json":{"id":"Mega Gengar","spawnInfos":[{"spec":"species:Gengar","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["NIGHT"],"stringBiomes":["taigas","roofed","evil"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

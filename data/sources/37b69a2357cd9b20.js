@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:37b69a2357cd9b20"]={"json":{"pokemon":"Enamorus","items":[{"item":"minecraft:pink_terracotta","min":1,"max":3,"chance":1.0},{"item":"minecraft:pink_tulip","min":1,"max":3,"chance":0.5},{"item":"pixelmon:fairy_gem","min":1,"max":1,"chance":0.1}]}};

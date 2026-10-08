@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-48aa7c0a680c745d"]={"json":{"name":"pixelmon:gyms/ground/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:gyms/ground/gym_ground","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":1,"y_hack":0,"keep_liquids":false}}]}};

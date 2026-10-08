@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7e6bb624b68abc66"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" S ","SES"," S "],"key":{"S":{"item":"pixelmon:poke_sand"},"E":{"item":"minecraft:ender_pearl"}},"result":{"item":"pixelmon:timed_fall","count":1}}};

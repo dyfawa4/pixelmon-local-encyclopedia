@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bbb469b7cfe7a593"]={"json":{"id":"Ledyba","spawnInfos":[{"spec":"species:Ledyba","stringLocationTypes":["Air","Headbutt","Sweet Scent"],"minLevel":5,"maxLevel":17,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["forests","birches","flowery","magical"]},"rarity":250.0}]}};

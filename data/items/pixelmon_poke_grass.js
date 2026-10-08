@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_poke_grass"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XX","XX"],"key":{"X":{"item":"minecraft:grass"}},"result":{"item":"pixelmon:poke_grass","count":4},"source":"data/pixelmon/recipes/decor/terrain/poke_grass.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

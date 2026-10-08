@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4d17af15852ef3b0"]={"json":{"Name":"Healer","Description":"有时会治愈异常状态的同伴。","Normal":["Audino","Audino form:mega","Alomomola","Spritzee","Aromatisse","Hatenna","Hattrem","Hatterene"],"Hidden":["Chansey","Bellossom","Blissey"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:tanglinghair"]={"description":"对战中\r\n该特性的宝可梦被接触类招式命中时，对手的速度降低1个等级。\r\n接触类连续招式的每一击都会触发此特性。","holders":[[50,"alolan",false],[51,"alolan",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.TanglingHair"}};

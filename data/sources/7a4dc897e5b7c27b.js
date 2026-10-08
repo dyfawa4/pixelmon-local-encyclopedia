@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7a4dc897e5b7c27b"]={"json":{"id":"Traders","spawnInfos":[{"name":"Trader","stringLocationTypes":["Land"],"condition":{"stringBiomes":["plains","minecraft:snowy_tundra","mountainous"]},"rarityMultipliers":[{"multiplier":0.5,"condition":{"stringBiomes":["minecraft:snowy_tundra"]}}],"typeID":"npc","rarity":0.5}]}};

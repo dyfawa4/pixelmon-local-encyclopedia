@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:aca5429b005e23db"]={"json":{"id":"Pinsir Grass","spawnInfos":[{"spec":"species:Pinsir","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","DUSK","NIGHT"],"stringBiomes":["jungles","magical"]},"rarity":8.0}]}};

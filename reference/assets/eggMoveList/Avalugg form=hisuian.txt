@@ -1,0 +1,3 @@
+Aurora Veil,Froslass,Cryogonal,Avalugg form:hisuian,Abomasnow
+Mirror Coat,Voltorb,Electrode,Magnezone,Vanillite,Vanillish,Vanilluxe,Avalugg form:hisuian,Squirtle,Wartortle,Blastoise,Marshtomp,Swampert
+Mist,Vanillite,Vanillish,Vanilluxe,Cryogonal,Avalugg form:hisuian,Squirtle,Wartortle,Blastoise,Lapras,Snover,Abomasnow,Amaura,Aurorus

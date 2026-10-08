@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:aromaveil"]={"description":"对战中\r\n只要有拥有芳香幕特性的宝可梦在场，己方所有的宝可梦不会受到来自对方的心灵攻击类招式影响，并且不会陷入定身法状态及着迷状态。","holders":[[682,"",true],[683,"",true],[868,"",true],[869,"",true],[869,"gmax",true],[915,"",false],[916,"female",false],[927,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.AromaVeil"}};

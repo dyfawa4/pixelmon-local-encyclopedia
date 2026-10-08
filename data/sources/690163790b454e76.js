@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:690163790b454e76"]={"json":{"Evolutions":[{"from":"Fuecoco","level":16,"to":"Crocalor","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Crocalor","level":36,"to":"Skeledirge","conditions":[],"evoType":"leveling","moves":["Torch Song"],"additionalProperties":{}}]}};

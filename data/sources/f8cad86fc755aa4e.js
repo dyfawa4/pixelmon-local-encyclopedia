@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f8cad86fc755aa4e"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_pressure_plate","pattern":["##"],"key":{"#":{"item":"pixelmon:green_berry_wood_planks"}},"result":{"item":"pixelmon:green_berry_wood_pressure_plate"}}};

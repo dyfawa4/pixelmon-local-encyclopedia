@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1b0c970cf96bcf7c"]={"json":{"pokemon":"Electrode form:base","items":[{"item":"pixelmon:iron_base","min":1,"max":2,"chance":1.0},{"item":"pixelmon:poke_ball_lid","min":1,"max":2,"chance":0.5},{"item":"pixelmon:poke_ball","min":1,"max":1,"chance":0.1}]}};

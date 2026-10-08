@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f4688fac65df4aea"]={"json":{"pokemon":"Diancie","items":[{"item":"pixelmon:crystal","min":2,"max":4,"chance":1.0},{"item":"minecraft:andesite","min":1,"max":3,"chance":0.5},{"item":"minecraft:diamond","min":1,"max":3,"chance":0.3},{"item":"minecraft:fairy_gem","min":1,"max":1,"chance":0.1}]}};

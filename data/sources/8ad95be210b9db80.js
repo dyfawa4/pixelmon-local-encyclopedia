@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8ad95be210b9db80"]={"json":{"Evolutions":[{"from":"Joltik","level":36,"to":"Galvantula","conditions":[],"evoType":"leveling","moves":["Sticky Web"],"additionalProperties":{}}]}};

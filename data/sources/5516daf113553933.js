@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5516daf113553933"]={"json":{"pokemon":"Meowth form:galarian","items":[{"item":"minecraft:iron_nugget","min":1,"max":2,"chance":1.0},{"item":"minecraft:string","min":1,"max":3,"chance":0.5},{"item":"pixelmon:amulet_coin","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8b2f7a3f9a24de18"]={"json":{"type":"minecraft:crafting_shaped","mirrored":false,"group":"pixelmon:braille_block","pattern":[" S ","S B","S  "],"key":{"B":{"tag":"pixelmon:braille_block"},"S":{"item":"minecraft:stone_button"}},"result":{"item":"pixelmon:braille_block_s","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:34ab6621656c6b81"]={"json":{"Name":"WaterVeil","Description":"将水幕裹在身上，不会变为灼伤状态。","Normal":["Goldeen","Seaking","Wailmer","Wailord","Finizen"],"Hidden":["Mantine","Huntail","Buizel","Floatzel","Finneon","Lumineon","Mantyke","Dondozo"]}};

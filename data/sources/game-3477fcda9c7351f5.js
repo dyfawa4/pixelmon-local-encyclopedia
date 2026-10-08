@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3477fcda9c7351f5"]={"json":{"id":"Morpeko Sweet Scent","spawnInfos":[{"spec":"species:Morpeko","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DUSK","NIGHT"],"stringBiomes":["hills","redwoods"]},"rarity":70.0}]}};

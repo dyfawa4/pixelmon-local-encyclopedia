@@ -1,0 +1,7 @@
+Bite,Nidorina,Nidoqueen,Raikou,Entei,Suicune,Munchlax,Riolu,Tornadus form:incarnate,Tornadus form:therian,Thundurus form:incarnate,Thundurus form:therian,Zygarde form:fifty_percent,Zygarde form:ten_percent,Silvally,Silvally form:grass,Silvally form:fire,Silvally form:water,Silvally form:flying,Silvally form:bug,Silvally form:poison,Silvally form:electric,Silvally form:psychic,Silvally form:rock,Silvally form:ground,Silvally form:dark,Silvally form:ghost,Silvally form:steel,Silvally form:fighting,Silvally form:ice,Silvally form:dragon,Silvally form:fairy,Guzzlord,Dracovish,Arctovish,Zacian form:hero,Zamazenta form:hero,Zarude,Regidrago,Enamorus form:incarnate,Enamorus form:therian,ScreamTail,IronThorns,RoaringMoon,WalkingWake,Okidogi
+Bullet Punch,Tyrogue,Riolu
+Circle Throw,Riolu
+Cross Chop,Elekid,Magby,Riolu
+Detect,Nidorina,Nidoqueen,Articuno,Zapdos,Zapdos form:galarian,Moltres,Mewtwo,Mew,Pichu,Pichu form:spiky,Cleffa,Igglybuff,Togepi,Tyrogue,Elekid,Magby,Raikou,Entei,Suicune,Lugia,Ho-Oh,Celebi,Riolu,Azelf,Kartana,Kubfu,Urshifu form:singlestrike,Urshifu form:rapidstrike,IronHands
+High Jump Kick,Tyrogue,Riolu,Pheromosa
+Howl,Raikou,Entei,Riolu,Zacian form:hero,Zamazenta form:hero,ScreamTail,Okidogi

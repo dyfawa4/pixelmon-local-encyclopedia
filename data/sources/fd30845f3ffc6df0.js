@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fd30845f3ffc6df0"]={"json":{"pokemon":"Farfetchd form:galarian","items":[{"item":"minecraft:feather","min":1,"max":3,"chance":1.0},{"item":"pixelmon:curry_leek","min":1,"max":2,"chance":0.5},{"item":"pixelmon:sharp_beak","min":1,"max":1,"chance":0.3},{"item":"pixelmon:muscle_band","min":1,"max":1,"chance":0.1}]}};

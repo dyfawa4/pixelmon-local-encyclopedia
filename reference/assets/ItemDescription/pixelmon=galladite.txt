@@ -1,0 +1,1 @@
+可以让||pokemonButton=Gallade||在对战中mega进化为||pokemonButton=Gallade form:mega||

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a97ceff5d7d616f3"]={"json":{"Evolutions":[{"from":"Combee","level":21,"to":"Vespiquen","conditions":[{"evoConditionType":"gender","genders":["FEMALE"],"additionalProperties":{}}],"evoType":"leveling","moves":["Slash"],"additionalProperties":{}}]}};

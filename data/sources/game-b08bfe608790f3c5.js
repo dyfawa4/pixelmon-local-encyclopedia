@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b08bfe608790f3c5"]={"json":{"id":"Miltank","spawnInfos":[{"spec":"species:Miltank","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:moomoo_milk","percentChance":100}],"condition":{"times":["DAWN","DAY","DUSK"],"stringBiomes":["plains"]},"rarity":90.0}]}};

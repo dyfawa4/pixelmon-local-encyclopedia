@@ -1,0 +1,8 @@
+minecraft:dark_forest
+minecraft:dark_forest_hills
+biomesoplenty:dense_woodland
+byg:the_black_forest
+byg:black_forest_hills
+byg:black_forest_clearing
+byg:ebony_woods
+byg:ebony_hills

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9c581ff2d273de5b"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:cod"],"replacement_logic":"simple","specs":["magikarp","wishiwashi","remoraid"]}};

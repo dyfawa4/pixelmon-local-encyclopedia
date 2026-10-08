@@ -1,0 +1,6 @@
+3,4=birches
+3,4=forests
+3,4=freezingforests
+3,4=redwoods
+3,4=roofed
+3,4=taigas

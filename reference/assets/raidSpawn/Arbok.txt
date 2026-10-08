@@ -1,0 +1,6 @@
+3,4=evil
+3,4=nether
+3,4=plains
+3,4=savannas
+3,4=swamps
+3,4=ultrajungle

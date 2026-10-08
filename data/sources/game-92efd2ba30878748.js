@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-92efd2ba30878748"]={"json":{"id":"Clauncher","spawnInfos":[{"spec":"species:Clauncher","stringLocationTypes":["Land","Seafloor"],"minLevel":24,"maxLevel":36,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["beaches","oceanic"]},"rarity":90.0}]}};

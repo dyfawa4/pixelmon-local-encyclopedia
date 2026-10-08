@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b086075c92610fb1"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:hoglin","minecraft:piglin","minecraft:piglin_brute"],"replacement_logic":"simple","specs":["tepig","pignite","emboar"]}};

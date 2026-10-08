@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7a94bea3d71748d"]={"json":{"pokemon":"Geodude form:base","items":[{"item":"minecraft:flint","min":1,"max":1,"chance":1.0},{"item":"minecraft:gravel","min":1,"max":1,"chance":0.5},{"item":"pixelmon:raw_tumblestone","min":1,"max":1,"chance":0.1}]}};

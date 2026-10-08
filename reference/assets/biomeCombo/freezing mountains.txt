@@ -1,0 +1,5 @@
+minecraft:snowy_mountains
+minecraft:snowy_taiga_hills
+minecraft:snowy_taiga_mountains
+biomesoplenty:alps
+byg:alps

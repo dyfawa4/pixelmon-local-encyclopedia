@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-fab459baa888da40"]={"json":{"name":"pixelmon:gyms/grass/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:gyms/grass/gym_grass","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":2,"y_hack":0,"keep_liquids":false}}]}};

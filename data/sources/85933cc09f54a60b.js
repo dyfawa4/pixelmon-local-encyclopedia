@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:85933cc09f54a60b"]={"json":{"name":"pixelmon:plains_den/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:dens/den_plains_a","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

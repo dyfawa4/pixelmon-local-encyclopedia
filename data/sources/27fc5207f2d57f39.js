@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27fc5207f2d57f39"]={"json":{"pokemon":"Quilava","items":[{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":1.0},{"item":"minecraft:rabbit_hide","min":1,"max":2,"chance":0.5},{"item":"minecraft:blaze_rod","min":1,"max":1,"chance":0.1}]}};

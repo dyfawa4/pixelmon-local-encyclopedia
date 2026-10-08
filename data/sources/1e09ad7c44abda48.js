@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1e09ad7c44abda48"]={"text":"Heal Pulse,Mewtwo,Cleffa,Latias,Latios,Xerneas form:neutral,Xerneas form:active,TapuFini,Calyrex,Calyrex form:icerider,Calyrex form:shadowrider\r\nPresent,Cleffa,Happiny,IronBundle\r\nTickle,Cleffa,Igglybuff,Wynaut,TapuLele,Nihilego,Wo-Chien\r\nWish,Cleffa,Togepi,Latias,Jirachi,Chingling,ScreamTail,FlutterMane\r\n"};

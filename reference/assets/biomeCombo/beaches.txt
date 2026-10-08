@@ -1,0 +1,13 @@
+minecraft:beach
+minecraft:stone_shore
+minecraft:snowy_beach
+minecraft:mushroom_field_shore
+biomesoplenty:gravel_beach
+biomesoplenty:tropic_beach
+byg:basalt_barrera
+byg:rainbow_beach
+byg:rocky_beach
+byg:snowy_rocky_black_beach
+byg:snowy_black_beach
+byg:white_beach
+terraforged:warm_beach

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7845a9d928937783"]={"json":{"id":"Drifblim","spawnInfos":[{"spec":"species:Drifblim","stringLocationTypes":["Air"],"minLevel":30,"maxLevel":40,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["plains","mountainous","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"rarity":6.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6f120bb7057c8cbf"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_stairs","pattern":["#  ","## ","###"],"key":{"#":{"item":"pixelmon:ultra_gingko_planks"}},"result":{"item":"pixelmon:ultra_gingko_stairs","count":4}}};

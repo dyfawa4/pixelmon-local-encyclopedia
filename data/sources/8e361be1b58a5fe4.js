@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8e361be1b58a5fe4"]={"json":{"id":"Mega Lucario","spawnInfos":[{"spec":"species:Lucario","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous forests"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

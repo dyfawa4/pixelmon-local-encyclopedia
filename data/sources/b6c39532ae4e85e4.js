@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b6c39532ae4e85e4"]={"text":"当携带该道具的宝可梦排配置在队伍首位时，降低遇见比这只宝可梦等级低的野生宝可梦的几率。\r\n携带该道具的||pokemonButton=Chimecho||♀生蛋，孵化出的子代为||pokemonButton=Chingling||。\r\n携带该道具的||pokemonButton=Chimecho||♂与||pokemonButton=Ditto||生蛋，孵化出的子代为||pokemonButton=Chingling||。\r\n也可以当做装饰性方块放下来。"};

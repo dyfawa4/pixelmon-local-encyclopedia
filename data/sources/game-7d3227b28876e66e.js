@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7d3227b28876e66e"]={"json":{"id":"Skitty","spawnInfos":[{"spec":"species:Skitty","stringLocationTypes":["Land"],"minLevel":2,"maxLevel":30,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["flowery","forests","birches"]},"rarity":130.0}]}};

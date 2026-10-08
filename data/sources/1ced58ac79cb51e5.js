@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1ced58ac79cb51e5"]={"json":{"pokemon":"Goodra form:hisuian","items":[{"item":"minecraft:slime_ball","min":2,"max":4,"chance":1.0},{"item":"pixelmon:silver_ingot","min":1,"max":3,"chance":0.5},{"item":"pixelmon:roseli_berry","min":1,"max":3,"chance":0.3},{"item":"pixelmon:dragon_gem","min":1,"max":1,"chance":0.1}]}};

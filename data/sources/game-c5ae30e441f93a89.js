@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c5ae30e441f93a89"]={"json":{"id":"Zubat Sweet Scent","spawnInfos":[{"spec":"species:Zubat","stringLocationTypes":["Sweet Scent"],"minLevel":2,"maxLevel":8,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["all forests","swamps","mountainous","plains","flowery","jungles","evil"]},"rarity":160.0}]}};

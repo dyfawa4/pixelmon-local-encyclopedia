@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:toughclaws"]={"description":"对战中\r\n使接触类招式的威力上升30%。","holders":[[6,"megax",false],[52,"galarian",false],[142,"mega",false],[376,"mega",false],[688,"",false],[689,"",false],[745,"dusk",false],[863,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ToughClaws"}};

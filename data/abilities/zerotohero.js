@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:zerotohero"]={"description":"对战中\r\n回到同行队伍后，会变为全能形态。\r\n\r\n全能形态的海豚侠在陷入濒死状态、并在对战中恢复之后，仍然保持全能形态。","holders":[[964,"zero",false],[964,"hero",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ZeroToHero"}};

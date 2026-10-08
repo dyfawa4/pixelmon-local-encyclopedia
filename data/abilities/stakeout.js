@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:stakeout"]={"description":"对战中\r\n该特性的宝可梦使用的招式对本回合替换上场的宝可梦造成的伤害×2。","holders":[[734,"",false],[735,"",false],[827,"",true],[828,"",true],[917,"",true],[918,"",true],[942,"",true],[943,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Stakeout"}};

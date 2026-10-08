@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2dd2cfcf7030534c"]={"text":"将其和||itemButton=pixelmon:bird_fossil||一起放入||itemButton=pixelmon:fossil_machine||，可复活出||pokemonButton=Arctozolt||。\r\n将其和||itemButton=pixelmon:fish_fossil||一起放入||itemButton=pixelmon:fossil_machine||，可复活出||pokemonButton=Arctovish||。"};

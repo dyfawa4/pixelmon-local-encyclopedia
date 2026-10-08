@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cf5eb21b4d854cb5"]={"json":{"type":"minecraft:crafting_shaped","pattern":["LIL"," S "," S "],"key":{"L":{"item":"minecraft:leather"},"S":{"tag":"forge:rods/wooden"},"I":{"tag":"forge:ingots/iron"}},"result":{"item":"pixelmon:handles","count":1}}};

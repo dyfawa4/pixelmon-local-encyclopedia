@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:267480db2a792470"]={"text":"Astonish,Trapinch,Vibrava,Flygon,Altaria,Applin,Flapple,Appletun,Dreepy,Drakloak,Dragapult,Dipplin\r\nBelch,Ekans,Arbok,Seviper\r\nDouble Hit,Zweilous,Hydreigon,Drakloak,Dragapult,Dipplin\r\nHead Smash,Scraggy,Scrafty,Tyrantrum\r\n"};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2635f68519bebdff"]={"json":{"id":"Mega Absol","spawnInfos":[{"spec":"species:Absol","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","minecraft:end_barrens","byg:purpur_peaks","byg:nightshade_forest"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4d90960c47b05f6f"]={"json":{"type":"minecraft:smelting","ingredient":{"tag":"forge:ores/bauxite"},"result":"pixelmon:aluminium_ingot","experience":0.7,"cookingtime":200}};

@@ -1,0 +1,3 @@
+Dragon Tail,Charmander,Charmeleon,Charizard,Blastoise,Nidoking,Lickitung,Rhydon,Meganium,Feraligatr,Ampharos,Slowking,Tyranitar,Treecko,Grovyle,Sceptile,Aggron,Tropius,Rampardos,Gible,Gabite,Garchomp,Lickilicky,Rhyperior,Axew,Fraxure,Haxorus,Druddigon,Helioptile,Heliolisk,Tyrunt,Tyrantrum,Amaura,Aurorus,Salazzle,Turtonator,Drampa,Chewtle,Drednaw,Dratini,Dragonair,Dragonite,Dragonite form:creator,Milotic,Skrelp,Dragalge
+Gastro Acid,Snorlax,Chewtle,Drednaw,Palpitoad,Seismitoad,Mareanie,Toxapex,Pyukumuku
+Shell Smash,Squirtle,Wartortle,Blastoise,Turtwig,Grotle,Torterra,Turtonator,Chewtle,Drednaw,Omanyte,Omastar,Clamperl,Tirtouga,Carracosta

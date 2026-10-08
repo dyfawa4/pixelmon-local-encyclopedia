@@ -1,0 +1,1 @@
+可以让||pokemonButton=Tyranitar||在对战中mega进化为||pokemonButton=Tyranitar form:mega||

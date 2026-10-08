@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:91cbb0c832fb9a16"]={"json":{"id":"Luxio","spawnInfos":[{"spec":"species:Luxio","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":29,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":30.0}]}};

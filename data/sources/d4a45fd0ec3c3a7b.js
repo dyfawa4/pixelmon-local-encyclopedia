@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4a45fd0ec3c3a7b"]={"json":{"Evolutions":[{"from":"Larvitar","level":30,"to":"Pupitar","conditions":[],"evoType":"leveling","moves":["Iron Defense"],"additionalProperties":{}},{"from":"Pupitar","level":55,"to":"Tyranitar","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

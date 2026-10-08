@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f21c77d431b53a1d"]={"json":{"pokemon":"Yveltal","items":[{"item":"minecraft:phantom_membrane","min":2,"max":4,"chance":1.0},{"item":"pixelmon:roseli_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.3},{"item":"minecraft:nether_star","min":1,"max":1,"chance":0.1}]}};

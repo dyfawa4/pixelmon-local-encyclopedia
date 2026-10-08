@@ -1,0 +1,6 @@
+Counter,Pineco,Forretress,Gligar,Heracross,Volbeat,Illumise,Gliscor,Kleavor,Tarountula,Spidops
+Cross Poison,Parasect,Scyther,Spinarak,Ariados,Gligar,Scizor,Vespiquen,Skorupi,Drapion,Gliscor,Scolipede,Joltik,Galvantula
+Double-Edge,Butterfree,Beedrill,Paras,Parasect,Venonat,Venomoth,Scyther,Pinsir,Ledyba,Ledian,Spinarak,Ariados,Yanma,Pineco,Forretress,Gligar,Scizor,Shuckle,Heracross,Beautifly,Dustox,Surskit,Masquerain,Nincada,Ninjask,Volbeat,Illumise,Trapinch,Vibrava,Flygon,Yanmega,Gliscor,Venipede,Whirlipede,Scolipede,Karrablast,Escavalier,Larvesta,Volcarona,Kleavor,Lokix
+Feint,Yanma,Gligar,Heracross,Vibrava,Flygon,Yanmega,Gliscor,Kleavor,Tarountula,Spidops,Nymble,Lokix
+Night Slash,Spinarak,Ariados,Gligar,Heracross,Kricketune,Skorupi,Drapion,Yanmega,Gliscor,Kleavor
+Wing Attack,Scyther,Yanma,Gligar,Scizor,Gliscor

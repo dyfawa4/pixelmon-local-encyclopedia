@@ -1,0 +1,8 @@
+2,3=beaches
+2,3=coldocean
+2,3=freezingbeaches
+2,3=freezingocean
+2,3=lukewarmocean
+2,3=ocean
+2,3=stonybeaches
+2,3=warmocean

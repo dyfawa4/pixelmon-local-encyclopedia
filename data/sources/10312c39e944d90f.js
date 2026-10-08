@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:10312c39e944d90f"]={"json":{"Evolutions":[{"from":"Litten","level":17,"to":"Torracat","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Torracat","level":34,"to":"Incineroar","conditions":[],"evoType":"leveling","moves":["Darkest Lariat"],"additionalProperties":{}}]}};

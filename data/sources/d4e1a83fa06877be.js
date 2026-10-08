@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4e1a83fa06877be"]={"json":{"id":"Hitmonlee","spawnInfos":[{"spec":"species:Hitmonlee","stringLocationTypes":["Land"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["mountainous"]},"rarity":6.0}]}};

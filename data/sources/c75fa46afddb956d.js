@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c75fa46afddb956d"]={"json":{"id":"Mega Ampharos","spawnInfos":[{"spec":"species:Ampharos","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["plains","minecraft:snowy_tundra"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

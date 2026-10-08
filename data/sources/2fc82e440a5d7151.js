@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2fc82e440a5d7151"]={"json":{"type":"minecraft:crafting_shaped","group":"boat","pattern":["# #","###"],"key":{"#":{"item":"pixelmon:ultra_gingko_planks"}},"result":{"item":"pixelmon:ultra_gingko_boat"}}};

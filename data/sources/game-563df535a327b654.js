@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-563df535a327b654"]={"json":{"id":"ChiYu","spawnInfos":[{"spec":"species:Chi-Yu level:60","stringLocationTypes":["Lava Floor"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["DAY"],"minY":80,"stringBiomes":["mesas","biomesoplenty:volcano","biomesoplenty:volcanic_plains"]},"rarity":3.0}]}};

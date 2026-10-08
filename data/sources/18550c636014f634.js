@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:18550c636014f634"]={"json":{"id":"Shieldon","spawnInfos":[{"spec":"species:Shieldon","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":35,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_crater"]},"rarity":50.0}]}};

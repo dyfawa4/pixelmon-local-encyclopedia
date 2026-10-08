@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ultra_elm_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:ultra_elm_planks","pixelmon:ultra_elm_wood"],"drops":[],"referenceDrop":{},"special":""};

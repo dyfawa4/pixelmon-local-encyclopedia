@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:quickfeet"]={"description":"陷入异常状态时速度提升50%，并无视麻痹降低速度的效果。异常状态恢复或失去特性时速度恢复。","holders":[[135,"",true],[210,"",false],[216,"",false],[217,"",false],[261,"",false],[262,"",false],[263,"",true],[263,"galarian",true],[264,"",true],[264,"galarian",true],[285,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.QuickFeet"}};

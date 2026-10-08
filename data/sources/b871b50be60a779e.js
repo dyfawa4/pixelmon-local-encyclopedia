@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b871b50be60a779e"]={"json":{"pokemon":"Burmy form:trash","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:iron_ingot","min":1,"max":1,"chance":0.5}]}};

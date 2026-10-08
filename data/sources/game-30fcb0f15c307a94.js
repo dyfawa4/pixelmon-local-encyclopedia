@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-30fcb0f15c307a94"]={"json":{"id":"Lickilicky","spawnInfos":[{"spec":"species:Lickilicky","stringLocationTypes":["Land"],"minLevel":37,"maxLevel":50,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:lagging_tail","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["savannas"]},"rarity":0.5}]}};

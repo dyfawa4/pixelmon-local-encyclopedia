@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-02baf0c744dd2d39"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" S ","SCS"],"key":{"S":{"item":"minecraft:stone"},"C":{"item":"minecraft:clay_ball"}},"result":{"item":"pixelmon:boulder","count":1}}};

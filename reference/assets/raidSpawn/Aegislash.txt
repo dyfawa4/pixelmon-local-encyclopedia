@@ -1,0 +1,3 @@
+5=nether
+5=savannas
+5=subzerohypogeal

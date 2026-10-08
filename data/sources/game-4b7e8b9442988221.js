@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4b7e8b9442988221"]={"json":{"id":"Tympole","spawnInfos":[{"spec":"species:Tympole","stringLocationTypes":["Water"],"minLevel":15,"maxLevel":24,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarity":250.0}]}};

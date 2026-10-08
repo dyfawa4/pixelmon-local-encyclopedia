@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-ac8e2c53050e257e"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"fisherman.png"}],"names":[{"name":"訓練師男孩"}],"chat":[{"opening":"你難道不怕冷嗎？","win":"寒冷是最棒的！","lose":"我居然輸了！？"}]}};

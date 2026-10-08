@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4a147b6a2b69c45e"]={"json":{"pokemon":"Tentacool","items":[{"item":"minecraft:ink_sac","min":1,"max":2,"chance":1.0},{"item":"pixelmon:binding_band","min":1,"max":1,"chance":0.1}]}};

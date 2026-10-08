@@ -1,0 +1,5 @@
+2,3=freezingmountains
+2,3=freezingocean
+2,3=freezingplains
+2,3=frozenwater
+2,3=shatteredglacier

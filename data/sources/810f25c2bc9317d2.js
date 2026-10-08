@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:810f25c2bc9317d2"]={"json":{"pokemon":"Ting-Lu","items":[{"item":"minecraft:black_terracotta","min":2,"max":4,"chance":1.0},{"item":"pixelmon:relic_silver","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ground_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:relic_vase","min":1,"max":1,"chance":0.1}]}};

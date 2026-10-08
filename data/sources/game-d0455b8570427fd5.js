@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d0455b8570427fd5"]={"json":{"id":"Vivillon Sweet Scent","spawnInfos":[{"spec":"species:Vivillon palette:poke_ball","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":22,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["flowery"]},"rarity":0.5}]}};

@@ -1,0 +1,2 @@
+2,3=freshwater
+2,3=plains

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1b1f186d06c92045"]={"json":{"pokemon":"Meloetta","items":[{"item":"minecraft:wither_rose","min":2,"max":3,"chance":1.0},{"item":"minecraft:note_block","min":1,"max":2,"chance":0.5},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

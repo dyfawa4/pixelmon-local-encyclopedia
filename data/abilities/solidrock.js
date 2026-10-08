@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:solidrock"]={"description":"对战中\r\n效果绝佳招式造成的伤害降低1⁄4。","holders":[[323,"",false],[464,"",false],[564,"",false],[565,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SolidRock"}};

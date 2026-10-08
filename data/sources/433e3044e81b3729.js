@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:433e3044e81b3729"]={"json":{"id":"Heracross Sweet Scent","spawnInfos":[{"spec":"species:Heracross","stringLocationTypes":["Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAWN","MORNING","DUSK"],"stringBiomes":["redwoods","taigas"]},"rarity":9.0}]}};

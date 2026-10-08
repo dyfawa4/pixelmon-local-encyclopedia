@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-05e7dceb42d0b941"]={"json":{"id":"Spewpa","spawnInfos":[{"spec":"species:Spewpa","stringLocationTypes":["Land","Headbutt"],"minLevel":10,"maxLevel":11,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["birches","freezing forests","magical"]},"rarity":40.0}]}};

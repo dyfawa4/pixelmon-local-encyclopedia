@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:47a5d12f354c7a67"]={"json":{"pokemon":"Delibird","items":[{"item":"minecraft:chicken","min":1,"max":2,"chance":1.0},{"item":"pixelmon:pokemail_air","min":1,"max":1,"chance":0.5},{"item":"pixelmon:babiri_berry","min":1,"max":1,"chance":0.3},{"item":"pixelmon:binding_band","min":1,"max":1,"chance":0.1}]}};

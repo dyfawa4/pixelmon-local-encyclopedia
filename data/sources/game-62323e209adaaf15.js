@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-62323e209adaaf15"]={"json":{"id":"Tepig","spawnInfos":[{"spec":"species:Tepig","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":16,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":10.0}]}};

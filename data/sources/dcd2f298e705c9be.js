@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dcd2f298e705c9be"]={"json":{"Evolutions":[{"from":"Misdreavus","item":{"itemID":"pixelmon:dusk_stone","additionalProperties":{}},"to":"Mismagius","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

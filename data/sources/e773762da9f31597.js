@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e773762da9f31597"]={"json":{"pokemon":"Araquanid","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:seagrass","min":1,"max":2,"chance":0.5},{"item":"pixelmon:bug_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2b2ea62e6c85151d"]={"json":{"id":"Tropius Grass","spawnInfos":[{"spec":"species:Tropius","stringLocationTypes":["Grass"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["jungles"]},"rarity":40.0}]}};

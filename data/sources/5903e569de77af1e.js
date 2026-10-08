@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5903e569de77af1e"]={"json":{"Evolutions":[{"from":"Ponyta","level":40,"to":"Rapidash","conditions":[],"evoType":"leveling","moves":["Smart Strike"],"additionalProperties":{}}]}};

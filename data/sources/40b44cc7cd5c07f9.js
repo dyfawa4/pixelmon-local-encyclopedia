@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:40b44cc7cd5c07f9"]={"json":{"Evolutions":[{"from":"Helioptile","item":{"itemID":"pixelmon:sun_stone","additionalProperties":{}},"to":"Heliolisk","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

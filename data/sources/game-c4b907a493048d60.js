@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c4b907a493048d60"]={"json":{"type":"pixelmon:infuser","ingredients":[{"item":"pixelmon:ganlon_berry","count":10},{"item":"pixelmon:resist_feather"}],"ticks":1600,"results":{"item":"pixelmon:iron"}}};

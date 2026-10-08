@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:bfa0e965d0df0167"]={"json":{"pokemon":"Darumaka form:base","items":[{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":1.0},{"item":"minecraft:sand","min":1,"max":1,"chance":0.5},{"item":"pixelmon:fire_stone_shard","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a05ade70d9cba1a2"]={"json":{"Evolutions":[{"from":"Sandshrew form:alolan","item":{"itemID":"pixelmon:ice_stone","additionalProperties":{}},"to":"Sandslash form:alolan","conditions":[],"evoType":"interact","moves":["Icicle Spear"],"additionalProperties":{}}]}};

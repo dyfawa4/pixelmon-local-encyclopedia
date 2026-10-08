@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2c8d0d6ec4bf38d4"]={"json":{"id":"Beldum Caverock","spawnInfos":[{"spec":"species:Beldum","stringLocationTypes":["Cave Rock"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:metal_coat","percentChance":5}],"condition":{"stringBiomes":["mesas"]},"rarity":0.5}]}};

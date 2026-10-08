@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c1d32303b6f5e513"]={"json":{"Name":"Fluffy","Description":"会将对手所给予的接触类招式的伤害减半，但火属性招式的伤害会变为2倍。","Normal":["Stufful","Bewear","Wooloo","Wooloo form:shorn","Dubwool","Dubwool form:shorn"],"Hidden":["Greavard","Houndstone"]}};

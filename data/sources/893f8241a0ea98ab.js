@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:893f8241a0ea98ab"]={"json":{"attack":"极巨化宝可梦使出的幽灵属性攻击。会降低对手的防御。","description":"攻击目标造成伤害。使全部对手宝可梦的防御降低1级。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9cbb7b3efcf3781f"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:fox"],"replacement_logic":"simple","specs":["fennekin","vulpix","zorua","nickit","thievul","ninetales","zoroark"]}};

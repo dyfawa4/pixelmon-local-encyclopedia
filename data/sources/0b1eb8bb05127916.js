@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0b1eb8bb05127916"]={"json":{"pokemon":"Frosmoth","items":[{"item":"minecraft:string","min":1,"max":3,"chance":1.0},{"item":"minecraft:snow_block","min":1,"max":2,"chance":0.5},{"item":"minecraft:fermented_spider_eye","min":1,"max":2,"chance":0.3},{"item":"pixelmon:silver_powder","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,100 @@
+Plains,minecraft:plains
+Sunflower Plains,minecraft:sunflower_plains
+Cherry Grove,minecraft:cherry_grove
+Pale Garden,minecraft:pale_garden
+Desert,minecraft:desert
+Desert Hills,minecraft:desert_hills
+Desert Lakes,minecraft:desert_lakes
+Dark Forest,minecraft:dark_forest
+Dark Forest Hills,minecraft:dark_forest_hills
+Badlands,minecraft:badlands
+Eroded Badlands,minecraft:eroded_badlands
+Badlands Plateau,minecraft:badlands_plateau
+Modified Badlands Plateau,minecraft:modified_badlands_plateau
+Wooded Badlands Plateau,minecraft:wooded_badlands_plateau
+Wooded Badlands,minecraft:wooded_badlands
+Modified Wooded Badlands Plateau,minecraft:modified_wooded_badlands_plateau
+Giant Tree Taiga,minecraft:giant_tree_taiga
+Old Growth Pine Taiga,minecraft:old_growth_pine_taiga
+Giant Tree Taiga Hills,minecraft:giant_tree_taiga_hills
+Giant Spruce Taiga,minecraft:giant_spruce_taiga
+Old Growth Spruce Taiga,minecraft:old_growth_spruce_taiga
+Giant Spruce Taiga Hills,minecraft:giant_spruce_taiga_hills
+Jungle,minecraft:jungle
+Bamboo Jungle,minecraft:bamboo_jungle
+Bamboo Jungle Hills,minecraft:bamboo_jungle_hills
+Jungle Edge,minecraft:jungle_edge
+Sparse Jungle,minecraft:sparse_jungle
+Jungle Hills,minecraft:jungle_hills
+Modified Jungle,minecraft:modified_jungle
+Modified Jungle Edge,minecraft:modified_jungle_edge
+Ocean,minecraft:ocean
+Deep Warm Ocean,minecraft:deep_warm_ocean
+Warm Ocean,minecraft:warm_ocean
+Lukewarm Ocean,minecraft:lukewarm_ocean
+Cold Ocean,minecraft:cold_ocean
+Frozen Ocean,minecraft:frozen_ocean
+Deep Ocean,minecraft:deep_ocean
+Deep Lukewarm Ocean,minecraft:deep_lukewarm_ocean
+Deep Cold Ocean,minecraft:deep_cold_ocean
+Deep Frozen Ocean,minecraft:deep_frozen_ocean
+Snowy Taiga,minecraft:snowy_taiga
+Snowy Taiga Hills,minecraft:snowy_taiga_hills
+Snowy Taiga Mountains,minecraft:snowy_taiga_mountains
+Savanna,minecraft:savanna
+Windswept Savanna,minecraft:windswept_savanna
+Shattered Savanna,minecraft:shattered_savanna
+Savanna Plateau,minecraft:savanna_plateau
+Shattered Savanna Plateau,minecraft:shattered_savanna_plateau
+Windswept Hills,minecraft:windswept_hills
+Mountains,minecraft:mountains
+Windswept Forest,minecraft:windswept_forest
+Wooded Mountains,minecraft:wooded_mountains
+Stony Peaks,minecraft:stony_peaks
+Windswept Gravelly Hills,minecraft:windswept_gravelly_hills
+Gravelly Mountains,minecraft:gravelly_mountains
+Gravelly Mountains+,minecraft:gravelly_mountains+
+Frozen Peaks,minecraft:frozen_peaks
+Meadow,minecraft:meadow
+Grove,minecraft:grove
+Jagged Peaks,minecraft:jagged_peaks
+Snowy Slopes,minecraft:snowy_slopes
+Beach,minecraft:beach
+Stony Shore,minecraft:stony_shore
+Snowy Beach,minecraft:snowy_beach
+River,minecraft:river
+Frozen River,minecraft:frozen_river
+Birch Forest,minecraft:birch_forest
+Birch Forest Hills,minecraft:birch_forest_hills
+Tall Birch Forest,minecraft:tall_birch_forest
+Old Growth Birch Forest,minecraft:old_growth_birch_forest
+Tall Birch Hills,minecraft:tall_birch_hills
+Forest,minecraft:forest
+Flower Forest,minecraft:flower_forest
+Wooded Hills,minecraft:wooded_hills
+Taiga,minecraft:taiga
+Taiga Hills,minecraft:taiga_hills
+Taiga Mountains,minecraft:taiga_mountains
+Swamp,minecraft:swamp
+Mangrove Swamp,minecraft:mangrove_swamp
+Swamp Hills,minecraft:swamp_hills
+Mushroom Fields,minecraft:mushroom_fields
+Mushroom Fields Shore,minecraft:mushroom_fields_shore
+Snowy Tundra,minecraft:snowy_tundra
+Snowy Plains,minecraft:snowy_plains
+Snowy Mountains,minecraft:snowy_mountains
+Ice Spikes,minecraft:ice_spikes
+Dripstone Caves,minecraft:dripstone_caves
+Lush Caves,minecraft:lush_caves
+Deep Dark,minecraft:deep_dark
+Soul Sand Valley,minecraft:soul_sand_valley
+Crimson Forest,minecraft:crimson_forest
+Warped Forest,minecraft:warped_forest
+Nether Wastes,minecraft:nether_wastes
+Basalt Deltas,minecraft:basalt_deltas
+The End,minecraft:the_end
+Small End Islands,minecraft:small_end_islands
+End Midlands,minecraft:end_midlands
+End Highlands,minecraft:end_highlands
+End Barrens,minecraft:end_barrens
+The Void,minecraft:the_void

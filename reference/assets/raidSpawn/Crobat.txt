@@ -1,0 +1,12 @@
+5=birches
+5=evil
+5=flowery
+5=forests
+5=jungles
+5=mountainousforests
+5=mountainous
+5=plains
+5=redwoods
+5=roofed
+5=swamps
+5=taigas

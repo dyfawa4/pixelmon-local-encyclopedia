@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4b7faba7fce9b471"]={"json":{"id":"Dracovish","spawnInfos":[{"spec":"species:Dracovish","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":10.0}]}};

@@ -1,0 +1,5 @@
+只有玩家手持（主副手皆可）||itemButton=pixelmon:zygarde_cube||时才会开始在以玩家为中心16*16的区块内生成。
+当玩家在一个区块内停留超过30分钟，该区块便不会再刷新||itemButton=pixelmon:zygarde_core||，但只有这一个区块不会刷新||itemButton=pixelmon:zygarde_core||，其他区块依然会继续生成。
+它只会生成在这些区块的草方块顶端、原木、树叶上。
+需要注意的是，||itemButton=pixelmon:zygarde_core||在生成十分钟后会自然消失。
+||itemButton=pixelmon:zygarde_core||作为方块存在时需要攀附在方块上（就像火把那样），作为方块存在的||itemButton=pixelmon:zygarde_core||被破坏时不会掉落，需要手持||itemButton=pixelmon:zygarde_cube||右键以收集||itemButton=pixelmon:zygarde_core||。

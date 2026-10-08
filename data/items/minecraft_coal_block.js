@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_coal_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"minecraft:coal"}},"result":{"item":"minecraft:coal_block"},"source":"data/minecraft/recipes/coal_block.json"}],"appRecipe":{},"usedIn":["minecraft:coal"],"drops":[],"referenceDrop":{},"special":""};

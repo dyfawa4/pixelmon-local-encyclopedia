@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d83ddadbf2c9b865"]={"json":{"id":"Seedot Headbutt","spawnInfos":[{"spec":"species:Seedot","stringLocationTypes":["Headbutt"],"minLevel":12,"maxLevel":23,"typeID":"pokemon","condition":{"variant":["pine","redwood","spruce"],"stringBiomes":["taigas","redwoods"]},"rarity":130.0}]}};

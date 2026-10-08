@@ -1,0 +1,5 @@
+1,2,3=beaches
+1,2,3=freezingbeaches
+1,2,3=freshwater
+1,2,3=stonybeaches
+1,2,3=swamps

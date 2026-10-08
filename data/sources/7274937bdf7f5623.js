@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7274937bdf7f5623"]={"json":{"id":"Buzzwole","spawnInfos":[{"spec":"species:Buzzwole","stringLocationTypes":["Land","Tree Top"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_jungle"]},"rarity":0.5}]}};

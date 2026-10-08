@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e6cd8028b215c329"]={"json":{"pokemon":"Chimecho","items":[{"item":"minecraft:iron_nugget","min":1,"max":3,"chance":1.0},{"item":"pixelmon:cleanse_tag","min":1,"max":1,"chance":0.5},{"item":"pixelmon:raw_sky_tumblestone","min":1,"max":2,"chance":0.3},{"item":"pixelmon:soothe_bell","min":1,"max":1,"chance":0.1}]}};

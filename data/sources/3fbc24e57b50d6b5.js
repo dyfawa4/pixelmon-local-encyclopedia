@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3fbc24e57b50d6b5"]={"json":{"Evolutions":[{"from":"Pikipek","level":14,"to":"Trumbeak","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Trumbeak","level":28,"to":"Toucannon","conditions":[],"evoType":"leveling","moves":["Beak Blast"],"additionalProperties":{}}]}};

@@ -1,0 +1,13 @@
+minecraft:mountains
+minecraft:mountain_edge
+minecraft:wooded_mountains
+minecraft:gravelly_mountains
+minecraft:modified_gravelly_mountains
+biomesoplenty:alps
+biomesoplenty:alps_foothills
+biomesoplenty:highland
+biomesoplenty:highland_crag
+biomesoplenty:highland_moor
+biomesoplenty:jade_cliffs
+byg:alpine_foothills
+byg:alps

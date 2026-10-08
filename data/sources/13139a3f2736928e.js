@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:13139a3f2736928e"]={"json":{"Evolutions":[{"from":"Chingling","to":"Chimecho","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}},{"time":"NIGHT","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

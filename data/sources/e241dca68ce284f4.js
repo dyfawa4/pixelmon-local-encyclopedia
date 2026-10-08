@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e241dca68ce284f4"]={"json":{"pokemon":"Silvally","items":[{"item":"minecraft:netherite_ingot","min":2,"max":4,"chance":1.0},{"item":"minecraft:shulker_shell","min":1,"max":2,"chance":0.5},{"item":"pixelmon:normal_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:rocky_helmet","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f3d032099485114a"]={"json":{"id":"Kangaskhan Grass","spawnInfos":[{"spec":"species:Kangaskhan","stringLocationTypes":["Grass"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["AFTERNOON"],"stringBiomes":["savannas"]},"rarity":8.0}]}};

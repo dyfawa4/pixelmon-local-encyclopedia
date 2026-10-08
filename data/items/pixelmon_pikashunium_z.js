@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_pikashunium_z"]={"description":"||pokemonButton=Pikachu||携带后，可以把||moveButton=Thunderbolt||转化成特殊的Z招式：||moveButton=10,000,000 Volt Thunderbolt||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

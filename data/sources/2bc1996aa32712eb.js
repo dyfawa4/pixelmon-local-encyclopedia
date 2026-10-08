@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2bc1996aa32712eb"]={"json":{"Name":"Damp","Description":"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。","Normal":["Psyduck","Golduck","Poliwag","Poliwhirl","Poliwrath","Politoed","Wooper","Quagsire"],"Hidden":["Paras","Parasect","Horsea","Seadra","Kingdra","Mudkip","Marshtomp","Swampert","Frillish","Jellicent","Tadbulb","Bellibolt"]}};

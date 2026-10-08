@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a5b543b5d44c5d5c"]={"json":{"Evolutions":[{"from":"Fletchling","level":17,"to":"Fletchinder","conditions":[],"evoType":"leveling","moves":["Flame Charge"],"additionalProperties":{}},{"from":"Fletchinder","level":35,"to":"Talonflame","conditions":[],"evoType":"leveling","additionalProperties":{}}]}};

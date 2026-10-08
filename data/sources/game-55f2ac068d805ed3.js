@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-55f2ac068d805ed3"]={"json":{"id":"Smeargle","spawnInfos":[{"spec":"species:Smeargle","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mesas"]},"rarity":6.0}]}};

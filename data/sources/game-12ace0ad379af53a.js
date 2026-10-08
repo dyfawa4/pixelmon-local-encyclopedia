@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-12ace0ad379af53a"]={"json":{"type":"minecraft:smithing","base":{"item":"pixelmon:diamond_hammer"},"addition":{"item":"minecraft:netherite_ingot"},"result":{"item":"pixelmon:netherite_hammer"}}};

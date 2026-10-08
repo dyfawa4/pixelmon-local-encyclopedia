@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5daf91ae73fef2b"]={"json":{"pokemon":"Treecko","items":[{"item":"minecraft:wheat_seeds","min":1,"max":2,"chance":1.0},{"item":"minecraft:jungle_leaves","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f8a4ed4bb5880b51"]={"json":{"Evolutions":[{"from":"Frigibax","level":35,"to":"Arctibax","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Arctibax","level":54,"to":"Baxcalibur","conditions":[],"evoType":"leveling","moves":["Glaive Rush"],"additionalProperties":{}}]}};

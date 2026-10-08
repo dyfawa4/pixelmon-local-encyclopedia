@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3ecd80f355f3c220"]={"json":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:ice_stone_ore"},"result":"pixelmon:ice_stone_shard","experience":0.7,"cookingtime":200}};

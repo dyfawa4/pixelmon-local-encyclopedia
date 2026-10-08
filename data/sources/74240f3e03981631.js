@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:74240f3e03981631"]={"json":{"type":"minecraft:crafting_shaped","pattern":[" A ","ARA"," T "],"key":{"A":{"tag":"forge:ingots/aluminum"},"T":{"item":"minecraft:terracotta"},"R":{"tag":"forge:dusts/redstone"}},"result":{"item":"pixelmon:fan","count":1}}};

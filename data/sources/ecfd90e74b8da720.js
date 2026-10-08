@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ecfd90e74b8da720"]={"json":{"attack":"超极巨化的伊布使出的一般属性攻击。会让对手陷入着迷状态。","description":"攻击目标造成伤害。让对方所有与伊布性别相对的宝可梦陷入着迷状态。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

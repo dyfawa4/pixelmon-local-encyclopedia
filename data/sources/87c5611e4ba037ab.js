@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:87c5611e4ba037ab"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:fast_ball_lid"},{"item":"minecraft:stone_button"},{"item":"pixelmon:silver_base"}],"result":{"item":"pixelmon:fast_ball","count":1}}};

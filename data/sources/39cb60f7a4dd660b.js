@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:39cb60f7a4dd660b"]={"json":{"id":"Delibird Grass","spawnInfos":[{"spec":"species:Delibird","stringLocationTypes":["Grass"],"minLevel":10,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["freezing mountains","mountainous"],"minY":120},"rarity":30.0}]}};

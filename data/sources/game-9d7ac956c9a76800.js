@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9d7ac956c9a76800"]={"json":{"id":"Luxray","spawnInfos":[{"spec":"species:Luxray","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":45,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas"]},"rarity":0.5}]}};

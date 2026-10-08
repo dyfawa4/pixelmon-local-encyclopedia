@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-af05c682fa1e4032"]={"json":{"id":"Primal Groudon","spawnInfos":[{"spec":"species:Groudon","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["arid"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

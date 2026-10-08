@@ -1,0 +1,4 @@
+2,3,4=craggardens
+2,3,4=freshwater
+2,3,4=swamps
+3,4=ultrajungle

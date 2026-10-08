@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:baba21c5859e9adf"]={"json":{"pokemon":"Grumpig","items":[{"item":"minecraft:porkchop","min":2,"max":3,"chance":1.0},{"item":"minecraft:leather","min":1,"max":2,"chance":0.5},{"item":"minecraft:ender_pearl","min":1,"max":2,"chance":0.3},{"item":"pixelmon:grip_claw","min":1,"max":1,"chance":0.1}]}};

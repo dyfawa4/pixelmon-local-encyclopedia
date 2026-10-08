@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a198493f898ab193"]={"json":{"id":"Mega Venusaur","spawnInfos":[{"spec":"species:Venusaur","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches","forests","byg:crag_gardens"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

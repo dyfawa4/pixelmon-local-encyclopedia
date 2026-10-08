@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b61c38f3437d1c27"]={"json":{"Evolutions":[{"from":"Scyther","item":{"itemID":"pixelmon:black_augurite","additionalProperties":{}},"to":"Kleavor","conditions":[],"evoType":"interact","moves":[],"additionalProperties":{}}]}};

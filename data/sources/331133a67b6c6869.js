@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:331133a67b6c6869"]={"json":{"id":"Shiftry","spawnInfos":[{"spec":"species:Shiftry","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":65,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:power_herb","percentChance":5}],"condition":{"times":["NIGHT"],"stringBiomes":["redwoods","taigas"]},"rarity":0.5}]}};

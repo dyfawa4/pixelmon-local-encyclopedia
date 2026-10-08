@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:61029eeb87e03fa9"]={"json":{"pokemon":"Aerodactyl","items":[{"item":"minecraft:granite","min":1,"max":3,"chance":1.0},{"item":"pixelmon:rock_gem","min":1,"max":2,"chance":0.5},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.1}]}};

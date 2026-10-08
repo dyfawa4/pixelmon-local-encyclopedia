@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a068175cf911c049"]={"json":{"pokemon":"Zarude","items":[{"item":"minecraft:vine","min":2,"max":4,"chance":1.0},{"item":"minecraft:jungle_leaves","min":1,"max":3,"chance":0.5},{"item":"pixelmon:reaper_cloth","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dark_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:231482a94ac66186"]={"json":{"Evolutions":[{"from":"Nidoranfemale","level":16,"to":"Nidorina","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Nidorina","item":{"itemID":"pixelmon:moon_stone","additionalProperties":{}},"to":"Nidoqueen","conditions":[],"evoType":"interact","moves":["Superpower"],"additionalProperties":{}}]}};

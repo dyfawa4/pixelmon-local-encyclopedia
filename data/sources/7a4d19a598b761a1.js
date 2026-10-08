@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7a4d19a598b761a1"]={"json":{"pokemon":"Timburr","items":[{"item":"minecraft:oak_planks","min":1,"max":2,"chance":1.0},{"item":"minecraft:oak_log","min":1,"max":1,"chance":0.5}]}};

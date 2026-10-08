@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f0d2ed3445ae281e"]={"json":{"type_id":"simple","id":"lunchtime","suffix":"ribbon.lunchtime.title","translation_key":"ribbon.lunchtime","description":"ribbon.lunchtime.description","icon":"pixelmon:textures/gui/ribbons/lunchtime.png"}};

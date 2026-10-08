@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7abd218b9c64c94d"]={"json":{"id":"Mega Blastoise","spawnInfos":[{"spec":"species:Blastoise","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["minecraft:beach","biomesoplenty:tropic_beach","byg:rainbow_beach","byg:white_beach","terraforged:warm_beach"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

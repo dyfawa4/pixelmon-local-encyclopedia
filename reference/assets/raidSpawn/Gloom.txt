@@ -1,0 +1,5 @@
+2,3=flowery
+2,3=jungles
+2,3=roofed
+2,3=swamps
+3,4=ultraforest

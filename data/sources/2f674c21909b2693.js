@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2f674c21909b2693"]={"json":{"Evolutions":[{"from":"Zigzagoon form:galarian","level":20,"to":"Linoone f:galarian","conditions":[],"evoType":"leveling","moves":["Night Slash"],"additionalProperties":{}}]}};

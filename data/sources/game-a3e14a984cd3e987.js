@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a3e14a984cd3e987"]={"json":{"name":"pixelmon:plasma_ship/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:teams/plasma/plasma_ship_rear_bottom","processors":"minecraft:empty","projection":"rigid","element_type":"pixelmon:moving","ground_level_delta":0,"y_hack":200,"keep_liquids":true}}]}};

@@ -1,0 +1,6 @@
+1,2=freezingmountains
+1,2=freezingocean
+1,2=freezingplains
+1,2=otherfreezing
+1,2=shatteredglacier
+1,2=tundra

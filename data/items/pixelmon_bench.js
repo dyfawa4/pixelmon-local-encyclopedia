@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_bench"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["s","i"],"key":{"s":{"item":"minecraft:oak_stairs"},"i":{"item":"minecraft:iron_bars"}},"result":{"item":"pixelmon:bench","count":1},"source":"data/pixelmon/recipes/decor/bench/bench.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

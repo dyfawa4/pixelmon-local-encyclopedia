@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fea20bdf93227597"]={"json":{"npctype":"chat","skins":[{"filename":"ornithologist.png"}],"names":[{"name":"George"}],"chat":[{"lines":[{"text":"Welcome to the Sandstone Cavern Resort Gym."},{"text":"Our Gym Leader will make you fall!"},{"text":"When you think you're done, the battle will have just begun."}]}]}};

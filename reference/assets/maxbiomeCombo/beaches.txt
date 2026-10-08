@@ -1,0 +1,6 @@
+minecraft:beach
+minecraft:mushroom_field_shore
+biomesoplenty:tropic_beach
+byg:rainbow_beach
+byg:white_beach
+terraforged:warm_beach

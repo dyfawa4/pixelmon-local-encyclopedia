@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b8511520ddde88c0"]={"json":{"id":"Spoink","spawnInfos":[{"spec":"species:Spoink","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":25,"typeID":"pokemon","condition":{"stringBiomes":["mountainous forests"]},"rarity":110.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-16d005412aeedff7"]={"json":{"npctype":"chat","skins":[{"filename":"artist.png"}],"names":[{"name":"Greg"}],"chat":[{"lines":[{"text":"Benvenuto nella Palestra Edera."},{"text":"Il nostro Capopalestra ama stritolare gli avversari tra i nodi!"},{"text":"Ti consiglio di non perderti nell'erba alta; non si sa mai cosa ci possa essere..."}]}]}};

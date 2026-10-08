@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fc0939a26771e491"]={"json":{"pokemon":"Marowak form:base","items":[{"item":"minecraft:bone","min":1,"max":2,"chance":1.0},{"item":"minecraft:coarse_dirt","min":1,"max":3,"chance":0.5},{"item":"minecraft:bone_meal","min":1,"max":2,"chance":0.3},{"item":"minecraft:skeleton_skull","min":1,"max":1,"chance":0.1}]}};

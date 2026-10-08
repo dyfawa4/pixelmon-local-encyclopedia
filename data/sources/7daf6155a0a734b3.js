@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7daf6155a0a734b3"]={"json":{"id":"Surskit","spawnInfos":[{"spec":"species:Surskit","stringLocationTypes":["Surface Water"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["minecraft:river","swamps","lakes","byg:crag_gardens"]},"rarity":130.0}]}};

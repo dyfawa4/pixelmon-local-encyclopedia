@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-1ee9201c1c6cc8cc"]={"json":{"id":"Sewaddle","spawnInfos":[{"spec":"species:Sewaddle","stringLocationTypes":["Land","Tree Top","Headbutt"],"minLevel":5,"maxLevel":20,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:mental_herb","percentChance":5}],"condition":{"times":["DAWN","DUSK"],"stringBiomes":["forests","flowery"]},"rarity":250.0}]}};

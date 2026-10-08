@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8a9c6f94c7691fee"]={"json":{"id":"Pincurchin","spawnInfos":[{"spec":"species:Pincurchin","stringLocationTypes":["Seafloor","Land"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["beaches","oceanic"]},"rarity":150.0}]}};

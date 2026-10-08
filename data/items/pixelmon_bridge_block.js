@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_bridge_block"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XXX"],"key":{"X":{"tag":"minecraft:logs"}},"result":{"item":"pixelmon:bridge_block","count":3},"source":"data/pixelmon/recipes/decor/building_infrastructure/bridge_block.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

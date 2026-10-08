@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d2e522aa2ec79a71"]={"json":{"pokemon":"Phione","items":[{"item":"minecraft:prismarine_shard","min":1,"max":3,"chance":1.0},{"item":"pixelmon:water_gem","min":1,"max":1,"chance":0.5}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6184b053a8cab81b"]={"json":{"id":"Onix Rocksmash","spawnInfos":[{"spec":"species:Onix","stringLocationTypes":["Rock Smash"],"minLevel":12,"maxLevel":35,"typeID":"pokemon","condition":{"maxY":70},"rarity":40.0}]}};

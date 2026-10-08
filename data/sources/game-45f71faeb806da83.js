@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-45f71faeb806da83"]={"json":{"type":"minecraft:stonecutting","ingredient":{"item":"pixelmon:ultra_space_stone"},"result":"pixelmon:chiseled_ultra_space_stone","count":1}};

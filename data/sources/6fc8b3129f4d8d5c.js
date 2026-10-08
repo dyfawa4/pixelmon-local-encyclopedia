@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:6fc8b3129f4d8d5c"]={"text":"会自然生成，右键||itemButton=pixelmon:common_pokestop||可以获得随机奖励，之后它会变成红色，24小时后才会再次被激活并能重新领取。"};

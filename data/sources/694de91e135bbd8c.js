@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:694de91e135bbd8c"]={"json":{"id":"Bonsly","spawnInfos":[{"spec":"species:Bonsly","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_forest"]},"rarity":10.0}]}};

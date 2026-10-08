@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9baa3e0f51fb54fa"]={"json":{"Name":"MagicGuard","Description":"不会受到攻击以外的伤害。","Normal":["Clefairy","Clefable","Cleffa","Sigilyph","Solosis","Duosion","Reuniclus"],"Hidden":["Abra","Kadabra","Alakazam"]}};

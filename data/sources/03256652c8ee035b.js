@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:03256652c8ee035b"]={"text":"手持布满灰尘的化石时对其使用，可以将化石放入其中清洗，开始清洗后，化石会在机器内旋转，经过清洗后的化石才可以用于||itemButton=pixelmon:fossil_machine||里复活。清洗完成之后化石会停止旋转，这时候对其右键即可取出。\r\n生存模式下破坏||itemButton=pixelmon:fossil_cleaner||，不论里面的化石是否清洗完毕，化石都会弹出来。\r\n||itemButton=pixelmon:fossil_cleaner||在开始运作时，会发出15强度的红石信号，之后随着化石清洗的进度，发出的红石信号强度会越来越低，当清洗完毕后，便不会发出红石信号。"};

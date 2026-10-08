@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:58825be9d85c1a63"]={"json":{"Name":"Protosynthesis","Description":"携带着驱劲能量或天气为晴朗时，数值最高的能力会提高。","Normal":["GreatTusk","ScreamTail","BruteBonnet","FlutterMane","SlitherWing","SandyShocks","RoaringMoon","WalkingWake"],"Hidden":[]}};

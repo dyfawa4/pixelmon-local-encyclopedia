@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-bcf60d25329936e2"]={"json":{"type":"minecraft:crafting_shaped","pattern":["XXX"],"key":{"X":{"tag":"minecraft:logs"}},"result":{"item":"pixelmon:bridge_block","count":3}}};

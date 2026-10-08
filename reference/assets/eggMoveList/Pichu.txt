@@ -1,0 +1,7 @@
+Charge,Zapdos,Mew,Elekid,Raikou,Thundurus form:incarnate,Thundurus form:therian,Zekrom,TapuKoko,Xurkitree,Zeraora,Dracozolt,Arctozolt,Regieleki,SandyShocks,IronHands,IronThorns,Miraidon
+Disarming Voice,Mew,Cleffa,Igglybuff,Latias,Happiny,Shaymin form:land,Shaymin form:sky,Meloetta form:aria,TapuFini,FlutterMane,Fezandipiti
+Fake Out,Mew,Tyrogue,Zeraora,IronHands,Munkidori
+Flail,Bonsly,Munchlax,Uxie,Diancie,Toxel
+Present,Cleffa,Happiny,IronBundle
+Tickle,Cleffa,Igglybuff,Wynaut,TapuLele,Nihilego,Wo-Chien
+Wish,Cleffa,Togepi,Latias,Jirachi,Chingling,ScreamTail,FlutterMane

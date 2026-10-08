@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5295fdc21b7d368b"]={"json":{"Evolutions":[{"from":"Mareanie","level":38,"to":"Toxapex","conditions":[],"evoType":"leveling","moves":["Baneful Bunker"],"additionalProperties":{}}]}};

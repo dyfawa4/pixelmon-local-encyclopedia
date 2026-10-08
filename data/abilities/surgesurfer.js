@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:surgesurfer"]={"description":"对战中\r\n当对战场地处于电气场地状态时，速度能力变为原来的2倍。","holders":[[26,"alolan",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SurgeSurfer"}};

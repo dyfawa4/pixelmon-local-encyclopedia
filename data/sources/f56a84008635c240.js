@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f56a84008635c240"]={"json":{"Evolutions":[{"from":"Slakoth","level":18,"to":"Vigoroth","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Vigoroth","level":36,"to":"Slaking","conditions":[],"evoType":"leveling","moves":["Swagger"],"additionalProperties":{}}]}};

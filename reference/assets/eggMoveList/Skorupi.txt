@@ -1,0 +1,4 @@
+Confuse Ray,Venonat,Venomoth,Volbeat,Illumise,Vespiquen,Vivillon,Orbeetle,Rabsca,Tentacool,Tentacruel,Staryu,Starmie,Lileep,Cradily
+Sand Attack,Gligar,Nincada,Ninjask,Trapinch,Vibrava,Flygon,Gliscor,Dwebble,Crustle,Durant,Wimpod,Golisopod,Rellor,Rabsca,Omanyte,Omastar,Kabuto,Kabutops,Wiglett,Wugtrio
+Slash,Paras,Parasect,Scyther,Pinsir,Gligar,Scizor,Ninjask,Kricketune,Vespiquen,Yanmega,Leavanny,Dwebble,Crustle,Joltik,Galvantula,Golisopod,Kleavor,Kabuto,Kabutops,Anorith,Armaldo,Binacle,Barbaracle
+Whirlwind,Butterfree,Venomoth,Yanma,Beautifly,Dustox,Masquerain,Yanmega,Volcarona

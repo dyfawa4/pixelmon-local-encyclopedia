@@ -1,0 +1,3 @@
+4,5=hills
+4,5=jungles
+4,5=redwoods

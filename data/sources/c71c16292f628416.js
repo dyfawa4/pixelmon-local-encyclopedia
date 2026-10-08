@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c71c16292f628416"]={"json":{"id":"Guzzlord","spawnInfos":[{"spec":"species:Guzzlord","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_desert"]},"rarity":0.5}]}};

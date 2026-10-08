@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d030de09afd462cc"]={"text":"||pokemonButton=Giratina form:altered||携带后形态转换为||pokemonButton=Giratina form:origin||。\r\n||pokemonButton=Giratina form:origin||携带后龙属性和幽灵属性的招式威力提升20%。"};

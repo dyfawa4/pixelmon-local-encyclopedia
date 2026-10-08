@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-03f5d630bfe2fc38"]={"json":{"id":"Quaxwell","spawnInfos":[{"spec":"species:Quaxwell","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":36,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["minecraft:river","lakes"]},"rarity":1.0}]}};

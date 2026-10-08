@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f9ef8e6c1c60d798"]={"json":{"Name":"SweetVeil","Description":"我方的宝可梦不会变为睡眠状态。","Normal":["Swirlix","Slurpuff","Milcery","Alcremie"],"Hidden":["Cutiefly","Ribombee","Bounsweet","Steenee","Tsareena"]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0c636d4f4682d334"]={"text":"||bigFont=对战中||\r\n携带该道具的宝可梦使用任意原本不会造成畏缩状态的攻击招式并造成伤害时，有10%几率使目标陷入畏缩状态。\r\n连续招式每一下连续的攻击都会有相同的几率造成对手畏缩。\r\n\r\n||bigFont=对战外||\r\n||pokemonButton=Poliwhirl||携带该道具连接交换进化为||pokemonButton=Politoed||。\r\n||pokemonButton=Slowpoke||携带该道具连接交换进化为||pokemonButton=Slowking||。"};

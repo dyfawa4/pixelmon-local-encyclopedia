@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f5e37313889559ce"]={"json":{"Evolutions":[{"from":"Oshawott","level":17,"to":"Dewott","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Dewott","level":36,"to":"Samurott","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Slash"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+可以让||pokemonButton=Altaria||在对战中mega进化为||pokemonButton=Altaria form:mega||

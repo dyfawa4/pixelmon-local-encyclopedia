@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:cd7a7792b06aa491"]={"json":{"pokemon":"Rapidash form:base","items":[{"item":"minecraft:leather","min":1,"max":2,"chance":1.0},{"item":"minecraft:carrot","min":1,"max":2,"chance":0.5},{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":0.3},{"item":"minecraft:saddle","min":1,"max":1,"chance":0.1}]}};

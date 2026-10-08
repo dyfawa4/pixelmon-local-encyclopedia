@@ -1,0 +1,9 @@
+biomesoplenty:dead_forest
+biomesoplenty:ominous_mire
+biomesoplenty:ominous_woods
+biomesoplenty:tall_dead_forest
+biomesoplenty:wasteland
+byg:twilight_valley
+byg:twilight_valley_hills
+byg:weeping_witch_clearing
+byg:weeping_witch_forest

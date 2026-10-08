@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:embodyaspect"]={"description":"对战中\r\n根据厄诡椪的形态而改变效果。\r\n碧草面具：每次出场时，速度上升1级。\r\n水井面具：每次出场时，特防上升1级。\r\n火灶面具：每次出场时，攻击上升1级。\r\n础石面具：每次出场时，防御上升1级。","holders":[],"raw":{},"appOnly":true};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5cc3eb98b9f6c6ba"]={"json":{"Evolutions":[{"from":"Ralts","level":20,"to":"Kirlia","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Kirlia","level":30,"to":"Gardevoir","conditions":[],"evoType":"leveling","moves":["Dazzling Gleam"],"additionalProperties":{}}]}};

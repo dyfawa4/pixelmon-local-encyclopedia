@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ca59ba6cc9389016"]={"json":{"Name":"StickyHold","Description":"因为道具是粘在黏性身体上的，所以不会被对手夺走。","Normal":["Grimer","Muk","Gulpin","Swalot","Shellos form:east","Shellos form:west","Gastrodon form:east","Gastrodon form:west","Trubbish","Accelgor"],"Hidden":["Dipplin"]}};

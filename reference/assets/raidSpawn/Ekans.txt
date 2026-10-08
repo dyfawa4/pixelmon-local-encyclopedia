@@ -1,0 +1,5 @@
+1,2=evil
+1,2=nether
+1,2=plains
+1,2=savannas
+1,2=swamps

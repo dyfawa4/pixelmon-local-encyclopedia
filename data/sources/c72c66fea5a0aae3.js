@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c72c66fea5a0aae3"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:husk"],"replacement_logic":"simple","specs":["shedinja","yamask","cofagrigus"]}};

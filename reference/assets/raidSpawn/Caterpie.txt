@@ -1,0 +1,7 @@
+1=birches
+1=craggardens
+1=flowery
+1=forests
+1=jungles
+1=magical
+1=roofed

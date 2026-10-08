@@ -1,0 +1,4 @@
+Heal Pulse,Clefairy,Clefable,Chansey,Blissey,Audino,Aromatisse,Hatenna,Hattrem,Hatterene,Indeedee form:female
+Present,Raichu form:alolan,Clefairy,Clefable,Chansey,Snubbull,Granbull,Blissey,Audino
+Tickle,Raichu form:alolan,Clefairy,Clefable,Jigglypuff,Wigglytuff,Cottonee,Whimsicott
+Wish,Raichu form:alolan,Clefairy,Clefable,Chansey,Togetic,Blissey,Plusle,Minun,Togekiss,Flabebe,Floette,Floette form:az,Florges,Swirlix,Slurpuff

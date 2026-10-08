@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a1390120f0c2e9f0"]={"json":{"pokemon":"Scovillain","items":[{"item":"minecraft:melon_seeds","min":1,"max":3,"chance":1.0},{"item":"pixelmon:touga_berry","min":1,"max":2,"chance":0.5},{"item":"minecraft:blaze_powder","min":1,"max":2,"chance":0.3},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.1}]}};

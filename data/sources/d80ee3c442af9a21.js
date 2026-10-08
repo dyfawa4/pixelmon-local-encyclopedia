@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d80ee3c442af9a21"]={"json":{"pokemon":"Cryogonal","items":[{"item":"minecraft:packed_ice","min":1,"max":4,"chance":1.0},{"item":"minecraft:blue_ice","min":1,"max":3,"chance":0.5},{"item":"pixelmon:ice_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:never_melt_ice","min":1,"max":1,"chance":0.1}]}};

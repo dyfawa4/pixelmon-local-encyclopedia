@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a24e32d3eea41072"]={"json":{"Evolutions":[{"from":"Sneasel form:hisuian","item":{"itemID":"pixelmon:razor_claw","additionalProperties":{}},"to":"Sneasler","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"interact","additionalProperties":{}}]}};

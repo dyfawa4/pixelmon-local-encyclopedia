@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c8a2d20826490e1f"]={"json":{"Evolutions":[{"from":"Riolu","to":"Lucario","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}},{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"leveling","moves":["Aura Sphere"],"additionalProperties":{}}]}};

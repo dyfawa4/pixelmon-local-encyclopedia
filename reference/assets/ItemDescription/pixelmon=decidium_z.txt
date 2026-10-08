@@ -1,0 +1,1 @@
+||pokemonButton=Decidueye||携带后，可以把||moveButton=Spirit Shackle||转化成特殊的Z招式：||moveButton=Sinister Arrow Raid||。

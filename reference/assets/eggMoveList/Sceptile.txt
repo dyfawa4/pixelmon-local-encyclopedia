@@ -1,0 +1,13 @@
+Absorb,Grovyle,Sceptile,Turtwig,Grotle,Torterra,Goomy,Sliggoo,Sliggoo form:hisuian,Goodra,Goodra form:hisuian,Noibat,Noivern
+Double Kick,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Grovyle,Sceptile
+Dragon Breath,Charmander,Charmeleon,Charizard,Lapras,Tyranitar,Grovyle,Sceptile,Gible,Gabite,Garchomp,Drampa,Horsea,Seadra,Gyarados,Dratini,Dragonair,Dragonite,Dragonite form:creator,Kingdra,Vibrava,Flygon,Swablu,Altaria,Bagon,Shelgon,Salamence,Deino,Zweilous,Hydreigon,Goomy,Sliggoo,Sliggoo form:hisuian,Goodra,Goodra form:hisuian,Kommo-o,Flapple,Dragapult,Frigibax,Arctibax,Baxcalibur,Dipplin
+Energy Ball,Bulbasaur,Ivysaur,Venusaur,Chikorita,Bayleef,Meganium,Treecko,Grovyle,Sceptile,Tropius,Turtwig,Grotle,Torterra,Snover,Abomasnow,Drampa,Flapple,Appletun,Dipplin
+False Swipe,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Cubone,Marowak,Marowak form:alolan,Grovyle,Sceptile,Gible,Gabite,Garchomp,Axew,Fraxure,Haxorus,Chewtle,Drednaw,Swablu,Altaria,Jangmo-o,Hakamo-o,Kommo-o,Baxcalibur
+Fury Cutter,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Nidoking,Slowbro,Cubone,Marowak,Marowak form:alolan,Rhydon,Kangaskhan,Chikorita,Bayleef,Meganium,Croconaw,Feraligatr,Slowking,Tyranitar,Treecko,Grovyle,Sceptile,Aron,Lairon,Aggron,Tropius,Gible,Gabite,Garchomp,Rhyperior,Dragonite,Dragonite form:creator,Vibrava,Flygon,Seviper,Bagon,Shelgon,Salamence
+Leech Seed,Bulbasaur,Ivysaur,Venusaur,Chikorita,Bayleef,Meganium,Grovyle,Sceptile,Tropius,Turtwig,Grotle,Torterra,Snover,Abomasnow,Flapple,Appletun
+Night Slash,Grovyle,Sceptile,Axew,Fraxure,Seviper
+Shed Tail,Sceptile
+Slash,Charmander,Charmeleon,Charizard,Totodile,Croconaw,Feraligatr,Grovyle,Sceptile,Gible,Gabite,Garchomp,Axew,Fraxure,Haxorus,Druddigon
+Synthesis,Bulbasaur,Ivysaur,Venusaur,Chikorita,Bayleef,Meganium,Grovyle,Sceptile,Tropius,Turtwig,Grotle,Torterra,Snover,Abomasnow
+Worry Seed,Bulbasaur,Ivysaur,Venusaur,Chikorita,Bayleef,Meganium,Grovyle,Sceptile,Tropius,Turtwig,Grotle,Torterra,Snover,Abomasnow
+X-Scissor,Grovyle,Sceptile,Axew,Fraxure,Haxorus,Seviper,Noibat,Noivern,Jangmo-o,Hakamo-o,Kommo-o

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:74589be5ac2e2763"]={"json":{"pokemon":"Gallade","items":[{"item":"minecraft:ender_pearl","min":1,"max":3,"chance":1.0},{"item":"pixelmon:dawn_stone_shard","min":1,"max":2,"chance":0.5},{"item":"pixelmon:fighting_gem","min":1,"max":1,"chance":0.3},{"item":"pixelmon:dawn_stone","min":1,"max":1,"chance":0.1}]}};

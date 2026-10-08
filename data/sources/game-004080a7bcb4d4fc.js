@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-004080a7bcb4d4fc"]={"json":{"id":"Hitmonchan Grass","spawnInfos":[{"spec":"species:Hitmonchan","stringLocationTypes":["Grass"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAWN","MORNING"],"stringBiomes":["mountainous"]},"rarity":6.0}]}};

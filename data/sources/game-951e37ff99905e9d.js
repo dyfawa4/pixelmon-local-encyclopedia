@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-951e37ff99905e9d"]={"json":{"id":"Golduck","spawnInfos":[{"spec":"species:Golduck","stringLocationTypes":["Land"],"minLevel":33,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["RAIN"]}}],"rarity":5.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f96f504d0bbfa9ec"]={"json":{"pokemon":"Kakuna","items":[{"item":"minecraft:string","min":1,"max":2,"chance":1.0},{"item":"minecraft:lily_of_the_valley","min":1,"max":1,"chance":0.5},{"item":"pixelmon:shed_shell","min":1,"max":1,"chance":0.1}]}};

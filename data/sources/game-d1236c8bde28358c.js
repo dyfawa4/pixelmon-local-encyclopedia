@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-d1236c8bde28358c"]={"json":{"name":"pixelmon:taiga_den/start_pool","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon:dens/den_taiga_a","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

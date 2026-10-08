@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d8dbe1dcd7845c8b"]={"json":{"id":"Ledian","spawnInfos":[{"spec":"species:Ledian","stringLocationTypes":["Air","Headbutt","Sweet Scent"],"minLevel":18,"maxLevel":30,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["forests","birches","flowery","magical"]},"rarity":8.0}]}};

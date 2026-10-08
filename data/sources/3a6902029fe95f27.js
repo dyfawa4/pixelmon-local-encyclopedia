@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3a6902029fe95f27"]={"json":{"id":"Eldegoss","spawnInfos":[{"spec":"species:Eldegoss","stringLocationTypes":["Land","Sweet Scent"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["flowery"]},"rarity":6.0}]}};

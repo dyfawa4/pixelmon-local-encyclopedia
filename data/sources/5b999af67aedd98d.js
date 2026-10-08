@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5b999af67aedd98d"]={"json":{"pokemon":"Hypno","items":[{"item":"minecraft:spider_eye","min":1,"max":3,"chance":1.0},{"item":"minecraft:clock","min":1,"max":1,"chance":0.5},{"item":"minecraft:fermented_spider_eye","min":1,"max":2,"chance":0.3},{"item":"pixelmon:mental_herb","min":1,"max":1,"chance":0.1}]}};

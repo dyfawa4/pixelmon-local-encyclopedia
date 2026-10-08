@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:363720fbf5f24955"]={"json":{"pokemon":"Zygarde","items":[{"item":"minecraft:soul_soil","min":2,"max":4,"chance":1.0},{"item":"pixelmon:yache_berry","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ground_gem","min":1,"max":1,"chance":0.3},{"item":"minecraft:nether_star","min":1,"max":1,"chance":0.1}]}};

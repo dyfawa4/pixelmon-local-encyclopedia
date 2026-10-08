@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8762ec62f1bede55"]={"json":{"pokemon":"Rhyhorn","items":[{"item":"minecraft:andesite","min":1,"max":2,"chance":1.0},{"item":"minecraft:stone","min":1,"max":1,"chance":0.5},{"item":"pixelmon:raw_black_tumblestone","min":1,"max":1,"chance":0.3},{"item":"pixelmon:rocky_helmet","min":1,"max":1,"chance":0.1}]}};

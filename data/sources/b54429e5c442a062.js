@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b54429e5c442a062"]={"text":"Poison Powder,Butterfree,Paras,Parasect,Venonat,Venomoth,Dustox,Mothim,Scatterbug,Spewpa,Vivillon\r\nRage Powder,Butterfree,Paras,Parasect,Venonat,Venomoth,Spinarak,Ariados,Volcarona,Scatterbug,Spewpa\r\n"};

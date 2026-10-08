@@ -1,0 +1,1 @@
+可以让||pokemonButton=Ampharos||在对战中mega进化为||pokemonButton=Ampharos form:mega||

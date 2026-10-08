@@ -1,0 +1,4 @@
+Belch,Slowbro,Snorlax,Slowking,Slowking form:galarian
+Curse,Bulbasaur,Ivysaur,Venusaur,Charmander,Charmeleon,Charizard,Squirtle,Wartortle,Blastoise,Nidoranfemale,Nidoranmale,Nidorino,Nidoking,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Cubone,Marowak,Lickitung,Rhyhorn,Rhydon,Kangaskhan,Lapras,Snorlax,Chikorita,Bayleef,Meganium,Totodile,Croconaw,Feraligatr,Mareep,Mareep form:shorn,Flaaffy,Ampharos,Slowking,Slowking form:galarian,Larvitar,Pupitar,Tyranitar,Mudkip,Marshtomp,Swampert,Tropius,Turtwig,Grotle,Torterra,Cranidos,Rampardos,Shieldon,Bastiodon,Snover,Abomasnow,Rhyperior,Bergmite,Avalugg,Avalugg form:hisuian
+Hammer Arm,Rhydon,Snorlax,Swampert,Cranidos,Rampardos,Rhyperior
+Thrash,Cubone,Marowak,Marowak form:alolan,Rhyhorn,Rhydon,Totodile,Croconaw,Feraligatr,Larvitar,Pupitar,Tyranitar,Turtwig,Grotle,Torterra,Cranidos,Rampardos,Gabite,Rhyperior,Tyrunt,Tyrantrum

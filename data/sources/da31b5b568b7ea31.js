@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:da31b5b568b7ea31"]={"json":{"id":"Yungoos","spawnInfos":[{"spec":"species:Yungoos","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":19,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:pecha_berry","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["hills"]},"rarity":300.0}]}};

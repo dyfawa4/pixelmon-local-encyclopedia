@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:27f063a730213b88"]={"json":{"Name":"HugePower","Description":"物理攻击的威力会变为2倍。","Normal":["Marill","Azumarill","Azurill","Mawile form:mega"],"Hidden":["Bunnelby","Diggersby"]}};

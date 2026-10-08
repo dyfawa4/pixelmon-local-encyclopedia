@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c60478a53ade7ae6"]={"json":{"id":"Durant Forage","spawnInfos":[{"spec":"species:Durant","stringLocationTypes":["Forage"],"minLevel":10,"maxLevel":15,"typeID":"pokemon","condition":{"stringBiomes":["mountainous"]},"rarity":10.0}]}};

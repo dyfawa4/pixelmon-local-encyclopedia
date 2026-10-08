@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e2e69537ab2daefc"]={"json":{"id":"Quilladin","spawnInfos":[{"spec":"species:Quilladin","stringLocationTypes":["Land"],"minLevel":16,"maxLevel":36,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["birches","taigas"]},"rarity":1.0}]}};

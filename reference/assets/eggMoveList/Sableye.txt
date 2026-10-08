@@ -1,0 +1,6 @@
+Feint,Hitmonlee,Hitmonchan,Electabuzz,Hitmontop,Makuhita,Hariyama,Meditite,Medicham,Monferno,Infernape,Lucario,Electivire,Gallade,Mienfoo,Mienshao,Cinderace,Clobbopus,Grapploct
+Flatter,Drowzee,Hypno,Illumise,Buneary,Lopunny,Croagunk,Toxicroak,Gothita,Gothorita,Gothitelle,Impidimp,Morgrem,Grimmsnarl
+Metal Burst,Bisharp,Kingambit
+Recover,Kadabra,Alakazam,Meditite,Medicham,Elgyem,Beheeyem
+Sucker Punch,Hitmonlee,MrMime,MrMime form:galarian,Hitmontop,Spinda,Cacnea,Cacturne,Croagunk,Toxicroak,Impidimp,Morgrem,Grimmsnarl,MrRime
+Torment,Abra,Kadabra,Alakazam,Drowzee,Hypno,MrMime,MrMime form:galarian,Jynx,Ralts,Kirlia,Gardevoir,Sableye,Chimchar,Monferno,Infernape,Croagunk,Toxicroak,Electivire,Magmortar,Gallade,Gothita,Gothorita,Gothitelle,Pawniard,Bisharp,Pancham,Pangoro,Hawlucha,Impidimp,Morgrem,Grimmsnarl,MrRime,Kingambit

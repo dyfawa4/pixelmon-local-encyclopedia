@@ -1,0 +1,4 @@
+4,5=badlands
+4,5=deserts
+4,5=swamps
+4,5=ultradesert

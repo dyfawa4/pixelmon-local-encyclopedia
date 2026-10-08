@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_warped_button"]={"description":"","recipes":[{"type":"minecraft:crafting_shapeless","group":"wooden_button","ingredients":[{"item":"minecraft:warped_planks"}],"result":{"item":"minecraft:warped_button"},"source":"data/minecraft/recipes/warped_button.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

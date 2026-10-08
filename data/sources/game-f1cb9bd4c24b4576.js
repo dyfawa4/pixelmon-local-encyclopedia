@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f1cb9bd4c24b4576"]={"json":{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"pixelmon:ultra_jungle_stairs"}],"conditions":[]}]}};

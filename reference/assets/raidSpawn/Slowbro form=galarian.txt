@@ -1,0 +1,4 @@
+4,5=beaches
+4,5=freezingbeaches
+4,5=freshwater
+4,5=stonybeaches

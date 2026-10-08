@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-c416170ca2510656"]={"json":{"id":"Dunsparce Grass","spawnInfos":[{"spec":"species:Dunsparce","stringLocationTypes":["Grass"],"minLevel":5,"maxLevel":30,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["arid"]},"rarity":30.0}]}};

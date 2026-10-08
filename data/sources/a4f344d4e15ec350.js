@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a4f344d4e15ec350"]={"json":{"Evolutions":[{"from":"Petilil","item":{"itemID":"pixelmon:sun_stone","additionalProperties":{}},"to":"Lilligant","conditions":[{"time":"DAY","evoConditionType":"time","additionalProperties":{}}],"evoType":"interact","moves":["Petal Dance"],"additionalProperties":{}}]}};

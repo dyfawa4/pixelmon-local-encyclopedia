@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:51953d5cbc5964b3"]={"json":{"id":"Quaquaval","spawnInfos":[{"spec":"species:Quaquaval","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":55,"typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["minecraft:river","lakes"]},"rarity":1.0}]}};

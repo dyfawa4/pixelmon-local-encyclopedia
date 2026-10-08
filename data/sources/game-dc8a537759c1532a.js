@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-dc8a537759c1532a"]={"json":{"id":"Psyduck","spawnInfos":[{"spec":"species:Psyduck","stringLocationTypes":["Land"],"minLevel":5,"maxLevel":33,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps","minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":1.5,"condition":{"weathers":["RAIN"]}}],"rarity":100.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3cda8c33b03898f8"]={"json":{"pokemon":"Flabebe palette:white","items":[{"item":"minecraft:oxeye_daisy","min":1,"max":2,"chance":1.0},{"item":"minecraft:bone_meal","min":1,"max":1,"chance":0.5},{"item":"pixelmon:kebia_berry","min":1,"max":1,"chance":0.1}]}};

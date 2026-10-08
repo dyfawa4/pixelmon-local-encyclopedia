@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-34253526d8d597a4"]={"json":{"id":"Donphan","spawnInfos":[{"spec":"species:Donphan","stringLocationTypes":["Land","Sweet Scent"],"minLevel":25,"maxLevel":50,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["mountainous","minecraft:shattered_savanna","minecraft:shattered_savanna_plateau"],"maxY":100},"rarity":6.0}]}};

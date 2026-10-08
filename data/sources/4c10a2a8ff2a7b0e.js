@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4c10a2a8ff2a7b0e"]={"json":{"id":"Skeledirge","spawnInfos":[{"spec":"species:Skeledirge","stringLocationTypes":["Land"],"minLevel":36,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["mesas"]},"rarity":1.0}]}};

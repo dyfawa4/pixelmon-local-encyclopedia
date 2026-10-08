@@ -1,0 +1,5 @@
+Feint,Yanma,Gligar,Heracross,Vibrava,Flygon,Yanmega,Gliscor,Kleavor,Tarountula,Spidops,Nymble,Lokix
+Flail,Pineco,Forretress,Heracross,Vibrava,Flygon,Wormadam form:plant,Wormadam form:sandy,Wormadam form:trash,Sewaddle,Swadloon,Dwebble,Crustle,Karrablast,Escavalier
+Fury Attack,Beedrill,Heracross,Karrablast,Escavalier
+Quick Attack,Scyther,Yanma,Gligar,Scizor,Surskit,Masquerain,Volbeat,Illumise,Vibrava,Flygon,Yanmega,Gliscor,Accelgor,Kleavor
+Thrash,Heracross,Larvesta,Volcarona

@@ -1,0 +1,3 @@
+4,5=freezingmountains
+4,5=freezingplains
+4,5=shatteredglacier

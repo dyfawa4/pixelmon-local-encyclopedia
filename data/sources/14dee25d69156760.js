@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:14dee25d69156760"]={"json":{"Name":"Justified","Description":"受到恶属性的招式攻击时，因为正义感，攻击会提高。","Normal":["Cobalion","Terrakion","Virizion","Keldeo form:ordinary","Keldeo form:resolute"],"Hidden":["Growlithe","Arcanine","Absol","Lucario","Gallade"]}};

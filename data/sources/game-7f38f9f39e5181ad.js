@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-7f38f9f39e5181ad"]={"json":{"id":"Gossifleur","spawnInfos":[{"spec":"species:Gossifleur","stringLocationTypes":["Land","Sweet Scent"],"minLevel":5,"maxLevel":19,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["flowery"]},"rarity":130.0}]}};

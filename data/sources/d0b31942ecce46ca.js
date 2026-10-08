@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d0b31942ecce46ca"]={"json":{"Evolutions":[{"from":"Nacli","level":24,"to":"Naclstack","conditions":[],"evoType":"leveling","moves":["Salt Cure"],"additionalProperties":{}},{"from":"Naclstack","level":38,"to":"Garganacl","conditions":[],"evoType":"leveling","moves":["Hammer Arm"],"additionalProperties":{}}]}};

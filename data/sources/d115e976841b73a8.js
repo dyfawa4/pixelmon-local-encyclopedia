@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d115e976841b73a8"]={"json":{"type":"minecraft:crafting_shaped","pattern":["M M","MMM","MMM"],"key":{"M":{"tag":"forge:gems/sapphire"}},"result":{"item":"pixelmon:sapphire_plate","count":1}}};

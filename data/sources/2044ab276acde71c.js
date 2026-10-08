@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2044ab276acde71c"]={"text":"minecraft:desert\r\nminecraft:desert_hills\r\nminecraft:desert_lakes\r\nbiomesoplenty:dryland\r\nbiomesoplenty:dry_boneyard\r\nbiomesoplenty:lush_desert\r\nbyg:dunes\r\nbyg:lush_red_desert\r\nbyg:mojave_desert\r\nbyg:oasis\r\nbyg:red_desert\r\nbyg:red_desert_dunes\r\n"};

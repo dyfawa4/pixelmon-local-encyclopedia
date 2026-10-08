@@ -1,0 +1,258 @@
+strawberry_vanilla_cream:香草奶盖草莓糖饰
+strawberry_ruby_cream:红钻奶盖草莓糖饰
+strawberry_matcha_cream:抹茶奶盖草莓糖饰
+strawberry_mint_cream:薄荷奶盖草莓糖饰
+strawberry_lemon_cream:柠檬奶盖草莓糖饰
+strawberry_salted_cream:盐奶盖草莓糖饰
+strawberry_ruby_swirl:红钻泡芙草莓糖饰
+strawberry_caramel_swirl:焦糖泡芙草莓糖饰
+strawberry_rainbow_swirl:彩虹泡芙草莓糖饰
+strawberry_shiny:草莓糖饰（异色）
+berry_vanilla_cream:香草奶盖野莓糖饰
+berry_ruby_cream:红钻奶盖野莓糖饰
+berry_matcha_cream:抹茶奶盖野莓糖饰
+berry_mint_cream:薄荷奶盖野莓糖饰
+berry_lemon_cream:柠檬奶盖野莓糖饰
+berry_salted_cream:盐奶盖野莓糖饰
+berry_ruby_swirl:红钻泡芙野莓糖饰
+berry_caramel_swirl:焦糖泡芙野莓糖饰
+berry_rainbow_swirl:彩虹泡芙野莓糖饰
+berry_shiny:野莓糖饰（异色）
+love_vanilla_cream:香草奶盖爱心糖饰
+love_ruby_cream:红钻奶盖爱心糖饰
+love_matcha_cream:抹茶奶盖爱心糖饰
+love_mint_cream:薄荷奶盖爱心糖饰
+love_lemon_cream:柠檬奶盖爱心糖饰
+love_salted_cream:盐奶盖爱心糖饰
+love_ruby_swirl:红钻泡芙爱心糖饰
+love_caramel_swirl:焦糖泡芙爱心糖饰
+love_rainbow_swirl:彩虹泡芙爱心糖饰
+love_shiny:爱心糖饰（异色）
+star_vanilla_cream:香草奶盖星星糖饰
+star_ruby_cream:红钻奶盖星星糖饰
+star_matcha_cream:抹茶奶盖星星糖饰
+star_mint_cream:薄荷奶盖星星糖饰
+star_lemon_cream:柠檬奶盖星星糖饰
+star_salted_cream:盐奶盖星星糖饰
+star_ruby_swirl:红钻泡芙星星糖饰
+star_caramel_swirl:焦糖泡芙星星糖饰
+star_rainbow_swirl:彩虹泡芙星星糖饰
+star_shiny:星星糖饰（异色）
+clover_vanilla_cream:香草奶盖幸运草糖饰
+clover_ruby_cream:红钻奶盖幸运草糖饰
+clover_matcha_cream:抹茶奶盖幸运草糖饰
+clover_mint_cream:薄荷奶盖幸运草糖饰
+clover_lemon_cream:柠檬奶盖幸运草糖饰
+clover_salted_cream:盐奶盖幸运草糖饰
+clover_ruby_swirl:红钻泡芙幸运草糖饰
+clover_caramel_swirl:焦糖泡芙幸运草糖饰
+clover_rainbow_swirl:彩虹泡芙幸运草糖饰
+clover_shiny:幸运草糖饰（异色）
+flower_vanilla_cream:香草奶盖花朵糖饰
+flower_ruby_cream:红钻奶盖花朵糖饰
+flower_matcha_cream:抹茶奶盖花朵糖饰
+flower_mint_cream:薄荷奶盖花朵糖饰
+flower_lemon_cream:柠檬奶盖花朵糖饰
+flower_salted_cream:盐奶盖花朵糖饰
+flower_ruby_swirl:红钻泡芙花朵糖饰
+flower_caramel_swirl:焦糖泡芙花朵糖饰
+flower_rainbow_swirl:彩虹泡芙花朵糖饰
+flower_shiny:花朵糖饰（异色）
+ribbon_vanilla_cream:香草奶盖蝴蝶结糖饰
+ribbon_ruby_cream:红钻奶盖蝴蝶结糖饰
+ribbon_matcha_cream:抹茶奶盖蝴蝶结糖饰
+ribbon_mint_cream:薄荷奶盖蝴蝶结糖饰
+ribbon_lemon_cream:柠檬奶盖蝴蝶结糖饰
+ribbon_salted_cream:盐奶盖蝴蝶结糖饰
+ribbon_ruby_swirl:红钻泡芙蝴蝶结糖饰
+ribbon_caramel_swirl:焦糖泡芙蝴蝶结糖饰
+ribbon_rainbow_swirl:彩虹泡芙蝴蝶结糖饰
+ribbon_shiny:蝴蝶结糖饰（异色）
+pumpkin:南瓜香料
+pumpkin_shiny:南瓜香料（异色）
+archipelago_shiny:群岛花纹(异色)
+continental_shiny:大陆花纹(异色)
+elegant_shiny:高雅花纹(异色)
+fancy_shiny:幻彩花纹(异色)
+garden_shiny:庭园花纹(异色)
+high_plains_shiny:荒野花纹(异色)
+icy_snow_shiny:冰雪花纹(异色)
+jungle_shiny:热带雨林花纹(异色)
+marine_shiny:大海花纹(异色)
+meadow_shiny:花园花纹(异色)
+modern_shiny:摩登花纹(异色)
+monsoon_shiny:骤雨花纹(异色)
+ocean_shiny:大洋花纹(异色)
+poke_ball_shiny:球球花纹(异色)
+polar_shiny:雪国花纹(异色)
+river_shiny:大河花纹(异色)
+sandstorm_shiny:沙尘花纹(异色)
+savanna_shiny:热带草原花纹(异色)
+sun_shiny:太阳花纹(异色)
+tundra_shiny:雪原花纹(异色)
+main_circular:成都花纹
+secondary_circular:丰缘花纹
+dark:黑暗花纹
+none:正常
+christmas:圣诞节
+normal:普通的
+irish:爱尔兰
+diamonds:钻石
+clubs:黑桃
+martian:火星人
+starry:繁星
+yellow_ringed:黄环状
+red_ringed:红环状
+jump_alien:外星人
+skelly:鱼骨
+roasted:烤熟
+calico_orange_white:锦鲤 (红白)
+calico_orange_white_black:锦鲤 (橙红黑)
+calico_white_orange:锦鲤 (白红)
+calico_orange_gold:锦鲤 (红金)
+orange_twotone:双色 (红)
+orange_orca:虎鲸 (红)
+orange_dapples:波纹 (红)
+pink_twotone:双色 (粉)
+pink_orca:虎鲸 (粉)
+pink_dapples:波纹 (粉)
+gray_bubbles:水珠 (灰)
+gray_diamonds:菱形 (灰)
+gray_patches:长颈鹿 (灰)
+purple_bubbles:水珠 (紫)
+purple_diamonds:菱形 (紫)
+purple_patches:长颈鹿 (紫)
+apricot_tiger:老虎 (橙)
+apricot_zebra:斑马 (橙)
+apricot_stripes:竖条 (橙)
+brown_tiger:老虎 (褐)
+brown_zebra:斑马 (褐)
+brown_stripes:竖条 (褐)
+orange_forehead:额斑 (红)
+orange_mask:面具 (红)
+black_forehead:额斑 (黑)
+white_forehead:额斑 (白)
+white_mask:面具 (白)
+black_mask:面具 (黑)
+blue_saucy:淋酱(蓝)
+feebas:丑丑鱼
+blue_raindrops:雨滴 (蓝)
+violet_saucy:淋酱 (浅紫)
+violet_raindrops:雨滴 (浅紫)
+red_core:红色核心
+orange_core:橙色核心
+yellow_core:黄色核心
+green_core:绿色核心
+blue_core:浅蓝色核心
+indigo_core:蓝色核心
+violet_core:紫色核心
+blocky:旧版黑眼鳄
+moons:月亮
+apricot_saucy:淋酱 (橙)
+blue_stripes:竖条 (蓝)
+golde:闪金 (东海)
+goldw:闪金 (西海)
+normal:一般
+pokeball:精灵球
+duskball:黑暗球
+loveball:甜蜜球
+friendball:友友球
+heavyball:沉重球
+moonball:月亮球
+premierball:纪念球
+masterball:大师球
+gsball:GS球
+archipelago:群岛
+continental:大陆
+elegant:高雅
+garden:庭园
+high_plains:荒野
+icy_snow:冰雪
+jungle:热带雨林
+marine:大海
+meadow:花园
+modern:摩登
+monsoon:骤雨
+ocean:大洋
+polar:雪国
+river:大河
+sandstorm:沙尘
+savanna:热带草原
+sun:太阳
+tundra:雪原
+fancy:幻彩
+poke_ball:球球
+black:黑色
+brown:棕色
+cyan:青色
+dark_blue:深蓝色
+dark_green:深绿色
+dark_pink:深粉色
+dark_red:深红色
+forte_green:复绿色
+grey:灰色
+light_brown:淡棕色
+light_pink:淡粉色
+light_yellow:淡黄色
+lime:黄绿色
+olive:黄绿色
+orange:橙色
+pink:粉色
+purple:紫色
+red:红色
+white:白色
+yellow:黄色
+gray:灰色
+green:绿色
+magenta:品红色
+lightblue:淡蓝色
+lightgray:淡灰色
+black_sus:黑色Sus
+brown_sus:棕色Sus
+cyan_sus:青色Sus
+dark_blue_sus:深蓝色Sus
+dark_green_sus:深绿色Sus
+dark_pink_sus:深粉色Sus
+dark_red_sus:深红色Sus
+forte_green_sus:复绿色Sus
+grey_sus:灰色Sus
+light_brown_sus:淡棕色Sus
+light_pink_sus:淡粉色Sus
+light_yellow_sus:淡黄色Sus
+lime_sus:黄绿色Sus
+olive_sus:黄绿色Sus
+orange_sus:橙色Sus
+pink_sus:粉色Sus
+purple_sus:紫色Sus
+red_sus:红色Sus
+white_sus:白色Sus
+yellow_sus:黄色Sus
+copper_sulfate:硫酸铜
+cupric_chloride:氯化铜
+lithium_chloride:氯化锂
+magnesium_sulfide:硫酸镁
+manganese_chloride:氯化锰
+potassium_chloride:氯化钾
+sodium_carbonate:碳酸钠
+calcium_carbonate:碳酸钙
+shiny:异色
+zombie:僵尸
+online:礼物
+drowned:溺水
+valentine:情人节
+rainbow:彩虹
+alien:外星人
+valencian:岱柑岛
+alter:诅咒
+pink:粉红
+summer:夏日
+crystal:水晶
+creator:创作者
+strike:雷霆
+ashen:灰烬
+spirit:幽魂
+halloween:万圣节
+real:写实
+meta:怪物
+west:西海
+east:东海

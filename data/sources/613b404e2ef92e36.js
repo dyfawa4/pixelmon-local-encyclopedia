@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:613b404e2ef92e36"]={"json":{"Evolutions":[{"from":"Tympole","level":25,"to":"Palpitoad","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Palpitoad","level":36,"to":"Seismitoad","conditions":[],"evoType":"leveling","moves":["Drain Punch"],"additionalProperties":{}}]}};

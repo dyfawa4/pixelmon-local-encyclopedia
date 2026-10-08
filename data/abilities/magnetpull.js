@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:magnetpull"]={"description":"使对方非幽灵属性的钢属性宝可梦进入无法逃走状态，无法替换或逃走。","holders":[[74,"alolan",false],[75,"alolan",false],[76,"alolan",false],[81,"",false],[82,"",false],[299,"",false],[462,"",false],[476,"",false],[808,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.MagnetPull"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0c9c0e6b754a914c"]={"json":{"pokemon":"Hitmontop","items":[{"item":"minecraft:cobblestone","min":1,"max":2,"chance":1.0},{"item":"pixelmon:tamato_berry","min":1,"max":1,"chance":0.5},{"item":"pixelmon:black_belt","min":1,"max":1,"chance":0.1},{"item":"pixelmon:loaded_dice","min":1,"max":1,"chance":0.3}]}};

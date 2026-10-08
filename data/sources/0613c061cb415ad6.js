@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0613c061cb415ad6"]={"json":{"id":"Gumshoos","spawnInfos":[{"spec":"species:Gumshoos","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":35,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:pecha_berry","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["hills"]},"rarity":8.0}]}};

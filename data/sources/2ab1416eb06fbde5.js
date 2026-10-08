@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:2ab1416eb06fbde5"]={"json":{"pokemon":"Zorua form:hisuian","items":[{"item":"minecraft:bone","min":1,"max":2,"chance":1.0},{"item":"minecraft:ghast_tear","min":1,"max":1,"chance":0.5},{"item":"pixelmon:dusk_stone_shard","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:31217e2b4f6c6697"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/pink"},{"tag":"pixelmon:pcs"}],"result":{"item":"pixelmon:pink_pc","count":1}}};

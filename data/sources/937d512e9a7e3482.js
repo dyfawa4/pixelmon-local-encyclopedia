@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:937d512e9a7e3482"]={"json":{"rewards":{"recipes":["pixelmon:furnace/ruby_ore"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:furnace/ruby_ore"}},"has_ore":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"item":"pixelmon:ruby_ore"}]}}},"requirements":[["has_the_recipe","has_ore"]]}};

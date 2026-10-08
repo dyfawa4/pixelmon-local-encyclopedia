@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-45ce9a7c30a58a2b"]={"json":{"id":"Solosis","spawnInfos":[{"spec":"species:Solosis","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["swamps"]},"rarity":130.0}]}};

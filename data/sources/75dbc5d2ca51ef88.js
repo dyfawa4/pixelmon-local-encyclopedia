@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:75dbc5d2ca51ef88"]={"json":{"pokemon":"Arboliva","items":[{"item":"minecraft:wheat_seeds","min":2,"max":4,"chance":1.0},{"item":"minecraft:wheat","min":1,"max":3,"chance":0.5},{"item":"pixelmon:big_root","min":1,"max":1,"chance":0.3},{"item":"pixelmon:grass_gem","min":1,"max":1,"chance":0.1}]}};

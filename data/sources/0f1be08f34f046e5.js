@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:0f1be08f34f046e5"]={"json":{"Evolutions":[{"from":"Charcadet","item":{"itemID":"pixelmon:auspicious_armor","additionalProperties":{}},"to":"Armarouge","conditions":[],"evoType":"interact","moves":["Psyshock"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b430767b7ea65ae6"]={"text":"当此物品放置在背包内时，会立刻消耗掉并且在周围生成消耗数量相等的||pokemonButton=Porygon||宝可梦。"};

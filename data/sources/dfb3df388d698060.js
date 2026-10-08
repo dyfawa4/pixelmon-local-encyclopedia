@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:dfb3df388d698060"]={"json":{"id":"Sigilyph Grass","spawnInfos":[{"spec":"species:Sigilyph","stringLocationTypes":["Grass"],"minLevel":25,"maxLevel":40,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["minecraft:desert_hills","minecraft:badlands_plateau"]},"rarity":8.0}]}};

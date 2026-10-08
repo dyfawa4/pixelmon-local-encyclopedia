@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:29a11bd493ecbc1c"]={"json":{"pokemon":"Larvitar","items":[{"item":"minecraft:andesite","min":1,"max":2,"chance":1.0},{"item":"minecraft:emerald","min":1,"max":1,"chance":0.5},{"item":"pixelmon:crystal","min":1,"max":1,"chance":0.3}]}};

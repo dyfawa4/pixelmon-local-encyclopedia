@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:963d98e5c3f43c45"]={"json":{"pokemon":"Metang","items":[{"item":"minecraft:gold_nugget","min":1,"max":4,"chance":1.0},{"item":"pixelmon:platinum_ore","min":1,"max":2,"chance":0.5},{"item":"pixelmon:colbur_berry","min":1,"max":1,"chance":0.1}]}};

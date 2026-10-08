@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1273cc97ae8babc4"]={"json":{"pokemon":"Drakloak","items":[{"item":"minecraft:ghast_tear","min":1,"max":3,"chance":1.0},{"item":"minecraft:rotten_flesh","min":1,"max":2,"chance":0.5},{"item":"pixelmon:ring_target","min":1,"max":1,"chance":0.1}]}};

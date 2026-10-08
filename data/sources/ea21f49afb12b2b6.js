@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:ea21f49afb12b2b6"]={"json":{"type":"minecraft:stonecutting","ingredient":{"item":"pixelmon:ultra_desert_sandstone"},"result":"pixelmon:ultra_desert_sandstone_stairs","count":1}};

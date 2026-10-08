@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a82773b889c7882a"]={"json":{"id":"RoaringMoon","spawnInfos":[{"spec":"species:RoaringMoon","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["minecraft:small_end_islands"]},"rarity":1.0}]}};

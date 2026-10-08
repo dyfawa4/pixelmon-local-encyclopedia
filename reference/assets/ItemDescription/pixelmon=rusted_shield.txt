@@ -1,0 +1,1 @@
+||pokemonButton=Zamazenta form:hero||携带后，在对战中会以||pokemonButton=Zamazenta form:crowned||登场。

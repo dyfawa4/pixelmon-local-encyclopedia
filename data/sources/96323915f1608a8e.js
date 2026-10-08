@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:96323915f1608a8e"]={"json":{"pokemon":"Gigalith","items":[{"item":"minecraft:granite","min":2,"max":4,"chance":1.0},{"item":"pixelmon:ruby","min":1,"max":2,"chance":0.5},{"item":"pixelmon:platinum_ore","min":1,"max":2,"chance":0.3},{"item":"pixelmon:rocky_helmet","min":1,"max":1,"chance":0.1}]}};

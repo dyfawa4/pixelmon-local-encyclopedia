@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:fb72977a61da7564"]={"json":{"type":"minecraft:crafting_shaped","pattern":["GGG","P P","S S"],"key":{"P":{"tag":"minecraft:planks"},"G":{"item":"minecraft:white_stained_glass_pane"},"S":{"tag":"forge:rods/wooden"}},"result":{"item":"pixelmon:glass_table","count":1}}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1bce5ded48268f2e"]={"json":{"pokemon":"Panpour","items":[{"item":"minecraft:lily_pad","min":1,"max":2,"chance":1.0},{"item":"pixelmon:fresh_water","min":1,"max":1,"chance":0.5},{"item":"pixelmon:nanab_berry","min":1,"max":1,"chance":0.3},{"item":"pixelmon:water_stone_shard","min":1,"max":1,"chance":0.1}]}};

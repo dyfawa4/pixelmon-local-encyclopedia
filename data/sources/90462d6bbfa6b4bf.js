@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:90462d6bbfa6b4bf"]={"json":{"pokemon":"Loudred","items":[{"item":"minecraft:gunpowder","min":1,"max":3,"chance":1.0},{"item":"minecraft:note_block","min":1,"max":1,"chance":0.5},{"item":"pixelmon:throat_spray","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:04df9fb73bd23f8d"]={"json":{"Name":"Stakeout","Description":"可以对替换出场的对手以2倍的伤害进行攻击。","Normal":["Yungoos","Gumshoos"],"Hidden":["Nickit","Thievul","Tarountula","Spidops","Maschiff","Mabosstiff"]}};

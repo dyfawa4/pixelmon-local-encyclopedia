@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:829141197867c62f"]={"json":{"id":"Drowzee","spawnInfos":[{"spec":"species:Drowzee","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":26,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["taigas","swamps","lakes"]},"rarity":100.0}]}};

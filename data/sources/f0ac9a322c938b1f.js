@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f0ac9a322c938b1f"]={"json":{"id":"Snorunt Rocksmash","spawnInfos":[{"spec":"species:Snorunt","stringLocationTypes":["Rock Smash"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:snowball","percentChance":5}],"condition":{"stringBiomes":["freezing"]},"rarity":100.0}]}};

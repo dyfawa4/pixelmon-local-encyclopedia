@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:longreach"]={"description":"对战中\r\n拥有远隔特性的宝可梦使用接触类招式时，不会触发攻击目标任何与接触类招式有关的效果。","holders":[[722,"",true],[723,"",true],[724,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.LongReach"}};

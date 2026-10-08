@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:34346593f23381a3"]={"json":{"id":"Totodile","spawnInfos":[{"spec":"species:Totodile","stringLocationTypes":["Land"],"minLevel":10,"maxLevel":18,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:river","lakes"]},"rarityMultipliers":[{"multiplier":2,"condition":{"weathers":["RAIN"]}}],"rarity":10.0}]}};

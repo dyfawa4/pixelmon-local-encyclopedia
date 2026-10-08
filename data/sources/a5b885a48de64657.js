@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:a5b885a48de64657"]={"json":{"type":"minecraft:crafting_shaped","pattern":["OOO","RRR","OOO"],"key":{"R":{"tag":"forge:dusts/redstone"},"O":{"item":"minecraft:obsidian"}},"result":{"item":"pixelmon:cloner_cord","count":1}}};

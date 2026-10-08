@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c58534888cc96038"]={"json":{"id":"Stantler","spawnInfos":[{"spec":"species:Stantler","stringLocationTypes":["Land","Sweet Scent"],"minLevel":15,"maxLevel":30,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["hills","freezing forests","pixelmon:mount_lanakila"],"minY":70},"rarity":70.0}]}};

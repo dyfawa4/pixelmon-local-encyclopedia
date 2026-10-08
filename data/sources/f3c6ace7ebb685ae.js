@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f3c6ace7ebb685ae"]={"json":{"Evolutions":[{"from":"Treecko","level":16,"to":"Grovyle","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Grovyle","level":36,"to":"Sceptile","conditions":[],"evoType":"leveling","moves":["Dual Chop"],"additionalProperties":{}}]}};

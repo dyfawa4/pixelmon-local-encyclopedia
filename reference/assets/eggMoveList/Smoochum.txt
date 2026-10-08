@@ -1,0 +1,3 @@
+Fake Out,Mew,Tyrogue,Zeraora,IronHands,Munkidori
+Role Play,Mewtwo,Mew,Cleffa,Igglybuff,Tyrogue,Latias,Deoxys,Deoxys form:attack,Deoxys form:defense,Deoxys form:speed,Deoxys form:sus,Bonsly,MimeJr,Riolu,Uxie,Mesprit,Azelf,Victini,Tornadus form:incarnate,Tornadus form:therian,Thundurus form:incarnate,Thundurus form:therian,Landorus form:incarnate,Landorus form:therian,Meloetta form:aria,Hoopa form:confined,Hoopa form:unbound,Nihilego,Marshadow,Marshadow form:zenith,Stakataka
+Wish,Cleffa,Togepi,Latias,Jirachi,Chingling,ScreamTail,FlutterMane

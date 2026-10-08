@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_rail"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["X X","X#X","X X"],"key":{"#":{"item":"minecraft:stick"},"X":{"item":"minecraft:iron_ingot"}},"result":{"item":"minecraft:rail","count":16},"source":"data/minecraft/recipes/rail.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

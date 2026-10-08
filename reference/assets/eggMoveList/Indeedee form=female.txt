@@ -1,0 +1,3 @@
+Fake Out,Raichu form:alolan,Skitty,Delcatty,Impidimp,Morgrem,Grimmsnarl,Indeedee form:female,Tinkatink,Tinkatuff,Tinkaton
+Heal Pulse,Clefairy,Clefable,Chansey,Blissey,Audino,Aromatisse,Hatenna,Hattrem,Hatterene,Indeedee form:female
+Psych Up,Clefairy,Clefable,Jigglypuff,Wigglytuff,Chansey,Togetic,Hoppip,Skiploom,Jumpluff,Blissey,Skitty,Delcatty,Mawile,Roselia,Castform,Roserade,Togekiss,Froslass,Phione,Manaphy,Audino,Spritzee,Aromatisse,Swirlix,Slurpuff,Carbink,Cutiefly,Ribombee,Hatenna,Hattrem,Hatterene,Alcremie,Falinks,Indeedee form:male,Indeedee form:female

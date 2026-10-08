@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:176e4429c6dc67ce"]={"json":{"pokemon":"Crobat","items":[{"item":"minecraft:spider_eye","min":1,"max":4,"chance":1.0},{"item":"minecraft:rotten_flesh","min":1,"max":4,"chance":0.5},{"item":"pixelmon:razor_fang","min":1,"max":1,"chance":0.3},{"item":"pixelmon:poison_barb","min":1,"max":1,"chance":0.1}]}};

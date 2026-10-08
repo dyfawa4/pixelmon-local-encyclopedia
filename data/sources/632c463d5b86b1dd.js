@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:632c463d5b86b1dd"]={"json":{"rewards":{"recipes":["pixelmon:machines/computer/pc"]},"criteria":{"has_the_recipe":{"trigger":"minecraft:recipe_unlocked","conditions":{"recipe":"pixelmon:machines/computer/pc"}},"has_pc":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"tag":"pixelmon:pcs"}]}}},"requirements":[["has_the_recipe","has_pc"]]}};

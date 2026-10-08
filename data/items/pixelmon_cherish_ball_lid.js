@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_cherish_ball_lid"]={"description":"用于制作||itemButton=pixelmon:cherish_ball||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};

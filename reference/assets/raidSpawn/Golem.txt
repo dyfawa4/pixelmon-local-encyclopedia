@@ -1,0 +1,6 @@
+4,5=badlands
+4,5=deserts
+4,5=mountainous
+4,5=ultracrater
+4,5=ultradesert
+4,5=volcano

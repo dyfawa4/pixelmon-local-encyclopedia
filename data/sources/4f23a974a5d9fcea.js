@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4f23a974a5d9fcea"]={"json":{"Evolutions":[{"from":"Meowth form:galarian","level":28,"to":"Perrserker","conditions":[],"evoType":"leveling","moves":["Iron Head"],"additionalProperties":{}}]}};

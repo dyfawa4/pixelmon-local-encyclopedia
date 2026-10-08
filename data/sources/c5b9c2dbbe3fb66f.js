@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c5b9c2dbbe3fb66f"]={"json":{"pokemon":"Rolycoly","items":[{"item":"minecraft:coal","min":1,"max":2,"chance":1.0},{"item":"minecraft:blaze_powder","min":1,"max":1,"chance":0.5}]}};

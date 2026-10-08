@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c283b29cebdf8894"]={"json":{"pokemon":"Rayquaza","items":[{"item":"minecraft:emerald","min":3,"max":5,"chance":1.0},{"item":"pixelmon:dragon_fang","min":1,"max":2,"chance":0.5},{"item":"pixelmon:dragon_gem","min":1,"max":2,"chance":0.3},{"item":"pixelmon:life_orb","min":1,"max":1,"chance":0.1}]}};

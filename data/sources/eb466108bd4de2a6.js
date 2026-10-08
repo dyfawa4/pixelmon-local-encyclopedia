@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:eb466108bd4de2a6"]={"json":{"pokemon":"Hitmonchan","items":[{"item":"minecraft:cobblestone","min":1,"max":2,"chance":1.0},{"item":"pixelmon:qualot_berry","min":1,"max":1,"chance":0.5},{"item":"pixelmon:lucky_punch","min":1,"max":1,"chance":0.1},{"item":"pixelmon:punching_glove","min":1,"max":1,"chance":1.0}]}};

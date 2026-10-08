@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f589e8faa2f839b7"]={"json":{"type":"minecraft:crafting_shaped","pattern":["XXX","# #"],"key":{"X":{"item":"pixelmon:black_tumblestone"},"#":{"tag":"forge:ingots/silver"}},"result":{"item":"pixelmon:leaden_ball_lid","count":3}}};

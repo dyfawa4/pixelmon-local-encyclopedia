@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-2322a34fe83555c4"]={"json":{"id":"Dunsparce Caverock","spawnInfos":[{"spec":"species:Dunsparce","stringLocationTypes":["Cave Rock"],"minLevel":5,"maxLevel":30,"typeID":"pokemon","condition":{"stringBiomes":["arid"]},"rarity":30.0}]}};

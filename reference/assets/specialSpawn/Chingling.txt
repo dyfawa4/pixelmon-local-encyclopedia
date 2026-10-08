@@ -1,0 +1,1 @@
+通过||pokemonButton=Chimecho||携带||itemButton=pixelmon:pure_incense||繁殖可得

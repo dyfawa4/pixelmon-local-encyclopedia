@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5349e2d49bc08e26"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"firebreather1.png"}],"names":[{"name":"訓練師男孩"}],"chat":[{"opening":"你看起來急燥，是因為這裡很熱，還是你現在覺得很緊張？","win":"你應該放鬆心情，孩子！","lose":"你讓我感到火冒三丈！"}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b7b2c20e937924d3"]={"json":{"id":"Watchog","spawnInfos":[{"spec":"species:Watchog","stringLocationTypes":["Land"],"minLevel":21,"maxLevel":33,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["savannas","plains"]},"rarity":40.0}]}};

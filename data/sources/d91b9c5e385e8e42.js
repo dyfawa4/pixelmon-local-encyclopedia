@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d91b9c5e385e8e42"]={"json":{"id":"Nihilego","spawnInfos":[{"spec":"species:Nihilego","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_deep_sea"]},"rarity":0.5}]}};

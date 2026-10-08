@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:372f3224dcce7e4f"]={"json":{"id":"Ariados","spawnInfos":[{"spec":"species:Ariados","stringLocationTypes":["Land","Headbutt"],"minLevel":22,"maxLevel":50,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["all forests","evil","byg:crag_gardens"]},"rarity":8.0}]}};

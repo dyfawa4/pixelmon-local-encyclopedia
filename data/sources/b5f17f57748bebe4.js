@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b5f17f57748bebe4"]={"json":{"pokemon":"Jirachi","items":[{"item":"minecraft:iron_ingot","min":3,"max":5,"chance":1.0},{"item":"pixelmon:spell_tag","min":1,"max":2,"chance":0.5},{"item":"pixelmon:steel_gem","min":1,"max":2,"chance":0.3}]}};

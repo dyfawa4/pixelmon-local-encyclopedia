@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9efab393b3b181e5"]={"json":{"id":"IronThorns","spawnInfos":[{"spec":"species:IronThorns","stringLocationTypes":["Land"],"minLevel":55,"maxLevel":60,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:booster_energy","percentChance":5}],"condition":{"stringBiomes":["minecraft:small_end_islands"]},"rarity":5.0}]}};

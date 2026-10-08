@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:078b0a339c13df58"]={"json":{"Evolutions":[{"from":"Starly","level":14,"to":"Staravia","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Staravia","level":34,"to":"Staraptor","conditions":[],"evoType":"leveling","moves":["Close Combat"],"additionalProperties":{}}]}};

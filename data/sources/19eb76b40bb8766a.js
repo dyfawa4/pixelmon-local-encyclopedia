@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:19eb76b40bb8766a"]={"json":{"pokemon":"Marowak form:alolan","items":[{"item":"minecraft:bone","min":1,"max":2,"chance":1.0},{"item":"minecraft:blaze_powder","min":1,"max":3,"chance":0.5},{"item":"minecraft:ghast_tear","min":1,"max":2,"chance":0.3},{"item":"minecraft:skeleton_skull","min":1,"max":1,"chance":0.1}]}};

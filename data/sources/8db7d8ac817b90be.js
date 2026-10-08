@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:8db7d8ac817b90be"]={"text":"||bigFont=对战中||\r\n||pokemonButton=Clamperl||携带后特攻x2。\r\n\r\n||bigFont=对战外||\r\n||pokemonButton=Clamperl||携带该道具连接交换进化为||pokemonButton=Huntail||。"};

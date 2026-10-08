@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e55b440482f6a3d1"]={"json":{"id":"Forretress","spawnInfos":[{"spec":"species:Forretress","stringLocationTypes":["Land","Headbutt"],"minLevel":31,"maxLevel":55,"typeID":"pokemon","condition":{"stringBiomes":["taigas","redwoods","mountainous forests"]},"rarity":8.0}]}};

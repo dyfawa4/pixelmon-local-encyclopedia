@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:e0daef6c7017dca2"]={"json":{"pokemon":"Ariados","items":[{"item":"minecraft:cobweb","min":1,"max":3,"chance":1.0},{"item":"minecraft:spider_eye","min":1,"max":2,"chance":0.5},{"item":"minecraft:fermented_spider_eye","min":1,"max":1,"chance":0.1}]}};

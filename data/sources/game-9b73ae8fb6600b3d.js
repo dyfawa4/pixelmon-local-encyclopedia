@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-9b73ae8fb6600b3d"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:dyes/lime"},{"tag":"pixelmon:healers"}],"result":{"item":"pixelmon:lime_healer","count":1}}};

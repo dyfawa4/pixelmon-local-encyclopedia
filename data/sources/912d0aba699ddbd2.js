@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:912d0aba699ddbd2"]={"json":{"attack":"超极巨化的怪力使出的格斗属性攻击。会变得容易击中要害。","description":"攻击目标造成伤害。\n令使用者和同伴的击中要害率提升1级。","levelUpMoves":[],"tutorMoves":[],"eggMoves":[],"trMoves":[],"hmMoves":[],"transferMoves":[],"tmMoves9":[],"tmMoves8":[],"tmMoves7":[],"tmMoves6":[],"tmMoves5":[],"tmMoves4":[],"tmMoves3":[],"tmMoves2":[],"tmMoves1":[],"tmMoves":[]}};

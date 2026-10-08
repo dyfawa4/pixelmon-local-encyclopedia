@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:grimneigh"]={"description":"对战中\r\n该特性的宝可梦打败任意一方的一只宝可梦后，自身特攻提升1级。","holders":[[897,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.GrimNeigh"}};

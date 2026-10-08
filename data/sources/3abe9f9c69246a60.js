@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3abe9f9c69246a60"]={"json":{"Evolutions":[{"from":"Flabebe","level":19,"to":"Floette","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Floette","item":{"itemID":"pixelmon:shiny_stone","additionalProperties":{}},"to":"Florges","conditions":[],"evoType":"interact","additionalProperties":{}}]}};

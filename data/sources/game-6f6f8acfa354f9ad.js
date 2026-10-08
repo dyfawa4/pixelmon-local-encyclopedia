@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-6f6f8acfa354f9ad"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:polar_bear"],"replacement_logic":"simple","specs":["cubchoo","beartic"]}};

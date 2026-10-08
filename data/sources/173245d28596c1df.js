@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:173245d28596c1df"]={"json":{"Evolutions":[{"from":"Phantump","to":"Trevenant","conditions":[],"evoType":"trade","moves":["Shadow Claw"],"additionalProperties":{}},{"from":"Phantump","item":{"itemID":"pixelmon:linking_cord","additionalProperties":{}},"to":"Trevenant","evoType":"interact","moves":["Shadow Claw"],"additionalProperties":{}}]}};

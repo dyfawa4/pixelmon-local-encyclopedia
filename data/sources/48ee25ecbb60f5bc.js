@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:48ee25ecbb60f5bc"]={"json":{"id":"Roselia","spawnInfos":[{"spec":"species:Roselia","stringLocationTypes":["Land","Sweet Scent"],"minLevel":12,"maxLevel":25,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:poison_barb","percentChance":5}],"condition":{"times":["MORNING"],"stringBiomes":["flowery","magical"]},"rarity":130.0}]}};

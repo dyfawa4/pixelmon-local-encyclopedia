@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:907c5dd9e8bfcc73"]={"json":{"id":"Liepard","spawnInfos":[{"spec":"species:Liepard","stringLocationTypes":["Land","Tree Top"],"minLevel":21,"maxLevel":34,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["jungles"]},"rarity":8.0}]}};

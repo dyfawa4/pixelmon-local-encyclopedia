@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:54a3983ee55963c7"]={"json":{"id":"TapuKoko","spawnInfos":[{"spec":"species:TapuKoko level:60","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"times":["MORNING"],"stringBiomes":["minecraft:jungle","biomesoplenty:rainforest","byg:tropical_islands","byg:tropical_rainforest"]},"rarity":1.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c7d6de9c6c658d01"]={"json":{"Name":"BeastBoost","Description":"打倒对手的时候，自己最高的那项能力会提高。","Normal":["Nihilego","Buzzwole","Pheromosa","Xurkitree","Celesteela","Kartana","Guzzlord","Poipole","Naganadel","Stakataka","Blacephalon"],"Hidden":[]}};

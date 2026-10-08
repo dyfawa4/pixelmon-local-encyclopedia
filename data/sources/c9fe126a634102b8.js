@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:c9fe126a634102b8"]={"json":{"id":"Hariyama","spawnInfos":[{"spec":"species:Hariyama","stringLocationTypes":["Land"],"minLevel":20,"maxLevel":40,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:kings_rock","percentChance":5}],"condition":{"times":["AFTERNOON"],"stringBiomes":["mountainous forests"]},"rarity":8.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-f5016b6aae9e1450"]={"json":{"id":"Mega Banette","spawnInfos":[{"spec":"species:Banette","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"times":["NIGHT"],"stringBiomes":["plains","evil"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

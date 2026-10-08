@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-a6b8617cd60bf721"]={"json":{"id":"Jangmoo","spawnInfos":[{"spec":"species:Jangmo-o","stringLocationTypes":["Land"],"minLevel":15,"maxLevel":34,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:razor_claw","percentChance":5}],"condition":{"times":["DAY"],"stringBiomes":["mountainous"]},"rarity":50.0}]}};

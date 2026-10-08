@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_box"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["XXX","X X","XXX"],"key":{"X":{"item":"minecraft:paper"}},"result":{"item":"pixelmon:box","count":1},"source":"data/pixelmon/recipes/decor/household_items/box.json"}],"appRecipe":{},"usedIn":["pixelmon:cluttered_box"],"drops":[],"referenceDrop":{},"special":""};

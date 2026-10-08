@@ -1,0 +1,1 @@
+{"Evolutions":[{"from":"Timburr","level":25,"to":"Gurdurr","conditions":[],"evoType":"leveling","additionalProperties":{}},{"from":"Gurdurr","to":"Conkeldurr","conditions":[],"evoType":"trade","additionalProperties":{}},{"from":"Gurdurr","item":{"itemID":"pixelmon:linking_cord","additionalProperties":{}},"to":"Conkeldurr","evoType":"interact","additionalProperties":{}}]}

@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:superluck"]={"description":"击中要害等级提升1级。可以与要害攻击、聚气叠加。","holders":[[175,"",true],[176,"",true],[198,"",false],[359,"",false],[430,"",false],[468,"",true],[519,"",false],[520,"",false],[521,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.SuperLuck"}};

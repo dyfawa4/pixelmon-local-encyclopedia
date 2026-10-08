@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-3fb5ba62797df2ac"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:vex"],"replacement_logic":"simple","specs":["spritzee","mesprit","togetic","cutiefly","impidimp"]}};

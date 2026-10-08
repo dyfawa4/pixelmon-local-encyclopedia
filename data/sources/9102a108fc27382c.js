@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9102a108fc27382c"]={"json":{"pokemon":"Quagsire","items":[{"item":"minecraft:clay_ball","min":1,"max":3,"chance":1.0},{"item":"minecraft:sand","min":1,"max":2,"chance":0.5},{"item":"minecraft:clay","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:minecraft_lever"]={"description":"","recipes":[{"type":"minecraft:crafting_shaped","pattern":["X","#"],"key":{"#":{"item":"minecraft:cobblestone"},"X":{"item":"minecraft:stick"}},"result":{"item":"minecraft:lever"},"source":"data/minecraft/recipes/lever.json"}],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-e0adb3e0d8fc9522"]={"json":{"type":"minecraft:crafting_shaped","pattern":["XXX","XXX","XXX"],"key":{"X":{"tag":"forge:gems/crystal"}},"result":{"item":"pixelmon:crystal_block","count":1}}};

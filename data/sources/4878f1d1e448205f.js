@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:4878f1d1e448205f"]={"json":{"id":"Seaking","spawnInfos":[{"spec":"species:Seaking","stringLocationTypes":["Water"],"minLevel":33,"maxLevel":38,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:mystic_water","percentChance":5}],"condition":{"stringBiomes":["minecraft:river","all forests","lakes","swamps","magical","byg:crag_gardens"]},"rarity":40.0}]}};

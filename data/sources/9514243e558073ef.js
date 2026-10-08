@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9514243e558073ef"]={"json":{"id":"Durant Caverock","spawnInfos":[{"spec":"species:Durant","stringLocationTypes":["Cave Rock"],"minLevel":34,"maxLevel":46,"typeID":"pokemon","condition":{"stringBiomes":["mountainous","mesas","hills"],"maxLightLevel":5},"rarity":30.0}]}};

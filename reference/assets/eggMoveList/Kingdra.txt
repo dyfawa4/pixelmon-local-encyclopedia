@@ -1,0 +1,5 @@
+Aurora Beam,Seel,Dewgong,Horsea,Seadra,Lapras,Remoraid,Octillery,Kingdra,Spheal,Sealeo,Walrein,Dewpider,Araquanid
+Clear Smog,Horsea,Seadra,Kingdra
+Disable,Psyduck,Golduck,Slowpoke,Slowpoke form:galarian,Slowbro,Slowbro form:galarian,Seel,Dewgong,Horsea,Seadra,Slowking,Slowking form:galarian,Corsola form:galarian,Kingdra,Cursola,Ekans,Arbok,Salazzle,Dreepy,Drakloak,Dragapult
+Flail,Squirtle,Wartortle,Blastoise,Horsea,Seadra,Totodile,Croconaw,Feraligatr,Corsola,Kingdra,Lotad,Lombre,Ludicolo,Feebas,Milotic,Relicanth,Piplup,Prinplup,Empoleon,Tympole,Palpitoad,Seismitoad,Tirtouga,Carracosta,Stunfisk,Stunfisk form:galarian,Clauncher,Clawitzer,Tadbulb,Bellibolt,Magikarp,Gyarados,Vibrava,Flygon,Goomy,Sliggoo,Sliggoo form:hisuian,Goodra,Goodra form:hisuian,Turtonator
+Splash,Poliwag,Poliwhirl,Poliwrath,Horsea,Seadra,Politoed,Kingdra,Feebas,Milotic,Clauncher,Clawitzer,Magikarp,Gyarados

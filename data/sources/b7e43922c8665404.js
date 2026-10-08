@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:b7e43922c8665404"]={"json":{"Evolutions":[{"from":"Buneary","to":"Lopunny","conditions":[{"evoConditionType":"friendship","friendship":220,"additionalProperties":{}}],"evoType":"leveling","additionalProperties":{}}]}};

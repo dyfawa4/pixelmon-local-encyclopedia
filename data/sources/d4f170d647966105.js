@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:d4f170d647966105"]={"json":{"Evolutions":[{"from":"Caterpie","level":7,"to":"Metapod","conditions":[],"evoType":"leveling","moves":["Harden"],"additionalProperties":{}},{"from":"Metapod","level":10,"to":"Butterfree","conditions":[],"evoType":"leveling","moves":["Gust"],"additionalProperties":{}}]}};

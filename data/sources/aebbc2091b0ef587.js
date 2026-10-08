@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:aebbc2091b0ef587"]={"json":{"Evolutions":[{"from":"Diglett form:alolan","level":26,"to":"Dugtrio form:alolan","conditions":[],"evoType":"leveling","moves":["Sand Tomb"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:3864ce379b077bb8"]={"json":{"Evolutions":[{"from":"Vullaby","level":54,"to":"Mandibuzz","conditions":[],"evoType":"leveling","moves":["Bone Rush"],"additionalProperties":{}}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:5b128e1a0ed9ac92"]={"text":"minecraft:ocean\r\nminecraft:deep_ocean\r\nminecraft:warm_ocean\r\nminecraft:deep_warm_ocean\r\nminecraft:lukewarm_ocean\r\nminecraft:deep_lukewarm_ocean\r\nminecraft:cold_ocean\r\nminecraft:deep_cold_ocean\r\nminecraft:frozen_ocean\r\nminecraft:deep_frozen_ocean\r\n"};

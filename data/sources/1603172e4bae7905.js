@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:1603172e4bae7905"]={"json":{"id":"Mega Heracross","spawnInfos":[{"spec":"species:Heracross","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["taigas","redwoods"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

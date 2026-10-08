@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-b238a73335f83a49"]={"json":{"id":"Swirlix Sweet Scent","spawnInfos":[{"spec":"species:Swirlix","stringLocationTypes":["Sweet Scent"],"minLevel":2,"maxLevel":8,"typeID":"pokemon","heldItems":[{"itemID":"pixelmon:whipped_dream","percentChance":5}],"condition":{"times":["DUSK","NIGHT"],"stringBiomes":["birches","magical"]},"rarity":20.0}]}};

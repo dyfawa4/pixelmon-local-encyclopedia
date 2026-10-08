@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-67902d9a14199bcc"]={"json":{"id":"Bastiodon","spawnInfos":[{"spec":"species:Bastiodon","stringLocationTypes":["Land"],"minLevel":40,"maxLevel":55,"typeID":"pokemon","condition":{"times":["DAY"],"stringBiomes":["pixelmon:ultra_crater"]},"rarity":5.0}]}};

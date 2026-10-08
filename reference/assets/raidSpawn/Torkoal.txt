@@ -1,0 +1,6 @@
+3,4=badlands
+3,4=deserts
+3,4=nether
+3,4=savannas
+3,4=ultradesert
+3,4=volcano

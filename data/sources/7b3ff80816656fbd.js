@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7b3ff80816656fbd"]={"json":{"id":"Xurkitree","spawnInfos":[{"spec":"species:Xurkitree","stringLocationTypes":["Land"],"tags":["ultrabeast"],"minLevel":60,"maxLevel":60,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_plant"]},"rarity":0.5}]}};

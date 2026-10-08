@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-71204dd5db3187b9"]={"json":{"id":"Carbink Caverock","spawnInfos":[{"spec":"species:Carbink","stringLocationTypes":["Cave Rock"],"minLevel":12,"maxLevel":23,"typeID":"pokemon","condition":{"stringBiomes":["mountainous"]},"rarity":20.0}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-cc3ba5fe2f08f353"]={"json":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:fire_stone_ore"},"result":"pixelmon:fire_stone_shard","experience":0.7,"cookingtime":100}};

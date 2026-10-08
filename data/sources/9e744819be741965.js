@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9e744819be741965"]={"json":{"pokemon":"Bronzong","items":[{"item":"pixelmon:aluminium_ingot","min":1,"max":4,"chance":1.0},{"item":"pixelmon:silver_ingot","min":1,"max":2,"chance":0.5},{"item":"pixelmon:soothe_bell","min":1,"max":1,"chance":0.3},{"item":"pixelmon:psychic_gem","min":1,"max":1,"chance":0.1}]}};

@@ -1,0 +1,3 @@
+3,4,5=freshwater
+3,4,5=swamps
+3,4,5=ultradeepsea

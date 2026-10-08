@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-4f366c39186172d9"]={"json":{"type":"minecraft:crafting_shaped","group":"wooden_slab","pattern":["###"],"key":{"#":{"item":"pixelmon:ultra_jungle_planks"}},"result":{"item":"pixelmon:ultra_jungle_slab","count":6}}};

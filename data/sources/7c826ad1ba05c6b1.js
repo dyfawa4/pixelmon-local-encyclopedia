@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:7c826ad1ba05c6b1"]={"text":"敲击野生的||itemButton=pixelmon:tumblestone||来获得||itemButton=pixelmon:raw_tumblestone||。当挖掘石头时，可以将周围3x3x1的区域一并挖碎，但比相同的镐子慢4倍。\r\n挖掘等级和金制工具一样。攻击伤害为3，攻击速度为2。\r\n右键方块可以在方块上放置火把。"};

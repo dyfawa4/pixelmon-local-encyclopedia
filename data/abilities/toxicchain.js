@@ -1,0 +1,1 @@
+window.DEX_DATA["abilities:toxicchain"]={"description":"持有该特性的宝可梦攻击命中目标时，有30%的概率会令目标陷入剧毒状态。","holders":[[1014,"",false],[1015,"",false],[1016,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.ToxicChain"}};

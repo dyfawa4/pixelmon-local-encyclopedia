@@ -1,0 +1,2 @@
+5=plains
+5=ultraplant

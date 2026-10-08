@@ -1,0 +1,7 @@
+对||pokemonButton=Gloom||使用，使其进化为||pokemonButton=Vileplume||。
+对||pokemonButton=Weepinbell||使用，使其进化为||pokemonButton=Victreebel||。
+对||pokemonButton=Voltorb form:hisuian||使用，使其进化为||pokemonButton=Electrode form:hisuian||。
+对||pokemonButton=Exeggcute||使用，使其进化为||pokemonButton=Exeggutor||或||pokemonButton=Exeggutor form:alolan||。
+对||pokemonButton=Nuzleaf||使用，使其进化为||pokemonButton=Shiftry||。
+对||pokemonButton=Eevee||使用，使其进化为||pokemonButton=Leafeon||。
+对||pokemonButton=Pansage||使用，使其进化为||pokemonButton=Simisage||。

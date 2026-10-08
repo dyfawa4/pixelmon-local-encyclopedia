@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f8d0a22f5333c705"]={"json":{"type":"minecraft:crafting_shaped","pattern":["qii","qfb","qqq"],"key":{"q":{"item":"minecraft:quartz"},"f":{"item":"minecraft:furnace"},"i":{"item":"minecraft:iron_bars"},"b":{"item":"minecraft:iron_block"}},"result":{"item":"pixelmon:oven","count":1}}};

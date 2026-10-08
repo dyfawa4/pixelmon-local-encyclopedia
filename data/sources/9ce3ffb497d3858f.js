@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:9ce3ffb497d3858f"]={"json":{"Evolutions":[{"from":"Wynaut","level":15,"to":"Wobbuffet","conditions":[],"evoType":"leveling","moves":["Counter","Mirror Coat","Safeguard","Destiny Bond"],"additionalProperties":{}}]}};

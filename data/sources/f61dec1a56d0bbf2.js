@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:f61dec1a56d0bbf2"]={"json":{"id":"Crawdaunt","spawnInfos":[{"spec":"species:Crawdaunt","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":55,"typeID":"pokemon","condition":{"times":["NIGHT"],"stringBiomes":["minecraft:river","swamps","lakes"]},"rarity":8.0}]}};

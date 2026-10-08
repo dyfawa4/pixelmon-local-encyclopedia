@@ -1,0 +1,4 @@
+1,2,3=burntforest
+1,2,3=evil
+1,2,3=swamps
+1,2,3=volcano

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:game-8698ddac9ad29b68"]={"json":{"enabled":true,"detection_logic":"simple","replaced_mobs":["minecraft:slime"],"replacement_logic":"simple","specs":["duosion","reuniclus","goomy","sliggoo","goodra"]}};

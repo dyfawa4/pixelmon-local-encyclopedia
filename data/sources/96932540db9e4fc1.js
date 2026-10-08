@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:96932540db9e4fc1"]={"text":"在结构||structureButton=spear_pillar||中，拿着||itemButton=pixelmon:red_chain||对着其中的||itemButton=pixelmon:timespace_altar||使用可将其激活，再对着它使用||itemButton=pixelmon:adamant_orb||即可召唤"};
