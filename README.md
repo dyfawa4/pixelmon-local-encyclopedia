@@ -4,6 +4,8 @@
 
 [下载 1.1.1 完整离线包](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases/tag/v1.1.1) · [所有版本](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases)
 
+另提供 [重铸内容回迁预览版](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases/tag/backport-preview-20261009)，用于 Minecraft 1.16.5 / Java 11 游戏内容补丁测试及作者交流。它是独立游戏附加模组；安装、已实现范围及未完成内容见 [预览版 README](backport-preview/README.md)。百科网页仍使用上面的离线包。
+
 ## 打开与分享
 
 1. 将 ZIP **完整解压**到任意文件夹。
