@@ -4,7 +4,19 @@
 
 [下载 1.1.1 完整离线包](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases/tag/v1.1.1) · [所有版本](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases)
 
-另提供 [重铸内容回迁预览版](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases/tag/backport-preview-20261009)，用于 Minecraft 1.16.5 / Java 11 游戏内容补丁测试及作者交流。它是独立游戏附加模组；安装、已实现范围及未完成内容见 [预览版 README](backport-preview/README.md)。百科网页仍使用上面的离线包。
+## 重铸内容回迁 · 正式版 1.0.0
+
+另提供 Minecraft 1.16.5 / Forge / Java 11 的独立游戏附加模组 **Pixelmon Content Backport 1.0.0**。为旧重铸补充 15 种新注册宝可梦、68 个种类的数据／形态条目、ZA Mega、30 颗新 Mega 石、69 个物品、8 张光盘、22 个招式定义、太晶战斗与独立团战巢穴、常驻小智甲贺忍蛙以及可合成的无极陨星玩法。
+
+- **[下载正式版 1.0.0](https://github.com/dyfawa4/pixelmon-local-encyclopedia/releases/tag/backport-v1.0.0)**：功能包与测试地图包分开提供。
+- **[安装与版本说明](backport-preview/README.md)**：运行环境、文件选择、替换旧补丁和当前实现范围。
+- **[完整玩法、物品作用与获取手册](backport-preview/HANDBOOK.md)**：逐项种类／形态索引、自然与传说刷新、Boss 与双石头掉落、物品进化、光盘与回忆、培育／钓鱼／药品、太晶属性与团战完整奖励池、高价合成及限制。
+- **[七张专用测试地图及使用方法](backport-preview/TEST_MAPS.md)**：独立地图配套模组、安装、队伍与设施、每张地图的详细操作、06／07 进度保留及正常生存渠道复核。
+
+甲贺忍蛙改动在手册中有独立详细章节：原生厉害钓竿／究极丛林获取牵绊个体，真实对战满足原生条件后永久保持小智形态，强化水手里剑，并与 Mega 甲贺忍蛙和对应进化石渠道区分。各配方、碎片／光盘掉落、50 级学习和替代地形等适配玩法明确标为「本模组新增规则」。统一冠冕等尚未加入的分支也如实列出。
+
+这是独立游戏附加模组，保留原重铸本体；不需要安装参考定制版本体。百科网页继续使用上方的 1.1.1 离线包。仓库的 `backport-preview` 文档路径沿用旧地址方便兼容，里面现已更新为正式版 1.0.0。
+
 
 ## 打开与分享
 
