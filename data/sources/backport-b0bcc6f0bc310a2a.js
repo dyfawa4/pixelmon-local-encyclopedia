@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-b0bcc6f0bc310a2a"]={"json":{"npctype":"chat","skins":[{"filename":"madame.png"}],"names":[{"name":"拉伦蒂娅"}],"chat":[{"lines":[{"text":"欢迎来到神秘道馆。"},{"text":"馆主以前是个优秀学生，课堂上总能答对问题。"},{"text":"大概因为他有超能力，其实他可能早就知道你要来了……"},{"text":"道馆里有看不见的墙，试着找到通向馆主的正确路线吧！"}]}]}};

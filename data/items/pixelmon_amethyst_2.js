@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_amethyst_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:amethyst_block"}],"result":{"item":"pixelmon:amethyst","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_amethyst_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:amethyst_block"}],"result":{"item":"pixelmon:amethyst","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

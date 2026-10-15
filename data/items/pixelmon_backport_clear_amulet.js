@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_backport_clear_amulet"]={"description":"携带：阻止来自对手的能力下降。自身招式导致的下降不受保护。\n获取：大师级宝可梦奖励箱（第三档）。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"backportText":"携带：阻止来自对手的能力下降。自身招式导致的下降不受保护。\n获取：大师级宝可梦奖励箱（第三档）。","backportAcquisition":["大师级宝可梦奖励箱（第三档）"],"related":["backport-evolution"]};

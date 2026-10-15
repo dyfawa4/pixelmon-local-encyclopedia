@@ -1,0 +1,21 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+  "skins": [
+    {
+      "filename": "firebreather3.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "喷火者"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "爬到这里，玩得开心吗？",
+      "win": "火焰总会胜出！",
+      "lose": "你肯定作弊了！"
+    }
+  ]
+}

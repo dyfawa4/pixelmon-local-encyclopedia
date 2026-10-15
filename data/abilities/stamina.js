@@ -1,1 +1,1 @@
-window.DEX_DATA["abilities:stamina"]={"description":"对战中\r\n受到攻击时防御会提高1个等级。\r\n\r\n连续招式每一击都会触发该特性。\r\n由于混乱而攻击自身时不会触发该特性。","holders":[[749,"",false],[750,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Stamina"}};
+window.DEX_DATA["abilities:stamina"]={"description":"对战中\r\n受到攻击时防御会提高1个等级。\r\n\r\n连续招式每一击都会触发该特性。\r\n由于混乱而攻击自身时不会触发该特性。","holders":[[652,"mega",false],[749,"",false],[750,"",false],[1018,"",false]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Stamina"}};

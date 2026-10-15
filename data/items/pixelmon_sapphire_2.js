@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_sapphire_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:sapphire_ore"},"result":"pixelmon:sapphire","experience":0.7,"cookingtime":100},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_sapphire_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:blasting","ingredient":{"item":"pixelmon:sapphire_ore"},"result":"pixelmon:sapphire","experience":0.7,"cookingtime":100},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

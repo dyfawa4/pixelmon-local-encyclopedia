@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:799s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "风卷残云"
+    },
+    "description": {
+      "text": "成功获得恶食大王。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/ultra"
+}

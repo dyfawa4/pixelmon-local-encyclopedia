@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-3d1ed0458fbb11e1"]={"json":{"id":"Mega Froslass","spawnInfos":[{"spec":"species:Froslass","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["freezing"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

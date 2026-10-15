@@ -1,0 +1,151 @@
+{
+  "data": {
+    "trainerType": "Rancher",
+    "minLevel": 15,
+    "maxLevel": 30,
+    "minPartyPokemon": 3,
+    "maxPartyPokemon": 6,
+    "winnings": 16
+  },
+  "pokemon": [
+    {
+      "name": "Ponyta"
+    },
+    {
+      "name": "Rapidash"
+    },
+    {
+      "name": "Exeggcute"
+    },
+    {
+      "name": "Mareep"
+    },
+    {
+      "name": "Flaaffy"
+    },
+    {
+      "name": "Ampharos"
+    },
+    {
+      "name": "Psyduck"
+    },
+    {
+      "name": "Golduck"
+    },
+    {
+      "name": "Farfetchd"
+    },
+    {
+      "name": "Miltank"
+    },
+    {
+      "name": "Torchic"
+    },
+    {
+      "name": "Combusken"
+    },
+    {
+      "name": "Blaziken"
+    },
+    {
+      "name": "Tepig"
+    },
+    {
+      "name": "Pignite"
+    },
+    {
+      "name": "Emboar"
+    },
+    {
+      "name": "Wooloo"
+    },
+    {
+      "name": "Dubwool"
+    },
+    {
+      "name": "Skiddo"
+    },
+    {
+      "name": "Gogoat"
+    },
+    {
+      "name": "Tauros"
+    },
+    {
+      "name": "Bouffalant"
+    },
+    {
+      "name": "Lillipup"
+    },
+    {
+      "name": "Herdier"
+    },
+    {
+      "name": "Stoutland"
+    },
+    {
+      "name": "Spoink"
+    },
+    {
+      "name": "Grumpig"
+    },
+    {
+      "name": "Mudbray"
+    },
+    {
+      "name": "Mudsdale"
+    }
+  ],
+  "names": [
+    {
+      "name": "亚伯"
+    },
+    {
+      "name": "布罗迪"
+    },
+    {
+      "name": "布鲁克斯"
+    },
+    {
+      "name": "克林特"
+    },
+    {
+      "name": "科尔特"
+    },
+    {
+      "name": "加勒特"
+    },
+    {
+      "name": "格兰特"
+    },
+    {
+      "name": "哈克"
+    },
+    {
+      "name": "马弗里克"
+    },
+    {
+      "name": "韦德"
+    },
+    {
+      "name": "韦斯顿"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你想打一场吗？",
+      "win": "好耶！看来我赢了！",
+      "lose": "你的宝可梦养得真健康啊。"
+    },
+    {
+      "opening": "牧场忙完一天，最适合打一场宝可梦对战。",
+      "win": "干得好，该去睡觉啦！",
+      "lose": "你能赢，只是因为我累了。"
+    },
+    {
+      "opening": "看大奶罐吃草看累了，该对战啦！",
+      "win": "以后该多打几场！",
+      "lose": "我就不该停下来看大奶罐。"
+    }
+  ]
+}

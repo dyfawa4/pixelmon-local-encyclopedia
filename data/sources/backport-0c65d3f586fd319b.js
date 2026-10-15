@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-0c65d3f586fd319b"]={"json":{"type":"minecraft:crafting_shaped","pattern":["BFB","BMB","BPB"],"key":{"B":{"item":"minecraft:end_stone_bricks"},"F":{"item":"pixelmon:azure_flute"},"M":{"item":"pixelmon:meteorite"},"P":{"type":"pixelmon_backport:master_ball"}},"result":{"item":"pixelmon_backport:eternatus_meteorite","count":1}}};

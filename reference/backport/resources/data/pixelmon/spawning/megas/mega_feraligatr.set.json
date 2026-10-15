@@ -1,0 +1,21 @@
+{
+  "id": "Mega Feraligatr",
+  "spawnInfos": [
+    {
+      "spec": "species:Feraligatr",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "lakes",
+          "minecraft:river"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+  "skins": [
+    {
+      "filename": "grassbugleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "草"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "我们在高草中训练宝可梦！",
+      "win": "希望你在这里学到了些什么。",
+      "lose": "你的训练很扎实。"
+    }
+  ]
+}

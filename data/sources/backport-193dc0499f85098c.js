@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-193dc0499f85098c"]={"json":{"skins":[{"filename":"guzma.png"}],"names":[{"name":"古兹马"}],"chat":[{"lines":[{"text":"我可是骷髅队老大，什么人、什么事都吓不倒我。"},{"text":"倒是别人见到我就害怕！"}]},{"lines":[{"text":"喂，小鬼，想跟古兹马打一架吗？"},{"text":"就知道你不敢，笨蛋！"}]}]}};

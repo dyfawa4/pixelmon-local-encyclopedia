@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-1fc38a037befd104"]={"json":{"id":"Backport_IronCrown","spawnInfos":[{"spec":"species:IronCrown","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["ultra space"],"times":["DAWN","DUSK"]},"rarity":0.1}]}};

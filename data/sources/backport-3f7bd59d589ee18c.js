@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-3f7bd59d589ee18c"]={"json":{"id":"Mega Skarmory","spawnInfos":[{"spec":"species:Skarmory","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","savannas","mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

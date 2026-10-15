@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-0d7c3a38797d99ea"]={"json":{"id":"Mega Meganium","spawnInfos":[{"spec":"species:Meganium","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["plains","flowery"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

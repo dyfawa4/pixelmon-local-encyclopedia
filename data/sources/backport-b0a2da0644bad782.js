@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-b0a2da0644bad782"]={"json":{"id":"Archaludon","spawnInfos":[{"spec":"species:Archaludon","stringLocationTypes":["Land"],"minLevel":60,"maxLevel":75,"typeID":"pokemon","condition":{"times":["DAWN","DUSK"],"stringBiomes":["mountainous"]},"rarity":0.1}]}};

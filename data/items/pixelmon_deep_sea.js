@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_deep_sea"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[{"item":"pixelmon:deep_sea","min":1,"max":2,"chance":0.5,"pokemon":"Eternatus"}],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_deep_sea"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[{"item":"pixelmon:deep_sea","min":1,"max":2,"chance":0.5,"pokemon":"Eternatus"}],"referenceDrop":{},"special":"","ball":null};

@@ -1,0 +1,10 @@
+{
+  "display": {
+    "icon": {"item":"pixelmon:pixelmon_sprite","nbt":"{ndex:132, palette:\"none\", form:\"\"}"},
+    "title":{"translate":"advancements.feebas_karp.title"},
+    "description":{"translate":"advancements.feebas_karp.description"},
+    "hidden":true
+  },
+  "parent":"pixelmon:specs/spec_trigger",
+  "criteria":{"feebas_karp_spec_trigger":{"trigger":"minecraft:impossible"}}
+}

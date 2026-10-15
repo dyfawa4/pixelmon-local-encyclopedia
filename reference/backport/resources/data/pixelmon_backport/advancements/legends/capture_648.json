@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:648s,palette:\"none\",form:\"aria\",gender:0b}"
+    },
+    "title": {
+      "text": "轻歌曼舞"
+    },
+    "description": {
+      "text": "成功获得美洛耶塔。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen5"
+}

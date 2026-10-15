@@ -1,0 +1,69 @@
+{
+  "data": {
+    "trainerType": "Bosses",
+    "minLevel": 40,
+    "maxLevel": 60,
+    "minPartyPokemon": 3,
+    "maxPartyPokemon": 6,
+    "winnings": 100
+  },
+  "models": [
+    {
+      "name": "magmaboss"
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Mightyena"
+    },
+    {
+      "name": "Camerupt"
+    },
+    {
+      "name": "Golbat"
+    },
+    {
+      "name": "Crobat"
+    },
+    {
+      "name": "Weezing"
+    },
+    {
+      "name": "Houndoom"
+    },
+    {
+      "name": "Swellow"
+    },
+    {
+      "name": "Magmortar"
+    },
+    {
+      "name": "Arcanine"
+    },
+    {
+      "name": "Groudon"
+    }
+  ],
+  "names": [
+    {
+      "name": "赤焰松"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "让海洋消失，给陆地腾出更多空间，这就是我的计划！",
+      "win": "在失败中颤抖吧！",
+      "lose": "你怎么击败我的！"
+    },
+    {
+      "opening": "你在这里干什么？！",
+      "win": "快离开。",
+      "lose": "不，我输了！"
+    },
+    {
+      "opening": "熔岩队最强！",
+      "win": "早说过我们最强！",
+      "lose": "不——！"
+    }
+  ]
+}

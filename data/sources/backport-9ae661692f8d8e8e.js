@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-9ae661692f8d8e8e"]={"json":{"id":"Mega Eelektross","spawnInfos":[{"spec":"species:Eelektross","stringLocationTypes":["Water"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["deep_ocean","deep_warm_ocean","deep_lukewarm_ocean"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

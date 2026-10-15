@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:800s,palette:\"none\",form:\"dusk\",gender:0b}"
+    },
+    "title": {
+      "text": "噬日之辉"
+    },
+    "description": {
+      "text": "使用奈克洛索尔合体器，让奈克洛兹玛与索尔迦雷欧合体，成为黄昏之鬃奈克洛兹玛。解除合体不会撤销成就。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/fusion"
+}

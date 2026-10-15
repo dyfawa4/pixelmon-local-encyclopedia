@@ -1,0 +1,81 @@
+{
+  "data": {
+    "trainerType": "Sport",
+    "minLevel": 20,
+    "maxLevel": 40,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 3,
+    "winnings": 32
+  },
+  "pokemon": [
+    {
+      "name": "Sawk"
+    },
+    {
+      "name": "Throh"
+    },
+    {
+      "name": "Hitmonchan"
+    },
+    {
+      "name": "Hitmonlee"
+    },
+    {
+      "name": "Hitmontop"
+    },
+    {
+      "name": "Golem"
+    },
+    {
+      "name": "Passimian"
+    },
+    {
+      "name": "Oricorio",
+      "form": 1
+    },
+    {
+      "name": "Braviary"
+    },
+    {
+      "name": "Hariyama"
+    },
+    {
+      "name": "Falinks"
+    },
+    {
+      "name": "Cinderace"
+    }
+  ],
+  "names": [
+    {
+      "name": "贝克汉姆"
+    },
+    {
+      "name": "鲁尼"
+    },
+    {
+      "name": "梅西"
+    },
+    {
+      "name": "吉格斯"
+    },
+    {
+      "name": "弗林托夫"
+    },
+    {
+      "name": "雷德克纳普"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "一档、二档，开球！！！",
+      "win": "达阵！！！",
+      "lose": "打得漂亮！"
+    },
+    {
+      "opening": "我热爱对战，就像热爱橄榄球一样！",
+      "win": "对橄榄球的热爱，给了我获胜的力量！",
+      "lose": "看来光有热爱还不够。"
+    }
+  ]
+}

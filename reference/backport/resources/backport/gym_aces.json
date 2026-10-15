@@ -1,0 +1,20 @@
+{
+  "normal": [{"dex":493}],
+  "fire": [{"dex":250},{"dex":643}],
+  "water": [{"dex":382},{"dex":484}],
+  "electric": [{"dex":644},{"dex":1008}],
+  "grass": [{"dex":492}],
+  "ice": [{"dex":646}],
+  "fighting": [{"dex":892,"form":"singlestrike"},{"dex":892,"form":"rapidstrike"}],
+  "poison": [{"dex":890}],
+  "ground": [{"dex":383},{"dex":645}],
+  "flying": [{"dex":384},{"dex":249},{"dex":717}],
+  "psychic": [{"dex":150},{"dex":791},{"dex":792}],
+  "bug": [{"dex":649}],
+  "rock": [{"dex":719},{"dex":639}],
+  "ghost": [{"dex":487},{"dex":792},{"dex":802}],
+  "dragon": [{"dex":384},{"dex":483},{"dex":484}],
+  "dark": [{"dex":717},{"dex":491}],
+  "steel": [{"dex":483},{"dex":791}],
+  "fairy": [{"dex":716},{"dex":888}]
+}

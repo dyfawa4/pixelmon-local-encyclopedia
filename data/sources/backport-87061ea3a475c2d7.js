@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-87061ea3a475c2d7"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"传说异姿"},"description":{"text":"让自己拥有的传说与幻之宝可梦，实际完成特殊形态变化。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true},"criteria":{"earned":{"trigger":"minecraft:impossible"}},"parent":"pixelmon_backport:legends/root"}};

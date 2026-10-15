@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-f07f03a3058c7e30"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"伽勒尔与洗翠的传说"},"description":{"text":"完成这一篇章中的首次获得。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true},"criteria":{"earned":{"trigger":"minecraft:impossible"}},"parent":"pixelmon_backport:legends/root"}};

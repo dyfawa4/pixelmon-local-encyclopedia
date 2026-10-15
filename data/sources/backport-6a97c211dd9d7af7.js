@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-6a97c211dd9d7af7"]={"json":{"id":"Backport_RagingBolt","spawnInfos":[{"spec":"species:RagingBolt","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["ultra space"],"times":["DAY"]},"rarity":0.1}]}};

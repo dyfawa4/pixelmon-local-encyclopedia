@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:483s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "白驹过隙"
+    },
+    "description": {
+      "text": "成功获得帝牙卢卡。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen4"
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-e89a12568bf3102d"]={"json":{"id":"Mega Falinks","spawnInfos":[{"spec":"species:Falinks","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["savannas","mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

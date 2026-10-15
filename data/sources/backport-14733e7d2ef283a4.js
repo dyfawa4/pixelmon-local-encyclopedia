@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-14733e7d2ef283a4"]={"json":{"id":"Mega Floette","spawnInfos":[{"spec":"species:Floette form:az","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["flowery","magical"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

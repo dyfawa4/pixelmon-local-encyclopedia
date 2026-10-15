@@ -1,0 +1,22 @@
+{
+  "id": "Mega Skarmory",
+  "spawnInfos": [
+    {
+      "spec": "species:Skarmory",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "savannas",
+          "mesas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

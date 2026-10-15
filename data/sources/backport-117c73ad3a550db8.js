@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-117c73ad3a550db8"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"卡洛斯的传说"},"description":{"text":"完成这一篇章中的首次获得。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true},"criteria":{"earned":{"trigger":"minecraft:impossible"}},"parent":"pixelmon_backport:legends/root"}};

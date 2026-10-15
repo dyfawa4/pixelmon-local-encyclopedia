@@ -1,1 +1,1 @@
-window.DEX_DATA["items:minecraft_dragon_breath"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[{"item":"minecraft:dragon_breath","min":1,"max":1,"chance":0.1,"pokemon":"Eternatus"}],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:minecraft_dragon_breath"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[{"item":"minecraft:dragon_breath","min":1,"max":1,"chance":0.1,"pokemon":"Eternatus"}],"referenceDrop":{},"special":"","ball":null};

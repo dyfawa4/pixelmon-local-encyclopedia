@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-7ed2472bf1f44446"]={"json":{"npctype":"chat","skins":[{"filename":"blacksmith.png"}],"names":[{"name":"伊尔弗雷德"}],"chat":[{"lines":[{"text":"欢迎来到岩石道馆。"},{"text":"我们的馆主会让你败下阵来！"},{"text":"当你以为结束时，真正的战斗才刚刚开始。"}]}]}};

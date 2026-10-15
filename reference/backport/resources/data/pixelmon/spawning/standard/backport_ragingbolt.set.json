@@ -1,0 +1,23 @@
+{
+  "id": "Backport_RagingBolt",
+  "spawnInfos": [
+    {
+      "spec": "species:RagingBolt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "ultra space"
+        ],
+        "times": [
+          "DAY"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

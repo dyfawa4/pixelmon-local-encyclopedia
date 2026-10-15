@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-7904960cda46afbf"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"阿罗拉的传说"},"description":{"text":"完成这一篇章中的首次获得。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true},"criteria":{"earned":{"trigger":"minecraft:impossible"}},"parent":"pixelmon_backport:legends/root"}};

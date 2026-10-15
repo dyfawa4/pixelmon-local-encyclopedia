@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-297bea13cb97630d"]={"json":{"skins":[{"filename":"suit.png"}],"names":[{"name":"马克"},{"name":"布兰登"},{"name":"罗伯特"},{"name":"亨利"}],"chat":[{"lines":[{"text":"我太紧张了，希望宣誓时别说错！"}]},{"lines":[{"text":"今天是我一生中最幸福的日子，我迫不及待想结婚啦！"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-e6c322f23b8d5203"]={"json":{"id":"Backport_Munkidori","spawnInfos":[{"spec":"species:Munkidori","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["swamps","roofed"],"times":["DAWN","DUSK"]},"rarity":0.5}],"tags":["legendary"],"interval":"legendary"}};

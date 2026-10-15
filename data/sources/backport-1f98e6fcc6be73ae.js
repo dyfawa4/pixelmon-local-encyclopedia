@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-1f98e6fcc6be73ae"]={"json":{"id":"Mega Scolipede","spawnInfos":[{"spec":"species:Scolipede","stringLocationTypes":["Land","Tree Top"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["jungles"],"times":["NIGHT","DUSK"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

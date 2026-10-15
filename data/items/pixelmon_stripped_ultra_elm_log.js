@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_stripped_ultra_elm_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:stripped_ultra_elm_wood","pixelmon:ultra_elm_planks"],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_stripped_ultra_elm_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:stripped_ultra_elm_wood","pixelmon:ultra_elm_planks"],"drops":[],"referenceDrop":{},"special":"","ball":null};

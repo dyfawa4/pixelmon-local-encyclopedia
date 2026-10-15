@@ -1,0 +1,10 @@
+{
+  "display": {
+    "icon": {"item": "pixelmon:pixelmon_sprite", "nbt": "{ndex:1026s,palette:\"none\",form:\"\",gender:0b}"},
+    "title": {"text": "最好的伙伴"},
+    "description": {"text": "获得独立传说宝可梦：戴帽子的皮卡丘。"},
+    "frame": "challenge", "show_toast": true, "announce_to_chat": true, "hidden": true
+  },
+  "criteria": {"earned": {"trigger": "minecraft:impossible"}},
+  "parent": "pixelmon_backport:legends/gen7"
+}

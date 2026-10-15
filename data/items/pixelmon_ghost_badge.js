@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_ghost_badge"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backportText":"用途：幽灵属性道馆的挑战纪念徽章，可收藏或展示。\n获取：击败幽灵属性道馆馆主后，从战利品界面领取对应胜利奖励。\n道馆地点：灵魂沙峡谷（下界）。需探索启用结构生成的未生成区域。","backport":true};

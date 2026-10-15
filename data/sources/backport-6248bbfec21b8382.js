@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-6248bbfec21b8382"]={"json":{"id":"CapPikachu","spawnInfos":[{"spec":"species:CapPikachu level:70","stringLocationTypes":["Land"],"tags":["legendary"],"interval":"legendary","typeID":"pokemon","condition":{"stringBiomes":["minecraft:plains"],"structures":["village"]},"rarity":1.0}]}};

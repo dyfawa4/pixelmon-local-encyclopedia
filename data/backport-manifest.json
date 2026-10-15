@@ -1,0 +1,2406 @@
+{
+  "version": "1.4.4",
+  "status": "正式版",
+  "date": "2026-10-15",
+  "sourceThread": "codex://threads/01a12f16-f804-7ab3-8049-58b83b63926b",
+  "sources": [
+    {
+      "path": "docs/CAP_PIKACHU_1.4.4.md",
+      "local": "reference/backport/docs/CAP_PIKACHU_1.4.4.md",
+      "sha256": "d82452e4d5fe0504e91e14b03e556993e5941da8bf589060ece7a27938c830ca"
+    },
+    {
+      "path": "docs/GRENINJA_1.4.4.md",
+      "local": "reference/backport/docs/GRENINJA_1.4.4.md",
+      "sha256": "1237c05e7d065611dbf7f4809c68431b97c5355fd42f1bf2e02862ac3dacfaa8"
+    },
+    {
+      "path": "docs/LEGENDARY_ADVANCEMENTS_1.4.4.md",
+      "local": "reference/backport/docs/LEGENDARY_ADVANCEMENTS_1.4.4.md",
+      "sha256": "3a84a93af6678d721648e5b9f8c3dfb4f996aa40a2cd6dcac15ca2e6b0a40409"
+    },
+    {
+      "path": "GYM_GENERATION.md",
+      "local": "reference/backport/GYM_GENERATION.md",
+      "sha256": "c9c77f3cc8e374c206ab19311220a0de82ad89e8b8ad9e9286f48e5bbfa61f9a"
+    },
+    {
+      "path": "HANDBOOK.md",
+      "local": "reference/backport/HANDBOOK.md",
+      "sha256": "16b5069a580897196b2a1b71390dc59c71782299118a059a5612fa71b4938847"
+    },
+    {
+      "path": "resources/assets/explorerscompass/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/explorerscompass/lang/zh_cn.json",
+      "sha256": "fef030e16f6461f9325b14078fa854c72c39b31b67bb33541d1a6229a6951a59"
+    },
+    {
+      "path": "resources/assets/ftbmoney/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/ftbmoney/lang/zh_cn.json",
+      "sha256": "d84631704c0b20890bbb1e3e979d66741beec4f7f24487717d4a5067f666256e"
+    },
+    {
+      "path": "resources/assets/naturescompass/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/naturescompass/lang/zh_cn.json",
+      "sha256": "cb8599024948453c518fecff59ab0390c512723c11b01b6f1cf187fe73d3ec14"
+    },
+    {
+      "path": "resources/assets/pixelmon/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/pixelmon/lang/zh_cn.json",
+      "sha256": "73b5da5df7b2147a8cb38c5e8fef6e9b262f86e7d956d4c6fda66c5e4b8d29de"
+    },
+    {
+      "path": "resources/assets/pixelmon_backport/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/pixelmon_backport/lang/zh_cn.json",
+      "sha256": "530c425628ddd149d73d5f659a58e163d180643f33c029ece7b0d0323e6e03a2"
+    },
+    {
+      "path": "resources/assets/pixelmondetector/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/pixelmondetector/lang/zh_cn.json",
+      "sha256": "e34904fa575adb8b0c4ea8dba84901d1bbfa05bf533f6354bdd4cab82dcf33c5"
+    },
+    {
+      "path": "resources/assets/pixeltweaks/lang/zh_cn.json",
+      "local": "reference/backport/resources/assets/pixeltweaks/lang/zh_cn.json",
+      "sha256": "e7abe64c3c3b8a984c728ffafc068667f03132f4fa4ed1dc5b631b639dce75e7"
+    },
+    {
+      "path": "resources/backport/advancements.json",
+      "local": "reference/backport/resources/backport/advancements.json",
+      "sha256": "28bb345ff6111d5a86d8f2e88eaf33f32c60592112d25477e120e4685b0b0ed0"
+    },
+    {
+      "path": "resources/backport/ash_cap.json",
+      "local": "reference/backport/resources/backport/ash_cap.json",
+      "sha256": "73391eec06ad43a25dc03f7a0776605fd3c6204f8ad40efb801cace429936649"
+    },
+    {
+      "path": "resources/backport/cap_pikachu.json",
+      "local": "reference/backport/resources/backport/cap_pikachu.json",
+      "sha256": "2b8418319c711f75ce84430844f1ca48e7158db63523e0a9e553c70f219bf115"
+    },
+    {
+      "path": "resources/backport/compass_names.json",
+      "local": "reference/backport/resources/backport/compass_names.json",
+      "sha256": "9d5089687d7ba6a6e0e45be1ae5dc95a9c3ea41a84a456e20aff51fce645be4f"
+    },
+    {
+      "path": "resources/backport/content.json",
+      "local": "reference/backport/resources/backport/content.json",
+      "sha256": "386241450c33a3ead02541db849b564383e279538921ae342d64827dd6883c23"
+    },
+    {
+      "path": "resources/backport/gym_aces.json",
+      "local": "reference/backport/resources/backport/gym_aces.json",
+      "sha256": "2ec5224c60b295af843c2f2c3b1ed7f43c903f9bc622db32783f18ec9ea2fe13"
+    },
+    {
+      "path": "resources/backport/gym_cities.json",
+      "local": "reference/backport/resources/backport/gym_cities.json",
+      "sha256": "2a3f1ff71eb4e48896ef9685b4d7d31eef01d4c29416e6d01ae8ea3a87b88164"
+    },
+    {
+      "path": "resources/backport/gym_templates.json",
+      "local": "reference/backport/resources/backport/gym_templates.json",
+      "sha256": "b3cc727db707a2a629fbe06a6e2bbab56ed7ecc229f9a5c2ded5969b9d8368ba"
+    },
+    {
+      "path": "resources/backport/item_help.json",
+      "local": "reference/backport/resources/backport/item_help.json",
+      "sha256": "3421549be42133aa127393f2a65f8be4029cbc377f3b589130cfb764a65a5f86"
+    },
+    {
+      "path": "resources/backport/mega_avatar_sources.json",
+      "local": "reference/backport/resources/backport/mega_avatar_sources.json",
+      "sha256": "5046b8d87a2612560149d25ddf80d9d8a9c8d5dc1790615078f3bfead574fdde"
+    },
+    {
+      "path": "resources/backport/modern-moves.json",
+      "local": "reference/backport/resources/backport/modern-moves.json",
+      "sha256": "7279ccfad99a5be2473146d93afb16d417d782d1f514cc8c800d925b1dd38e0f"
+    },
+    {
+      "path": "resources/backport/npc_localization.json",
+      "local": "reference/backport/resources/backport/npc_localization.json",
+      "sha256": "fc90fdf13c76bc124f031a64f250f4da683bd637bd25f328f4563a4d1b480120"
+    },
+    {
+      "path": "resources/backport/raid_spawn_exclusions.json",
+      "local": "reference/backport/resources/backport/raid_spawn_exclusions.json",
+      "sha256": "db0677eb4d398c32ff33ae0bb85cdfc27ef5e1f2b961d76f85b30e896ef8c528"
+    },
+    {
+      "path": "resources/backport/riding.json",
+      "local": "reference/backport/resources/backport/riding.json",
+      "sha256": "aadcc0853369f27c3da2828a4b5047ae9b40ffbce52be9d4082f4f6c68ce5b70"
+    },
+    {
+      "path": "resources/backport/species_names_zh.json",
+      "local": "reference/backport/resources/backport/species_names_zh.json",
+      "sha256": "a938858a2ac6df6fe724a8f52e6d889235645b373ec03651dd42fca538c56d9b"
+    },
+    {
+      "path": "resources/backport/tera_learning.json",
+      "local": "reference/backport/resources/backport/tera_learning.json",
+      "sha256": "16cc1cc32d5ffaa63d3cedd6c5d0bda9ef5c0eb535ae54d54d28e2d1fad9a9f1"
+    },
+    {
+      "path": "resources/backport/tera_raids.json",
+      "local": "reference/backport/resources/backport/tera_raids.json",
+      "sha256": "6d150f630af9dc6a353abf874b49b7683586a920531c0d1696345bd587a19df8"
+    },
+    {
+      "path": "resources/data/pixelmon/advancements/specs/eeveelution_capture_all.json",
+      "local": "reference/backport/resources/data/pixelmon/advancements/specs/eeveelution_capture_all.json",
+      "sha256": "9f26aff106759d4f566c7cc102f3eca12d2e2da88d58d1068dd6ea487335e624"
+    },
+    {
+      "path": "resources/data/pixelmon/advancements/specs/feebas_karp_trigger.json",
+      "local": "reference/backport/resources/data/pixelmon/advancements/specs/feebas_karp_trigger.json",
+      "sha256": "8ca594f2a46c611229211e365c50b4a8944f3b448a0ac0f578da797c81278552"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/electricgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/electricgymbase_zh_cn.json",
+      "sha256": "6923d857d653f97e7336036150bdf36d58840ef2830fbf5ff37217ce711af760"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/electricgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/electricgymintro_zh_cn.json",
+      "sha256": "32ebe96e415654fde96f5cb4d5b2ce2039ae6460f459cbae5560c8fe42c31c8e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/electricgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/electricgymleader_zh_cn.json",
+      "sha256": "7b4c321b290af95358a8d04c601796a9294b88cf68b122f2e995cac05956bdda"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegym2base_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegym2base_zh_cn.json",
+      "sha256": "29f79742ae3476801f913a40d914296045e8b87b2fde18278196a8ad3eb07cf8"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegym2intro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegym2intro_zh_cn.json",
+      "sha256": "46d4cb516bb413c044e9b9e1a79fac828bac0a2957ed1de145bf2fd15732c433"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegym2leader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegym2leader_zh_cn.json",
+      "sha256": "461954d9ec81f0104b87a438edf9f4ea1c715b1d09460476bac8226d33de672a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegymbase_zh_cn.json",
+      "sha256": "739ea1c8ea5d470e2422bc9f628f6673ffe9d7999bccdc78970043e9aca0595a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegymintro_zh_cn.json",
+      "sha256": "241ac389758dc986e0ae2dcac76068a8e746a9726db1e0ab3559fc64fab39318"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/firegymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/firegymleader_zh_cn.json",
+      "sha256": "2e7ea3620a47b67546fe7b5be408359ee30f96c1465b01ac2de55a215eb57239"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/flyinggymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/flyinggymbase_zh_cn.json",
+      "sha256": "e9c5700bad275e53f6954e36e89582ae3bddcff2a81b51e47eb30f053175c427"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/flyinggymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/flyinggymintro_zh_cn.json",
+      "sha256": "3bf415768320539bd25cbddfcd954853fa692d09c8ae5bf0742abd6d354a6f36"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/flyinggymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/flyinggymleader_zh_cn.json",
+      "sha256": "09c64740c6d4dfe51f1639b9c03f52d63aaf83a1829c7f0c1224af5e1c23f0a4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassbuggymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassbuggymbase_zh_cn.json",
+      "sha256": "d7dc3deba3435afee85f86fa76517c2c1b72af40f32ef27c8f61ee3ee9a8bcd9"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassbuggymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassbuggymintro_zh_cn.json",
+      "sha256": "2df9c09115335be30ceaa3ccc7e20dc656781e66a9f4f3fb51e0a90ed147382a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassbuggymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassbuggymleader_zh_cn.json",
+      "sha256": "895355cb9d4eeaddd7a6a3b3cdba598550911b4a0b8d3a480a6b097220d355bf"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassgymbase_zh_cn.json",
+      "sha256": "ba60f0f6e5aa921d839dd6e8405acd6a7174f67e28a71f4b06911b5c4948fe0a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassgymintro_zh_cn.json",
+      "sha256": "f82d22776d1316a7e113157440f8d97fe9a96ddbd016d08b531f27467f75a1b7"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/grassgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/grassgymleader_zh_cn.json",
+      "sha256": "3e5de85ef48561bac21b3abd847dc06efa91f8942a403d0957fc819ad8cc8972"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/groundgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/groundgymbase_zh_cn.json",
+      "sha256": "4327b182a670254fb569447e84746bca3875ca8af271b8c7aef6395bfac01f76"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/groundgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/groundgymintro_zh_cn.json",
+      "sha256": "55e98af59210cc679307ab180cc192ebb4e368d326dc84e4ddfffa6ceb911f58"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/groundgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/groundgymleader_zh_cn.json",
+      "sha256": "c112b51d03f74e5ef57f8b8096153b187454a220c13361eda4443859d33de3bf"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegym2base_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegym2base_zh_cn.json",
+      "sha256": "8ed478aee6b6c93329f343591faabed261e50613b22386dd0167215a4a067cfd"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegym2intro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegym2intro_zh_cn.json",
+      "sha256": "da945b3e6dfa2c75703030024344c6f758ca327d405f14f621861e8ff5014154"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegym2leader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegym2leader_zh_cn.json",
+      "sha256": "4c44a733388bb3bee0c004d67e6bf90cb7da3f841abde1bfa399b8021b40e4ae"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegymbase_zh_cn.json",
+      "sha256": "d16b533a20c6fba2b8faef711b58e54f06b7b891b47477ce394a2f2b5c252336"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegymintro_zh_cn.json",
+      "sha256": "19083f68a46fbbe5f155336ad76d265fa4fea3d80c944ca2a30e97a58e6fccac"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/icegymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/icegymleader_zh_cn.json",
+      "sha256": "97cd8a2a1d72fe71cb42e74a6788b13ab7f3d7c99f7c3ecaacefecdcee5d51d2"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/psychicgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/psychicgymbase_zh_cn.json",
+      "sha256": "817c753bc734eaaa5fb542207413ceda32a3cb79411e8adcf02e5c6226cfd22f"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/psychicgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/psychicgymintro_zh_cn.json",
+      "sha256": "ac624bc080a1783ffb5d0d2dbbc0206db09d22c9c1bbf37c24213e52db584db7"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/psychicgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/psychicgymleader_zh_cn.json",
+      "sha256": "5cad6b5613b68ea2787f0c8480a1f79938bb1ea642e5733bef545be1198ccf3d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/rockgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/rockgymbase_zh_cn.json",
+      "sha256": "97793a351f69896e938f574d96bf775ab69882e4d85b3c312df773c499cdbb99"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/rockgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/rockgymintro_zh_cn.json",
+      "sha256": "c3441b3394b753d630cad22750ad047653bb327ec66536314428786c4c31194b"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/rockgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/rockgymleader_zh_cn.json",
+      "sha256": "04dc459311c6125c456c65780f32b952c73767b1d15ad13047336c19493cc69a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/steelgymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/steelgymbase_zh_cn.json",
+      "sha256": "a865b6ac3d3937c5a86dac52798b51d8d2f1af9e6444a87b814dd5f65f0156b2"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/steelgymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/steelgymintro_zh_cn.json",
+      "sha256": "b8109519613c6217d32ff3e5d663b4f8dc30b9ea75fd1ed38da2e6a080665c04"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/steelgymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/steelgymleader_zh_cn.json",
+      "sha256": "62b9c73e1a8c83acf08a8e15fedb05cc56c45cc19ddbe1bcf81e3c038793c144"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergym2base_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergym2base_zh_cn.json",
+      "sha256": "6824697769d4ab17a69d09f15f9910356e1b757238e2c937bfe99ee994589134"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergym2intro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergym2intro_zh_cn.json",
+      "sha256": "f595deb59f94762567048e1f09502848f9db6c6de21eb68c3d07093c56c41a74"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergym2leader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergym2leader_zh_cn.json",
+      "sha256": "ad2ebededa93f29cdc1823afcb703bee7e3ea067080b3c97ba4bf24ea6fb3ce1"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergymbase_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergymbase_zh_cn.json",
+      "sha256": "290f720fef3e88f72668f63f6ee7c1615f2f3cf2006c4ea39c7386b96b91bf0a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergymintro_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergymintro_zh_cn.json",
+      "sha256": "5d543a83a5b5b6946b24a42467b69313f8806922358b9e97aec1ebfa61289df3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/gyms/watergymleader_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/gyms/watergymleader_zh_cn.json",
+      "sha256": "764ffd030e18b3acd88b115aec9b414405ddf37fd12fa2a4b51504e2dea07078"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartmain1_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartmain1_zh_cn.json",
+      "sha256": "1d566bbe418c2f28b52b9e6f79461917490158640135734a8b203f6fdc36bcc0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartmain2_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartmain2_zh_cn.json",
+      "sha256": "29550c4ab4c348733a410a6187241172b0f823e70adc67c3ade16be3ef7eb5ab"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartmain3_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartmain3_zh_cn.json",
+      "sha256": "797dab1786b854956b12a440623738651bbee1d710d9257f8df05a97633360b3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartsecond1_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartsecond1_zh_cn.json",
+      "sha256": "a3d2f4fea4120766b23fae1aade27cd66c78ec06bb3d2750d7e365450278a638"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartsecond2_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartsecond2_zh_cn.json",
+      "sha256": "994224656d333c29c198e489f20d099755c632c8ea9c3022d20c12ed72394079"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/pokemartsecond3_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/pokemartsecond3_zh_cn.json",
+      "sha256": "830ca77514f34ae3b1fe5023b5146182059b5ceebc7a56443b8b0182b7c29f7d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/spawn1_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/spawn1_zh_cn.json",
+      "sha256": "d81a1c8fc6a4b572cf6d849c965714f4c9891affb30000d37780c8d703984e04"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/shopkeepers/spawn2_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/shopkeepers/spawn2_zh_cn.json",
+      "sha256": "eeb6684854bc1443e18a0a305271d4883b3dcc6977e1b4829440dc0910a0f4d6"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/aquaboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/aquaboss_zh_cn.json",
+      "sha256": "0d071a62ce5e9bb79f1e9c1419877fef96f4ea7506df92731e63cda04acc85a4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/blacksmith_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/blacksmith_zh_cn.json",
+      "sha256": "58e147c013e45f5328c79875d0c675df99a20d5079a39e2188038fecd20f4338"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/bugcatcher_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/bugcatcher_zh_cn.json",
+      "sha256": "d2c2b9cdc052dc5e3595802bb67d12e9d1b45cd953189092efaded95a842bd73"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/bugmaniac_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/bugmaniac_zh_cn.json",
+      "sha256": "72129fe710e68ffbe742a6483bdbf16664b6d4e7fe54ef75ac5b2c25c5727c5d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/femaleaquagrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/femaleaquagrunt_zh_cn.json",
+      "sha256": "9b61cf0043272bfa76f801d96f82e6a95bd04caf45363f4dc82995dd8044fd4a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/femalemagmagrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/femalemagmagrunt_zh_cn.json",
+      "sha256": "45f452c0ecc4f658bb7efa3c9555174e5241b565ff731bcdbc88564994b86f1e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/femalerocketgrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/femalerocketgrunt_zh_cn.json",
+      "sha256": "aa49f38b2abd426ff5d4a9a011a2fb9b6c702fa49ada7fedfa36b5c9b5186f9e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/firebreather_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/firebreather_zh_cn.json",
+      "sha256": "6377ed4bd8e9d3691e6a5bd4f05184be2cd3e8eb6b04c2ef7331bf10e31b34c4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/fisherman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/fisherman_zh_cn.json",
+      "sha256": "4cacc5a2c232174f7b31d4b9437ca34eae0b3e86860ea7aeaf9bc6a416a56ab5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/flaregruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/flaregruntfemale_zh_cn.json",
+      "sha256": "1c7db8a6d104fcf074170e4aff9a672dfba57eb85e81f3b698875ebdeba0d6a5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/flaregruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/flaregruntmale_zh_cn.json",
+      "sha256": "6ebb8c504667a9bb438d62fba8b8c812dab2aa08909a583fc65b91f0eb5f68c7"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/galacticboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/galacticboss_zh_cn.json",
+      "sha256": "f745764fbef5b8990c622611e8bb4bbecfaf4e7637643564f546814ff0b46500"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/galacticgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/galacticgruntfemale_zh_cn.json",
+      "sha256": "c925274390ad79e9517e91c9caa364586a40ac15346e9a8cbc46f11e97ae77e0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/galacticgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/galacticgruntmale_zh_cn.json",
+      "sha256": "dd38e448c22417be61cdf3e86c3b0ffe7c427f9adc34c856d975bb655a78d1b9"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/gardener_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/gardener_zh_cn.json",
+      "sha256": "66ddf11ab653ad80212b62805d46a28b97095b8662641db8624965bffa71bb18"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/gentleman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/gentleman_zh_cn.json",
+      "sha256": "570a7a5eb11b3974f38a2fb4d137bef702dfc28ba52cecb46516781046f8a412"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/giovanni_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/giovanni_zh_cn.json",
+      "sha256": "d6ef9cd7e2f93e648d879f0522fbe5f37faf142d797a1087671c970dd8e203a5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/guzma_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/guzma_zh_cn.json",
+      "sha256": "010185e5cdc142c192f364da5b9bd2b2b0cb486da943f40b78ccf906d08a024b"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/lass_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/lass_zh_cn.json",
+      "sha256": "5aaf42c75b0bb836c396e66908d49315fab4a137277ba69969e9a1c96e76c786"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/magmaboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/magmaboss_zh_cn.json",
+      "sha256": "9ff4109adebee699910c4241410c4c08b5f905d002b9f57d39c53b50fe69180d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/maleaquagrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/maleaquagrunt_zh_cn.json",
+      "sha256": "bffba9b3a95c4095d425309325cc6d95a25d95402e8b5b80a9fcd95e261da18b"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/malemagmagrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/malemagmagrunt_zh_cn.json",
+      "sha256": "70091710617f8e2545bca8664445fea1b1c3bc5a1c56f7857286d04f2e7921f8"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/malerocketgrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/malerocketgrunt_zh_cn.json",
+      "sha256": "a66b5af146b9b394d4051ee6fd27d647c99ffb203fdd806a2e256004422c268b"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/miner_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/miner_zh_cn.json",
+      "sha256": "348fcd791dd5cc0eb800afaacafc3cc9ffdd348ee1054d6cb38ce11f9c1e49cb"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/mountaineer_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/mountaineer_zh_cn.json",
+      "sha256": "f12facd85b6278e9e04ba90901487a05ea7ad0a595ae6069557d313eb7077e1e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/n_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/n_zh_cn.json",
+      "sha256": "fe9686d642b5f7e4e66dbb14085187d503416973a04dc52164f5f4b6f581b992"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/ornithologist_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/ornithologist_f_zh_cn.json",
+      "sha256": "582d7f358cb597908a9ca44ce7b75628ad25dca057c9dea214b9d28f47a51001"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/ornithologist_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/ornithologist_zh_cn.json",
+      "sha256": "e3f0c1dca95f47da390ec277ca165787af8fb6613c06691d519a744fa8c132d9"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/pirate_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/pirate_zh_cn.json",
+      "sha256": "8d6e37b83beaacf8fb2a020440a25befec0cde7ba15bdb957cb783d27d37203d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/pkmnbreeder_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/pkmnbreeder_f_zh_cn.json",
+      "sha256": "865ba7d4f4e9ee622180780e3c0eec75545bfb5cd4e6eeef249f1d403c63c867"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/plasmagruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/plasmagruntfemale_zh_cn.json",
+      "sha256": "0508c0e0eaadd7f7e021db0fedaccad07f49617e1d18cff7467ae4434015b221"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/plasmagruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/plasmagruntmale_zh_cn.json",
+      "sha256": "76a9a8fa84f05349df8a09828ce7d38b501227325d7e5a3615a5543ad2350649"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/pokemaniac_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/pokemaniac_zh_cn.json",
+      "sha256": "0a94f548f91674ae0dcc2acc82d6d736c03640d782968aa79df405489a410966"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/pokemaniacgirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/pokemaniacgirl_zh_cn.json",
+      "sha256": "8e69f8197b47f89d23dfbb1cd8845099287269a0c9a9942f88ee2328298728b0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/policeman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/policeman_zh_cn.json",
+      "sha256": "f9cdc81ef09dc22d1834e576ba128a5e3df988ba58caad252aeab14dcdf473d6"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/preschoolergirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/preschoolergirl_zh_cn.json",
+      "sha256": "cf7117fdd6e15c919028af1dc14ae5e6d144064fa4649e036a78f5d7aa824288"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/rancher_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/rancher_zh_cn.json",
+      "sha256": "8e056931c4b50822df42ac10859e3d9ecc769c763d441afa6bb2bcfc60e6e0de"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/richboy_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/richboy_zh_cn.json",
+      "sha256": "2505225a0718081c67072ae44746b9cb7a79b200de289280817a910bcdf5d497"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/scientist_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/scientist_zh_cn.json",
+      "sha256": "a92d7629474007e6a246168bbe9f4390100d1c7de8051b3ca263381a75b4ffe3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/scientistwoman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/scientistwoman_zh_cn.json",
+      "sha256": "19e6f7c3f74cdc829e4186cadea03446615ed1f312df72de4b38fc6ec52babc4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/skullgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/skullgruntfemale_zh_cn.json",
+      "sha256": "f06b298a8b3c85fb7f7ed801dad2b331f466e1f450299d0c6c55d5851ecb1c12"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/skullgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/skullgruntmale_zh_cn.json",
+      "sha256": "a8fa167483b4689efa209387d0aa141810fced523f182305098a4ce63192b81e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/sport_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/sport_zh_cn.json",
+      "sha256": "d6f5f43f2f9c7ad01680fd7f66459e5145b65390d2341a465f284b7b42ca8b47"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/steve_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/steve_zh_cn.json",
+      "sha256": "c11e92edf59fe0587d2c546ffdbc86e785bd95aa6b77158eca0cfb7d5bc8b041"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/swimmer_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/swimmer_zh_cn.json",
+      "sha256": "d1cd0422b76a12ebc1d94833683891d504c12a320bcd5416681968e64ac289b0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/teamyellgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/teamyellgruntfemale_zh_cn.json",
+      "sha256": "082d174ea5ed7ec0722123e9ede3af5299c879d811714edabbfc23f2a43701e7"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/teamyellgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/teamyellgruntmale_zh_cn.json",
+      "sha256": "866ceac3bf7b022d23bec9d1e0dcd60574ce40d257e4983446a459de264e45c8"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/trainers/youngster_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/trainers/youngster_zh_cn.json",
+      "sha256": "943682efc2bfaed4fc8230059084e21b1b4dd6aed37bceb10345663764d54ccf"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/aquaboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/aquaboss_zh_cn.json",
+      "sha256": "dd349b731b5e7c650e01e5902fa353fbe0bc4182ec83cc33f8db0c00addaca4f"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/aquagruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/aquagruntfemale_zh_cn.json",
+      "sha256": "63e15c58619ffec050ab46aea796a5b7a58470d1c5fc77eafbaccdc57357a483"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/aquagruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/aquagruntmale_zh_cn.json",
+      "sha256": "b7e7900f820e9d4c1ade8f15b0d23bf62c4aebbb8e7b248014a5480b95a591d6"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/artist_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/artist_zh_cn.json",
+      "sha256": "229d960b36c2ad75e072bbd056d38eb90929e854af3d14d8594d607742679201"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/baker_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/baker_zh_cn.json",
+      "sha256": "e03399f18def84c1f8162732d8f0261cf27ca823baf38d8f30d853c1ba7f4b8e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/battlegirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/battlegirl_zh_cn.json",
+      "sha256": "f90c3e693ee7c8caae79f46262330aec8d31827bff33d3d777d16b9a0325c774"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/blackbelt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/blackbelt_zh_cn.json",
+      "sha256": "1c18173790458a8ba5d459c48e9b3d57ea60f425672f590ad732feb89f748230"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/blacksmith_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/blacksmith_zh_cn.json",
+      "sha256": "ede0f7f6ecc75eeb681573048e084c915c0f28af365a5690232bac1ec9d6839a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/bride_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/bride_zh_cn.json",
+      "sha256": "50b301edf82da34285f4a6d29af5c9ee8271d04cdd14626d9e3289b427a11d54"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/cult_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/cult_zh_cn.json",
+      "sha256": "2748489b6364895bf4256ecdf613cca3bbdaf9bc8c098bf021d3c858a8cf271d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/doctor_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/doctor_zh_cn.json",
+      "sha256": "ac4b6545d52b8f43b0802eba47d298b66948bc2c06889468ac0acb27a2ced3d0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/engineer_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/engineer_zh_cn.json",
+      "sha256": "389ec939ae3c488e408dbe57d102765f3aba56206fe4c5588f5e30a6e86eade9"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/evilprofessor_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/evilprofessor_zh_cn.json",
+      "sha256": "57989a9ac60a461bfc573cf8973da1c3d38ebb443fdff91b1e67ac721606519e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/fisherman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/fisherman_zh_cn.json",
+      "sha256": "1563641bb04edfd14a44e4676e0adb96e2b52544e15d36a3c7aa6d76eb8fba82"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/flaregruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/flaregruntfemale_zh_cn.json",
+      "sha256": "8fd24b40a311ae86088049f028f19921413827c236ac9540f83757149b042dde"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/flaregruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/flaregruntmale_zh_cn.json",
+      "sha256": "7a2c8b9db9c5927d927f2a6d88043d873ad594e700a1416677083f23071e5fd1"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/galacticboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/galacticboss_zh_cn.json",
+      "sha256": "af199855709fdad9a3f1dfc77624ef8636724f1dfde977264f3e6eef1378b900"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/galacticgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/galacticgruntfemale_zh_cn.json",
+      "sha256": "859f57e60896d1d0ea0dc6268373aa765954a5ed5c6f18344bcd94173adedef4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/galacticgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/galacticgruntmale_zh_cn.json",
+      "sha256": "47cad0c0d4217a48e841829ebac97ac7c604c763bdab5610ea185878f4b0bc97"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/gardener_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/gardener_zh_cn.json",
+      "sha256": "1f540b29e34955ceca575f5cf3510fe61530202a9f64b0a958037b3f5e3226f4"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/giovanni_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/giovanni_zh_cn.json",
+      "sha256": "cea51b58c38e8033a29a050c857a1177286279766baae306d631159a286fc37d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/groom_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/groom_zh_cn.json",
+      "sha256": "0af4f428677e6f5ed68d267d0df9789a929ca8ff3e051a0beaa9b639f3717e07"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/guzma_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/guzma_zh_cn.json",
+      "sha256": "46b9108ba3ffceaab30f5520b7e809d8581fdf95f74b3600b9045d9402b60488"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/hexmaniac_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/hexmaniac_zh_cn.json",
+      "sha256": "4c7064d93f054cfc99fa17ca2b0630ed0644d04e7f3ac9be1ea65d7c30282459"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/hiker_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/hiker_zh_cn.json",
+      "sha256": "1ad11024b2e991a00aaca02263420bf0a5699f2a3d2fb7efb61189c888a18d04"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/jonsnow_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/jonsnow_zh_cn.json",
+      "sha256": "e8d9fd67c0b1020dcb3e8725b96a9f32cf6714ee77be3cc423690586d7260daa"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/knight_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/knight_zh_cn.json",
+      "sha256": "451e1afa790345b53fec68e4b58454ba3b0c9a7590e4c233929bb59a1ef6b9a1"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/lass_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/lass_zh_cn.json",
+      "sha256": "75a6523880fe9c500037ea98741e2c1b6cf2012b658ce17d166d99e4d006fd37"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/lighthousekeeper_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/lighthousekeeper_zh_cn.json",
+      "sha256": "4186b3dee0a226d726b8df77fe5eb632c10f94622cf3b4b3dffb5bd1301c8eb9"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/littleboy_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/littleboy_zh_cn.json",
+      "sha256": "f5bc684b47bdc026b046c3921e7e7bebfa4f5d0403ebced24546f1347999e5a5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/littlegirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/littlegirl_zh_cn.json",
+      "sha256": "0fcbe8e9e36bbb460bd3df3e3e46041d66f20f1b6baa1ea95c281614ff422ec8"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/madame_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/madame_zh_cn.json",
+      "sha256": "fc00ce0a5141cfac3096006666d063333aed9dad0b62eaa4294240276b4a63a7"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/magmaboss_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/magmaboss_zh_cn.json",
+      "sha256": "ed4844db7d72b9ef96ec06c580cdf02ee51d46230bee0ea03fb152072bd014bb"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/magmagruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/magmagruntfemale_zh_cn.json",
+      "sha256": "41450ead80c008f5efef090586adc3afdbcadf7b6c6a0ef3d98f75430b28214e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/magmagruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/magmagruntmale_zh_cn.json",
+      "sha256": "7d3a486834ea73659c4c37d45df869d47af2a254e907e9eafeb7c642348a2820"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/mailman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/mailman_zh_cn.json",
+      "sha256": "b094467a1c55845957d4a8b0a79b49e688778d3d9182bd166913fe08aafc0317"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/mechanic_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/mechanic_zh_cn.json",
+      "sha256": "a6414e06a6bc9215ff4e1ce07ef13bcb2a3d432b70d3a187c8bea316a58c1e32"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/monk1_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/monk1_zh_cn.json",
+      "sha256": "eedb43787ad3e379b92bcd4ece3563301b2cc609bf0a4814b4758118ba2820f3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/monk2_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/monk2_zh_cn.json",
+      "sha256": "aeb9ae182de84e6db2f84e2567988bae390b9460f59cabae82320dacad395abe"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/monsieur_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/monsieur_zh_cn.json",
+      "sha256": "27b4818fd7d64f03f42e97605a576d926d5ad3d5579d1cd90e45af092d82472a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/n_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/n_zh_cn.json",
+      "sha256": "42aac11a4d47b2dd2eea57e570841916e4b76cfb0a6a35fc3a14dc881664f59b"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/officerjenny_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/officerjenny_zh_cn.json",
+      "sha256": "60a6881426f2d4af270ef43ececfeea3648bba68bac207e9e96877b177648ca2"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/oldman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/oldman_zh_cn.json",
+      "sha256": "e2bedcb0fdf7f5b0b757a32b9e76e9b02f81b0c3447a033e6da589244bfbed08"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/ornithologist_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/ornithologist_zh_cn.json",
+      "sha256": "f9299f9dbff63389f6f743a4c5b3d2c403a7bedd653237558ea5dc805d73e06d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/piratecaptain_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/piratecaptain_zh_cn.json",
+      "sha256": "edd9994c369ba7f9d8f1002e297850a185a894c4c6ce21d09bb435a9653d9caf"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/pirategrunt_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/pirategrunt_zh_cn.json",
+      "sha256": "b566a3d72eb2a8bf96468d513b431d56969b8268a42d5f1d8eec929340d71bcd"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/pkmn_breeder_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/pkmn_breeder_f_zh_cn.json",
+      "sha256": "ce900ba140d34ca44e8cda6b67ab55b8c9dd15b0fdb596c8ed334dac81717338"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/plasmagruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/plasmagruntfemale_zh_cn.json",
+      "sha256": "40b15bb439e2e5b3b0a798fbd30219ee951e1e7b3f9eac38c65cc841f2816c5f"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/plasmagruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/plasmagruntmale_zh_cn.json",
+      "sha256": "6850c2621003cb42eeece408e530610e612aa1893d2226c786f8f9adf0d7fdfa"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/pokefan_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/pokefan_f_zh_cn.json",
+      "sha256": "b53bc17bf113a3536c79ba1deac628f54314080645730dd82cea42bf14919957"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/pokefan_m_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/pokefan_m_zh_cn.json",
+      "sha256": "02b3a6f441adeebc6f6d34d86357943bcf428b1e0835fe7e46383188c5622af5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/policeman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/policeman_zh_cn.json",
+      "sha256": "0fbdc77ef4798288b9364e078ddb5a004a5fada44b5758acb8a6329ac238f26a"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/preschooler_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/preschooler_f_zh_cn.json",
+      "sha256": "0d2dc3fdc287f37f404b09aad20a519732aaca68c99429070f86ffd1be9516b3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/professorras_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/professorras_zh_cn.json",
+      "sha256": "7342bd1d0c3fd8e142ec56e6d218db4e3bc2307df4d2fb7b896f207eeb17a632"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/psychic_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/psychic_f_zh_cn.json",
+      "sha256": "b5319066aad24c8116df6c9e50e2a6b3aa668578ea1e31cb640851e0505b34c2"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/psychic_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/psychic_zh_cn.json",
+      "sha256": "c20b7739ab125ea18767a6382b67dddc7fcc2ed9c927eaaaf06fe173e67536ef"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/punkgirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/punkgirl_zh_cn.json",
+      "sha256": "76db33f45ad61b0dde9c7ab82cd9275de6195a7ca8eeef6b5d0a3d606abbe661"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/punkguy_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/punkguy_zh_cn.json",
+      "sha256": "b7c387c182dc3553db37ae527b6f3f1ee459ede24a318e057f5e0a4723d442f0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/rancher_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/rancher_zh_cn.json",
+      "sha256": "97a96c9afcc0b2ffa3410190980acfddeeddba727389bd1240a265155903b813"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/ranger_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/ranger_f_zh_cn.json",
+      "sha256": "3b7d3115fa702502b0866edc06f9d95ad3961b864e15d2b1702e75fe74e33a09"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/ranger_m_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/ranger_m_zh_cn.json",
+      "sha256": "cc028877e970a06122543e208d6eadc42d6a226d481fa90bb2e711f7abbda06f"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/richboy_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/richboy_zh_cn.json",
+      "sha256": "edf7bd05ab65b411683c05559523b0d6c6d9afd7b15f1d31e373d1ee6d7ac0e0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/rocketgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/rocketgruntfemale_zh_cn.json",
+      "sha256": "32c9b50efe069a3d1d23a21e59ef4a5d014017c23c9c770bd53644c353c05a28"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/rocketgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/rocketgruntmale_zh_cn.json",
+      "sha256": "603f669ae4ff214d3b0fb4b2548c5f3d7d187fc9837c7c51c5d88889709059e3"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/sailor_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/sailor_zh_cn.json",
+      "sha256": "ef619dfccd9aa8fe95d46b5f12e075510827ba27ac6b341a1926378901fe4f01"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/santa_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/santa_zh_cn.json",
+      "sha256": "d8996ee89dcb5d7bb3b401136035f66797cf18b2dd60950d3c3ef8aecbd6c1b5"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/scaryman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/scaryman_zh_cn.json",
+      "sha256": "b71e2c8082ad9f37f67e340b9cc051d111c25332a9e83afc271d9ac013081517"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/schoolboy_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/schoolboy_zh_cn.json",
+      "sha256": "ae7ae5a41789d5bf946ac5cfe22e78a37deb56c72ba5077f603981d8ad9fd9c1"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/schoolgirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/schoolgirl_zh_cn.json",
+      "sha256": "766559f3ffb890c6db5ae886fea9321fb16afbb603315b268ac86aa3289156fb"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/scientist_f_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/scientist_f_zh_cn.json",
+      "sha256": "abc790a20787fcebbf20e8b94aac45e820109361087fe1530af0e07bc262890d"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/scientist_m_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/scientist_m_zh_cn.json",
+      "sha256": "35a55ed3e749c5144be3072d74335f1492eeae73babf7a38eb450ba3313ddb1f"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/shopgirl_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/shopgirl_zh_cn.json",
+      "sha256": "57f25a825f20f81053fdd09d4293886093a3a8d4352c60b2918f610e80bfbc63"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/shoplady_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/shoplady_zh_cn.json",
+      "sha256": "6baf6d25b921a57a6262082f2eb7e38af607fb6c27fe5463e0fc02518d25f879"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/shopman_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/shopman_zh_cn.json",
+      "sha256": "ead66cac99cf0669ab7fd81014f553732206798b1b3597f41a4ca99db13d92ca"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/skullgruntfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/skullgruntfemale_zh_cn.json",
+      "sha256": "0e6efab3d812a9a24eb1295587bc3674e3adba2b18d211542414bb1294e633ca"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/skullgruntmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/skullgruntmale_zh_cn.json",
+      "sha256": "199db05e9b38bffc8823abbd80d3ce1abfcc340d73afed48304f1fc5688781eb"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/supernerd_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/supernerd_zh_cn.json",
+      "sha256": "6587b2ce2b6b2967fe8987081092795cca306e33b7cc9432bd47b3f4ad3515b0"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/teamyellfemale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/teamyellfemale_zh_cn.json",
+      "sha256": "aae2bad5ac28a45c9f31302b9bd04651b58a48f02381d3eae07c6d22a547dc77"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/teamyellmale_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/teamyellmale_zh_cn.json",
+      "sha256": "be4d2c27cf49f8da31191af4d89e82c0dbe461c12c21c0e7d527d99f06b1061e"
+    },
+    {
+      "path": "resources/data/pixelmon/npcs/villagers/tesla_zh_cn.json",
+      "local": "reference/backport/resources/data/pixelmon/npcs/villagers/tesla_zh_cn.json",
+      "sha256": "3b6021b3b8baae7588bccfc23e736f4a5f7e5b8cb8e7122dcae78c6f72dd1ac9"
+    },
+    {
+      "path": "resources/data/pixelmon/recipes/pikashunium_z.json",
+      "local": "reference/backport/resources/data/pixelmon/recipes/pikashunium_z.json",
+      "sha256": "96491648dcf43cbff1601c202bc399b1b7701edd2157fc1c1a08b30ffe25f33c"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/backport_fezandipiti.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/backport_fezandipiti.set.json",
+      "sha256": "aca83054c6c41251329035be9202938d15a451cefb0f0fc9e0dc9a81c1ec8522"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/backport_munkidori.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/backport_munkidori.set.json",
+      "sha256": "b39ab86a885af2d01bb39cee3d4428942e2d69bf92f28f0fbc4fe58a4955a9c0"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/backport_okidogi.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/backport_okidogi.set.json",
+      "sha256": "f4c58ee06dd3d0b8b7ea6fe3b89f23d8b59d73d212b92d1ac133679b17c786b7"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/backport_pecharunt.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/backport_pecharunt.set.json",
+      "sha256": "c2813176ac21701d9c623d0108696de643a6f9910e8c1f637838caa45b597819"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/backport_terapagos.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/backport_terapagos.set.json",
+      "sha256": "192d1bf8eb600fb11860b5b0fdf199e6ef64ba534d6c36a557acd6b257a6c462"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/cappikachu.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/cappikachu.set.json",
+      "sha256": "1b46187cbfa3c51886f75a0914e3f54e53d9f7b2c259ca8d9454affce1f65f83"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/legendaries/ogerpon.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/legendaries/ogerpon.set.json",
+      "sha256": "5994c01206fcd2191786c1d40d3aed5adc79cfa05edf89d1a855a5361edfa750"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_barbaracle.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_barbaracle.set.json",
+      "sha256": "294902a434b1dd4347ee0605b33589e751ca322cc1272aac5f0f5d5a8bfa13a3"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_chandelure.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_chandelure.set.json",
+      "sha256": "f2effb22e35364fbd54033924aa9e66a79cf74736379ef7a629c220cdd8b6430"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_chesnaught.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_chesnaught.set.json",
+      "sha256": "c4a8c7b60de7819fdb838beee32d4aeb0143e10fd4c31d90a88d6aa4f269d160"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_clefable.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_clefable.set.json",
+      "sha256": "355daac7b8b80fdbaf5f2732f186adfef1e29119f38db8b52e73df041fff5355"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_darkrai.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_darkrai.set.json",
+      "sha256": "cc060eb39e242b0abc7e43c76fe7ad6cdf39472bc6a5d2f9e4e5fca4da9768e5"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_delphox.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_delphox.set.json",
+      "sha256": "a5fcc0beaec466b3192a6cb5d29a8c7862b3747221e71d03cdcb30b2429f016e"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_dragalge.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_dragalge.set.json",
+      "sha256": "42556cc291f32b49798198a3efc888d51e9a32e7708172b23a37cf7bd8af2a11"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_dragonite.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_dragonite.set.json",
+      "sha256": "9bcb6f76aa06fd0d4cf26d4daec4da062bd340b6cb033aa889e369016935196c"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_drampa.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_drampa.set.json",
+      "sha256": "f8fd336cf6bddf3810bb48943a56e64702b8ac2a80c7105bc33c248892c22e1f"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_eelektross.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_eelektross.set.json",
+      "sha256": "4b3f7c0c3641432d39039cfd974733b7e38ef55770bbdc1099255e5004506ef2"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_emboar.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_emboar.set.json",
+      "sha256": "e74b9e9cfd7dfe16baf077edee454bc1c705f62592dd789d0e412f3302e0b1fa"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_excadrill.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_excadrill.set.json",
+      "sha256": "77c8a5aeaf6cb73250da8d72daa29480e14d25bf708bad0a886e592c5971b94c"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_falinks.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_falinks.set.json",
+      "sha256": "4623118360f44d899f62bed34b9d3a74b6e3642c84989a595a33c4aec616b97c"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_feraligatr.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_feraligatr.set.json",
+      "sha256": "768408c775762a4603c12d24c00cda660bfb854c2d8e274c07c31eb7748ea8eb"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_floette.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_floette.set.json",
+      "sha256": "ec2b1001289414894d7d20a3c3ab70207e99e29316f189bb0937fcf958627e39"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_froslass.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_froslass.set.json",
+      "sha256": "69eef460d168b03fa9958b3c43ba105e2cd9b41f9473097c00d888b4daa75354"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_greninja.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_greninja.set.json",
+      "sha256": "b30fc0fe1630ff7a45fe33a294ad72c5a940fab36dd9ff545a59e1f03708e0f4"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_hawlucha.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_hawlucha.set.json",
+      "sha256": "d27aacf4ac91274f246c8671c70ece32a648edbff3ebea54ea0e37d13d0ff401"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_malamar.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_malamar.set.json",
+      "sha256": "6a486fc3716b4341b24aa0305f0e1a44065c7c998c04c343c9ae487c830bb003"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_meganium.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_meganium.set.json",
+      "sha256": "375a80545ab779af8ad9603753db15d10fcb12c72c3e9f758d3cf7620a4031f9"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_pyroar.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_pyroar.set.json",
+      "sha256": "9defe20b292aab189f65983d999675c0ee3e293d16e0a756a691b1a4142be0c2"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_raichu.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_raichu.set.json",
+      "sha256": "07bd9594e2aa4ef4e3fa982cd229ba7d60c58095099ec655870d9d0dabf3fc24"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_scolipede.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_scolipede.set.json",
+      "sha256": "51f520c1e8d4bb7cd7ddfcd56fbe96c60fac2272bee19ce44933e261c7ccbb12"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_scrafty.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_scrafty.set.json",
+      "sha256": "97b907eabcd6a29ac2ce5df1d6a3ce47b85318192f9dd92168ef2a10671ed5db"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_skarmory.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_skarmory.set.json",
+      "sha256": "5c150e62867ca5682ce308a7a0b97dc79626e55dc364eaafac7dd08d4e3e276b"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_starmie.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_starmie.set.json",
+      "sha256": "ee9a0fad1136ac466d53d378659fb433dd20c08fe3c55b56a35e229d1cb94c98"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_victreebel.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_victreebel.set.json",
+      "sha256": "7d0dbf532d43ffc65d5a05e05098fa097692c3fc0ae6366ee21cc7fd946de16d"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/megas/mega_zygarde.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/megas/mega_zygarde.set.json",
+      "sha256": "9ffcfcdb5614308ffe37eebe84ed0b9fbfbe8a75183181e37aa27da44338b648"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/archaludon.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/archaludon.set.json",
+      "sha256": "c0c32e95ef956c00b207af532370a9beebfefbad1b272013038271557acd6737"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/backport_az_floette.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/backport_az_floette.set.json",
+      "sha256": "1e9d0b28aaa5252813dcd69b459cbb7f7bedd28d5853d8365df7fc7bdf34dad8"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/backport_gougingfire.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/backport_gougingfire.set.json",
+      "sha256": "b408eb4a5744925a1310e04baaf6966b724065c26b5ef7bff2762d76f3c95d02"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/backport_ironboulder.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/backport_ironboulder.set.json",
+      "sha256": "3fdb39769dcf331489b1df0d87c881bc0d0960f2ecdc40575786abcefa4b6211"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/backport_ironcrown.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/backport_ironcrown.set.json",
+      "sha256": "41ea9e4967396cdf6647560855e55ffd90bc1d4db70dd577e8ce57f0020a7190"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/backport_ragingbolt.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/backport_ragingbolt.set.json",
+      "sha256": "dfa9e7ecc29a9d611226dbfa287e832ef787ba83df863defb9ad35810a05c535"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/dipplin.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/dipplin.set.json",
+      "sha256": "f222b6b6c8a7a5068b4e916237bc2ed8a11e82263229f10d5cfbb43be8099bda"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/hydrapple.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/hydrapple.set.json",
+      "sha256": "e72e49dd6f0c07678d8969144689c61a6684e2920a136a2eb03c8d737412ec5d"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/poltchageist.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/poltchageist.set.json",
+      "sha256": "7a47826ba290678bc8a68ae70cd89e4bfd18b13cb2565906285ea46f9625abb6"
+    },
+    {
+      "path": "resources/data/pixelmon/spawning/standard/sinistcha.set.json",
+      "local": "reference/backport/resources/data/pixelmon/spawning/standard/sinistcha.set.json",
+      "sha256": "53ddb57d05eae0f7646c5a6910706d28ae7a79c7af8b2865a9bfdc3efee42e0f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1001.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1001.json",
+      "sha256": "245b5f65d3595e8eadad8e9524352978dd136911d8ea7ef5a787b0e3f0554e57"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1002.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1002.json",
+      "sha256": "5c493ffa32f86a42bed028485188ecfd4fe28333f3b95416ce3269a522ef8ab7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1003.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1003.json",
+      "sha256": "91f0a9d0d599d186027ff4a6e4a47653f43d95add2db4184910129288a9700b7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1004.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1004.json",
+      "sha256": "b8f257fc3f6878913ababdd1d644d2d1bc610f861d85d796cf40161c0415855d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1005.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1005.json",
+      "sha256": "add600bd7fc302b06c1164d75d46193f3497300671d8668defddea804d5a1e71"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1006.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1006.json",
+      "sha256": "22dc14627bb083879c743d731c8501c1537392795682ef604a3101087704efaa"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1007.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1007.json",
+      "sha256": "4358efa673afc24fe079c631e0417166df7bd89e31e31fb6defbb8256ec58864"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1008.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1008.json",
+      "sha256": "06a2c9afc4400b35b9294b6bc883586979e7d967fac51b4a08e631840d119b92"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1009.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1009.json",
+      "sha256": "d2bbcb4e8e7891155ad796d998d14ba18f731513c9f086a7863a49dd994980b6"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1010.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1010.json",
+      "sha256": "a39d6f4aff27641723cb82a8a7bed3af12de4149460cde167ce9d60e7be48852"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1014.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1014.json",
+      "sha256": "47fef1c8e9e30c30ea275e36316dc0a13de1691ec75126bf32b1431bfcc2c590"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1015.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1015.json",
+      "sha256": "8cd22ca9e494a9468dc78ed41a4e9ad60a3244611bbf81e7815940dfd6fdd7d3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1016.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1016.json",
+      "sha256": "2dc6079dfddf51640f0e5f78eda62dd7ff7069d71431ed18856225d7498478aa"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1017.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1017.json",
+      "sha256": "a9662335da1f208435b7f9a05bc7307d14a282c28869428717c795ebded84dcc"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1020.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1020.json",
+      "sha256": "06085b98b7e76a5f955e371f3c19bd1424f44d78c52d8683bb625132bd369f79"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1021.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1021.json",
+      "sha256": "c7d2268f7faa5debb0c25bc3d22209ed0325d4f262591ab19085813df1b72f25"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1022.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1022.json",
+      "sha256": "d097b81a200fa2534e60b5afbb720d77637dff1caee09a7dd111f6018ac869f9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1023.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1023.json",
+      "sha256": "dd4d55695d702ef3550f991216faa9b52e65c4e51c7f62b85b1ca36d0a2477b2"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1024.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1024.json",
+      "sha256": "9792af376e7eba5fed46f6a381da2e1d94e15fc69467f21fc9cac7d3395b886f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1025.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1025.json",
+      "sha256": "039d34477056fea49a0e37b79fcd3717110de4be4a7f162ac14bb1eb922ab9a7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_1026.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_1026.json",
+      "sha256": "4e8f509222b75e2a28d86b092c9630492c5a44184b75a7f3c9dae06bcb223893"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_144_galarian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_144_galarian.json",
+      "sha256": "18a38165f946975868d57200133b53ff051366b3ea8cde96a2ae601566c7fd5f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_145_galarian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_145_galarian.json",
+      "sha256": "41c7836a1324534b118d32325210d3f214b145ef61df95248df8d460e81e6403"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_146_galarian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_146_galarian.json",
+      "sha256": "1bea018b6b43d54a62f02c2ba8df10e59f57c7569fa00d7d556a88358f4acb2f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_480.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_480.json",
+      "sha256": "6d4d788ce75316a7d4ecc0e602145f2ce5c4f340f5c5e246afbd533198bf6354"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_481.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_481.json",
+      "sha256": "a74c63f0ea33fb752794626b7b4abf8959802734bba8b13a0b2af6115e973eb4"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_482.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_482.json",
+      "sha256": "3aed1179f1c24f18e86226bcc96469ad3c1654bf5f53ea55f443464945519450"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_483.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_483.json",
+      "sha256": "da33dcb97950248f353b736a335b786b99be2de34566385127d9101035ef1089"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_484.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_484.json",
+      "sha256": "ee74af96e289bc5e0dcfca19bdc32a13fb3e2fd57eb5d499efb7923760ad0f9a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_485.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_485.json",
+      "sha256": "08e8d368510eb05643e4f44a2780881234f568daddda3b5777cece88d1cf50a8"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_486.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_486.json",
+      "sha256": "b1ddfd8b8116d9690a9319c430c298ca5bb6389464ad7dc5f9dfc9cad6077f5f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_487.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_487.json",
+      "sha256": "75b544fae3ef45ff0b97f8e3616aabb50ac037dbc60dba5ed797663fcee299ec"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_488.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_488.json",
+      "sha256": "8f0c8992c178c35ae0ce12eddcaea14b20526c3cd3a3211b4527e2c781204bc0"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_489.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_489.json",
+      "sha256": "bfecf870e42e6904f8f099356af0c86b3526846b611ec34f9a56f5f9246f3070"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_490.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_490.json",
+      "sha256": "c07ca6217318cd7cb2bc0d661ab8c4ecd69483074120eea41c194c66d0ba25dc"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_491.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_491.json",
+      "sha256": "69bc6a22031968a4d056a791a7c54b51fcdbff8fd7182e8ff8230e0dcade58b7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_492.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_492.json",
+      "sha256": "77dd1abfce755fab8ae7e56b5a4217cb33adec9b0433caf8b5644b120bee8513"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_493.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_493.json",
+      "sha256": "a1a1332975dba2b0c46f8d48e710689a6d43701b57215916c938eed2dccd7ab5"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_494.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_494.json",
+      "sha256": "c5f05ac6c61d6dcf9553a3ea793b714da9794351c8ddbe4fe4bbe1cd2ab99a12"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_638.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_638.json",
+      "sha256": "79aa45c3c4db6925efdc48da257dd6702e9726a8a8fbaf2a212d0896aad30f4f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_639.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_639.json",
+      "sha256": "b121dd8f7edc76307fbaef152ba480b0d038ab765677d21838d4a22da7d46b93"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_640.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_640.json",
+      "sha256": "f8034f328386d2cc099777478aaf9b8f5dbfcaa10d07b0757573e96ad3cc9b45"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_641.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_641.json",
+      "sha256": "a556af4eaf34b2c76c64037ff8697587b419f21093246b8f57c2b8c89ec8dd47"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_642.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_642.json",
+      "sha256": "5e6c251f5047d99f1c5e39d4b3a6515a6782f2caf0ca19b317fe9dcb077a407d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_643.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_643.json",
+      "sha256": "a8f7097b9a53f67f22d04b0f8ba469148ea96df31e48303d93f1b035f9d6fecc"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_644.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_644.json",
+      "sha256": "0d9d4e2279f49c145267eb64820fb1ce4a844cf083d97cb2f52d535085156c4a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_645.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_645.json",
+      "sha256": "a082262b09de8ca747acf188f61207d48b69e17d1ede9c36a6404a76190c4d2e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_646.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_646.json",
+      "sha256": "1ee669b51b0bf59d904bf7021f11da690b844a3336ddc368d12841f3cb7afb41"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_647.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_647.json",
+      "sha256": "84c56efa7e71cc76f3e61d80c9f27dcbbab8346fb8206f17d2cc6a96a934ea95"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_648.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_648.json",
+      "sha256": "36f79ea71517cf0eb187250f28c263154dc1a023a0f87317da947fc96d9f5aae"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_649.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_649.json",
+      "sha256": "3e68ebfbabaf80b0e4eb8ffc9b67785b13c2a5c46d51fe97b55420b0c646ed6c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_658_bond.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_658_bond.json",
+      "sha256": "8a3acf4143d0d1e1a610b7312a15d6a28b65bc1a22815576189d54330bf8f29e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_716.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_716.json",
+      "sha256": "f8c22c59e62f54c106ebc840f910a1da4b7574c048ef9885381c721a73cc60cf"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_717.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_717.json",
+      "sha256": "f5d3aef0cd9e618372ee5cbe57859641aa2ea974905c9677c6621ea4a4a20200"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_718.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_718.json",
+      "sha256": "866c0d83203ef404952105b802371936f10cc3d6fb5e1e0dc6d165385364dcb8"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_718_ten_percent.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_718_ten_percent.json",
+      "sha256": "ca3000ca4c49f3ac946f43ad9c86a62b589b4c3ca665b2622a123fa71a791195"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_719.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_719.json",
+      "sha256": "dd04f194d02d4d4d9a5d03c1d292225926a7681a23e6fb0db2936ea76f5d136a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_720.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_720.json",
+      "sha256": "331f00ae4b84e5e8b5bf32f0917489b5436bee672464b953b0502e06d5905112"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_721.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_721.json",
+      "sha256": "b131908e702919ea8bcd14223b6ee5dccdf578204ab45b2d043cad14232c70b3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_772.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_772.json",
+      "sha256": "7482572d33234602f7b08f98012904d7df12609e8d5c5300f86097625a551c6b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_773.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_773.json",
+      "sha256": "4e7d08263abd04209712999e41d2be9673976e0d86dd9a40cb3eb1dad0567a49"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_785.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_785.json",
+      "sha256": "14d389874b1f7b24222d50cdd4a72bf0fed023b39117c5ef954d858db368113d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_786.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_786.json",
+      "sha256": "d887a768f4ee0794242e312c4518f2805f092086f0f02387935abbdad95b6ff8"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_787.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_787.json",
+      "sha256": "f0c35e37138eac9d0a64ac1cccca1b7075005cd7a760617671ce3adf06354aa3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_788.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_788.json",
+      "sha256": "3d63257682c09e249c872b902907516da13ea93e5a2d3cb8cb001d875eee6fde"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_789.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_789.json",
+      "sha256": "e9028207f40c01c1e2e8954f1d3b1132c78cd2370b2c716d81eb17e430e00685"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_790.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_790.json",
+      "sha256": "a982fbb703bf2ed42948a9fd2b76878b34effb5d5c8df99b306eeac1a8bf9e11"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_791.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_791.json",
+      "sha256": "bedfe53514fb43382c13c4cf6e9e8d9b4f80b84b11ed2da55ad42b892c043447"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_792.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_792.json",
+      "sha256": "2190117c3589b8fed082a215841592e83c77967e28ba45859fe429b810941f25"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_793.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_793.json",
+      "sha256": "3a6a54669d17a6f5506a54d8d8091ae480b1563edd3fd54f07d9fc3bf0dd4a10"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_794.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_794.json",
+      "sha256": "a1e0ae432ea55394810e8bb5a54dfe6497e72574a6708e42be74ae3cf7422f67"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_795.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_795.json",
+      "sha256": "385fa72184359e67df05ba9ffc02fe4900c69e996683d091da76f50474f724ce"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_796.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_796.json",
+      "sha256": "c6208eb8a9feabf97410fb3984741325f1db086c86fd20a2ce3dd5fa4abb18a9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_797.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_797.json",
+      "sha256": "bc022a488279784908868937ae8f21eec29773e8a1b76e36b652e36681f3cc56"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_798.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_798.json",
+      "sha256": "2cbcf1bcc30545eddf8802c7197b0a2c5ef9ddfd43782397a4218f489d7cda32"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_799.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_799.json",
+      "sha256": "5ec8346b4ec26d9a6b64dc8aa9807f7899bfad04c23ae2544a1592d5117f3b65"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_800.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_800.json",
+      "sha256": "491b946ab150b6e7d9426d6dd02db0f5b6034c4fa68c4491a443b61786057a2d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_801.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_801.json",
+      "sha256": "3e6eb73eef53004462cf10a99125baa8200fc52e24b28069ba6efcc4058e0aef"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_802.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_802.json",
+      "sha256": "a71bf806f663bf1ef27347a9e5e8bc9e33c572f309e5e67ba93b7fa49f286637"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_803.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_803.json",
+      "sha256": "e09230f3e3939c08dfa22a1a1da45ffaf3f8c43dca46ad48b3ccb8932fb885fb"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_804.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_804.json",
+      "sha256": "3f0158f907a7a25ca42232b29601db6655539c0b34162bd85f95a423fff6c6de"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_805.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_805.json",
+      "sha256": "a9b60e59fe82df880877512d04c90d6ff7ae696d1c476659dbda06c1d4a2403b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_806.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_806.json",
+      "sha256": "e7344d2fbbed55a8e7aaade9898e2fb10b8088f5062c63bfbb9c853047fa769a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_807.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_807.json",
+      "sha256": "647f82df869104d24aa1b062e3ad6ac714fa100cb4583bb8168eef6889e1867f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_808.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_808.json",
+      "sha256": "0142ea0f20346e423577d45bf1b7b8bffe582d59da320afd3f03e884322ecb31"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_809.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_809.json",
+      "sha256": "a45ba91bff6d56c0b76d3e1d02f3df75a42e551a9425be185e9be7e7caa54cc9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_888.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_888.json",
+      "sha256": "c13aa5944f88aed0748e7e180a52f52bc16c70ea858b3b3209c35c755d46f76b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_889.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_889.json",
+      "sha256": "83d9f4f18819e2f04261423cca9cea365d3b8226ce422305b285e99094987362"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_890.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_890.json",
+      "sha256": "490a0ef7b9a88242401e2529322fe861e16bbae6cfa2d7b14322f974c2eac257"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_891.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_891.json",
+      "sha256": "8fb1d19993741857e123845826873e94096ac462d4e8c3b2cf5ae55912efe188"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_892.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_892.json",
+      "sha256": "cfe7b2f080a4f1cb0ecb5746a62dfa0d6c14b6df986d273ca00c9e930a37220d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_892_rapidstrike.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_892_rapidstrike.json",
+      "sha256": "77958f3ca2a550bfdfb736bf80e2e2070a44f588caf227b87d6462c14c96146a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_893.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_893.json",
+      "sha256": "833095f52797df61d8886bf2017f8afb5dec63c10c17cb0ec7bc0fe1b7aabf5a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_894.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_894.json",
+      "sha256": "522d9c7a41172e6b713f0a197c6b930d815efd32bee0cac17dde9fae3d46308e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_895.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_895.json",
+      "sha256": "d50ed29f13d9a463d42f863bcec979bead06ce841a47b95fff201195e84b7514"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_896.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_896.json",
+      "sha256": "09dcadb1aa6331ef4abeaca57d59f3220007d492f4ae9e9df75301c3b6db31a8"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_897.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_897.json",
+      "sha256": "f299dcc5982c1825a486bbeb5192274234aa17c0793264a17441aed3e131603a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_898.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_898.json",
+      "sha256": "17cb0a463502143ce9032f273708bcad2fd9f817cd9682358af0fd239f82bcc6"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_905.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_905.json",
+      "sha256": "cae979b081d4072a7631783aa2da68ebad22283d025a9633bd7c90f3a6d2b439"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_984.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_984.json",
+      "sha256": "9d6930339c64e46c17e216748584806ccf16b72fa2a6d4e6e139cb864af3c0f1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_985.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_985.json",
+      "sha256": "4afb314e706a28af91fca9a633e0e1659b60a241040c1a88949cb3dacfabe2a9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_986.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_986.json",
+      "sha256": "2a0fd65e13ba98882562a97fcdd4e4843f2d9887dd6a331fdb35f07a16f1aa4a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_987.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_987.json",
+      "sha256": "390d2eda45cb32d0c6065b2166cbacffe7fc2a5ab289f70e80cb803663d2f4ce"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_988.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_988.json",
+      "sha256": "7e09d54485728e9dbc9ccd5f4614114c3c0259eddf0eeaf8cd71a870cb777c76"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_989.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_989.json",
+      "sha256": "71789b73a0db722493e775dd5d14f1f3aea87246cd7d95525caaeaa0bb1eb53d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_990.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_990.json",
+      "sha256": "314d85d1ca25e793fb32c45b2f402ebbe989b2a915b96967c41f3cb365834e15"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_991.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_991.json",
+      "sha256": "af0a615342d0ed5e5c1bb3aad5436ef62c4f4728a15d92fbf69b7ef85cca5fce"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_992.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_992.json",
+      "sha256": "2d9a50fcc132c8241930cebf43a837f991cec92810d89cc8cf262c1200b903e7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_993.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_993.json",
+      "sha256": "bb58117649e88983130948b9604946841bba17c38ab412bad3a87f9c277c007b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_994.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_994.json",
+      "sha256": "069cc7c58db2404bd4428e9c905445f8d8ed4ee1d63c8bdb67330e74f803b505"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/capture_995.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/capture_995.json",
+      "sha256": "b6426094a8eaf6144cfeebcbd441f8180ca247fe9c3d558e8e4f1c31db52641e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_382_primal.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_382_primal.json",
+      "sha256": "e8b7a3ba15b120f8aee077c6837febe63372e36edbf05a83d02bd71f733e5282"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_383_primal.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_383_primal.json",
+      "sha256": "d3c01c1ac6b50020bccb0784c24f3b8e0d6a855468c8e2b43206b75ac4e20033"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_384_mega.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_384_mega.json",
+      "sha256": "507db085215d090c281fa6961d9ad1d878b3415984ce0a22278f2f7b192a883e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_386_changed.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_386_changed.json",
+      "sha256": "10edc46379272cff641bd0820c99553f8ca9b57709dd52f02ea0362261ec6b9f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_483_origin.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_483_origin.json",
+      "sha256": "182e23b3ab66cf0ef101469c17bc9ee6f491faa5b373f12c56000140dc5bff9d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_484_origin.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_484_origin.json",
+      "sha256": "8517354198a46cfd770f173c6d2a38bb14a985278ff48a75fc2c6c3397eca75b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_487_origin.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_487_origin.json",
+      "sha256": "ae99e410b8da496c1c5295a1291846117476a303bb862605831dc54b6c8311a6"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_492_sky.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_492_sky.json",
+      "sha256": "bfd88e8b1baa2c4eb08d4350457c99adfb2cbfc75f466dd3758abf3f5319766d"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_641_therian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_641_therian.json",
+      "sha256": "d9df5e619dbee5fa021cbacf31b7aa960f6cefd902acc8b334636517f0498384"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_642_therian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_642_therian.json",
+      "sha256": "6f832e4fe3c7883e706c9a3fea44dad928f0c518e5dfc026f44a2959ed7a7c16"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_645_therian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_645_therian.json",
+      "sha256": "46fc4030a1b7f729e42f4d2a3dc4e842d978b0882ac7499719da79001a165da7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_720_unbound.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_720_unbound.json",
+      "sha256": "8fcb19903ade58be41af1f557064d7683eef6ba3eed08d773645ccae30a78931"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_888_crowned.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_888_crowned.json",
+      "sha256": "4910d98b242e7cc3c61a446cde98c9a5fe847ac6955956d13bfac3d8c1dcc28b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_889_crowned.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_889_crowned.json",
+      "sha256": "2c0a85b03b8389ae5b3e33d63a2857e0106385bccf0e4efc3db79db75220fa10"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_890_eternamax.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_890_eternamax.json",
+      "sha256": "0a9a94ae765a5092be3f94ad8547531479bbb4d4c06b2fbaae5695be49d6fcd2"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/form_905_therian.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/form_905_therian.json",
+      "sha256": "449e20fe67236c99007d62a0cba9a93bf5f18e54bdb3a09d4ef12bb1bae47909"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/forms.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/forms.json",
+      "sha256": "1adfbcc9afeb028cf8e1576d21f6b57cc9b0381099a525c91cb67e367bdc7226"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion.json",
+      "sha256": "509efc9148076bef0840876111dec25e30f57a97b3875279088af873d0350c21"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_646_black.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_646_black.json",
+      "sha256": "36f97efdcabef472da831acfdc81b1a72a7a3e2cd52a5d0d9f533959d92e90b1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_646_white.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_646_white.json",
+      "sha256": "da5b252f68c72fae2280c6019efaaf16b516b7836de615cc888b201e19c96afd"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_800_dawn.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_800_dawn.json",
+      "sha256": "b4cb9ae1dbee16fc3fed5cf8c40f66920a8c29f83e17d9434888da49ac1da2ea"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_800_dusk.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_800_dusk.json",
+      "sha256": "2f532013a4eaca0253e4fb3405e996eea77918ffe9eab3cfd36651d607b81614"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_898_icerider.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_898_icerider.json",
+      "sha256": "3d6a1e8f9de884ba6499e216108fdaec6584633c54f6029bc9e871512b0c18e2"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/fusion_898_shadowrider.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/fusion_898_shadowrider.json",
+      "sha256": "6c1117b42bd3ade6704b3ebb9fac2d4871eedc1b55ea9072dddf5071a8a721bb"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen4.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen4.json",
+      "sha256": "f7ce8b73ae8e32123154951edce3799961c3382c57a522774ac6dce30900993c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen5.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen5.json",
+      "sha256": "313cd6937657a6044ab6cc90fd40a18b6b043b366d2fb6efb401ef71897012f2"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen6.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen6.json",
+      "sha256": "2712614c6689d1c2280ddd6df5b0cfcf92ab4ff879a60e1b25a574ce4fe9f1ea"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen7.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen7.json",
+      "sha256": "3d1244494278cc7af9b722172c39bc21d794ff760978c615f9c4a9c05195e73a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen8.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen8.json",
+      "sha256": "ec9679e2d743687cc505cce8199fcda1990d0fed990beb94788341ccdb965886"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/gen9.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/gen9.json",
+      "sha256": "318fec1925294e6d587f6769fa487a878b542430fab038fef7a3c108967722e1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/paradox.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/paradox.json",
+      "sha256": "3ccbc2316fc6bd689520e704cb78e8f9a7a8b481307005bf2e687cfe57aff994"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/primal.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/primal.json",
+      "sha256": "56e6ac6569880e32ff18a856836552b607a57ece02246e65fbea193eb02bdc0e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/root.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/root.json",
+      "sha256": "6f034043843ba691e114b6a6ca943d4c55587fdb2b1e26c74bbec90357dbe573"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/advancements/legends/ultra.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/advancements/legends/ultra.json",
+      "sha256": "7213ee74f8e59b01f115760e573eccd2cd098d49adc0f65e68024080f4352a7c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/recipes/eternatus_meteorite.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/recipes/eternatus_meteorite.json",
+      "sha256": "0c26bf6ac7d618b05b545c99cd3d97f7592f081bc5535ee6871dfb6213ff89e9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/recipes/super_rod.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/recipes/super_rod.json",
+      "sha256": "2c4c044482e7ff9d5de71f9300f59ebdc288a7096eac65232b04b189594951a1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/recipes/tera_orb.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/recipes/tera_orb.json",
+      "sha256": "d58f99c58659ea81d405152023b95685853547998185d4a3b09476693aae47e9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/clutter.json",
+      "sha256": "7a656da476a2b07e7dd2c876ef8c9f7b357e62b1e447baf3ded7673fcd427347"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/gym.json",
+      "sha256": "6c97d2a9cbdb2d7f0d90d57cb8aed33062df22f75b9c198573bb7e07a65ed721"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/house.json",
+      "sha256": "53c4db51783092904e056e7a3307a31618399101eacb26b1379b93e35866b2b4"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/special.json",
+      "sha256": "0a29a4b4d910d1b0b5ed3a1c5a21ba92fcfd8219635f431e50498924da836294"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/start_pool.json",
+      "sha256": "f27ba41cc85d17036327fd61d7210ce3dc8e34aa9a8006cc675b9b0c1ebcd929"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/bug/street.json",
+      "sha256": "22900dfd1232a8401288c1f734676d888ed5c3c50ab0a1d0a77946668c626f8a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/clutter.json",
+      "sha256": "7f7481e5c4b683b2a2bf1ce45904c8efd6629f983c866289c979de400357c6b3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/gym.json",
+      "sha256": "dda0204d3c0794e0de1442ee02bcf48037628e4e9ea9b38baec97b05ae64ad8f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/house.json",
+      "sha256": "2a74389bf9bb43f4aa9d91a410a028f799dbb165f375883ba20ad48bb93c6006"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/special.json",
+      "sha256": "82d3bf4b82648bc2faca5d22d0d72a6ba2d036d5b323fabee1a8911562503fb8"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/start_pool.json",
+      "sha256": "e3cbd27e7aad7fdfb9c6b9e4f71e6faf834a69115ec945e316d73fceb11022ad"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/dark/street.json",
+      "sha256": "52e7b72a1d4507de04f3b62327c27a9f7ca44dc1cd4f85cc295f1790d4bd8499"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/clutter.json",
+      "sha256": "84580a51aa67cc0d1ae02e0426660c2a6c7d91d1bff44a89bbed4911b11e6ac7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/gym.json",
+      "sha256": "ef80b035fb8771f5bf682b54c51736c98b00c3d9091b363689bb859c1c084122"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/house.json",
+      "sha256": "2be1d97dbe9f4148eaf9642ca3ee8fca4c278d3ba8f5ef5978b4367444a5935c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/special.json",
+      "sha256": "8eed6ecef125854263f1e348206edd37f8885de1efd88c7450f9e13aa9ff8ed5"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/start_pool.json",
+      "sha256": "0a5ec13b59fec5e5f6eefb520c2274b58afa1aa94c1083c43d693181f85ec342"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/fighting/street.json",
+      "sha256": "793906bc52a6a562a88f46b8a59600599c5db988ad1862fbbf0c2280b9b3d974"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/clutter.json",
+      "sha256": "b8a06d3f95686fde7f7aaad8ad0e32126b2a01bfc79b0bae9a3ad7035e5af321"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/gym.json",
+      "sha256": "090cc39762e35ec1958673883b20c43c2c5403f42367449ff41ec52fd6dfa990"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/house.json",
+      "sha256": "9c404fac7dc4ee34a27166e819741abfccb5cbcd1d14acfab79699dd902c0683"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/special.json",
+      "sha256": "65b54d95a0294d2e3d3c2355615e0d877ceb42591eb65c20069f01adfb9cb216"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/start_pool.json",
+      "sha256": "7a1b9495721d2cbfb050428c649de4f1852a3c06eba5d574f7e1232506bbbd4c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/flying/street.json",
+      "sha256": "3d9baf4a0c01c0ed79af2c30be7325f97e934e0a432ec1fe7dceac2eeda3f39a"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/natural/dark/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/natural/dark/start_pool.json",
+      "sha256": "3f715dee95cc069a19a102888985bd42236f1c1e3c6fcb504a4d261adbf7908f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/clutter.json",
+      "sha256": "0e7d322e24ac839b16708ddf420033a5dc7b01ddc23708925465fb209dc2e015"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/gym.json",
+      "sha256": "e0b020dbff224c1453307e8e6b26bb4304247549bd2d92ed9efd16e194c6e4c4"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/house.json",
+      "sha256": "1153a9aac447b420f961076505b606de263ef3006bff2d77099068338bfa5097"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/special.json",
+      "sha256": "04df19b3eaf29d05d0ffae8abcca8feb5a9a3de47d2f8cefadeb62af2c7b57c4"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/start_pool.json",
+      "sha256": "9a4770a36a56a7e2c7c962440970020c16dd573ff283d1c40efbf7d391ad60f9"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/normal/street.json",
+      "sha256": "68d44185842d9e0a51470b96ae39c7013dc623c6d6d5245b8dfc8a6d8628cf2e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/clutter.json",
+      "sha256": "4d643e9921e5df0944eb0d23470e7c0c3d890dd2f7f230f74a30ce3a74cdfe49"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/filler.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/filler.json",
+      "sha256": "eedfb3f70f0c3cb795182805c54d4a3efba78dd981931ff35cfcc89499e95656"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/gym.json",
+      "sha256": "44fa472f792179032b0aada40f11b58548b429b28f44eb3e7acc9d38404b7fd7"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/house.json",
+      "sha256": "122f955444c8f5b9ab3c42d113afec0ee1557146889688098c6ba13da2db9641"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/roadside.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/roadside.json",
+      "sha256": "001e50adc0df82439456b1a92e8c216bd14cbb738bb2bfc58f6b2a3c62d109cb"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/special.json",
+      "sha256": "b63accbe0729d886940266c17e65d3f7de5c7c4c587962ca1499b5b213275e39"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/start_pool.json",
+      "sha256": "aa1561abf49a4d68079c8f26222846b87303d23295f57b888b463a0b434e0957"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/street.json",
+      "sha256": "043d9b9b08a0fcca6b06139a1d1685534726b63be42d03d428a5a19a86e8b839"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/terminators.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/poison/terminators.json",
+      "sha256": "42498b66cf48521634f1fcc75e2e50ce4f4dc538e9f991e5223991392b7cc5d1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/clutter.json",
+      "sha256": "cf930716b92560af03761ec57fa62dcf679a5d3d19a1327e09cc581dc9706fd0"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/gym.json",
+      "sha256": "aea36ba90e38118d4e9cd807dd530a8fb7ae3b3f34d2ed0d7efff387df2571f2"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/house.json",
+      "sha256": "21a332c0d8a9c4469c77d20759e97f8f60bda67eb1925f4b8aa1bf464c327df3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/special.json",
+      "sha256": "ead2965ea1f077ce181c2ed2b31f90bd99c4450983d04b571e72b25a012b68eb"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/start_pool.json",
+      "sha256": "2e3204505ad2abcbb2f4e68484a54f8f0be8ac4ac2449eb8fe36e2c287674009"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/psychic/street.json",
+      "sha256": "667f5bc12ada6ba575e6ba546c039dc6cf93fd974b876b97ef1f43bb0571e3b6"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/clutter.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/clutter.json",
+      "sha256": "651ec14a561cf8763f47fdbd601fbf95b595d3724cc04b15aeec77760c59a394"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/gym.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/gym.json",
+      "sha256": "eda29adf0d3460c1044fa5cc9e041bb1f0e1ff8234f03a3fd16ab84aeb3068b3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/house.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/house.json",
+      "sha256": "9070bd67e4607a3846856562a62e545b58c482c81d23e0a9098c083e9c7f243c"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/special.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/special.json",
+      "sha256": "77e6714473ddb47be1fc436f01d89416ebb099cfc8ca4a9566f8d27aa0681864"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/start_pool.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/start_pool.json",
+      "sha256": "f6562f76a190f053d533439be94e0b0c108816e62ac4e97311a4d668e39e7fa3"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/street.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/street.json",
+      "sha256": "4eef77fea9bf24b6655dd99e048cc1d8725a168dc44a5167ee2e0a814e490dd5"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/vanilla_pyramid_basement.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/gyms/rock/vanilla_pyramid_basement.json",
+      "sha256": "fdfd1a95168fbae63145c5b91b7700ae66f898446112141ff70f15a7c7c28443"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/bug.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/bug.json",
+      "sha256": "ba82462e73e8c0228810d67f3291e8490cb0dbff1c7324ca2d06c9ddb3c5b6f5"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/dark.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/dark.json",
+      "sha256": "f0afe3d95f04042be84a67aabd5610fd26c52a27f9e83aaba8af9b12f68f786f"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/fighting.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/fighting.json",
+      "sha256": "d815c39c854a1b06f99bbb173e908f384c5e3b19d46665d236d7b78e2edecaa0"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/flying.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/flying.json",
+      "sha256": "0b087397e88c8522acf7c5bdd5d6b561db431609e9f87a7c8000938e13126e40"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/normal.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/normal.json",
+      "sha256": "b82a892fe2d750a5f809f0a5827ba51ae70cc2c968b609b965c924be1dde8b8e"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/poison.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/poison.json",
+      "sha256": "9ebf5fbefd5ba1a81d736d0f5c04a0fb24e81e53f172649483d4593f445290a1"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/psychic.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/psychic.json",
+      "sha256": "404e9c7f1d228b0f07c42bc51702ba2c26fceafbbcdd82b88e8775e9daec001b"
+    },
+    {
+      "path": "resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/rock.json",
+      "local": "reference/backport/resources/data/pixelmon_backport/worldgen/template_pool/npc/gyms/rock.json",
+      "sha256": "249f2b7ca36992fb681787282426bf58c871cf9a234632ddf59f55a5f3039545"
+    },
+    {
+      "path": "src/local/pixelmon/backport/Backport.java",
+      "local": "reference/backport/src/local/pixelmon/backport/Backport.java",
+      "sha256": "a7c09e661a422fd7aaa4a04797f117423debec39956e2b6dd3a5423421106843"
+    },
+    {
+      "path": "src/local/pixelmon/backport/CapDrops.java",
+      "local": "reference/backport/src/local/pixelmon/backport/CapDrops.java",
+      "sha256": "13cbf8a0ddb28b42dd4d5d75bdf3e0bd50ebb1dce193858a7413c6bc6aa6ff36"
+    },
+    {
+      "path": "src/local/pixelmon/backport/CapSpawns.java",
+      "local": "reference/backport/src/local/pixelmon/backport/CapSpawns.java",
+      "sha256": "0678fa00c0cf386f987d0cd9d6f089926282f8794488e8c27103a0390114e15c"
+    },
+    {
+      "path": "src/local/pixelmon/backport/CapSpecies.java",
+      "local": "reference/backport/src/local/pixelmon/backport/CapSpecies.java",
+      "sha256": "004a733ccff109b79736152fd85772501f0e410c66ca5a004eef4f8d55c0565f"
+    },
+    {
+      "path": "src/local/pixelmon/backport/Content.java",
+      "local": "reference/backport/src/local/pixelmon/backport/Content.java",
+      "sha256": "368448d49f59ee6b4a4f369ea35ab44ef6ccd5396c3c56381fa0e930bddbb91d"
+    },
+    {
+      "path": "src/local/pixelmon/backport/GymLocator.java",
+      "local": "reference/backport/src/local/pixelmon/backport/GymLocator.java",
+      "sha256": "3d45722419177adc64cdb2f3f3e2a9bdf595b2a7aba758cf0ee6ec05fc1d8c5b"
+    },
+    {
+      "path": "src/local/pixelmon/backport/LegendaryEvolutionData.java",
+      "local": "reference/backport/src/local/pixelmon/backport/LegendaryEvolutionData.java",
+      "sha256": "c0834f6858f10d24a7e29a98be4ca3d1b20fa579c6fee9319e1435c98ab06238"
+    },
+    {
+      "path": "src/local/pixelmon/backport/MagearnaSpawns.java",
+      "local": "reference/backport/src/local/pixelmon/backport/MagearnaSpawns.java",
+      "sha256": "a803908f01db297ac833e5d1c43ad869994f14302455e2d3dd4e4592fdc7d62e"
+    },
+    {
+      "path": "src/local/pixelmon/backport/PermanentAsh.java",
+      "local": "reference/backport/src/local/pixelmon/backport/PermanentAsh.java",
+      "sha256": "6141e7531368b5cdf5d4343b6cdc78cbee65904b5f1b3ed4f07ea995c27d0b34"
+    },
+    {
+      "path": "src/local/pixelmon/backport/ReferenceItems.java",
+      "local": "reference/backport/src/local/pixelmon/backport/ReferenceItems.java",
+      "sha256": "29f1c45a7fec9c88943d40945dcb39a6e7871de7db4c4b10a5f446680c739c38"
+    },
+    {
+      "path": "src/local/pixelmon/backport/TeraItems.java",
+      "local": "reference/backport/src/local/pixelmon/backport/TeraItems.java",
+      "sha256": "8387e9ba6d3374e9567c83c203b9278c17877a27075f5607eb1695fd35d49ea3"
+    },
+    {
+      "path": "src/local/pixelmon/backport/TeraRaids.java",
+      "local": "reference/backport/src/local/pixelmon/backport/TeraRaids.java",
+      "sha256": "d1dabafcadffad062bfb65644a86fffe91f1eb80de5466464b62061ecc1b0263"
+    }
+  ],
+  "counts": {
+    "pokemon": 1027,
+    "moves": 945,
+    "abilities": 309,
+    "items": 2708,
+    "appItems": 1112,
+    "guides": 37,
+    "spawnRules": 3366,
+    "recipes": 1962,
+    "forms": 1388,
+    "backportSpecies": 69,
+    "backportItems": 77,
+    "backportAdvancements": 133,
+    "teraEncounters": 1231,
+    "teraRewards": 702
+  },
+  "imagesAdded": 220,
+  "basis": "Current source resources and Java behavior; not evidence of exhaustive in-game verification."
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-00d24dbe05ca47d1"]={"json":{"type":"minecraft:crafting_shaped","pattern":["ASA","SDS","ASA"],"key":{"A":{"item":"pixelmon:crystal"},"S":{"item":"minecraft:diamond"},"D":{"item":"minecraft:nether_star"}},"result":{"item":"pixelmon_backport:tera_orb"}}};

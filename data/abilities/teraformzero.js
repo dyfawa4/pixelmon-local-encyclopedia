@@ -1,1 +1,1 @@
-window.DEX_DATA["abilities:teraformzero"]={"description":"令场上所有的天气型状态和场地型状态消失。\r\n每只宝可梦一场战斗中仅能发动1次。","holders":[],"raw":{},"appOnly":true};
+window.DEX_DATA["abilities:teraformzero"]={"description":"变为星晶形态时，使天气和场地的效果消失。","holders":[[1024,"stellar",false]],"raw":{"className":"local.pixelmon.backport.BackportAbilities$TeraformZero"},"backport":true};

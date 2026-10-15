@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-ef80a4991f15f830"]={"json":{"skins":[{"filename":"magmaboss.png"}],"names":[{"name":"赤焰松"}],"chat":[{"lines":[{"text":"全球变暖当然是真的！"},{"text":"你以为是固拉多在发动日照特性吗？"}]},{"lines":[{"text":"蓝色宝珠、红色宝珠，能扩大陆地就行！"}]},{"lines":[{"text":"哼，水梧桐居然想增加海洋……"},{"text":"里面不就是海藻和一些没多厉害的鱼宝可梦。"},{"text":"更何况，人类住在陆地上！我们需要陆地，水梧桐！"},{"text":"唉，要是见到他，能替我劝他清醒一点吗？"}]}]}};

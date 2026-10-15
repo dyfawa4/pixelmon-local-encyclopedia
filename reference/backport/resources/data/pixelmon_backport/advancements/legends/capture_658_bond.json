@@ -1,0 +1,10 @@
+{
+  "display": {
+    "icon": {"item": "pixelmon:pixelmon_sprite", "nbt": "{ndex:658s,palette:\"none\",form:\"battle_bond\",gender:0b}"},
+    "title": {"translate": "pixelmon_backport.advancement.greninja_bond.title"},
+    "description": {"translate": "pixelmon_backport.advancement.greninja_bond.description"},
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": true
+  },
+  "criteria": {"earned": {"trigger": "minecraft:impossible"}},
+  "parent": "pixelmon_backport:legends/gen6"
+}

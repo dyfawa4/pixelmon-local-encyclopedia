@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-a1d5596bd8f6701c"]={"json":{"id":"Mega Drampa","spawnInfos":[{"spec":"species:Drampa","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mushroom","end_highlands","small_end_islands"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

@@ -1,0 +1,78 @@
+{
+  "data": {
+    "trainerType": "Bosses",
+    "minLevel": 40,
+    "maxLevel": 60,
+    "minPartyPokemon": 3,
+    "maxPartyPokemon": 6,
+    "winnings": 100
+  },
+  "models": [
+    {
+      "name": "giovanni"
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Gliscor"
+    },
+    {
+      "name": "Nidoking"
+    },
+    {
+      "name": "Nidoqueen"
+    },
+    {
+      "name": "Persian"
+    },
+    {
+      "name": "Dugtrio"
+    },
+    {
+      "name": "Hippowdon"
+    },
+    {
+      "name": "Krookodile"
+    },
+    {
+      "name": "Kangaskhan"
+    },
+    {
+      "name": "Golem"
+    },
+    {
+      "name": "Garchomp"
+    },
+    {
+      "name": "Honchkrow"
+    },
+    {
+      "name": "Rhyperior"
+    },
+    {
+      "name": "Mewtwo"
+    }
+  ],
+  "names": [
+    {
+      "name": "坂木"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "能来到这里，我不得不说，你很有本事！",
+      "win": "你这样的小孩，永远不会理解我的目标！",
+      "lose": "什么？！怎么可能！"
+    },
+    {
+      "opening": "别掺和大人的事，不然就让你尝尝苦头！",
+      "win": "火箭队绝不会失败！",
+      "lose": "可恶！"
+    },
+    {
+      "opening": "这次我不会留手，准备面对最伟大的训练家坂木吧！",
+      "win": "早说过我最强了！",
+      "lose": "啊！我又输了！"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_grass_badge"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backportText":"用途：草属性道馆的挑战纪念徽章，可收藏或展示。\n获取：击败草属性道馆馆主后，从战利品界面领取对应胜利奖励。\n道馆地点：森林类群系（黑森林中的草与恶城市均可能生成）。需探索启用结构生成的未生成区域。","backport":true};

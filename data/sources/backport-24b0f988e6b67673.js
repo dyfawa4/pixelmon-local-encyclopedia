@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-24b0f988e6b67673"]={"json":{"id":"Mega Clefable","spawnInfos":[{"spec":"species:Clefable","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","end"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

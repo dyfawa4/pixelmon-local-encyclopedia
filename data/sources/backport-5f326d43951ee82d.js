@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-5f326d43951ee82d"]={"json":{"data":{"trainerType":"Steve","minLevel":1,"maxLevel":5,"minPartyPokemon":1,"maxPartyPokemon":1,"winnings":12},"pokemon":[{"name":"Rattata"}],"names":[{"name":"史蒂夫"}],"chat":[{"opening":"","win":"","lose":""}]}};

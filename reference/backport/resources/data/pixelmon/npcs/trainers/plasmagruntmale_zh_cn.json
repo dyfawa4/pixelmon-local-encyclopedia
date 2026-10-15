@@ -1,0 +1,125 @@
+{
+  "data": {
+    "trainerType": "MalePlasmaGrunt",
+    "minLevel": 30,
+    "maxLevel": 45,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 3,
+    "winnings": 60
+  },
+  "models": [
+    {
+      "name": "plasmagruntmale"
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Watchog"
+    },
+    {
+      "name": "Patrat"
+    },
+    {
+      "name": "Sandile"
+    },
+    {
+      "name": "Purrloin"
+    },
+    {
+      "name": "Scraggy"
+    },
+    {
+      "name": "Liepard"
+    },
+    {
+      "name": "Krokorok"
+    },
+    {
+      "name": "Zubat"
+    },
+    {
+      "name": "Trubbish"
+    },
+    {
+      "name": "Garbodor"
+    },
+    {
+      "name": "Scrafty"
+    },
+    {
+      "name": "Golbat"
+    },
+    {
+      "name": "Grimer"
+    },
+    {
+      "name": "Muk"
+    },
+    {
+      "name": "Krookodile"
+    },
+    {
+      "name": "Weezing"
+    },
+    {
+      "name": "Skorupi"
+    },
+    {
+      "name": "Drapion"
+    },
+    {
+      "name": "Zangoose"
+    },
+    {
+      "name": "Seviper"
+    },
+    {
+      "name": "Pawniard"
+    },
+    {
+      "name": "Whirlipede"
+    },
+    {
+      "name": "Scolipede"
+    },
+    {
+      "name": "Raticate"
+    },
+    {
+      "name": "Deino"
+    },
+    {
+      "name": "Sneasel"
+    },
+    {
+      "name": "Amoonguss"
+    }
+  ],
+  "names": [
+    {
+      "name": "等离子队队员"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你跑到这里想干什么？",
+      "win": "马上离开！",
+      "lose": "赶紧走，不然我告诉老大！"
+    },
+    {
+      "opening": "让开！",
+      "win": "我说了，让开！",
+      "lose": "不可能！"
+    },
+    {
+      "opening": "居然敢来挑战我，你胆子不小！",
+      "win": "你永远赢不了我。",
+      "lose": "你击败了我？！不——！"
+    },
+    {
+      "opening": "你赢不了，我可是排名第八的队员！",
+      "win": "好，现在我肯定能升到第七啦！",
+      "lose": "糟了，现在要被叫作第九强了！"
+    }
+  ]
+}

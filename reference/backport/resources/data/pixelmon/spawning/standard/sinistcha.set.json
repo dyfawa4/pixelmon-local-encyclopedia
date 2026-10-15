@@ -1,0 +1,43 @@
+{
+  "id": "Sinistcha",
+  "spawnInfos": [
+    {
+      "spec": "species:Sinistcha form:unremarkable",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "evil"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": "species:Sinistcha form:masterpiece",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "evil"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

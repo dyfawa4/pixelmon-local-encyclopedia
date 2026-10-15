@@ -1,0 +1,21 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+  "skins": [
+    {
+      "filename": "flyingleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "伊卡洛斯"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "挑战者终于到达顶点……接下来，就该被我打回去了！",
+      "win": "赢了！小伙子，重新爬上来时可别忘了欣赏风景！",
+      "lose": "哇……看来坠落的是我自己……"
+    }
+  ]
+}

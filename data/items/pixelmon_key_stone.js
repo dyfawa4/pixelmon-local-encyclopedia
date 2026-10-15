@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_key_stone"]={"description":"右键可以获得mega手环(附加装备)，开启后可以在任意对战中使用mega进化。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"当你打败你的第一个mega BOSS时，他必定会掉落。","ball":{}};
+window.DEX_DATA["items:pixelmon_key_stone"]={"description":"右键可以获得mega手环(附加装备)，开启后可以在任意对战中使用mega进化。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"当你打败你的第一个mega BOSS时，他必定会掉落。","ball":null};

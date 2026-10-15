@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_backport_fairy_feather"]={"description":"携带：妖精属性攻击伤害提高 20%。\n获取：大师级宝可梦奖励箱（第三档）。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"backportText":"携带：妖精属性攻击伤害提高 20%。\n获取：大师级宝可梦奖励箱（第三档）。","backportAcquisition":["大师级宝可梦奖励箱（第三档）"],"related":["backport-evolution"]};

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:890s,palette:\"none\",form:\"eternamax\",gender:0b}"
+    },
+    "title": {
+      "text": "无极之巅"
+    },
+    "description": {
+      "text": "让自己拥有的无极汰那携带无极陨星，转变为无极巨化形态。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen8"
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-ca9356b13c348260"]={"json":{"id":"Mega Excadrill","spawnInfos":[{"spec":"species:Excadrill","stringLocationTypes":["Underground"],"spawnSpecificBossRate":1,"condition":{"maxY":80},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

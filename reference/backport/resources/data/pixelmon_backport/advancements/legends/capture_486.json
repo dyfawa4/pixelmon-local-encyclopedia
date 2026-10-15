@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:486s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "瓦釜雷鸣"
+    },
+    "description": {
+      "text": "成功获得雷吉奇卡斯。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen4"
+}

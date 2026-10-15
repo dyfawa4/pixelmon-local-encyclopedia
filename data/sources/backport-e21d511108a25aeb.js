@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-e21d511108a25aeb"]={"json":{"skins":[{"filename":"skullgruntmale.png"}],"names":[{"name":"骷髅队队员"}],"chat":[{"lines":[{"text":"哟哟哟哟！"},{"text":"吃个树果，检查队伍，该轮到我们登场啦！"}]},{"lines":[{"text":"嘿，伙计，你对我有什么意见吗？"},{"text":"就知道你不敢，笨蛋！"}]},{"lines":[{"text":"为什么大家总笑话我们？骷髅队这名字多酷！"},{"text":"也许该多跳点舞？大家都喜欢跳舞吧！"}]}]}};

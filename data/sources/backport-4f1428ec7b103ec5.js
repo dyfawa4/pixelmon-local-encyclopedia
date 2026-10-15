@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-4f1428ec7b103ec5"]={"json":{"id":"Mega Pyroar","spawnInfos":[{"spec":"species:Pyroar","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["savannas"],"times":["DAY"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:791s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "骄阳似火"
+    },
+    "description": {
+      "text": "成功获得索尔迦雷欧。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen7"
+}

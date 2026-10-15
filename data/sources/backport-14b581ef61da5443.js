@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-14b581ef61da5443"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather4.png"}],"names":[{"name":"热"}],"chat":[{"lines":[{"text":"欢迎来到烽火道馆。"},{"text":"我们的馆主正在泡热水浴！"}]}]}};

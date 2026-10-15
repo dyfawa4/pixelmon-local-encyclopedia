@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-c892a6d6eae73ca9"]={"json":{"id":"Mega Zygarde","spawnInfos":[{"spec":"species:Zygarde form:complete","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","byg:purpur_peaks","byg:nightshade_forest"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.1}]}};

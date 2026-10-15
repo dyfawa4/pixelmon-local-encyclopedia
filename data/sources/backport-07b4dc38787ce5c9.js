@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-07b4dc38787ce5c9"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"rockleader1.png"}],"names":[{"name":"利索斯"}],"chat":[{"opening":"我会用岩石的力量震撼你。","win":"你还得回去好好修炼。","lose":"你在我的道馆里扬起了胜利旗帜。"}]}};

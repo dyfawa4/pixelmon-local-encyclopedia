@@ -1,0 +1,12 @@
+{
+  "id": "Backport AZ Floette",
+  "spawnInfos": [{
+    "spec": "species:Floette form:az",
+    "stringLocationTypes": ["Land"],
+    "minLevel": 30,
+    "maxLevel": 50,
+    "condition": {"stringBiomes": ["flowery"]},
+    "typeID": "pokemon",
+    "rarity": 0.2
+  }]
+}

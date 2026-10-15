@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-1d8ad0c5918e234d"]={"json":{"npctype":"chat","skins":[{"filename":"pokefan_m.png"}],"names":[{"name":"乔"}],"chat":[{"lines":[{"text":"欢迎来到电压道馆。"},{"text":"见到馆主，你一定会受到强烈震撼！"}]}]}};

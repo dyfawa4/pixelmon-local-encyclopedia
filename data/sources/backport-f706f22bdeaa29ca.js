@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-f706f22bdeaa29ca"]={"json":{"id":"Backport_Terapagos","spawnInfos":[{"spec":"species:Terapagos","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["mountainous"],"times":["NIGHT"],"maxY":40},"rarity":0.5}],"tags":["legendary"],"interval":"legendary"}};

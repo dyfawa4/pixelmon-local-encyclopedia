@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-e41ba2a8b315cfc1"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"psychic.png"}],"names":[{"name":"读心者"}],"chat":[{"opening":"我预见了一场即将到来的胜利……","win":"刚才预见的，是我自己的胜利！","lose":"看来真正获胜的是你……"}]}};

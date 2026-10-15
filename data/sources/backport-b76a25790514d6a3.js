@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-b76a25790514d6a3"]={"json":{"id":"Backport_Pecharunt","spawnInfos":[{"spec":"species:Pecharunt","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["roofed","swamps"],"times":["NIGHT"]},"rarity":0.5}],"tags":["mythical"],"interval":"legendary"}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-a0011e2ffc02e5f8"]={"json":{"id":"Mega Feraligatr","spawnInfos":[{"spec":"species:Feraligatr","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["lakes","minecraft:river"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.3}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-5d81e994cf4da2cb"]={"json":{"skins":[{"filename":"cult.png"}],"names":[{"name":"教团成员"},{"name":"教团成员"}],"chat":[{"lines":[{"text":"赞美我们的救世主，大牙……我是说阿尔宙斯！"}]},{"lines":[{"text":"陆地与海洋的争斗终将毁掉世界，除非天空出手干预。"}]},{"lines":[{"text":"……"}]},{"lines":[{"text":"要加入我们吗？"},{"text":"我们每周五聚会，而且总有零食！"}]}]}};

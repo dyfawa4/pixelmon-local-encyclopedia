@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:383s,palette:\"none\",form:\"primal\",gender:0b}"
+    },
+    "title": {
+      "text": "大地初醒"
+    },
+    "description": {
+      "text": "让自己拥有的固拉多携带朱红色宝珠，在支持原始回归的真实对战中，或通过场外原始回归，实际完成形态变化。回归解除后保留成就。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/primal"
+}

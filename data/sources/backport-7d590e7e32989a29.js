@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-7d590e7e32989a29"]={"json":{"id":"Mega Scrafty","spawnInfos":[{"spec":"species:Scrafty","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mesas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

@@ -1,0 +1,51 @@
+{
+  "name": "pixelmon_backport:gyms/rock/street",
+  "fallback": "pixelmon_backport:gyms/rock/clutter",
+  "elements": [
+    {
+      "weight": 7,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_road_a",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_road_b",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_road_c",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_road_d",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_road_sp",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

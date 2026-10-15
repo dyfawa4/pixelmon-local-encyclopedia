@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-5178f47d56f5bdaf"]={"json":{"sidebar_button.ftbmoney.shop":"商店","key.ftbmoney.shop":"打开商店","ftbmoney.balance":"余额","ftbmoney.buy":"购买","ftbmoney.sell":"出售"}};

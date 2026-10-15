@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-2619533a018323d4"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"psychic_f.png"}],"names":[{"name":"超能力者"}],"chat":[{"opening":"你永远到不了顶点！","win":"呜呼！怎么啦，飞不上胜利的高空吗？","lose":"你只是运气好才赢了！"}]}};

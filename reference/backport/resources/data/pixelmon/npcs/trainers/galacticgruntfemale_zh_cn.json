@@ -1,0 +1,84 @@
+{
+  "data": {
+    "trainerType": "FemaleGalacticGrunt",
+    "minLevel": 32,
+    "maxLevel": 40,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 3,
+    "winnings": 60
+  },
+  "models": [
+    {
+      "name": "galacticgruntfemale"
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Zubat"
+    },
+    {
+      "name": "Wurmple"
+    },
+    {
+      "name": "Stunky"
+    },
+    {
+      "name": "Croagunk"
+    },
+    {
+      "name": "Glameow"
+    },
+    {
+      "name": "Beautifly"
+    },
+    {
+      "name": "Dustox"
+    },
+    {
+      "name": "Bronzor"
+    },
+    {
+      "name": "Golbat"
+    },
+    {
+      "name": "Houndour"
+    },
+    {
+      "name": "Murkrow"
+    },
+    {
+      "name": "Houndoom"
+    },
+    {
+      "name": "Purugly"
+    },
+    {
+      "name": "Toxicroak"
+    },
+    {
+      "name": "Skuntank"
+    }
+  ],
+  "names": [
+    {
+      "name": "银河队队员"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "小鬼，交出你的宝可梦！",
+      "win": "我赢了，快把宝可梦交出来。",
+      "lose": "你怎么击败我的！"
+    },
+    {
+      "opening": "不击败我，就别想过去！",
+      "win": "你休想通过！",
+      "lose": "有胆量就往前走吧。"
+    },
+    {
+      "opening": "你在这里干什么？！",
+      "win": "快离开。",
+      "lose": "不，我输了！"
+    }
+  ]
+}

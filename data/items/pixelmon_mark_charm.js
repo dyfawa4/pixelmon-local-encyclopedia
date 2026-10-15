@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_mark_charm"]={"description":"右键可以获得证章护符(附加装备)，开启后野外生成的宝可梦拥有证章的概率增加为原本的3倍。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_mark_charm"]={"description":"右键可以获得证章护符(附加装备)，开启后野外生成的宝可梦拥有证章的概率增加为原本的3倍。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

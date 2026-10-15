@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_waterdude_wishing_piece"]={"description":"只有创造模式才能获得，对空着的极巨巢穴使用后，会随机刷新一场传说中的宝可梦的极巨团体战。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_waterdude_wishing_piece"]={"description":"只有创造模式才能获得，对空着的极巨巢穴使用后，会随机刷新一场传说中的宝可梦的极巨团体战。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "trainerType": "Pirate",
+    "minLevel": 25,
+    "maxLevel": 45,
+    "minPartyPokemon": 2,
+    "maxPartyPokemon": 4,
+    "winnings": 48
+  },
+  "pokemon": [
+    {
+      "name": "Carvanha"
+    },
+    {
+      "name": "Sharpedo"
+    },
+    {
+      "name": "Wingull"
+    },
+    {
+      "name": "Pelipper"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Tentacruel"
+    },
+    {
+      "name": "Wailmer"
+    },
+    {
+      "name": "Wailord"
+    },
+    {
+      "name": "Chatot"
+    },
+    {
+      "name": "Cramorant"
+    },
+    {
+      "name": "Krabby"
+    },
+    {
+      "name": "Kingler"
+    },
+    {
+      "name": "Huntail"
+    },
+    {
+      "name": "Aipom"
+    },
+    {
+      "name": "Ambipom"
+    },
+    {
+      "name": "Basculin"
+    },
+    {
+      "name": "Popplio"
+    },
+    {
+      "name": "Brionne"
+    },
+    {
+      "name": "Primarina"
+    },
+    {
+      "name": "Arrokuda"
+    },
+    {
+      "name": "Barraskewda"
+    }
+  ],
+  "names": [
+    {
+      "name": "方块胡子船长"
+    },
+    {
+      "name": "克鲁克船长"
+    },
+    {
+      "name": "铁螯龙虾船长"
+    },
+    {
+      "name": "摩根船长"
+    },
+    {
+      "name": "独脚约翰·西尔弗"
+    },
+    {
+      "name": "海盗水手"
+    },
+    {
+      "name": "木腿皮特"
+    },
+    {
+      "name": "炮弹"
+    },
+    {
+      "name": "印花杰克"
+    },
+    {
+      "name": "斯卡兹"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "啊哈！！",
+      "win": "该让你走跳板了！",
+      "lose": "看来我得去擦甲板了。"
+    },
+    {
+      "opening": "该为宝藏而战了。",
+      "win": "宝藏是我的啦！",
+      "lose": "啊，你打败我，还拿走了宝藏！"
+    }
+  ]
+}

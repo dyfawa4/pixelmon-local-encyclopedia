@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_backport_syrupy_apple"]={"description":"对啃果虫使用，进化为裹蜜虫；蜜集大蛇另需学会龙声鼓舞后升级。\n获取：大师级宝可梦奖励箱（第三档）。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"backportText":"对啃果虫使用，进化为裹蜜虫；蜜集大蛇另需学会龙声鼓舞后升级。\n获取：大师级宝可梦奖励箱（第三档）。","backportAcquisition":["大师级宝可梦奖励箱（第三档）"],"related":["backport-evolution"]};

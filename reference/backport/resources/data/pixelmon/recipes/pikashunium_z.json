@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "pixelmon:pikanium_z"}, {"item": "pixelmon:pikanium_z"}, {"item": "pixelmon:pikanium_z"}, {"item": "pixelmon:pikanium_z"}],
+  "result": {"item": "pixelmon:pikashunium_z", "count": 1}
+}

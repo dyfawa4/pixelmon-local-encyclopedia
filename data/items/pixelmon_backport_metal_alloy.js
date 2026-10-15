@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_backport_metal_alloy"]={"description":"对铝钢龙使用，进化为铝钢桥龙；其他种类不生效。\n获取：大师级宝可梦奖励箱（第三档）。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"backportText":"对铝钢龙使用，进化为铝钢桥龙；其他种类不生效。\n获取：大师级宝可梦奖励箱（第三档）。","backportAcquisition":["大师级宝可梦奖励箱（第三档）"],"related":["backport-evolution"]};

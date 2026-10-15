@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-3831e8eeae5cd7e1"]={"json":{"skins":[{"filename":"professorras.png"}],"names":[{"name":"拉斯教授"}],"chat":[{"lines":[{"text":"好好读规则，否则后果自负。"}]},{"lines":[{"text":"我不是真正的博士，只是在视频网站里扮演博士。"}]},{"lines":[{"text":"你选了妙蛙种子当最初的伙伴？真的？"},{"text":"菊草叶才是最好的初始宝可梦！"}]},{"lines":[{"text":"你根本不知道我每天要处理多少麻烦。"},{"text":"有个助手生成了一个巨大的炸药球。"}]}]}};

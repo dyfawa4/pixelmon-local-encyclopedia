@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-87ca82bff460e59f"]={"json":{"id":"Backport_GougingFire","spawnInfos":[{"spec":"species:GougingFire","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["pixelmon:ultra_desert"],"times":["DAY"]},"rarity":0.1}]}};

@@ -1,0 +1,5 @@
+{
+  "excludedSpecies": [
+    {"dex": 1026, "name": "CapPikachu", "reason": "Only natural legendary spawns in actual plains villages"}
+  ]
+}

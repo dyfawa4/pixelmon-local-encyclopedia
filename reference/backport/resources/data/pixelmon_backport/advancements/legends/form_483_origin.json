@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:483s,palette:\"none\",form:\"origin\",gender:0b}"
+    },
+    "title": {
+      "text": "时间溯源"
+    },
+    "description": {
+      "text": "手持大金刚宝玉与自己的帝牙卢卡交互，完成起源形态变化。还原形态后保留成就；仅生成或获赠成品形态不视为完成转换。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/forms"
+}

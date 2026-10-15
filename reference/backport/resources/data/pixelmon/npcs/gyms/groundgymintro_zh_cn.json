@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "ornithologist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "乔治"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "欢迎来到砂岩洞窟度假道馆。"
+        },
+        {
+          "text": "我们的馆主会让你败下阵来！"
+        },
+        {
+          "text": "当你以为结束时，真正的战斗才刚刚开始。"
+        }
+      ]
+    }
+  ]
+}

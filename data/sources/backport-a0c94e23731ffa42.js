@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-a0c94e23731ffa42"]={"json":{"name":"pixelmon_backport:gyms/bug/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon_backport:gyms/bug/gym_bug","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

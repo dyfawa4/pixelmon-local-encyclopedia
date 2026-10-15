@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_wishing_star"]={"description":"右键可以获得极巨手环(附加装备)，开启后可以在任意对战中使用极巨化。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"详见||questButton=||中的流星","ball":{}};
+window.DEX_DATA["items:pixelmon_wishing_star"]={"description":"右键可以获得极巨手环(附加装备)，开启后可以在任意对战中使用极巨化。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"详见||questButton=||中的流星","ball":null};

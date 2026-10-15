@@ -1,0 +1,457 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "哈默史密斯夫人"
+    },
+    {
+      "name": "芬尼根夫人"
+    },
+    {
+      "name": "普伦德加斯特先生"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "欢迎来到小店，相信商品的品质会让你满意。",
+      "goodbye": "很高兴见到你，祝你愉快。"
+    },
+    {
+      "hello": "你好，欢迎来到友好商店，我们有许多精美商品。",
+      "goodbye": "感谢光临友好商店。"
+    },
+    {
+      "hello": "欢迎光临！这里有品质优良的商品供你选购。",
+      "goodbye": "能为你服务，是我们的荣幸。"
+    },
+    {
+      "hello": "欢迎来到友好商店，请随意看看这些精品。",
+      "goodbye": "祝你愉快，感谢光临本店。"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:tm8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tr8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "Galar: Mega Punch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Mega Kick",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Pay Day",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fire Punch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Ice Punch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Thunder Punch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fly",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Pin Missile",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Hyper Beam",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Giga Impact",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Magical Leaf",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Solar Beam",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Solar Blade",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fire Spin",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Thunder Wave",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Dig",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Screech",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Light Screen",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Reflect",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Safeguard",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Self-Destruct",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Rest",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Rock Slide",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Thief",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Snore",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Protect",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Scary Face",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Icy Wind",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Giga Drain",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Charm",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Steel Wing",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Attract",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Sandstorm",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Rain Dance",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Sunny Day",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Hail",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Whirlpool",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Beat Up",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Will-O-Wisp",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Facade",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Swift",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Helping Hand",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Revenge",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Brick Break",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Imprison",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Dive",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Weather Ball",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fake Tears",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Rock Tomb",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Sand Tomb",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Bullet Seed",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Icicle Spear",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Bounce",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Mud Shot",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Rock Blast",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Brine",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: U-Turn",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Payback",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Assurance",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fling",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Power Swap",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Guard Swap",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Speed Swap",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Drain Punch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Avalanche",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Shadow Claw",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Thunder Fang",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Ice Fang",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Fire Fang",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Psycho Cut",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Trick Room",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Wonder Room",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Magic Room",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Cross Poison",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Venoshock",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Low Sweep",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Round",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Hex",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Acrobatics",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Retaliate",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Volt Switch",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Bulldoze",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Electroweb",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Razor Shell",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Tail Slap",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Snarl",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Phantom Force",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Draining Kiss",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Grassy Terrain",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Misty Terrain",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Electric Terrain",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Psychic Terrain",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Mystical Fire",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Eerie Impulse",
+      "rarity": 0.1
+    },
+    {
+      "name": "galar: False Swipe",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Air Slash",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Smart Strike",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Brutal Swing",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Stomping Tantrum",
+      "rarity": 0.1
+    },
+    {
+      "name": "Galar: Breaking Swipe",
+      "rarity": 0.1
+    }
+  ]
+}

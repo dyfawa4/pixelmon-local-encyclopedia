@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-287db66867564ef1"]={"json":{"npctype":"chat","skins":[{"filename":"firebreather2.png"}],"names":[{"name":"热"}],"chat":[{"lines":[{"text":"欢迎来到烈焰道馆。"},{"text":"馆主就在熔岩河的另一边！"},{"text":"别掉进去，否则可就要被烧伤了！"}]}]}};

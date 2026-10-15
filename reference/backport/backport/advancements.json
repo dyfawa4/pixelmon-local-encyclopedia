@@ -1,0 +1,877 @@
+{
+  "captures": {
+    "1026": {
+      "id": "capture_1026",
+      "category": "gen7",
+      "title": "最好的伙伴",
+      "species": "CapPikachu"
+    },
+    "480": {
+      "id": "capture_480",
+      "category": "gen4",
+      "title": "博闻强识",
+      "species": "Uxie"
+    },
+    "481": {
+      "id": "capture_481",
+      "category": "gen4",
+      "title": "情同手足",
+      "species": "Mesprit"
+    },
+    "482": {
+      "id": "capture_482",
+      "category": "gen4",
+      "title": "百折不挠",
+      "species": "Azelf"
+    },
+    "483": {
+      "id": "capture_483",
+      "category": "gen4",
+      "title": "白驹过隙",
+      "species": "Dialga"
+    },
+    "484": {
+      "id": "capture_484",
+      "category": "gen4",
+      "title": "不同凡响",
+      "species": "Palkia"
+    },
+    "485": {
+      "id": "capture_485",
+      "category": "gen4",
+      "title": "山崩地裂",
+      "species": "Heatran"
+    },
+    "486": {
+      "id": "capture_486",
+      "category": "gen4",
+      "title": "瓦釜雷鸣",
+      "species": "Regigigas"
+    },
+    "487": {
+      "id": "capture_487",
+      "category": "gen4",
+      "title": "撼天动地",
+      "species": "Giratina"
+    },
+    "488": {
+      "id": "capture_488",
+      "category": "gen4",
+      "title": "众星捧月",
+      "species": "Cresselia"
+    },
+    "489": {
+      "id": "capture_489",
+      "category": "gen4",
+      "title": "沧海遗珠",
+      "species": "Phione"
+    },
+    "490": {
+      "id": "capture_490",
+      "category": "gen4",
+      "title": "沧海一粟",
+      "species": "Manaphy"
+    },
+    "491": {
+      "id": "capture_491",
+      "category": "gen4",
+      "title": "月黑风高",
+      "species": "Darkrai"
+    },
+    "492": {
+      "id": "capture_492",
+      "category": "gen4",
+      "title": "花明柳媚",
+      "species": "Shaymin"
+    },
+    "493": {
+      "id": "capture_493",
+      "category": "gen4",
+      "title": "万物之主",
+      "species": "Arceus"
+    },
+    "494": {
+      "id": "capture_494",
+      "category": "gen5",
+      "title": "满天星斗",
+      "species": "Victini"
+    },
+    "638": {
+      "id": "capture_638",
+      "category": "gen5",
+      "title": "智勇双全",
+      "species": "Cobalion"
+    },
+    "639": {
+      "id": "capture_639",
+      "category": "gen5",
+      "title": "无所畏惧",
+      "species": "Terrakion"
+    },
+    "640": {
+      "id": "capture_640",
+      "category": "gen5",
+      "title": "挺身而出",
+      "species": "Virizion"
+    },
+    "641": {
+      "id": "capture_641",
+      "category": "gen5",
+      "title": "风起云涌",
+      "species": "Tornadus"
+    },
+    "642": {
+      "id": "capture_642",
+      "category": "gen5",
+      "title": "电光火石",
+      "species": "Thundurus"
+    },
+    "643": {
+      "id": "capture_643",
+      "category": "gen5",
+      "title": "星火燎原",
+      "species": "Reshiram"
+    },
+    "644": {
+      "id": "capture_644",
+      "category": "gen5",
+      "title": "疾风迅雷",
+      "species": "Zekrom"
+    },
+    "645": {
+      "id": "capture_645",
+      "category": "gen5",
+      "title": "天翻地覆",
+      "species": "Landorus"
+    },
+    "646": {
+      "id": "capture_646",
+      "category": "gen5",
+      "title": "冰清玉洁",
+      "species": "Kyurem"
+    },
+    "647": {
+      "id": "capture_647",
+      "category": "gen5",
+      "title": "同仇敌忾",
+      "species": "Keldeo"
+    },
+    "648": {
+      "id": "capture_648",
+      "category": "gen5",
+      "title": "轻歌曼舞",
+      "species": "Meloetta"
+    },
+    "649": {
+      "id": "capture_649",
+      "category": "gen5",
+      "title": "登峰造极",
+      "species": "Genesect"
+    },
+    "716": {
+      "id": "capture_716",
+      "category": "gen6",
+      "title": "千娇百媚",
+      "species": "Xerneas"
+    },
+    "717": {
+      "id": "capture_717",
+      "category": "gen6",
+      "title": "青脸獠牙",
+      "species": "Yveltal"
+    },
+    "718": {
+      "id": "capture_718",
+      "category": "gen6",
+      "title": "浑然一体",
+      "species": "Zygarde"
+    },
+    "719": {
+      "id": "capture_719",
+      "category": "gen6",
+      "title": "闭月羞花",
+      "species": "Diancie"
+    },
+    "720": {
+      "id": "capture_720",
+      "category": "gen6",
+      "title": "弄鬼掉猴",
+      "species": "Hoopa"
+    },
+    "721": {
+      "id": "capture_721",
+      "category": "gen6",
+      "title": "风谲云诡",
+      "species": "Volcanion"
+    },
+    "772": {
+      "id": "capture_772",
+      "category": "gen7",
+      "title": "忍辱负重",
+      "species": "TypeNull"
+    },
+    "773": {
+      "id": "capture_773",
+      "category": "gen7",
+      "title": "释放自我",
+      "species": "Silvally"
+    },
+    "785": {
+      "id": "capture_785",
+      "category": "gen7",
+      "title": "寸步不离",
+      "species": "TapuKoko"
+    },
+    "786": {
+      "id": "capture_786",
+      "category": "gen7",
+      "title": "广厦之荫",
+      "species": "TapuLele"
+    },
+    "787": {
+      "id": "capture_787",
+      "category": "gen7",
+      "title": "遮风挡雨",
+      "species": "TapuBulu"
+    },
+    "788": {
+      "id": "capture_788",
+      "category": "gen7",
+      "title": "滴水不漏",
+      "species": "TapuFini"
+    },
+    "789": {
+      "id": "capture_789",
+      "category": "gen7",
+      "title": "寥若晨星",
+      "species": "Cosmog"
+    },
+    "790": {
+      "id": "capture_790",
+      "category": "gen7",
+      "title": "满天星斗",
+      "species": "Cosmoem"
+    },
+    "791": {
+      "id": "capture_791",
+      "category": "gen7",
+      "title": "骄阳似火",
+      "species": "Solgaleo"
+    },
+    "792": {
+      "id": "capture_792",
+      "category": "gen7",
+      "title": "星月交辉",
+      "species": "Lunala"
+    },
+    "800": {
+      "id": "capture_800",
+      "category": "gen7",
+      "title": "瞬息万变",
+      "species": "Necrozma"
+    },
+    "801": {
+      "id": "capture_801",
+      "category": "gen7",
+      "title": "沉鱼落雁",
+      "species": "Magearna"
+    },
+    "802": {
+      "id": "capture_802",
+      "category": "gen7",
+      "title": "立竿见影",
+      "species": "Marshadow"
+    },
+    "807": {
+      "id": "capture_807",
+      "category": "gen7",
+      "title": "电光火石",
+      "species": "Zeraora"
+    },
+    "808": {
+      "id": "capture_808",
+      "category": "gen7",
+      "title": "铜墙铁壁",
+      "species": "Meltan"
+    },
+    "809": {
+      "id": "capture_809",
+      "category": "gen7",
+      "title": "金戈铁马",
+      "species": "Melmetal"
+    },
+    "888": {
+      "id": "capture_888",
+      "category": "gen8",
+      "title": "顶天立地",
+      "species": "Zacian"
+    },
+    "889": {
+      "id": "capture_889",
+      "category": "gen8",
+      "title": "一马当先",
+      "species": "Zamazenta"
+    },
+    "890": {
+      "id": "capture_890",
+      "category": "gen8",
+      "title": "魑魅魍魉",
+      "species": "Eternatus"
+    },
+    "891": {
+      "id": "capture_891",
+      "category": "gen8",
+      "title": "初出茅庐",
+      "species": "Kubfu"
+    },
+    "892": {
+      "id": "capture_892",
+      "category": "gen8",
+      "title": "招招致命",
+      "species": "Urshifu"
+    },
+    "893": {
+      "id": "capture_893",
+      "category": "gen8",
+      "title": "仁义之师",
+      "species": "Zarude"
+    },
+    "894": {
+      "id": "capture_894",
+      "category": "gen8",
+      "title": "逐电追风",
+      "species": "Regieleki"
+    },
+    "895": {
+      "id": "capture_895",
+      "category": "gen8",
+      "title": "龙驹凤雏",
+      "species": "Regidrago"
+    },
+    "896": {
+      "id": "capture_896",
+      "category": "gen8",
+      "title": "专横跋扈",
+      "species": "Glastrier"
+    },
+    "897": {
+      "id": "capture_897",
+      "category": "gen8",
+      "title": "如影随形",
+      "species": "Spectrier"
+    },
+    "898": {
+      "id": "capture_898",
+      "category": "gen8",
+      "title": "内圣外王",
+      "species": "Calyrex"
+    },
+    "905": {
+      "id": "capture_905",
+      "category": "gen8",
+      "title": "山盟海誓",
+      "species": "Enamorus"
+    },
+    "1001": {
+      "id": "capture_1001",
+      "category": "gen9",
+      "title": "摧枯拉朽",
+      "species": "Wo-Chien"
+    },
+    "1002": {
+      "id": "capture_1002",
+      "category": "gen9",
+      "title": "银装素裹",
+      "species": "Chien-Pao"
+    },
+    "1003": {
+      "id": "capture_1003",
+      "category": "gen9",
+      "title": "魂飞落魄",
+      "species": "Ting-Lu"
+    },
+    "1004": {
+      "id": "capture_1004",
+      "category": "gen9",
+      "title": "刀山火海",
+      "species": "Chi-Yu"
+    },
+    "1005": {
+      "id": "capture_1005",
+      "category": "gen9",
+      "title": "震耳欲聋",
+      "species": "RoaringMoon"
+    },
+    "1006": {
+      "id": "capture_1006",
+      "category": "gen9",
+      "title": "炉火纯青",
+      "species": "IronValiant"
+    },
+    "1007": {
+      "id": "capture_1007",
+      "category": "gen9",
+      "title": "排山倒海",
+      "species": "Koraidon"
+    },
+    "1008": {
+      "id": "capture_1008",
+      "category": "gen9",
+      "title": "势如破竹",
+      "species": "Miraidon"
+    },
+    "1014": {
+      "id": "capture_1014",
+      "category": "gen9",
+      "title": "垂涎三尺",
+      "species": "Okidogi"
+    },
+    "1015": {
+      "id": "capture_1015",
+      "category": "gen9",
+      "title": "痴心妄想",
+      "species": "Munkidori"
+    },
+    "1016": {
+      "id": "capture_1016",
+      "category": "gen9",
+      "title": "含灵蠢动",
+      "species": "Fezandipiti"
+    },
+    "1017": {
+      "id": "capture_1017",
+      "category": "gen9",
+      "title": "钟灵毓秀",
+      "species": "Ogerpon"
+    },
+    "1024": {
+      "id": "capture_1024",
+      "category": "gen9",
+      "title": "万象晶辉",
+      "species": "Terapagos"
+    },
+    "1025": {
+      "id": "capture_1025",
+      "category": "gen9",
+      "title": "桃梦幽契",
+      "species": "Pecharunt"
+    },
+    "793": {
+      "id": "capture_793",
+      "category": "ultra",
+      "title": "虚无缥缈",
+      "species": "Nihilego"
+    },
+    "794": {
+      "id": "capture_794",
+      "category": "ultra",
+      "title": "身强力壮",
+      "species": "Buzzwole"
+    },
+    "795": {
+      "id": "capture_795",
+      "category": "ultra",
+      "title": "独步天下",
+      "species": "Pheromosa"
+    },
+    "796": {
+      "id": "capture_796",
+      "category": "ultra",
+      "title": "雷嗔电怒",
+      "species": "Xurkitree"
+    },
+    "797": {
+      "id": "capture_797",
+      "category": "ultra",
+      "title": "疾如雷电",
+      "species": "Celesteela"
+    },
+    "798": {
+      "id": "capture_798",
+      "category": "ultra",
+      "title": "事与愿违",
+      "species": "Kartana"
+    },
+    "799": {
+      "id": "capture_799",
+      "category": "ultra",
+      "title": "风卷残云",
+      "species": "Guzzlord"
+    },
+    "803": {
+      "id": "capture_803",
+      "category": "ultra",
+      "title": "毒手尊前",
+      "species": "Poipole"
+    },
+    "804": {
+      "id": "capture_804",
+      "category": "ultra",
+      "title": "毒手尊拳",
+      "species": "Naganadel"
+    },
+    "805": {
+      "id": "capture_805",
+      "category": "ultra",
+      "title": "无坚不摧",
+      "species": "Stakataka"
+    },
+    "806": {
+      "id": "capture_806",
+      "category": "ultra",
+      "title": "妙趣横生",
+      "species": "Blacephalon"
+    },
+    "984": {
+      "id": "capture_984",
+      "category": "paradox",
+      "title": "雄伟壮阔",
+      "species": "GreatTusk"
+    },
+    "985": {
+      "id": "capture_985",
+      "category": "paradox",
+      "title": "眉清目秀",
+      "species": "ScreamTail"
+    },
+    "986": {
+      "id": "capture_986",
+      "category": "paradox",
+      "title": "恶积祸盈",
+      "species": "BruteBonnet"
+    },
+    "987": {
+      "id": "capture_987",
+      "category": "paradox",
+      "title": "牛鬼蛇神",
+      "species": "FlutterMane"
+    },
+    "988": {
+      "id": "capture_988",
+      "category": "paradox",
+      "title": "蜿蜒起伏",
+      "species": "SlitherWing"
+    },
+    "989": {
+      "id": "capture_989",
+      "category": "paradox",
+      "title": "同心协力",
+      "species": "SandyShocks"
+    },
+    "990": {
+      "id": "capture_990",
+      "category": "paradox",
+      "title": "斩钉截铁",
+      "species": "IronTreads"
+    },
+    "991": {
+      "id": "capture_991",
+      "category": "paradox",
+      "title": "铜墙铁壁",
+      "species": "IronBundle"
+    },
+    "992": {
+      "id": "capture_992",
+      "category": "paradox",
+      "title": "遗闻轶事",
+      "species": "IronHands"
+    },
+    "993": {
+      "id": "capture_993",
+      "category": "paradox",
+      "title": "心如铁石",
+      "species": "IronJugulis"
+    },
+    "994": {
+      "id": "capture_994",
+      "category": "paradox",
+      "title": "铁骨铮铮",
+      "species": "IronMoth"
+    },
+    "995": {
+      "id": "capture_995",
+      "category": "paradox",
+      "title": "踏破铁鞋",
+      "species": "IronThorns"
+    },
+    "1009": {
+      "id": "capture_1009",
+      "category": "paradox",
+      "title": "波澜壮阔",
+      "species": "WalkingWake"
+    },
+    "1010": {
+      "id": "capture_1010",
+      "category": "paradox",
+      "title": "浑金璞玉",
+      "species": "IronLeaves"
+    },
+    "1020": {
+      "id": "capture_1020",
+      "category": "paradox",
+      "title": "燎原古焰",
+      "species": "GougingFire"
+    },
+    "1021": {
+      "id": "capture_1021",
+      "category": "paradox",
+      "title": "长颈雷云",
+      "species": "RagingBolt"
+    },
+    "1022": {
+      "id": "capture_1022",
+      "category": "paradox",
+      "title": "破岩铁锋",
+      "species": "IronBoulder"
+    },
+    "1023": {
+      "id": "capture_1023",
+      "category": "paradox",
+      "title": "铁冠之剑",
+      "species": "IronCrown"
+    }
+  },
+  "fusions": [
+    {
+      "dex": 646,
+      "form": "black",
+      "id": "fusion_646_black",
+      "title": "玄雷冰魄"
+    },
+    {
+      "dex": 646,
+      "form": "white",
+      "id": "fusion_646_white",
+      "title": "焰白冰心"
+    },
+    {
+      "dex": 800,
+      "form": "dusk",
+      "id": "fusion_800_dusk",
+      "title": "噬日之辉"
+    },
+    {
+      "dex": 800,
+      "form": "dawn",
+      "id": "fusion_800_dawn",
+      "title": "邀月之翼"
+    },
+    {
+      "dex": 898,
+      "form": "icerider",
+      "id": "fusion_898_icerider",
+      "title": "雪原御骑"
+    },
+    {
+      "dex": 898,
+      "form": "shadowrider",
+      "id": "fusion_898_shadowrider",
+      "title": "幽夜御骑"
+    }
+  ],
+  "transformations": [
+    {
+      "dex": 384,
+      "form": "mega",
+      "id": "form_384_mega",
+      "title": "凌云九霄",
+      "category": "forms",
+      "source": "mega-evolution"
+    },
+    {
+      "dex": 890,
+      "form": "eternamax",
+      "id": "form_890_eternamax",
+      "title": "无极之巅"
+    },
+    {
+      "dex": 383,
+      "form": "primal",
+      "id": "form_383_primal",
+      "title": "大地初醒"
+    },
+    {
+      "dex": 382,
+      "form": "primal",
+      "id": "form_382_primal",
+      "title": "沧海溯源"
+    },
+    {
+      "dex": 492,
+      "form": "sky",
+      "id": "form_492_sky",
+      "title": "桃红柳绿",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 483,
+      "form": "origin",
+      "id": "form_483_origin",
+      "title": "时间溯源",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 484,
+      "form": "origin",
+      "id": "form_484_origin",
+      "title": "空间溯源",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 487,
+      "form": "origin",
+      "id": "form_487_origin",
+      "title": "反转溯源",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 641,
+      "form": "therian",
+      "id": "form_641_therian",
+      "title": "龙卷之灵",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 642,
+      "form": "therian",
+      "id": "form_642_therian",
+      "title": "雷电之灵",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 645,
+      "form": "therian",
+      "id": "form_645_therian",
+      "title": "土地之灵",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 905,
+      "form": "therian",
+      "id": "form_905_therian",
+      "title": "眷恋之灵",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 720,
+      "form": "unbound",
+      "id": "form_720_unbound",
+      "title": "解放之环",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 888,
+      "form": "crowned",
+      "id": "form_888_crowned",
+      "title": "剑之王",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 889,
+      "form": "crowned",
+      "id": "form_889_crowned",
+      "title": "盾之王",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 386,
+      "form": "",
+      "id": "form_386_changed",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 386,
+      "form": "attack",
+      "id": "form_386_changed",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 386,
+      "form": "defense",
+      "id": "form_386_changed",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 386,
+      "form": "speed",
+      "id": "form_386_changed",
+      "category": "forms",
+      "source": "form-change"
+    },
+    {
+      "dex": 386,
+      "form": "sus",
+      "id": "form_386_changed",
+      "category": "forms",
+      "source": "form-change"
+    }
+  ],
+  "capturesByForm": {
+    "718": {
+      "ten_percent": {
+        "id": "capture_718_ten_percent",
+        "category": "gen6",
+        "title": "十方初聚",
+        "form": "ten_percent"
+      },
+      "fifty_percent": {
+        "id": "capture_718",
+        "category": "gen6",
+        "title": "浑然一体",
+        "form": "fifty_percent"
+      }
+    },
+    "892": {
+      "singlestrike": {
+        "id": "capture_892",
+        "category": "gen8",
+        "title": "招招致命",
+        "form": "singlestrike"
+      },
+      "rapidstrike": {
+        "id": "capture_892_rapidstrike",
+        "category": "gen8",
+        "title": "流水连击",
+        "form": "rapidstrike"
+      }
+    },
+    "144": {
+      "galarian": {
+        "id": "capture_144_galarian",
+        "category": "gen8",
+        "title": "冰羽心眼",
+        "form": "galarian"
+      }
+    },
+    "145": {
+      "galarian": {
+        "id": "capture_145_galarian",
+        "category": "gen8",
+        "title": "雷足疾驰",
+        "form": "galarian"
+      }
+    },
+    "146": {
+      "galarian": {
+        "id": "capture_146_galarian",
+        "category": "gen8",
+        "title": "烈焰黑翼",
+        "form": "galarian"
+      }
+    }
+  }
+}

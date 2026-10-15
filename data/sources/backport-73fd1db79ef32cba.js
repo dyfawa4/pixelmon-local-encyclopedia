@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-73fd1db79ef32cba"]={"json":{"skins":[{"filename":"flaregruntmale.png"}],"names":[{"name":"闪焰队队员"}],"chat":[{"lines":[{"text":"我们是让人闻风丧胆、又无比时髦的组织！"},{"text":"其他训练家和宝可梦会怎么样，我们才不在乎。"}]},{"lines":[{"text":"我们的火属性宝可梦可燃了！"},{"text":"有本事就来扑灭闪焰队的火焰！"}]}]}};

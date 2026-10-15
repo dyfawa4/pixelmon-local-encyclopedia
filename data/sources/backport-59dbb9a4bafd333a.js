@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-59dbb9a4bafd333a"]={"json":{"skins":[{"filename":"lighthousekeeper.png"}],"names":[{"name":"灯塔守望人"}],"chat":[{"lines":[{"text":"听说过不要直视太阳吗？"},{"text":"灯塔的灯也是一样……"}]},{"lines":[{"text":"有电灯怪，还需要什么夜灯！"}]},{"lines":[{"text":"要不是那些爱管闲事的孩子，我早就成功了！"}]},{"lines":[{"text":"今天空气真咸啊……"},{"text":"肯定有人刚输了道馆战，心里酸着呢。"}]}]}};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-7fd25ffaa8934fd3"]={"json":{"id":"Backport_IronBoulder","spawnInfos":[{"spec":"species:IronBoulder","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["ultra space"],"times":["NIGHT"]},"rarity":0.1}]}};

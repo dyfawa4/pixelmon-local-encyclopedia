@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-8049244119545a7f"]={"json":{"id":"Mega Emboar","spawnInfos":[{"spec":"species:Emboar","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["savannas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

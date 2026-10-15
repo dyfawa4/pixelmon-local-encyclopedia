@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-c8bf59cd30964d49"]={"json":{"skins":[{"filename":"rocketgruntmale1.png"}],"names":[{"name":"火箭队队员"}],"chat":[{"lines":[{"text":"火箭队，以光速飞向天空！"},{"text":"没错，就是光速……别问了。"}]},{"lines":[{"text":"我们可不承认那两个活宝和那只喵喵是同伴。"},{"text":"他们更像是彩虹火箭队吧。"}]},{"lines":[{"text":"交出宝可梦，否则我就派出十二级的超音蝠！"}]},{"lines":[{"text":"你觉得其他组织会嘲笑我们吗？"},{"text":"至少我们比骷髅队强，对吧？"}]}]}};

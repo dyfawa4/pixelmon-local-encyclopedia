@@ -1,0 +1,318 @@
+{
+  "data": {
+    "trainerType": "Swimmer",
+    "minLevel": 15,
+    "maxLevel": 35,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 3,
+    "winnings": 16
+  },
+  "pokemon": [
+    {
+      "name": "Squirtle"
+    },
+    {
+      "name": "Wartortle"
+    },
+    {
+      "name": "Horsea"
+    },
+    {
+      "name": "Magikarp"
+    },
+    {
+      "name": "Gyarados"
+    },
+    {
+      "name": "Blastoise"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Krabby"
+    },
+    {
+      "name": "Goldeen"
+    },
+    {
+      "name": "Goldeen"
+    },
+    {
+      "name": "Seaking"
+    },
+    {
+      "name": "Staryu"
+    },
+    {
+      "name": "Staryu"
+    },
+    {
+      "name": "Starmie"
+    },
+    {
+      "name": "Lapras"
+    },
+    {
+      "name": "Shellder"
+    },
+    {
+      "name": "Remoraid"
+    },
+    {
+      "name": "Octillery"
+    },
+    {
+      "name": "Luvdisc"
+    },
+    {
+      "name": "Clamperl"
+    },
+    {
+      "name": "Gorebyss"
+    },
+    {
+      "name": "Huntail"
+    },
+    {
+      "name": "Carvanha"
+    },
+    {
+      "name": "Sharpedo"
+    },
+    {
+      "name": "Barboach"
+    },
+    {
+      "name": "Whiscash"
+    },
+    {
+      "name": "Feebas"
+    },
+    {
+      "name": "Milotic"
+    },
+    {
+      "name": "Kingdra"
+    },
+    {
+      "name": "Wailmer"
+    },
+    {
+      "name": "Wailmer"
+    },
+    {
+      "name": "Wailord"
+    },
+    {
+      "name": "Qwilfish"
+    },
+    {
+      "name": "Chinchou"
+    },
+    {
+      "name": "Chinchou"
+    },
+    {
+      "name": "Lanturn"
+    },
+    {
+      "name": "Relicanth"
+    },
+    {
+      "name": "Finneon"
+    },
+    {
+      "name": "Finneon"
+    },
+    {
+      "name": "Lumineon"
+    },
+    {
+      "name": "Basculin"
+    },
+    {
+      "name": "Alomomola"
+    },
+    {
+      "name": "Alomomola"
+    },
+    {
+      "name": "Skrelp"
+    },
+    {
+      "name": "Dragalge"
+    },
+    {
+      "name": "Tentacruel"
+    },
+    {
+      "name": "Frillish"
+    },
+    {
+      "name": "Jellicent"
+    },
+    {
+      "name": "Wishiwashi"
+    },
+    {
+      "name": "Bruxish"
+    },
+    {
+      "name": "Arrokuda"
+    },
+    {
+      "name": "Arrokuda"
+    },
+    {
+      "name": "Barraskewda"
+    },
+    {
+      "name": "Wingull"
+    },
+    {
+      "name": "Pelipper"
+    },
+    {
+      "name": "Manaphy"
+    }
+  ],
+  "names": [
+    {
+      "name": "阿柳"
+    },
+    {
+      "name": "亚当"
+    },
+    {
+      "name": "艾伦"
+    },
+    {
+      "name": "阿尔伯特"
+    },
+    {
+      "name": "亚历克斯"
+    },
+    {
+      "name": "亚瑟"
+    },
+    {
+      "name": "阿诺德"
+    },
+    {
+      "name": "阿什顿"
+    },
+    {
+      "name": "布拉德"
+    },
+    {
+      "name": "布莱克"
+    },
+    {
+      "name": "布伦登"
+    },
+    {
+      "name": "东钢"
+    },
+    {
+      "name": "卡梅伦"
+    },
+    {
+      "name": "卡洛斯"
+    },
+    {
+      "name": "卡特"
+    },
+    {
+      "name": "德克兰"
+    },
+    {
+      "name": "丹尼斯"
+    },
+    {
+      "name": "德里克"
+    },
+    {
+      "name": "多米尼克"
+    },
+    {
+      "name": "埃利奥特"
+    },
+    {
+      "name": "埃里克"
+    },
+    {
+      "name": "小茂"
+    },
+    {
+      "name": "乔治"
+    },
+    {
+      "name": "吉尔伯特"
+    },
+    {
+      "name": "格伦"
+    },
+    {
+      "name": "海登"
+    },
+    {
+      "name": "哈里"
+    },
+    {
+      "name": "亨利"
+    },
+    {
+      "name": "伊恩"
+    },
+    {
+      "name": "杰克"
+    },
+    {
+      "name": "雅各布"
+    },
+    {
+      "name": "杰登"
+    },
+    {
+      "name": "杰夫"
+    },
+    {
+      "name": "杰里"
+    },
+    {
+      "name": "吉姆"
+    },
+    {
+      "name": "乔尔"
+    },
+    {
+      "name": "凯"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "让我们来试试我新的水系神奇宝贝！",
+      "win": "我新的水系神奇宝贝真棒！",
+      "lose": "我新的水系神奇宝贝需要一些训练！"
+    },
+    {
+      "opening": "只要我想我就可以随时游泳！",
+      "win": "游泳可以让你像我一样强壮。",
+      "lose": "我也许会去用游泳来忘记我的失败！"
+    },
+    {
+      "opening": "我必须在游泳之前做一下热身！",
+      "win": "这是我的第一场胜利！",
+      "lose": "我从来没在海洋中的战斗获胜过！"
+    },
+    {
+      "opening": "难道不是水系神奇宝贝漂亮吗？",
+      "win": "如果你想要变强，去寻找水系神奇宝贝吧！",
+      "lose": "你的神奇宝贝太强大了！"
+    }
+  ]
+}

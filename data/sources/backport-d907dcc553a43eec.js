@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-d907dcc553a43eec"]={"json":{"skins":[{"filename":"dress.png"}],"names":[{"name":"蒂芙尼"},{"name":"布里吉特"},{"name":"凯瑟琳"},{"name":"玛德莱娜"}],"chat":[{"lines":[{"text":"今天对我来说，是特别重要的日子！"},{"text":"希望不要下雨。"}]},{"lines":[{"text":"这件礼服会不会显得我的臀部很大？"}]}]}};

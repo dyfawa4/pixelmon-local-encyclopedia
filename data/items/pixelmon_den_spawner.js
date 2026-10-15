@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_den_spawner"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backportText":"创造模式：右键生成极巨巢穴，手持左击可移除极巨巢穴；不能移除太晶巢穴。\n获取：原生创造物品栏；保留整合包的管理员权限设置。","backport":true};

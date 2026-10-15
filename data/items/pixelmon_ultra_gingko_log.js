@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_ultra_gingko_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:ultra_gingko_planks","pixelmon:ultra_gingko_wood"],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_ultra_gingko_log"]={"description":"","recipes":[],"appRecipe":{},"usedIn":["pixelmon:ultra_gingko_planks","pixelmon:ultra_gingko_wood"],"drops":[],"referenceDrop":{},"special":"","ball":null};

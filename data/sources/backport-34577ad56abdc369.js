@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-34577ad56abdc369"]={"json":{"id":"Mega Hawlucha","spawnInfos":[{"spec":"species:Hawlucha","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

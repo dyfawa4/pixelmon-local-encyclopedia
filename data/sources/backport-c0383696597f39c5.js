@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-c0383696597f39c5"]={"json":{"id":"Mega Victreebel","spawnInfos":[{"spec":"species:Victreebel","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["forests","roofed","jungles"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

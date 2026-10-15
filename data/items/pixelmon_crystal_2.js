@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_crystal_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:crystal_block"}],"result":{"item":"pixelmon:crystal","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_crystal_2"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:crystal_block"}],"result":{"item":"pixelmon:crystal","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

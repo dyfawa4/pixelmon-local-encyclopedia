@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-aedc8636c8d1db15"]={"json":{"id":"Backport Mega Raichu","spawnInfos":[{"spec":"species:Raichu","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["forests"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

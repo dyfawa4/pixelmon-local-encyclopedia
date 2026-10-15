@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-fd2ae72368315034"]={"json":{"skins":[{"filename":"galacticboss.png"}],"names":[{"name":"赤日"}],"chat":[{"lines":[{"text":"流动的时间……扩展的空间……"},{"text":"总有一天，这一切都会归我所有！"}]},{"lines":[{"text":"时间与空间的存在一旦合为一体，就再也无法阻挡！"},{"text":"到那时，我会把这个不完整的世界改造成理想的模样！"},{"text":"创造新世界太麻烦了，所以我让队员先完善现在这个，比如建些银河队雕像。"}]}]}};

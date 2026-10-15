@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-309e15a624d4eea1"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"shoplady4.png"}],"names":[{"name":"女店员"}],"chat":[{"opening":"你从高草里看见我了吗？","win":"在熟悉的环境里，我是无敌的！","lose":"怎么可能！"}]}};

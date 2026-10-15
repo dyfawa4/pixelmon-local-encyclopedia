@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-b8568d9aceb0a213"]={"json":{"id":"Backport_Okidogi","spawnInfos":[{"spec":"species:Okidogi","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["roofed","mountainous forests"],"times":["DAY"]},"rarity":0.5}],"tags":["legendary"],"interval":"legendary"}};

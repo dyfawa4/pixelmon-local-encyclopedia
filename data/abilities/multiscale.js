@@ -1,1 +1,1 @@
-window.DEX_DATA["abilities:multiscale"]={"description":"对战中\r\nＨＰ全满时，受到的攻击伤害减为原来的1⁄2。","holders":[[149,"",true],[149,"creator",true],[249,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Multiscale"}};
+window.DEX_DATA["abilities:multiscale"]={"description":"对战中\r\nＨＰ全满时，受到的攻击伤害减为原来的1⁄2。","holders":[[149,"",true],[149,"creator",true],[149,"mega",false],[249,"",true]],"raw":{"className":"com.pixelmonmod.pixelmon.api.pokemon.ability.abilities.Multiscale"}};

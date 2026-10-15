@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-f01d0abb114a453f"]={"json":{"id":"Mega Dragalge","spawnInfos":[{"spec":"species:Dragalge","stringLocationTypes":["Water"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["deep_ocean","deep_warm_ocean","deep_lukewarm_ocean"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

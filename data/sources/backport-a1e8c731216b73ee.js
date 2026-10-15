@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-a1e8c731216b73ee"]={"json":{"type":"minecraft:crafting_shaped","pattern":["  R"," RC","R M"],"key":{"R":{"item":"pixelmon:good_rod"},"C":{"item":"pixelmon:grip_claw"},"M":{"type":"pixelmon_backport:master_ball"}},"result":{"item":"pixelmon:super_rod","count":1}}};

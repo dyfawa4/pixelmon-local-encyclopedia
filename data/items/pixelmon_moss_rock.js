@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_moss_rock"]={"description":"||pokemonButton=Eevee||在它附近10格方块内进化可以进化成||pokemonButton=Leafeon||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_moss_rock"]={"description":"||pokemonButton=Eevee||在它附近10格方块内进化可以进化成||pokemonButton=Leafeon||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

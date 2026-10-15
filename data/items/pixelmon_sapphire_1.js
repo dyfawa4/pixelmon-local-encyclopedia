@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_sapphire_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:sapphire_block"}],"result":{"item":"pixelmon:sapphire","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_sapphire_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:sapphire_block"}],"result":{"item":"pixelmon:sapphire","count":9}},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-8afdb3c38d5c831f"]={"json":{"skins":[{"filename":"npcchat1.png"}],"names":[{"name":"汤姆老人"},{"name":"图书管理员弗雷德"}],"chat":[{"lines":[{"text":"你好，年轻的训练家！"},{"text":"我像你这么大的时候，有只漂亮的小妙蛙种子。"}]},{"lines":[{"text":"你真的觉得和宝可梦待在一起没关系吗？"},{"text":"我觉得它们有点吓人。"}]}]}};

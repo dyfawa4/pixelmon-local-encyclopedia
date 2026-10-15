@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-05f3412bba876595"]={"json":{"id":"Mega Delphox","spawnInfos":[{"spec":"species:Delphox","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["arid"],"times":["DAY"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

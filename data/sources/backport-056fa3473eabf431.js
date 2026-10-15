@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-056fa3473eabf431"]={"json":{"id":"Mega Chesnaught","spawnInfos":[{"spec":"species:Chesnaught","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["birches","taigas"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

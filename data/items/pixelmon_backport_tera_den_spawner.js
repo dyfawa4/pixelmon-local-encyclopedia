@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_backport_tera_den_spawner"]={"description":"创造模式：右键方块生成太晶巢穴，手持左击可移除太晶巢穴；不能移除极巨巢穴。\n获取：创造物品栏；自然太晶巢穴不需要生成器。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"backportText":"创造模式：右键方块生成太晶巢穴，手持左击可移除太晶巢穴；不能移除极巨巢穴。\n获取：创造物品栏；自然太晶巢穴不需要生成器。","related":["tera"]};

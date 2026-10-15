@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-2eb4f441138b7bb8"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"bugcatcher1.png"}],"names":[{"name":"捕虫少年"}],"chat":[{"opening":"你从花丛里看见我了吗？","win":"这就是鲜花的力量！","lose":"怎么可能！"}]}};

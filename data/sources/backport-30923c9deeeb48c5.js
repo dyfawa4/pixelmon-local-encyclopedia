@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-30923c9deeeb48c5"]={"json":{"npctype":"chat","skins":[{"filename":"artist.png"}],"names":[{"name":"格雷格"}],"chat":[{"lines":[{"text":"欢迎来到常春藤道馆。"},{"text":"馆主喜欢用藤蔓缠住对手！"},{"text":"别在高草里迷路，你永远不知道里面藏着什么……"}]}]}};

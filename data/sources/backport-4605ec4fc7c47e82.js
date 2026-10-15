@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-4605ec4fc7c47e82"]={"json":{"npctype":"chat","skins":[{"filename":"fisherman.png"}],"names":[{"name":"哈里"}],"chat":[{"lines":[{"text":"欢迎来到霜降道馆。"},{"text":"我们的馆主喜欢把对手冻得动弹不得！"},{"text":"别掉进水里，小心冻伤……"}]}]}};

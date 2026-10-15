@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-9662f86595ce0e24"]={"json":{"id":"Backport Mega Darkrai","spawnInfos":[{"spec":"species:Darkrai","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["roofed"],"times":["NIGHT"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

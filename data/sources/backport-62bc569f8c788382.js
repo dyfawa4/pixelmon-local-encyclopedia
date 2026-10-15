@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-62bc569f8c788382"]={"json":{"id":"Mega Starmie","spawnInfos":[{"spec":"species:Starmie","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["beaches"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

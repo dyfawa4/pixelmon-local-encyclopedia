@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-2bcd7bfef943da14"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"传说续章"},"description":{"text":"追寻新的传说、究极异兽与跨越时空的宝可梦。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true,"background":"minecraft:textures/block/obsidian.png"},"criteria":{"earned":{"trigger":"minecraft:impossible"}}}};

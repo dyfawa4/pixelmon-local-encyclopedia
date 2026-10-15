@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_covered_fossil_12"]={"description":"可用||itemButton=pixelmon:fossil_cleaner||处理为||itemButton=pixelmon:dino_fossil||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_covered_fossil_12"]={"description":"可用||itemButton=pixelmon:fossil_cleaner||处理为||itemButton=pixelmon:dino_fossil||。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-586536a0bae0b333"]={"json":{"id":"Backport_Fezandipiti","spawnInfos":[{"spec":"species:Fezandipiti","stringLocationTypes":["Land"],"minLevel":70,"maxLevel":70,"typeID":"pokemon","condition":{"stringBiomes":["jungles","mountainous"],"times":["DAY"]},"rarity":0.5}],"tags":["legendary"],"interval":"legendary"}};

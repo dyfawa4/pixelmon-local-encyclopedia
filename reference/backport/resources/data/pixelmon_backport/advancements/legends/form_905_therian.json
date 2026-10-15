@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:905s,palette:\"none\",form:\"therian\",gender:1b}"
+    },
+    "title": {
+      "text": "眷恋之灵"
+    },
+    "description": {
+      "text": "对自己拥有的眷恋云使用现形镜，完成灵兽形态变化。还原形态后保留成就；仅生成或获赠成品形态不视为完成转换。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/forms"
+}

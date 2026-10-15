@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-8f410fd90288541b"]={"json":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"pixelmon:pikanium_z"},{"item":"pixelmon:pikanium_z"},{"item":"pixelmon:pikanium_z"},{"item":"pixelmon:pikanium_z"}],"result":{"item":"pixelmon:pikashunium_z","count":1}}};

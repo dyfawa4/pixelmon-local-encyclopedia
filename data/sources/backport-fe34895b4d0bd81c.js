@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-fe34895b4d0bd81c"]={"json":{"name":"pixelmon_backport:gyms/psychic/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon_backport:gyms/psychic/gym_psychic","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_shiny_stone_ore"]={"description":"可以在||biomeComboButton=mesas||中被发现，在极巨巢穴的下方。\r\n只有铁镐及以上的镐可以挖掘，受时运和精准采集影响。","recipes":[],"appRecipe":{},"usedIn":["pixelmon:shiny_stone_shard"],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_shiny_stone_ore"]={"description":"可以在||biomeComboButton=mesas||中被发现，在极巨巢穴的下方。\r\n只有铁镐及以上的镐可以挖掘，受时运和精准采集影响。","recipes":[],"appRecipe":{},"usedIn":["pixelmon:shiny_stone_shard"],"drops":[],"referenceDrop":{},"special":"","ball":null};

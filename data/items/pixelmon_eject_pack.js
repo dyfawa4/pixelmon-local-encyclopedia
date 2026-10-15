@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_eject_pack"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backportAcquisition":["大师级宝可梦奖励箱（第三档）"]};

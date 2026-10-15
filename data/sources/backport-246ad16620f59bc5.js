@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-246ad16620f59bc5"]={"json":{"id":"Mega Malamar","spawnInfos":[{"spec":"species:Malamar","stringLocationTypes":["Air"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["mountainous","minecraft:end_barrens","byg:purpur_peaks","byg:nightshade_forest"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

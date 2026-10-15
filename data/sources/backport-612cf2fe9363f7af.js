@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-612cf2fe9363f7af"]={"json":{"npctype":"trainer","winnings":52,"skins":[{"filename":"fireleader2.png"}],"names":[{"name":"火焰"}],"chat":[{"opening":"准备好迎接热血对战了吗？","win":"哈！等你像我一样火热，再回来吧。","lose":"你运气不错，小伙子！"}]}};

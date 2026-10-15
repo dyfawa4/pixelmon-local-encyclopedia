@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:493s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "万物之主"
+    },
+    "description": {
+      "text": "成功获得阿尔宙斯。"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen4"
+}

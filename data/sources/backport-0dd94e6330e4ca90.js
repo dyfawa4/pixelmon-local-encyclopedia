@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-0dd94e6330e4ca90"]={"json":{"id":"Mega Greninja","spawnInfos":[{"spec":"species:Greninja","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["swamps"],"times":["DAWN","DUSK"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

@@ -1,0 +1,24 @@
+{
+  "id": "Archaludon",
+  "spawnInfos": [
+    {
+      "spec": "species:Archaludon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

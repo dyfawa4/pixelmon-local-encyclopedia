@@ -1,0 +1,21 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+  "skins": [
+    {
+      "filename": "waterleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "潮"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "时间的流动把你带来，水的流动会把你送回去！",
+      "win": "水流比一切都更长久，也包括你！",
+      "lose": "看来时间的潮流终于追上了我……"
+    }
+  ]
+}

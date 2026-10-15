@@ -1,0 +1,23 @@
+{
+  "id": "Mega Chandelure",
+  "spawnInfos": [
+    {
+      "spec": "species:Chandelure",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "roofed"
+        ],
+        "times": [
+          "NIGHT"
+        ]        
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

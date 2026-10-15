@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-f94272707f2b32a4"]={"json":{"npctype":"chat","skins":[{"filename":"sailor.png"}],"names":[{"name":"格雷格"}],"chat":[{"lines":[{"text":"欢迎来到溪流广场。"},{"text":"馆主热爱水流，能扑灭你的火焰！"},{"text":"看看你的宝可梦能不能挺过风暴吧！"}]}]}};

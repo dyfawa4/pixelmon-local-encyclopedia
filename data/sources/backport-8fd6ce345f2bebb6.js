@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-8fd6ce345f2bebb6"]={"json":{"id":"Mega Barbaracle","spawnInfos":[{"spec":"species:Barbaracle","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["beach"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

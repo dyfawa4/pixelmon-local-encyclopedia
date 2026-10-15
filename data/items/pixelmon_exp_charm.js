@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_exp_charm"]={"description":"右键可以获得经验护符(附加装备)，开启后宝可梦获取的经验值增加50%。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_exp_charm"]={"description":"右键可以获得经验护符(附加装备)，开启后宝可梦获取的经验值增加50%。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

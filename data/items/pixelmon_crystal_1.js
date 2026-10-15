@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_crystal_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:crystal_ore"},"result":"pixelmon:crystal","experience":0.7,"cookingtime":200},"usedIn":[],"drops":[],"referenceDrop":{},"special":""};
+window.DEX_DATA["items:pixelmon_crystal_1"]={"description":"","recipes":[],"appRecipe":{"type":"minecraft:smelting","ingredient":{"item":"pixelmon:crystal_ore"},"result":"pixelmon:crystal","experience":0.7,"cookingtime":200},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

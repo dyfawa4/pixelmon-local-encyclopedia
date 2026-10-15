@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-08e16f3f13cdf6c7"]={"json":{"npctype":"chat","skins":[{"filename":"hiker.png"}],"names":[{"name":"乔希"}],"chat":[{"lines":[{"text":"欢迎来到羽翼道馆。"},{"text":"馆主就在最顶端等候挑战！"},{"text":"从树枝间跳跃时要小心，下面可深了……"}]}]}};

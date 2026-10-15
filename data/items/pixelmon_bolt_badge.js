@@ -1,0 +1,1 @@
+window.DEX_DATA["items:pixelmon_bolt_badge"]={"description":"","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backportText":"用途：电属性道馆的挑战纪念徽章，可收藏或展示。\n获取：击败电属性道馆馆主后，从战利品界面领取对应胜利奖励。\n道馆地点：热带草原高原、破碎热带草原、破碎热带草原高原。需探索启用结构生成的未生成区域。","backport":true};

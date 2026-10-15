@@ -1,0 +1,21 @@
+{
+  "id": "Mega Meganium",
+  "spawnInfos": [
+    {
+      "spec": "species:Meganium",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "flowery"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

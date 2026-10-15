@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-736c2ebc6848f591"]={"json":{"npctype":"trainer","winnings":32,"skins":[{"filename":"swimmer_m1.png"},{"filename":"swimmer_m2.png"},{"filename":"swimmer_f1.png"},{"filename":"swimmer_f2.png"}],"names":[{"name":"泳者"}],"chat":[{"opening":"这里的水真清爽！","win":"水流对你来说太猛烈了吗？","lose":"唉！我得游个泳冷静一下……"}]}};

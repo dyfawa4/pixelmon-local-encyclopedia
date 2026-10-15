@@ -1,0 +1,20 @@
+{
+  "battleStats": {"hp": 135, "attack": 65, "defense": 120, "specialAttack": 175, "specialDefense": 100, "speed": 125},
+  "abilities": {"abilities": ["ElectricSurge"], "hiddenAbilities": []},
+  "extraMoves": ["Calm Mind", "Volt Switch", "Energy Ball", "Focus Blast", "Nasty Plot", "Overheat", "Psychic"],
+  "moves": [
+    {
+      "attackIndex": 12001, "attackName": "Ten Million Volts", "attackType": "ELECTRIC", "attackCategory": "SPECIAL",
+      "basePower": 120, "accuracy": 100, "ppBase": 5, "ppMax": 8, "makesContact": false,
+      "effects": [], "animations": ["leapForward"],
+      "targetingInfo": {"hitsAll": false, "hitsOppositeFoe": true, "hitsAdjacentFoe": true, "hitsExtendedFoe": false, "hitsSelf": false, "hitsAdjacentAlly": true, "hitsExtendedAlly": false},
+      "z": [{"crystal": "pikashunium_z", "attackName": "Origin of Thunder", "basePower": 185, "effects": [{"effectTypeID": "BackportBurstField", "persists": false, "modifiers": []}], "allowedPokemon": ["CapPikachu"]}]
+    },
+    {
+      "attackIndex": 12002, "attackName": "Origin of Thunder", "attackType": "ELECTRIC", "attackCategory": "SPECIAL",
+      "basePower": 185, "accuracy": 100, "ppBase": 1, "ppMax": 1, "makesContact": false,
+      "effects": [{"effectTypeID": "BackportBurstField", "persists": false, "modifiers": []}], "animations": ["leapForward"],
+      "targetingInfo": {"hitsAll": false, "hitsOppositeFoe": true, "hitsAdjacentFoe": true, "hitsExtendedFoe": false, "hitsSelf": false, "hitsAdjacentAlly": true, "hitsExtendedAlly": false}
+    }
+  ]
+}

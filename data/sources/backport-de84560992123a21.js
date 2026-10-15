@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-de84560992123a21"]={"json":{"name":"pixelmon_backport:gyms/fighting/gym","fallback":"minecraft:empty","elements":[{"weight":1,"element":{"location":"pixelmon_backport:gyms/fighting/gym_fighting","processors":"minecraft:empty","projection":"rigid","element_type":"minecraft:single_pool_element"}}]}};

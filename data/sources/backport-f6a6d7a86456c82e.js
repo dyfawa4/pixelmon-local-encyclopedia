@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-f6a6d7a86456c82e"]={"json":{"id":"Mega Chandelure","spawnInfos":[{"spec":"species:Chandelure","stringLocationTypes":["Land"],"spawnSpecificBossRate":1,"condition":{"stringBiomes":["roofed"],"times":["NIGHT"]},"interval":"megaBoss","typeID":"pokemon","rarity":0.2}]}};

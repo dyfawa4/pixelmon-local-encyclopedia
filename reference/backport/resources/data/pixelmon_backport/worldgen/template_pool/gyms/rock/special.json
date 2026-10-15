@@ -1,0 +1,30 @@
+{
+  "name": "pixelmon_backport:gyms/rock/special",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_pokecenter",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "pixelmon:moving",
+        "ground_level_delta": 2,
+        "y_hack": 0,
+        "keep_liquids": false
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "pixelmon_backport:gyms/rock/gym_rock_pokemart",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "pixelmon:moving",
+        "ground_level_delta": 2,
+        "y_hack": 0,
+        "keep_liquids": false
+      }
+    }
+  ]
+}

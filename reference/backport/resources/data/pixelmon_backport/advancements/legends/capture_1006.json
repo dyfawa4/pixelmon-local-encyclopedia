@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:1006s,palette:\"none\",form:\"\",gender:0b}"
+    },
+    "title": {
+      "text": "炉火纯青"
+    },
+    "description": {
+      "text": "成功获得铁武者。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/gen9"
+}

@@ -1,0 +1,1 @@
+window.DEX_DATA["items:tm_gen9_228"]={"description":"用途：右键自己的宝可梦教授该招式，需要宝可梦能够学习。招式栏已满时选择替换招式。\n获取：大师级宝可梦奖励箱。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null,"backport":true,"nativeItem":"pixelmon:tm_gen9","nbt":{"tm":228},"related":["backport-evolution","tera"],"backportAcquisition":["大师级宝可梦奖励箱（第三档）"]};

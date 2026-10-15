@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-00bc1fc8f6615029"]={"json":{"display":{"icon":{"item":"pixelmon:master_ball"},"title":{"text":"古始之力"},"description":{"text":"让自己拥有的固拉多与盖欧卡在真实对战或场外变化中完成原始回归。"},"frame":"task","show_toast":true,"announce_to_chat":true,"hidden":true},"criteria":{"earned":{"trigger":"minecraft:impossible"}},"parent":"pixelmon_backport:legends/root"}};

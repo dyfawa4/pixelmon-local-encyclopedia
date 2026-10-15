@@ -1,0 +1,168 @@
+{
+  "data": {
+    "trainerType": "Gentleman",
+    "minLevel": 15,
+    "maxLevel": 40,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 2,
+    "winnings": 200
+  },
+  "pokemon": [
+    {
+      "name": "Growlithe"
+    },
+    {
+      "name": "Pikachu"
+    },
+    {
+      "name": "Ponyta"
+    },
+    {
+      "name": "Grimer"
+    },
+    {
+      "name": "Meowth"
+    },
+    {
+      "name": "Persian"
+    },
+    {
+      "name": "Sandshrew"
+    },
+    {
+      "name": "Eevee"
+    },
+    {
+      "name": "Vulpix"
+    },
+    {
+      "name": "Chatot"
+    },
+    {
+      "name": "Hoothoot"
+    },
+    {
+      "name": "Noctowl"
+    },
+    {
+      "name": "Snubbull"
+    },
+    {
+      "name": "Granbull"
+    },
+    {
+      "name": "Houndour"
+    },
+    {
+      "name": "Houndoom"
+    },
+    {
+      "name": "Farfetchd"
+    },
+    {
+      "name": "Skitty"
+    },
+    {
+      "name": "Delcatty"
+    },
+    {
+      "name": "Electrike"
+    },
+    {
+      "name": "Manectric"
+    },
+    {
+      "name": "Lillipup"
+    },
+    {
+      "name": "Herdier"
+    },
+    {
+      "name": "Stoutland"
+    },
+    {
+      "name": "Sableye"
+    },
+    {
+      "name": "Trumbeak"
+    },
+    {
+      "name": "Toucannon"
+    },
+    {
+      "name": "Falinks"
+    },
+    {
+      "name": "Doublade"
+    },
+    {
+      "name": "Sinistea"
+    },
+    {
+      "name": "Polteageist"
+    }
+  ],
+  "names": [
+    {
+      "name": "温斯顿"
+    },
+    {
+      "name": "罗伯特"
+    },
+    {
+      "name": "鲁珀特"
+    },
+    {
+      "name": "海因里希"
+    },
+    {
+      "name": "伯特伦"
+    },
+    {
+      "name": "蒙塔古"
+    },
+    {
+      "name": "肯尼思"
+    },
+    {
+      "name": "沃利斯"
+    },
+    {
+      "name": "兰道夫"
+    },
+    {
+      "name": "威尔弗雷德"
+    },
+    {
+      "name": "威廉"
+    },
+    {
+      "name": "金斯利"
+    },
+    {
+      "name": "林肯"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "我拥有一座庄园。",
+      "win": "这是一场绅士的对决。",
+      "lose": "你真没礼貌。"
+    },
+    {
+      "opening": "祝你今天愉快。",
+      "win": "看来今天对我来说更美好。",
+      "lose": "怎么不回答，真没礼貌。"
+    },
+    {
+      "opening": "愿意来一场绅士的决斗吗？",
+      "win": "看来是我技高一筹。",
+      "lose": "你可真粗鲁。"
+    },
+    {
+      "opening": "赚钱可不是我唯一的本事。",
+      "win": "这样的本事，我还有很多。",
+      "lose": "也许我还需要多练练。"
+    }
+  ]
+}

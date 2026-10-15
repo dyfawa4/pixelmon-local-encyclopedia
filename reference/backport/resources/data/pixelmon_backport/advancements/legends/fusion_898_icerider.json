@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:pixelmon_sprite",
+      "nbt": "{ndex:898s,palette:\"none\",form:\"icerider\",gender:0b}"
+    },
+    "title": {
+      "text": "雪原御骑"
+    },
+    "description": {
+      "text": "使用牵绊缰绳，让蕾冠王与雪暴马合体，成为白马蕾冠王。解除合体不会撤销成就。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/fusion"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "pixelmon:master_ball"
+    },
+    "title": {
+      "text": "交织的传说"
+    },
+    "description": {
+      "text": "使用对应道具，亲手完成传说宝可梦的合体。"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "earned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pixelmon_backport:legends/root"
+}

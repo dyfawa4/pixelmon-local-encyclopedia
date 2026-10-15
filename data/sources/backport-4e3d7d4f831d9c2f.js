@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-4e3d7d4f831d9c2f"]={"json":{"skins":[{"filename":"aquaboss.png"}],"names":[{"name":"水梧桐"}],"chat":[{"lines":[{"text":"淹没陆地，让海洋有更多空间……"},{"text":"脑海里想起来挺酷，确实也有缺点……不过我还是要做！"}]},{"lines":[{"text":"作为水舰队首领，我一直在阻止熔岩队的计划。"},{"text":"他们要扩大陆地，可万物都依赖大海，所以我们要和他们反着来！"},{"text":"你不会理解，别挡我们的路！"}]}]}};

@@ -1,1 +1,1 @@
-window.DEX_DATA["items:pixelmon_catching_charm"]={"description":"右键可以获得防晃护符(附加装备)，开启后捕捉宝可梦时的会心捕捉概率增加10%。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":{}};
+window.DEX_DATA["items:pixelmon_catching_charm"]={"description":"右键可以获得防晃护符(附加装备)，开启后捕捉宝可梦时的会心捕捉概率增加10%。","recipes":[],"appRecipe":{},"usedIn":[],"drops":[],"referenceDrop":{},"special":"","ball":null};

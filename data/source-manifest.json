@@ -4,23 +4,29 @@
     "9.1.12",
     "9.1.13"
   ],
-  "dataProfile": "当前整合包默认数据",
+  "dataProfile": "重铸本体 + 重铸内容回迁1.4.4",
   "minecraft": "1.16.5",
   "appVersion": "1.0.3",
   "jarFilename": "【像素宝可梦 重铸】Pixelmon-1.16.5-9.1.13-universal.jar",
   "jarDeclaredVersion": "9.1.12",
   "modSha256": "e7b3a69e9aec2820ebc3280c123e188ff3e73f9d08ac1fe88cdb29bdacabc110",
   "apkSha256": "7b7550475b78dbf31c8ed117452426092913054b300048c2054109cfbecf16e7",
-  "images": 10824,
+  "images": 14395,
   "counts": {
-    "pokemon": 1018,
-    "moves": 940,
+    "pokemon": 1027,
+    "moves": 945,
     "abilities": 309,
-    "items": 2612,
+    "items": 2708,
     "appItems": 1112,
-    "guides": 25,
-    "spawnRules": 3317,
-    "recipes": 1958
+    "guides": 37,
+    "spawnRules": 3366,
+    "recipes": 1962,
+    "forms": 1388,
+    "backportSpecies": 69,
+    "backportItems": 77,
+    "backportAdvancements": 133,
+    "teraEncounters": 1231,
+    "teraRewards": 702
   },
   "sources": [
     {
@@ -44,10 +50,28 @@
       "url": "https://www.mcmod.cn/class/1190.html"
     }
   ],
-  "webVersion": "1.1.1",
-  "sourceRecords": 28676,
+  "webVersion": "1.2.0",
+  "sourceRecords": 29152,
   "apkAssetFiles": 32316,
   "gameJsonFiles": 8315,
-  "appOnlyMoves": 37,
-  "appOnlyAbilities": 5
+  "appOnlyMoves": 18,
+  "appOnlyAbilities": 0,
+  "backportVersion": "1.4.4",
+  "backportStatus": "正式版",
+  "updated": "2026-10-15",
+  "baseCounts": {
+    "pokemon": 1018,
+    "moves": 940,
+    "abilities": 309,
+    "items": 2612,
+    "appItems": 1112,
+    "guides": 25,
+    "spawnRules": 3317,
+    "recipes": 1958
+  },
+  "backport": {
+    "version": "1.4.4",
+    "status": "正式版",
+    "manifest": "data/backport-manifest.json"
+  }
 }

@@ -1,0 +1,1 @@
+window.DEX_DATA["sources:backport-61c072c425eff9c8"]={"json":{"id":"Backport AZ Floette","spawnInfos":[{"spec":"species:Floette form:az","stringLocationTypes":["Land"],"minLevel":30,"maxLevel":50,"condition":{"stringBiomes":["flowery"]},"typeID":"pokemon","rarity":0.2}]}};
